@@ -1,0 +1,20 @@
+{
+    "titulo": "Trol 2",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/AisyKEN1zLKRcAPpeJ5G5DaBhyw.jpg",
+    "etiquetas": "Acción, Fantasía, Suspense",
+    "year": "2025",
+    "created_at": "2025-11-30",
+    "updated_at": "2026-01-30T09:03:23.000Z",
+    "id_tmdb": "1180831",
+    "type": "movie",
+    "calidad": "HD",
+    "synopsis": "Cuando un nuevo y peligroso trol amenaza con devastar su país, Nora, Andreas y el comandante Kris se embarcan en la misión más peligrosa de sus vidas.",
+    "enlaces": [
+        {
+            "nombre": "Server 1",
+            "url": "https:\/\/goodstream.one\/embed-tc10zoka70p2.html",
+            "type": "embed",
+            "language": "Latino"
+        }
+    ]
+}
