@@ -593,6 +593,17 @@
             "updated_at": "2026-01-30T09:25:34.000Z",
             "year": "2016",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "984",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/gJ3VDY75PGksnba8aTOueb5Gtm4.jpg",
+            "titulo": "Harry el sucio",
+            "etiquetas": "Acción, Crimen, Suspense",
+            "type": "movie",
+            "created_at": "1971-12-23",
+            "updated_at": "2026-01-30T09:26:47.000Z",
+            "year": "1971",
+            "calidad": "HD"
         }
     ]
 }
