@@ -1,0 +1,20 @@
+{
+    "titulo": "Cara a cara",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/alizmPaRHq7sGHW5eoshoYzWjf9.jpg",
+    "etiquetas": "Acción, Crimen, Ciencia ficción",
+    "year": "1997",
+    "created_at": "1997-06-27",
+    "updated_at": "2026-01-30T08:53:51.000Z",
+    "id_tmdb": "754",
+    "type": "movie",
+    "calidad": "HD",
+    "synopsis": "Para vengar la muerte de su hijo, el Agente del FBI San Archer se hace una peligrosa operación consistente en cambiar su cara por la del terrorista Castor Troy, que está en estado de coma. Peor cuando Castor despierta y toma la identidad de Sean, comienza para éste su peor pesadilla, teniendo que luchar no sólo por salvar su vida sino la de su mujer e hija.",
+    "enlaces": [
+        {
+            "nombre": "Server 1",
+            "url": "https:\/\/goodstream.one\/embed-z84sxu83geu5.html",
+            "type": "embed",
+            "language": "Latino"
+        }
+    ]
+}
