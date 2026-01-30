@@ -494,6 +494,17 @@
             "updated_at": "2026-01-30T08:58:19.000Z",
             "year": "2017",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "14977",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/z74oA9heJ5XjzSSUF1va2PMbQot.jpg",
+            "titulo": "La reliquia del mal",
+            "etiquetas": "Acción, Terror, Bélica",
+            "type": "movie",
+            "created_at": "2009-02-24",
+            "updated_at": "2026-01-30T08:59:16.000Z",
+            "year": "2009",
+            "calidad": "HD"
         }
     ]
 }
