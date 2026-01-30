@@ -10,6 +10,17 @@
             "updated_at": "2026-01-30T08:08:12.000Z",
             "year": "2023",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "9339",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/l06jMu0V4cp1DuQdI9ptSJjV01q.jpg",
+            "titulo": "Click",
+            "etiquetas": "Comedia, Drama, Fantasía",
+            "type": "movie",
+            "created_at": "2006-06-23",
+            "updated_at": "2026-01-30T08:12:38.000Z",
+            "year": "2006",
+            "calidad": "HD"
         }
     ]
 }
