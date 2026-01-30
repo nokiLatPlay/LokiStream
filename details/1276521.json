@@ -1,0 +1,20 @@
+{
+    "titulo": "Charlie the Wonderdog",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/whvkL0wzxgKmVbaPontq9NlVd5z.jpg",
+    "etiquetas": "Acción, Animación, Aventura, Comedia",
+    "year": "2025",
+    "created_at": "2025-10-24",
+    "updated_at": "2026-01-30T07:43:30.000Z",
+    "id_tmdb": "1276521",
+    "type": "movie",
+    "calidad": "SD",
+    "synopsis": "Danny, un tímido niño de nueve años, se une a su amado perro Charlie, quien es secuestrado por extraterrestres y regresa con superpoderes, para frustrar un plan del siniestro gato del vecino, Puddy, para destruir a la humanidad.",
+    "enlaces": [
+        {
+            "nombre": "Server 1",
+            "url": "https:\/\/goodstream.one\/embed-ons83ki2338p.html",
+            "type": "embed",
+            "language": "Latino"
+        }
+    ]
+}
