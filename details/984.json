@@ -1,0 +1,20 @@
+{
+    "titulo": "Harry el sucio",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/gJ3VDY75PGksnba8aTOueb5Gtm4.jpg",
+    "etiquetas": "Acción, Crimen, Suspense",
+    "year": "1971",
+    "created_at": "1971-12-23",
+    "updated_at": "2026-01-30T09:26:47.000Z",
+    "id_tmdb": "984",
+    "type": "movie",
+    "calidad": "HD",
+    "synopsis": "Harry Callahan es un duro policía que se ha criado en la calle. Sus compañeros le llaman Harry el Sucio por sus particulares métodos de lucha contra el crimen y porque siempre se encarga de los trabajos más desagradables. En San Francisco, un francotirador ha matado ya a dos personas. Harry será el encargado de resolver el caso.",
+    "enlaces": [
+        {
+            "nombre": "Server 1",
+            "url": "https:\/\/goodstream.one\/embed-0zp0q1c0hea1.html",
+            "type": "embed",
+            "language": "Latino"
+        }
+    ]
+}
