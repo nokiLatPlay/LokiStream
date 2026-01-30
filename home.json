@@ -120,6 +120,17 @@
             "updated_at": "2026-01-30T07:38:11.000Z",
             "year": "2014",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "380",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/mPX2v7MbalB9FbGsUylKW91J68E.jpg",
+            "titulo": "Rain Man",
+            "etiquetas": "Drama",
+            "type": "movie",
+            "created_at": "1988-12-12",
+            "updated_at": "2026-01-30T07:39:20.000Z",
+            "year": "1988",
+            "calidad": "HD"
         }
     ]
 }
