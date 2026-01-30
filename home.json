@@ -582,6 +582,17 @@
             "updated_at": "2026-01-30T09:23:47.000Z",
             "year": "2025",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "330459",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/21hLJ8ruc5YjYd5kTkluXouV92S.jpg",
+            "titulo": "Rogue One: Una historia de Star Wars",
+            "etiquetas": "Acción, Aventura, Ciencia ficción",
+            "type": "movie",
+            "created_at": "2016-12-14",
+            "updated_at": "2026-01-30T09:25:34.000Z",
+            "year": "2016",
+            "calidad": "HD"
         }
     ]
 }
