@@ -56,17 +56,6 @@
             "calidad": "HD"
         },
         {
-            "id_tmdb": "652",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
-            "titulo": "Troya",
-            "etiquetas": "Bélica, Acción, Historia",
-            "type": "movie",
-            "created_at": "2004-05-13",
-            "updated_at": "2026-01-30T08:16:44.000Z",
-            "year": "2004",
-            "calidad": "HD"
-        },
-        {
             "id_tmdb": "20662",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/rRwrvxi2YA9DzAYcqtMZd2C3rfL.jpg",
             "titulo": "Robin Hood",
@@ -97,6 +86,17 @@
             "created_at": "2017-07-05",
             "updated_at": "2026-01-30T07:35:18.000Z",
             "year": "2017",
+            "calidad": "HD"
+        },
+        {
+            "id_tmdb": "652",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
+            "titulo": "Troya",
+            "etiquetas": "Bélica, Acción, Historia",
+            "type": "movie",
+            "created_at": "2004-05-13",
+            "updated_at": "2026-01-30T07:35:37.000Z",
+            "year": "2004",
             "calidad": "HD"
         }
     ]
