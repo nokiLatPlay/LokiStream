@@ -604,6 +604,17 @@
             "updated_at": "2026-01-30T09:26:47.000Z",
             "year": "1971",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "1363123",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/sxoN17pPyL6SiqD8F6DXmTPILwJ.jpg",
+            "titulo": "Plan en familia 2",
+            "etiquetas": "Acción, Comedia",
+            "type": "movie",
+            "created_at": "2025-11-11",
+            "updated_at": "2026-01-30T18:08:28.000Z",
+            "year": "2025",
+            "calidad": "HD"
         }
     ]
 }
