@@ -142,6 +142,17 @@
             "updated_at": "2026-01-30T07:40:22.000Z",
             "year": "2025",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "234004",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/vS6BgPO974eTmHeteU9greJZv4D.jpg",
+            "titulo": "Ratchet & Clank, la película",
+            "etiquetas": "Acción, Aventura, Animación, Familia",
+            "type": "movie",
+            "created_at": "2016-04-13",
+            "updated_at": "2026-01-30T07:41:41.000Z",
+            "year": "2016",
+            "calidad": "HD"
         }
     ]
 }
