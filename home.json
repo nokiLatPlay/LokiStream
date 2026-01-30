@@ -571,6 +571,17 @@
             "updated_at": "2026-01-30T09:22:42.000Z",
             "year": "2025",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "628847",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/p9zbrDpAKyj3jeemkyAoBmlo3KG.jpg",
+            "titulo": "Trap House",
+            "etiquetas": "Acción, Crimen, Suspense",
+            "type": "movie",
+            "created_at": "2025-11-14",
+            "updated_at": "2026-01-30T09:23:47.000Z",
+            "year": "2025",
+            "calidad": "HD"
         }
     ]
 }
