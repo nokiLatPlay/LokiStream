@@ -131,6 +131,17 @@
             "updated_at": "2026-01-30T07:39:20.000Z",
             "year": "1988",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "1238188",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/2vfxMQ3WEA8goCH7LXlAzED9aed.jpg",
+            "titulo": "El cautivo",
+            "etiquetas": "Drama, Historia",
+            "type": "movie",
+            "created_at": "2025-09-12",
+            "updated_at": "2026-01-30T07:40:22.000Z",
+            "year": "2025",
+            "calidad": "HD"
         }
     ]
 }
