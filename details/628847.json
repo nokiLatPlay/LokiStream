@@ -1,0 +1,20 @@
+{
+    "titulo": "Trap House",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/p9zbrDpAKyj3jeemkyAoBmlo3KG.jpg",
+    "etiquetas": "Acción, Crimen, Suspense",
+    "year": "2025",
+    "created_at": "2025-11-14",
+    "updated_at": "2026-01-30T09:23:47.000Z",
+    "id_tmdb": "628847",
+    "type": "movie",
+    "calidad": "HD",
+    "synopsis": "Un agente de la DEA y su compañero persiguen un peculiar grupo de ladrones: sus propios hijos adolescentes rebeldes, que han empezado a robar a un peligroso cártel, utilizando para ello las tácticas de sus padres y la información de alto secreto.",
+    "enlaces": [
+        {
+            "nombre": "Server 1",
+            "url": "https:\/\/goodstream.one\/embed-d4tigpiwk5e9.html",
+            "type": "embed",
+            "language": "Latino"
+        }
+    ]
+}
