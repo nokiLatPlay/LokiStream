@@ -12,17 +12,6 @@
             "calidad": "HD"
         },
         {
-            "id_tmdb": "9339",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/l06jMu0V4cp1DuQdI9ptSJjV01q.jpg",
-            "titulo": "Click",
-            "etiquetas": "Comedia, Drama, Fantasía",
-            "type": "movie",
-            "created_at": "2006-06-23",
-            "updated_at": "2026-01-30T08:12:38.000Z",
-            "year": "2006",
-            "calidad": "HD"
-        },
-        {
             "id_tmdb": "20662",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/rRwrvxi2YA9DzAYcqtMZd2C3rfL.jpg",
             "titulo": "Robin Hood",
@@ -284,6 +273,17 @@
             "created_at": "2019-07-19",
             "updated_at": "2026-01-30T07:57:13.000Z",
             "year": "2019",
+            "calidad": "HD"
+        },
+        {
+            "id_tmdb": "9339",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/l06jMu0V4cp1DuQdI9ptSJjV01q.jpg",
+            "titulo": "Click",
+            "etiquetas": "Comedia, Drama, Fantasía",
+            "type": "movie",
+            "created_at": "2006-06-23",
+            "updated_at": "2026-01-30T07:57:23.000Z",
+            "year": "2006",
             "calidad": "HD"
         }
     ]
