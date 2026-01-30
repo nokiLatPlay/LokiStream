@@ -406,6 +406,17 @@
             "updated_at": "2026-01-30T08:49:23.000Z",
             "year": "2008",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "1319895",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/vntwlS3CAKfoLTs90GaoK6lymBC.jpg",
+            "titulo": "Cazando al Asesino",
+            "etiquetas": "Acción, Comedia, Suspense",
+            "type": "movie",
+            "created_at": "2025-08-08",
+            "updated_at": "2026-01-30T08:50:52.000Z",
+            "year": "2025",
+            "calidad": "HD"
         }
     ]
 }
