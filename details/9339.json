@@ -1,0 +1,20 @@
+{
+    "titulo": "Click",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/l06jMu0V4cp1DuQdI9ptSJjV01q.jpg",
+    "etiquetas": "Comedia, Drama, Fantasía",
+    "year": "2006",
+    "created_at": "2006-06-23",
+    "updated_at": "2026-01-30T08:12:38.000Z",
+    "id_tmdb": "9339",
+    "type": "movie",
+    "calidad": "HD",
+    "synopsis": "Michael Newman (Adam Sandler), un arquitecto muy ocupado que trata de progresar y tener tiempo para su mujer Donna (Kate Beckinsale) y sus dos hijos, compra un mando a distancia que parece que no sólo le permite controlar su televisión y su estéreo, sino, virtualmente, toda su vida. Rápidamente, Michael se vuelve adicto a este torrente de poder...",
+    "enlaces": [
+        {
+            "nombre": "Server 1",
+            "url": "https:\/\/goodstream.one\/embed-ldyypc6j5syc.html",
+            "type": "embed",
+            "language": "Latino"
+        }
+    ]
+}
