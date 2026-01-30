@@ -1,0 +1,20 @@
+{
+    "titulo": "Rogue One: Una historia de Star Wars",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/21hLJ8ruc5YjYd5kTkluXouV92S.jpg",
+    "etiquetas": "Acción, Aventura, Ciencia ficción",
+    "year": "2016",
+    "created_at": "2016-12-14",
+    "updated_at": "2026-01-30T09:25:34.000Z",
+    "id_tmdb": "330459",
+    "type": "movie",
+    "calidad": "HD",
+    "synopsis": "El Imperio Galáctico ha terminado de construir el arma más poderosa de todas, la Estrella de la muerte, pero un grupo de rebeldes decide realizar una misión de muy alto riesgo: robar los planos de dicha estación antes de que entre en operaciones, mientras se enfrentan también al poderoso Lord Sith conocido como Darth Vader, discípulo del despiadado Emperador Palpatine.",
+    "enlaces": [
+        {
+            "nombre": "Server 1",
+            "url": "https:\/\/goodstream.one\/embed-i4be2qg2i4o9.html",
+            "type": "embed",
+            "language": "Latino"
+        }
+    ]
+}
