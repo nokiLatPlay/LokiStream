@@ -450,6 +450,17 @@
             "updated_at": "2026-01-30T08:53:51.000Z",
             "year": "1997",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "10771",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/llxvvAnudmk8sGJDyYxF9sp1zAL.jpg",
+            "titulo": "El esmoquin",
+            "etiquetas": "Suspense, Acción, Comedia, Ciencia ficción",
+            "type": "movie",
+            "created_at": "2002-09-27",
+            "updated_at": "2026-01-30T08:54:41.000Z",
+            "year": "2002",
+            "calidad": "HD"
         }
     ]
 }
