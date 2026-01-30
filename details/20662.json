@@ -1,0 +1,20 @@
+{
+    "titulo": "Robin Hood",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/rRwrvxi2YA9DzAYcqtMZd2C3rfL.jpg",
+    "etiquetas": "Acción, Aventura, Historia",
+    "year": "2010",
+    "created_at": "2010-05-12",
+    "updated_at": "2026-01-30T07:03:04.000Z",
+    "id_tmdb": "20662",
+    "type": "movie",
+    "calidad": "HD",
+    "synopsis": "Inglaterra, siglo XIII. Robin Longstride, un magnífico arquero al servicio del rey Ricardo Corazón de León, vuelve de las cruzadas en tierra santa saqueando poblados mientras lucha contra las tropas francesas. Cuando Ricardo muere bajo una fecha francesa, Robin se traslada a Nottingham con el objetivo de cumplir una promesa que hizo a Sir Robert Loxley antes de morir: devolver una espada a su padre, Sir Walter Loxley. Allí conoce a lady Marion, su viuda, una mujer con carácter. Mientras tanto, en un país debilitado por una larga guerra, regido por Juan, un rey débil y poco eficaz, contra las rebeliones internas y las amenazas externas maquinadas por el pérfido Godfrey, Robin y sus hombres se dejan llevar hacia una aventura mayor: deciden ayudar a impedir que el país caiga irremediablemente en una sangrienta guerra civil, y devolver la gloria a Inglaterra.",
+    "enlaces": [
+        {
+            "nombre": "Server 1",
+            "url": "https:\/\/goodstream.one\/embed-9bh12ypa9kx5.html",
+            "type": "embed",
+            "language": "Latino"
+        }
+    ]
+}
