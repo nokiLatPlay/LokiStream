@@ -516,6 +516,17 @@
             "updated_at": "2026-01-30T09:00:07.000Z",
             "year": "2009",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "10044",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/3r5phNygoJa2e4CCPaIyn9ghWb2.jpg",
+            "titulo": "La banda de los supercamorristas",
+            "etiquetas": "Acción, Comedia",
+            "type": "movie",
+            "created_at": "1985-02-10",
+            "updated_at": "2026-01-30T09:01:48.000Z",
+            "year": "1985",
+            "calidad": "HD"
         }
     ]
 }
