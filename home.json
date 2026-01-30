@@ -439,6 +439,17 @@
             "updated_at": "2026-01-30T08:52:52.000Z",
             "year": "2025",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "754",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/alizmPaRHq7sGHW5eoshoYzWjf9.jpg",
+            "titulo": "Cara a cara",
+            "etiquetas": "Acción, Crimen, Ciencia ficción",
+            "type": "movie",
+            "created_at": "1997-06-27",
+            "updated_at": "2026-01-30T08:53:51.000Z",
+            "year": "1997",
+            "calidad": "HD"
         }
     ]
 }
