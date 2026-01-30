@@ -637,6 +637,17 @@
             "updated_at": "2026-01-30T18:12:34.000Z",
             "year": "2003",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "798645",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/5WYxFamHLqroV0TilEw0RqBPzqG.jpg",
+            "titulo": "The Running Man",
+            "etiquetas": "Acción, Suspense, Ciencia ficción",
+            "type": "movie",
+            "created_at": "2025-11-11",
+            "updated_at": "2026-01-30T18:14:17.000Z",
+            "year": "2025",
+            "calidad": "HD"
         }
     ]
 }
