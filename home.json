@@ -472,6 +472,17 @@
             "updated_at": "2026-01-30T08:55:36.000Z",
             "year": "1976",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "10648",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/zaiCwmc4iEBjAQgl7Xisg80B00l.jpg",
+            "titulo": "Harry el fuerte",
+            "etiquetas": "Drama, Crimen, Acción",
+            "type": "movie",
+            "created_at": "1973-12-13",
+            "updated_at": "2026-01-30T08:57:11.000Z",
+            "year": "1973",
+            "calidad": "HD"
         }
     ]
 }
