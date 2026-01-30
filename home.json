@@ -164,6 +164,17 @@
             "updated_at": "2026-01-30T07:43:30.000Z",
             "year": "2025",
             "calidad": "SD"
+        },
+        {
+            "id_tmdb": "842675",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/dCDAPDbySxYewfSzWGvQssy04sW.jpg",
+            "titulo": "La Tierra Errante II",
+            "etiquetas": "Ciencia ficción, Acción, Aventura",
+            "type": "movie",
+            "created_at": "2023-01-22",
+            "updated_at": "2026-01-30T07:44:44.000Z",
+            "year": "2023",
+            "calidad": "HD"
         }
     ]
 }
