@@ -318,6 +318,17 @@
             "updated_at": "2026-01-30T08:01:28.000Z",
             "year": "2025",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "1512623",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/h6OsRrDwbspLnKMvlFl57QFDP7d.jpg",
+            "titulo": "Risqué",
+            "etiquetas": "Acción, Crimen, Suspense",
+            "type": "movie",
+            "created_at": "2025-08-01",
+            "updated_at": "2026-01-30T08:02:56.000Z",
+            "year": "2025",
+            "calidad": "HD"
         }
     ]
 }
