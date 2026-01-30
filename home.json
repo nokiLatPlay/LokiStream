@@ -230,6 +230,17 @@
             "updated_at": "2026-01-30T07:50:11.000Z",
             "year": "1986",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "29621",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/7mp5TkxC15jRhaD5Hj1jYABRuts.jpg",
+            "titulo": "Solo, el destructor",
+            "etiquetas": "Acción, Aventura, Ciencia ficción, Suspense",
+            "type": "movie",
+            "created_at": "1996-08-23",
+            "updated_at": "2026-01-30T07:51:04.000Z",
+            "year": "1996",
+            "calidad": "HD"
         }
     ]
 }
