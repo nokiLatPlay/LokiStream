@@ -538,6 +538,17 @@
             "updated_at": "2026-01-30T09:03:23.000Z",
             "year": "2025",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "1116465",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/jvrSYRtgHTu3oqJN1X7LWZoekB6.jpg",
+            "titulo": "El descubridor de leyendas",
+            "etiquetas": "Acción, Aventura, Fantasía",
+            "type": "movie",
+            "created_at": "2024-07-05",
+            "updated_at": "2026-01-30T09:04:18.000Z",
+            "year": "2024",
+            "calidad": "HD"
         }
     ]
 }
