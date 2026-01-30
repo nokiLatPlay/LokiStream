@@ -1,0 +1,20 @@
+{
+    "titulo": "Historias corrientes: La película",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/o7ii8gudODmqyQs9PgGfmozj29o.jpg",
+    "etiquetas": "Animación, Comedia, Ciencia ficción, Aventura, Acción, Familia, Fantasía",
+    "year": "2015",
+    "created_at": "2015-09-01",
+    "updated_at": "2026-01-30T07:58:31.000Z",
+    "id_tmdb": "354857",
+    "type": "movie",
+    "calidad": "HD",
+    "synopsis": "Mordecai y Rigby viajan al pasado para detener un experimento fallido de su época escolar que amenaza con destruir el tejido del tiempo. Junto a sus compañeros del parque, deben enfrentar a un antiguo profesor vengativo y salvar el universo. En el proceso, su amistad se pone a prueba al revelarse un secreto que cambió sus vidas para siempre.",
+    "enlaces": [
+        {
+            "nombre": "Server 1",
+            "url": "https:\/\/goodstream.one\/embed-j3cqppxdzjn0.html",
+            "type": "embed",
+            "language": "Latino"
+        }
+    ]
+}
