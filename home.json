@@ -208,6 +208,17 @@
             "updated_at": "2026-01-30T07:48:13.000Z",
             "year": "2011",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "9405",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/uPld99AspbPcTI979EsOj3faE9r.jpg",
+            "titulo": "Double Team",
+            "etiquetas": "Acción, Ciencia ficción",
+            "type": "movie",
+            "created_at": "1997-04-04",
+            "updated_at": "2026-01-30T07:49:12.000Z",
+            "year": "1997",
+            "calidad": "HD"
         }
     ]
 }
