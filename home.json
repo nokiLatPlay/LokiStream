@@ -274,6 +274,17 @@
             "updated_at": "2026-01-30T07:55:21.000Z",
             "year": "2026",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "14943",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/rC3FJUDlrupQTIkhsytQPvWDxzy.jpg",
+            "titulo": "Crows Zero",
+            "etiquetas": "Acción, Comedia, Crimen",
+            "type": "movie",
+            "created_at": "2007-10-26",
+            "updated_at": "2026-01-30T07:56:17.000Z",
+            "year": "2007",
+            "calidad": "HD"
         }
     ]
 }
