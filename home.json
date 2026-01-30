@@ -615,6 +615,17 @@
             "updated_at": "2026-01-30T18:10:20.000Z",
             "year": "2025",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "663558",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/bPj2YRLOnYtY7dQCZl3hHef9PZA.jpg",
+            "titulo": "Nezha: El renacer de un dios",
+            "etiquetas": "Animación, Fantasía, Acción",
+            "type": "movie",
+            "created_at": "2021-02-06",
+            "updated_at": "2026-01-30T18:11:21.000Z",
+            "year": "2021",
+            "calidad": "HD"
         }
     ]
 }
