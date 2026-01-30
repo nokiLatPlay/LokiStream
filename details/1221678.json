@@ -1,0 +1,20 @@
+{
+    "titulo": "An American in Austen",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/aPurbvRNfJ3KOlSLXFPoD07Cazg.jpg",
+    "etiquetas": "Película de TV, Comedia, Romance",
+    "year": "2024",
+    "created_at": "2024-02-07",
+    "updated_at": "2026-01-30T07:37:10.000Z",
+    "id_tmdb": "1221678",
+    "type": "movie",
+    "calidad": "HD",
+    "synopsis": "Harriet, quien cree que ningún hombre de verdad se compara con el Sr. Darcy, se ve transportada a Orgullo y Prejuicio y tiene la inesperada oportunidad de descubrirlo. Protagonizada por Eliza Bennett y Nicholas Bishop.",
+    "enlaces": [
+        {
+            "nombre": "Server 1",
+            "url": "https:\/\/goodstream.one\/embed-5r0r9711kjl1.html",
+            "type": "embed",
+            "language": "Latino"
+        }
+    ]
+}
