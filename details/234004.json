@@ -1,0 +1,20 @@
+{
+    "titulo": "Ratchet & Clank, la película",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/vS6BgPO974eTmHeteU9greJZv4D.jpg",
+    "etiquetas": "Acción, Aventura, Animación, Familia",
+    "year": "2016",
+    "created_at": "2016-04-13",
+    "updated_at": "2026-01-30T07:41:41.000Z",
+    "id_tmdb": "234004",
+    "type": "movie",
+    "calidad": "HD",
+    "synopsis": "En el planeta Veldin, Ratchet sueña con convertirse en uno de los héroes de los Galactic Space Rangers liderados por el carismático Qwark. La oportunidad de salir de su tediosa vida en un pequeño garaje de reparación de naves parece llegarle del cielo cuando Qwark convoca una prueba para incorporar nuevos miembros a su equipo. Mientras tanto, el intrigante y maligno villano Drek decide destruir el planeta Tenemule con su nuevo y flamante Desplanetizador. Adaptación al cine del videojuego homónimo.",
+    "enlaces": [
+        {
+            "nombre": "Server 1",
+            "url": "https:\/\/goodstream.one\/embed-bbuyg7blgb9z.html",
+            "type": "embed",
+            "language": "Latino"
+        }
+    ]
+}
