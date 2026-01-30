@@ -1,0 +1,20 @@
+{
+    "titulo": "El botín",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/28hTjQCq0ul6WUR22qRsWEeuxlj.jpg",
+    "etiquetas": "Acción, Suspense, Crimen",
+    "year": "2026",
+    "created_at": "2026-01-13",
+    "updated_at": "2026-01-30T07:55:21.000Z",
+    "id_tmdb": "1306368",
+    "type": "movie",
+    "calidad": "HD",
+    "synopsis": "El descubrimiento de varios millones de dólares en efectivo en un zulo abandonado de Miami quiebra la confianza de un grupo de policías. Ahora, todo y todos están bajo sospecha.",
+    "enlaces": [
+        {
+            "nombre": "Server 1",
+            "url": "https:\/\/goodstream.one\/embed-mqfxumox41fv.html",
+            "type": "embed",
+            "language": "Latino"
+        }
+    ]
+}
