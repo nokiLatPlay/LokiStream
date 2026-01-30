@@ -1,0 +1,20 @@
+{
+    "titulo": "El cautivo",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/2vfxMQ3WEA8goCH7LXlAzED9aed.jpg",
+    "etiquetas": "Drama, Historia",
+    "year": "2025",
+    "created_at": "2025-09-12",
+    "updated_at": "2026-01-30T07:40:22.000Z",
+    "id_tmdb": "1238188",
+    "type": "movie",
+    "calidad": "HD",
+    "synopsis": "En 1575, el joven soldado Miguel de Cervantes es capturado en alta mar por corsarios berberiscos y llevado a Argel como rehén. Consciente de que le espera una muerte cruel si su familia no paga pronto su rescate, encuentra refugio en su pasión por contar historias.",
+    "enlaces": [
+        {
+            "nombre": "Server 1",
+            "url": "https:\/\/goodstream.one\/embed-8kxxu5vhhrse.html",
+            "type": "embed",
+            "language": "Latino"
+        }
+    ]
+}
