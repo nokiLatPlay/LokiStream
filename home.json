@@ -428,6 +428,17 @@
             "updated_at": "2026-01-30T08:51:53.000Z",
             "year": "2014",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "1218925",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/fJdnp5OO2wh07tdy6noACNyaqMJ.jpg",
+            "titulo": "Chainsaw Man - La película: El arco de Reze",
+            "etiquetas": "Animación, Acción, Romance, Fantasía",
+            "type": "movie",
+            "created_at": "2025-09-19",
+            "updated_at": "2026-01-30T08:52:52.000Z",
+            "year": "2025",
+            "calidad": "HD"
         }
     ]
 }
