@@ -1,0 +1,20 @@
+{
+    "titulo": "Spider-Man: Homecoming",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/yJfPC6pjSJ5VOsVyXhx5PXBe0mR.jpg",
+    "etiquetas": "Acción, Aventura, Ciencia ficción",
+    "year": "2017",
+    "created_at": "2017-07-05",
+    "updated_at": "2026-01-30T08:22:35.000Z",
+    "id_tmdb": "315635",
+    "type": "movie",
+    "calidad": "HD",
+    "synopsis": "Peter Parker comienza a experimentar su recién descubierta identidad como el superhéroe Spider-Man. Después de la experiencia vivida con los Vengadores, Peter regresa a casa, donde vive con su tía. Bajo la atenta mirada de su mentor Tony Stark, Peter intenta mantener una vida normal como cualquier joven de su edad, pero interrumpe en su rutina diaria el nuevo villano Vulture y, con él, lo más importante de la vida de Peter comenzará a verse amenazado.",
+    "enlaces": [
+        {
+            "nombre": "Server 1",
+            "url": "https:\/\/goodstream.one\/embed-n83lqeidvoe3.html",
+            "type": "embed",
+            "language": "Latino"
+        }
+    ]
+}
