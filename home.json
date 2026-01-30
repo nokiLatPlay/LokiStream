@@ -67,17 +67,6 @@
             "calidad": "HD"
         },
         {
-            "id_tmdb": "315635",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/yJfPC6pjSJ5VOsVyXhx5PXBe0mR.jpg",
-            "titulo": "Spider-Man: Homecoming",
-            "etiquetas": "Acción, Aventura, Ciencia ficción",
-            "type": "movie",
-            "created_at": "2017-07-05",
-            "updated_at": "2026-01-30T08:22:35.000Z",
-            "year": "2017",
-            "calidad": "HD"
-        },
-        {
             "id_tmdb": "20662",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/rRwrvxi2YA9DzAYcqtMZd2C3rfL.jpg",
             "titulo": "Robin Hood",
@@ -97,6 +86,17 @@
             "created_at": "2025-11-26",
             "updated_at": "2026-01-30T07:34:37.000Z",
             "year": "2025",
+            "calidad": "HD"
+        },
+        {
+            "id_tmdb": "315635",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/yJfPC6pjSJ5VOsVyXhx5PXBe0mR.jpg",
+            "titulo": "Spider-Man: Homecoming",
+            "etiquetas": "Acción, Aventura, Ciencia ficción",
+            "type": "movie",
+            "created_at": "2017-07-05",
+            "updated_at": "2026-01-30T07:35:18.000Z",
+            "year": "2017",
             "calidad": "HD"
         }
     ]
