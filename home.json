@@ -802,6 +802,17 @@
             "updated_at": "2026-01-31T02:25:19.000Z",
             "year": "2025",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "10303",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/46DOs7IdevzJowCM0DaJzdymIJI.jpg",
+            "titulo": "La joya del Nilo",
+            "etiquetas": "Aventura, Acción, Comedia, Romance",
+            "type": "movie",
+            "created_at": "1985-08-01",
+            "updated_at": "2026-01-31T02:26:00.000Z",
+            "year": "1985",
+            "calidad": "HD"
         }
     ]
 }
