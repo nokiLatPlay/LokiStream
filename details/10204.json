@@ -1,0 +1,20 @@
+{
+    "titulo": "La vuelta al mundo en 80 días",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/6breBZSHhT4Upm6TBV6ZJD3i9zN.jpg",
+    "etiquetas": "Acción, Aventura, Comedia",
+    "year": "2004",
+    "created_at": "2004-06-16",
+    "updated_at": "2026-01-31T02:24:33.000Z",
+    "id_tmdb": "10204",
+    "type": "movie",
+    "calidad": "HD",
+    "synopsis": "Phileas Fogg, un excéntrico inventor londinense, acaba de descubrir los secretos del vuelo aéreo, la electricidad, y hasta los patines en línea, pero la sociedad victoriana le toma por demente. Desesperado por ser tomado en serio, Fogg reta a Lord Kelvin, cabeza visible de la Real Academia de las Ciencias, mediante una increíble apuesta: afirma que será capaz de circunnavegar el globo terráqueo en menos de 80 días. Acompañado de su ayuda de cámara Passepartout y Monique, la artista francesa en busca de aventuras, Fogg se embarca en una trepidante y frenética carrera alrededor del mundo que les llevará por tierra, mar y aire hasta los lugares más exóticos del planeta.",
+    "enlaces": [
+        {
+            "nombre": "Server 1",
+            "url": "https:\/\/goodstream.one\/embed-8j0k8odfmjy3.html",
+            "type": "embed",
+            "language": "Latino"
+        }
+    ]
+}
