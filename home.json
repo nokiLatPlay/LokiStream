@@ -725,6 +725,17 @@
             "updated_at": "2026-01-31T02:18:52.000Z",
             "year": "1987",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "37834",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/keazz55QSZLZhaUi53BfiAVMuKb.jpg",
+            "titulo": "Noche y día",
+            "etiquetas": "Acción, Comedia",
+            "type": "movie",
+            "created_at": "2010-06-15",
+            "updated_at": "2026-01-31T02:19:42.000Z",
+            "year": "2010",
+            "calidad": "HD"
         }
     ]
 }
