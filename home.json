@@ -813,6 +813,17 @@
             "updated_at": "2026-01-31T02:26:00.000Z",
             "year": "1985",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "987400",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/wpMaI2J3ISYZiaIWNkoA1lVb5LQ.jpg",
+            "titulo": "Batman Azteca: Choque de imperios",
+            "etiquetas": "Animación, Acción, Aventura, Fantasía",
+            "type": "movie",
+            "created_at": "2025-09-18",
+            "updated_at": "2026-01-31T03:03:01.000Z",
+            "year": "2025",
+            "calidad": "HD"
         }
     ]
 }
