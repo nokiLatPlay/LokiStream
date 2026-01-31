@@ -780,6 +780,17 @@
             "updated_at": "2026-01-31T02:23:42.000Z",
             "year": "2025",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "10204",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/6breBZSHhT4Upm6TBV6ZJD3i9zN.jpg",
+            "titulo": "La vuelta al mundo en 80 días",
+            "etiquetas": "Acción, Aventura, Comedia",
+            "type": "movie",
+            "created_at": "2004-06-16",
+            "updated_at": "2026-01-31T02:24:33.000Z",
+            "year": "2004",
+            "calidad": "HD"
         }
     ]
 }
