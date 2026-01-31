@@ -714,6 +714,17 @@
             "updated_at": "2026-01-31T02:17:58.000Z",
             "year": "1995",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "1825",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/gjkXw0MOKgr5WEdFlWDNZFyst9v.jpg",
+            "titulo": "Yo, el halcón",
+            "etiquetas": "Acción, Drama",
+            "type": "movie",
+            "created_at": "1987-02-13",
+            "updated_at": "2026-01-31T02:18:52.000Z",
+            "year": "1987",
+            "calidad": "HD"
         }
     ]
 }
