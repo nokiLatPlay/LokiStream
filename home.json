@@ -681,6 +681,17 @@
             "updated_at": "2026-01-30T23:20:54.000Z",
             "year": "2025",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "1100094",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/ugP69om5kgloJur3elTG9bcVNmX.jpg",
+            "titulo": "Escalada de violencia",
+            "etiquetas": "Acción, Suspense, Crimen",
+            "type": "movie",
+            "created_at": "2023-09-01",
+            "updated_at": "2026-01-30T23:25:40.000Z",
+            "year": "2023",
+            "calidad": "HD"
         }
     ]
 }
