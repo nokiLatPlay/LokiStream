@@ -670,6 +670,17 @@
             "updated_at": "2026-01-30T23:11:16.000Z",
             "year": "1997",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "1491902",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/1kQTLtNy8A5lAWEU2LfjWxg6UQJ.jpg",
+            "titulo": "Explosión",
+            "etiquetas": "Acción, Suspense",
+            "type": "movie",
+            "created_at": "2025-07-11",
+            "updated_at": "2026-01-30T23:20:54.000Z",
+            "year": "2025",
+            "calidad": "HD"
         }
     ]
 }
