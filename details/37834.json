@@ -1,0 +1,20 @@
+{
+    "titulo": "Noche y día",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/keazz55QSZLZhaUi53BfiAVMuKb.jpg",
+    "etiquetas": "Acción, Comedia",
+    "year": "2010",
+    "created_at": "2010-06-15",
+    "updated_at": "2026-01-31T02:19:42.000Z",
+    "id_tmdb": "37834",
+    "type": "movie",
+    "calidad": "HD",
+    "synopsis": "La historia gira en torno a las aventuras de una pareja, una mujer normal que sólo quiere acudir a una boda, y un hombre que parece un agente secreto, a lo largo y ancho del planeta. Ambos se encuentran repetidas veces a lo largo de diversos lugares, condenados a estar juntos en una serie de persecuciones donde nadie es quien parece ser",
+    "enlaces": [
+        {
+            "nombre": "Server 1",
+            "url": "https:\/\/goodstream.one\/embed-ldl8510nbcdr.html",
+            "type": "embed",
+            "language": "Latino"
+        }
+    ]
+}
