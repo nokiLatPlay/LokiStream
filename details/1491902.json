@@ -1,0 +1,20 @@
+{
+    "titulo": "Explosión",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/1kQTLtNy8A5lAWEU2LfjWxg6UQJ.jpg",
+    "etiquetas": "Acción, Suspense",
+    "year": "2025",
+    "created_at": "2025-07-11",
+    "updated_at": "2026-01-30T23:20:54.000Z",
+    "id_tmdb": "1491902",
+    "type": "movie",
+    "calidad": "HD",
+    "synopsis": "Sigue a un asesino a sueldo despiadado que, después de escapar por poco de un atentado fatal contra su vida, traiciona a su pandilla en un esfuerzo por encontrar el perdón, pero termina convirtiéndose en un objetivo.",
+    "enlaces": [
+        {
+            "nombre": "Server 1",
+            "url": "https:\/\/goodstream.one\/embed-s6vzfch62ag1.html",
+            "type": "embed",
+            "language": "Latino"
+        }
+    ]
+}
