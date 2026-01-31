@@ -659,6 +659,17 @@
             "updated_at": "2026-01-30T18:15:25.000Z",
             "year": "1971",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "66",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/xzyyrc5qIQi62wOLnlGadLGjavJ.jpg",
+            "titulo": "Poder absoluto",
+            "etiquetas": "Crimen, Drama, Acción",
+            "type": "movie",
+            "created_at": "1997-02-14",
+            "updated_at": "2026-01-30T23:11:16.000Z",
+            "year": "1997",
+            "calidad": "HD"
         }
     ]
 }
