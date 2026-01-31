@@ -791,6 +791,17 @@
             "updated_at": "2026-01-31T02:24:33.000Z",
             "year": "2004",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "1267319",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/v1vs4RJyqzckfxPjyWN5zN1dEgH.jpg",
+            "titulo": "Mantis",
+            "etiquetas": "Acción, Crimen, Suspense",
+            "type": "movie",
+            "created_at": "2025-09-25",
+            "updated_at": "2026-01-31T02:25:19.000Z",
+            "year": "2025",
+            "calidad": "HD"
         }
     ]
 }
