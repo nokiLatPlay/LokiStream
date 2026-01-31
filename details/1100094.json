@@ -1,0 +1,20 @@
+{
+    "titulo": "Escalada de violencia",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/ugP69om5kgloJur3elTG9bcVNmX.jpg",
+    "etiquetas": "Acción, Suspense, Crimen",
+    "year": "2023",
+    "created_at": "2023-09-01",
+    "updated_at": "2026-01-30T23:25:40.000Z",
+    "id_tmdb": "1100094",
+    "type": "movie",
+    "calidad": "HD",
+    "synopsis": "Un ex policía deja de lado sus diferencias con la policía para localizar al asesino de su hermano. Forma equipo con un detective más joven para llevar el caso a casa.",
+    "enlaces": [
+        {
+            "nombre": "Server 1",
+            "url": "https:\/\/goodstream.one\/embed-grc6udv9zj6g.html",
+            "type": "embed",
+            "language": "Latino"
+        }
+    ]
+}
