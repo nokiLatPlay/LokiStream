@@ -1,0 +1,70 @@
+{
+    "id_tmdb": "138505",
+    "titulo": "Marvel Zombis",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/5UbrwzZUR5lcoDds2phuahFHHhi.jpg",
+    "etiquetas": "Sci-Fi & Fantasy, Animación, Action & Adventure",
+    "year": "2025",
+    "type": "series",
+    "synopsis": "Cuando los Vengadores sucumben a la plaga zombi, un desesperado grupo de supervivientes descubre la clave para acabar con los superpoderosos no muertos y se juega la vida recorriendo un distópico paisaje para salvar el mundo.",
+    "created_at": "2025-09-24",
+    "updated_at": "2026-01-31T23:22:35.000Z",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. Episodio 1",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/25QjykMVOADHoKBre3bLovFrz0j.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-skzk9roe088y.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. Episodio 2",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/vvbPNdHl8gjuRnrU0YhbHrNXLlS.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-u886v5u9xt24.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. Episodio 3",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/8frDsFuOxAVVFzACTMQsk8vDXcP.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-370t1qdjuwkj.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. Episodio 4",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/qNQjFDAeqMDA3ISOUBYikkaVEI0.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-wxp6mz29cpuv.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
