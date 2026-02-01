@@ -1,0 +1,122 @@
+{
+    "id_tmdb": "152483",
+    "titulo": "The Boys presenta: Diabolical",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/bpviFMjnQQWL9nP3oIF1BQOJyi8.jpg",
+    "etiquetas": "Animación, Action & Adventure",
+    "year": "2022",
+    "type": "series",
+    "synopsis": "Sumérgete a fondo en el universo de THE BOYS con DIABOLICAL, una serie animada antológica de ocho episodios. Cada uno de ellos exprimidos de algunas de las mentes más desquiciadas, confusas y maníacas que, de alguna forma, aún siguen trabajando en el mundo del entretenimiento.",
+    "created_at": "2022-03-03",
+    "updated_at": "2026-01-31T23:28:59.000Z",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. Día de salida de la bebé láser",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/yExRKfQyvvVJtqpTvVW6m3jfK2M.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-vn4ey7kq7vq2.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. Un corto animado donde súpers cabreados matan a sus padres",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/9oCcULJ7KXwW3ck8JIWHyMJej8W.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-kaa0l1xnht7i.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. Soy tu camello",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/4nsPABFjR4FSIeIXPG475cctSJJ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-pfthvmibflh7.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. Boyd, el del 3-D",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/9ocIxna8b5Ym9psh2EGVY3Prq6x.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-q4s3favtueiy.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "nombre": "05. Las superamiguis",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/ySiJWuDZMrk8bLDLRJMwNTLzDFk.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-p52spvho3oqu.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "nombre": "06. Nubio contra Nubia",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/tAskdaenqLSBJIMVVHwPqoHv9YQ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-7oynlku4v4vr.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "nombre": "07. John y Sun-Hee",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/wFcoMoxsGW0Pmc0nMkZHd7MtV9u.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-3c22tyjhw516.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "nombre": "08. Uno más uno igual a dos",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/kVVAIITFvwhtYsZK9MVv5iZlxtr.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-z53m1rfspksg.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
