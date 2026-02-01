@@ -868,6 +868,17 @@
             "updated_at": "2026-01-31T19:04:15.000Z",
             "year": "1993",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "9874",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/zXW4cRRcnPGeSej9EBlKJxnxUUk.jpg",
+            "titulo": "Cobra, el brazo fuerte de la ley",
+            "etiquetas": "Acción, Crimen, Suspense",
+            "type": "movie",
+            "created_at": "1986-01-01",
+            "updated_at": "2026-01-31T19:05:07.000Z",
+            "year": "1986",
+            "calidad": "HD"
         }
     ]
 }
