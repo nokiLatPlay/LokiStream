@@ -1,0 +1,20 @@
+{
+    "titulo": "Speed 2",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/oW8jpRRj1Rot4bjtFT3XEExBo7S.jpg",
+    "etiquetas": "Acción, Suspense",
+    "year": "1997",
+    "created_at": "1997-06-13",
+    "updated_at": "2026-01-31T19:02:38.000Z",
+    "id_tmdb": "1639",
+    "type": "movie",
+    "calidad": "HD",
+    "synopsis": "Una joven sueña con disfrutar de unas maravillosas vacaciones por el Caribe, en compañía de su novio, a bordo del transatlántico más lujoso del mundo. Su viaje al paraíso se convierte en un viaje al mismísimo infierno, cuando un lunático genio de la informática se hace con el mando del crucero, poniéndolo rumbo a un desastre seguro.",
+    "enlaces": [
+        {
+            "nombre": "Server 1",
+            "url": "https:\/\/goodstream.one\/embed-cf9w6mfhdpxr.html",
+            "type": "embed",
+            "language": "Latino"
+        }
+    ]
+}
