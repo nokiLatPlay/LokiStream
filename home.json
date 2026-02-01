@@ -857,6 +857,17 @@
             "updated_at": "2026-01-31T19:02:38.000Z",
             "year": "1997",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "10413",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/1m7Md2MUef2PyAwYT5Z94AbEC5u.jpg",
+            "titulo": "Sin Escape (Ganar o morir)",
+            "etiquetas": "Acción, Drama, Suspense, Romance",
+            "type": "movie",
+            "created_at": "1993-01-15",
+            "updated_at": "2026-01-31T19:04:15.000Z",
+            "year": "1993",
+            "calidad": "HD"
         }
     ]
 }
