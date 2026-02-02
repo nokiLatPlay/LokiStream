@@ -43,11 +43,21 @@
   {
     "id": 667538,
     "title": "Transformers: El despertar de las bestias",
-    "type": "Película",
+    "type": "PelÃ­cula",
     "image": "https://image.tmdb.org/t/p/w200/peIB7KBBrqW0JsCLQBt9ChEtZ7m.jpg",
     "count": 1,
     "timestamps": [
       "2026-02-02T22:22:06.647Z"
+    ]
+  },
+  {
+    "id": 45822,
+    "title": "Ixion Saga: Dimension Transfer",
+    "type": "Serie",
+    "image": "https://image.tmdb.org/t/p/w200/r21Tlfsj08BcwSaL22mxmngBAiz.jpg",
+    "count": 1,
+    "timestamps": [
+      "2026-02-02T22:23:03.919Z"
     ]
   }
 ]
