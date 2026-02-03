@@ -55,23 +55,10 @@
     "title": "Ixion Saga: Dimension Transfer",
     "type": "Serie",
     "image": "https://image.tmdb.org/t/p/w200/r21Tlfsj08BcwSaL22mxmngBAiz.jpg",
-    "count": 1,
+    "count": 2,
     "timestamps": [
       "2026-02-02T22:23:03.919Z"
     ]
-  },
-  {
-    "id": 45822,
-    "title": "Ixion Saga: Dimension Transfer",
-    "type": "Serie",
-    "image": "https://image.tmdb.org/t/p/w200/r21Tlfsj08BcwSaL22mxmngBAiz.jpg",
-    "delivery_option": "undefined",
-    "cost": 25,
-    "timestamps": [
-      "2026-02-03T03:04:27.477Z"
-    ],
-    "user": "Amagiri",
-    "user_points_after": 8,
-    "count": 1
   }
+   
 ]
