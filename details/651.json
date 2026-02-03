@@ -1,0 +1,20 @@
+{
+    "titulo": "M.A.S.H.",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/xteeXKr4FpusQGzT9NUfhFqeEoI.jpg",
+    "etiquetas": "Comedia, Drama, Bélica",
+    "year": "1970",
+    "created_at": "1970-02-18",
+    "updated_at": "2026-02-03T08:53:52.000Z",
+    "id_tmdb": "651",
+    "type": "movie",
+    "calidad": "HD",
+    "synopsis": "M.A.S.H. narra las aventuras de dos cirujanos del ejército destinados a una unidad móvil médica en Corea durante la guerra. Tanto ellos como su equipo de enfermeras se toman el trabajo muy en serio pero, en su tiempo libre, las bromas constantes y la ironía hacen más llevadera la situación.",
+    "enlaces": [
+        {
+            "nombre": "Server 1",
+            "url": "https:\/\/goodstream.one\/embed-fvw7j7y9t8k2.html",
+            "type": "embed",
+            "language": "Latino"
+        }
+    ]
+}
