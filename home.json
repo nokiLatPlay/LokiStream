@@ -942,6 +942,17 @@
             "updated_at": "2026-02-03T08:48:54.000Z",
             "year": "2015",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "927254",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/fAeHnC35RtbYLm5tRGLveLa0YvH.jpg",
+            "titulo": "Los Cretinos",
+            "etiquetas": "Animación, Comedia, Familia, Fantasía",
+            "type": "movie",
+            "created_at": "2025-10-17",
+            "updated_at": "2026-02-03T08:50:30.000Z",
+            "year": "2025",
+            "calidad": "HD"
         }
     ]
 }
