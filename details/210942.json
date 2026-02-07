@@ -1,0 +1,122 @@
+{
+    "id_tmdb": "210942",
+    "titulo": "APARI3NCIAS",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/b4DjQI8jkQKrlyYly3iiUDYQo6n.jpg",
+    "etiquetas": "Comedia, Drama, Animación",
+    "year": "2022",
+    "type": "series",
+    "synopsis": "En una sociedad en la que el físico lo es todo, un marginado del instituto lleva una doble vida alternando entre dos cuerpos totalmente opuestos.",
+    "created_at": "2022-12-08",
+    "updated_at": "2026-02-07T08:31:25.000Z",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. Cambio",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/29GciXzxaRJqSSM1LJwj6qm7maQ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-cx84d0s5dalp.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. Una nueva vida",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/wpOM0gBk2E29Yhk1MklsTCOpkRk.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-j6dcuucbhm7n.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. Amigos",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/me8Lc1zONKjrKco9mXSXCgz1Hsz.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-6zrauxsmi1f8.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. Mamá",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/hz2yyHEhd6UzeJO3UU6XlyuIWH6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-03u8gcy5u8lf.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "nombre": "05. Amabilidad",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/5L36zta5Vwv0rnfiamjKk0oPDDB.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-dwzb5qlwaobm.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "nombre": "06. Sugerencia",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/sl9iQrkyoiangBBSwkk5IovLMD6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-v3sz9v20tiff.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "nombre": "07. Un entrenamiento especial",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/e8bKN87FbBzrJPlotBfNZ1PJEDp.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-b9o64ystej9f.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "nombre": "08. Un muro",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/95zQgitZW29ZOknCZ0j4IMbwtzN.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-n5trz6dkizp1.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
