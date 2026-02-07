@@ -1008,6 +1008,16 @@
             "updated_at": "2026-02-07T08:30:24.000Z",
             "year": "2012",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "210942",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/b4DjQI8jkQKrlyYly3iiUDYQo6n.jpg",
+            "titulo": "APARI3NCIAS",
+            "etiquetas": "Comedia, Drama, Animación",
+            "type": "series",
+            "created_at": "2022-12-08",
+            "updated_at": "2026-02-07T08:31:25.000Z",
+            "year": "2022"
         }
     ],
     "lastUpdated": "2025-11-06T23:09:40.135Z"
