@@ -1,5 +1,5 @@
 {
-    "data": [
+    "data": {
         "0": {
             "id_tmdb": "20662",
             "imagen": "https://image.tmdb.org/t/p/w342/rRwrvxi2YA9DzAYcqtMZd2C3rfL.jpg",
@@ -999,7 +999,7 @@
     "calidad": "HD"
     } 
         
-	],
+	}
 	"lastUpdated": "2025-11-06T23:09:40.135Z"
 
 	
