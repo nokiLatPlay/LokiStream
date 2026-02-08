@@ -1,0 +1,174 @@
+{
+    "id_tmdb": "280110",
+    "titulo": "My Hero Academia: Vigilantes",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/st8tG70k4Yjn6f2odOosaJ0qWom.jpg",
+    "etiquetas": "Animación, Action & Adventure, Drama, Sci-Fi & Fantasy",
+    "year": "2025",
+    "type": "animes",
+    "synopsis": "Koichi Haimawari es un estudiante aburrido que aspiraba a ser un héroe pero abandonó su sueño. Aunque el 80% de la población mundial tenga poderes sobrehumanos llamados Dones, pocos son elegidos para convertirse en héroes y proteger a las personas. ¡Todo cambia para Koichi cuando él y Pop☆Step son salvados por el vigilante Knuckleduster y son reclutados para convertirse en vigilantes!",
+    "created_at": "2025-04-07",
+    "updated_at": "2026-02-07T22:27:06.000Z",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. Aquí me hallo",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/by6mOFlmTK6jKYKgk2YFaMvjlSx.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-bzcamxa8cld5.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. Despegue",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/kveOWw2d13KkPsjMOiYJrgOTrQi.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-cb6zcoup91ef.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. Abejas",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/cxXa80ExiSAvcClJRWYyxRlVwCt.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-i3crmwnourrp.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. El mejor corredor",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/13pP2kr6NZ4wSjybind8xQV3ecr.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-0jvj9eiwcfgv.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "nombre": "05. Condena",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/cUQgsTLEeUsnF8qRuUfdoBcnR8p.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-ez0ouyo1ox8n.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "nombre": "06. Una línea",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/479OWCA1cywP8VVOxLmUoWfOeBi.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-9q8e0fqc87ey.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "nombre": "07. Verdad",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/8ORpzIvSQ6Rhbc8SXXj40uDpK2b.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-tvu9nkuaofjz.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "nombre": "08. Un grande",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/uc5Ge2jDVI6Ztk3OCqLWVRXExnF.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-oh5yzrnijdgp.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "nombre": "09. Incursión materna",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/rFTbLJivonUMs7p4QVF3vr4epw.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-e1dt5x299xo2.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "nombre": "10. Se celebra un evento",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/u8X1atvFUs5wgkgVgvhp5RbLsTq.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-8639chc1nupa.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "nombre": "11. El día del evento",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/dqYJ1Nuap3Z73JvdebWhIJM38rz.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-oif7q7i7sj5d.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "nombre": "12. Se celebra un evento",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/qRBJuraXeqnuBAUpRWnxT1bTliw.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-cqk5tihth4mj.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
