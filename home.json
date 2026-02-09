@@ -1028,6 +1028,16 @@
             "created_at": "2025-04-07",
             "updated_at": "2026-02-07T22:27:06.000Z",
             "year": "2025"
+        },
+        {
+            "id_tmdb": "249882",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/hiLf3JKUghjhCjDCv3hKKsWtA4S.jpg",
+            "titulo": "Zenshu",
+            "etiquetas": "Animación, Drama, Action & Adventure, Sci-Fi & Fantasy",
+            "type": "animes",
+            "created_at": "2025-01-05",
+            "updated_at": "2026-02-09T03:36:15.000Z",
+            "year": "2025"
         }
     ]
 }
