@@ -1,0 +1,174 @@
+{
+    "id_tmdb": "249882",
+    "titulo": "Zenshu",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/hiLf3JKUghjhCjDCv3hKKsWtA4S.jpg",
+    "etiquetas": "Animación, Drama, Action & Adventure, Sci-Fi & Fantasy",
+    "year": "2025",
+    "type": "animes",
+    "synopsis": "Natsuko Hirose, una joven animadora prodigio, debuta como directora con un anime exitoso. Su siguiente reto es una comedia romántica sobre el primer amor, pero al no haberlo vivido, no puede plasmarlo en el guion gráfico, frenando la producción.",
+    "created_at": "2025-01-05",
+    "updated_at": "2026-02-09T03:36:15.000Z",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. Línea de partida.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/tUsDiWuaB2YC2B79FkvgF6H2LYd.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-wx56bpyswf6f.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. Defensa a muerte.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/nfeJ2XEWs4mbZtCQovfU5TcqPC1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-tj3jypu2fa4j.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. Destino.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/354J8w8FilYy5y2tGAOtTFyXN1y.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-1p19b8uwvdxw.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. Eternidad.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/2Jq4zAYMA7l2eGspwLzGOGAHLma.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-z49jzi33lk57.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "nombre": "05. Justicia.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/spRSw5k5i87MaaYrWnhwQmrV6tv.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-fcmf7qfdveq6.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "nombre": "06. Cambios.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/7bzRasGeaNSzV76VmJo3Rh74f3Y.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-zkzyd1l6eg0p.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "nombre": "07. Primer amor.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/8Zh2DdMLte3KjiTpIK9IY9hyXCi.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-2scjrrc2bkcj.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "nombre": "08. Confesión.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/v1WGAx3RHkve6LkDdo3rvIjoulS.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-4sgu4rh8rava.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "nombre": "09. Héroe.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/82g5mT7GO5Fl0mpwzVslKmf6kFR.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-7gba5pgquvce.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "nombre": "10. Confusión.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/zvA0v0FqFUM6D67kLuhGkYZbvBv.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-u9ktot3w276v.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "nombre": "11. Desesperación.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/mUnAtc73J6JS6m0Mxck9aKJXiTD.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-ykskoy5forno.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "nombre": "12. Zenshu",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/97mgJgVTW3GmUokTtnisfNnSs95.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/goodstream.one\/embed-kxhy2f3n8qyl.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
