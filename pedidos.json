@@ -60,11 +60,16 @@
     "title": "Ixion Saga: Dimension Transfer",
     "type": "Serie",
     "image": "https://image.tmdb.org/t/p/w200/r21Tlfsj08BcwSaL22mxmngBAiz.jpg",
-    "count": 2,
+    "count": 3,
     "timestamps": [
-      "2026-02-02T22:23:03.919Z"
+      "2026-02-02T22:23:03.919Z",
+      "2026-02-10T00:17:56.117Z"
     ],
-    "status": "Próximamente"
+    "status": "Próximamente",
+    "last_joined_user": "Amagiri",
+    "last_joined_date": "2026-02-10T00:17:56.117Z",
+    "last_joined_pedidos_left": 2,
+    "pedidos_left_after": 2
   },
   {
     "id": 64163,
