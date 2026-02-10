@@ -1,0 +1,187 @@
+{
+    "id_tmdb": "110070",
+    "titulo": "Horimiya",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/2ZOfEetRHnqCBzvubdYU3ytwcq.jpg",
+    "etiquetas": "Animación, Comedia, Drama",
+    "year": "2021",
+    "type": "series",
+    "synopsis": "Kyouko es una alumna modélica y popular que al llegar a casa se convierte en una chica hogareña muy discreta. Miyamura, su compañero de clase, es un tipo del montón con cierto aire de friki que en sus ratos libres se transforma en un chico muy atractivo con piercings y mucho estilo. ¿Qué ocurriría si Izumi y Kyouko descubrieran la cara oculta el uno del otro?",
+    "created_at": "2021-01-10",
+    "updated_at": "2026-02-10T14:01:02.000Z",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. Una pequeña casualidad",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/cQj59g8z7qsRHGNgRXCQgPj75eu.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/Horimiya\/S01\/Horimiya%20-%201x01%20-%20Una%20Peque%C3%B1a%20Casualidad.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. Llevas más de una cara",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/tDQeg0d0LLx25wa9maO0E8ACTmB.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/Horimiya\/S01\/Horimiya%20-%201x02%20-%20Tienes%20m%C3%A1s%20de%20una%20cara.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. Por eso está bien",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/7pPxMUZ2QekyXXzlok9sjUA1YL2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/Horimiya\/S01\/Horimiya%20-%201x03%20-%20Por%20eso%20est%C3%A1%20bien.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. Todos aman a alguien",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/j6cAQmR2rXkzKWFMVi5rnI994cT.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/Horimiya\/S01\/Horimiya%20-%201x04%20-%20Todos%20aman%20a%20alguien.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "nombre": "05. No puedo decirlo en voz alta",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/w2VvBglepsM1kzMEc9Jg7IEvRpp.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/Horimiya\/S01\/Horimiya%20-%201x05%20-%20No%20puedo%20decirlo%20en%20voz%20alta.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "nombre": "06. Este verano va a ser uno caliente",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/m95Ht21etRFa7gbbRtGOquZkcEN.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/Horimiya\/S01\/Horimiya%20-%201x06%20-%20Este%20verano%20ser%C3%A1%20muy%20caliente.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "nombre": "07. Tu estas aqui, yo estoy aqui",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/amOJrfWKHQrCAwulOWucNah352L.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/Horimiya\/S01\/Horimiya%20-%201x07%20-%20T%C3%BA%20Est%C3%A1s%20Aqu%C3%AD%2C%20Yo%20Estoy%20Aqu%C3%AD.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "nombre": "08. ‎La verdad que revela el engaño‎",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/Gm9w8e7PBjokUc9xe3QsgSZLuH.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/Horimiya\/S01\/Horimiya%20-%201x08%20-%20La%20verdad%20revela%20el%20enga%C3%B1o.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "nombre": "09. Es difícil, pero no imposible‎",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/uPQKGIo24CBiAe6a7iEP5RHJkUH.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/Horimiya\/S01\/Horimiya%20-%201x09%20-%20Es%20dif%C3%ADcil%2C%20pero%20no%20imposible.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "nombre": "10. ‎Hasta que la nieve se derrita",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/jLDRjqmbli0s9yvwGMicXWQCGsr.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/Horimiya\/S01\/Horimiya%20-%201x10%20-%20Hasta%20que%20se%20derrita%20la%20nieve.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "nombre": "11. ‎Puede parecer odio‎",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/fjNZZfiJSNeGPVUey7voBGoorQw.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/Horimiya\/S01\/Horimiya%20-%201x11%20-%20Puede%20parecer%20odio.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "nombre": "12. Hasta ahora y para siempre",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/1MIpg7s4hNQuIA69Gh7XXe1AQR3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/Horimiya\/S01\/Horimiya%20-%201x12%20-%20Hasta%20ahora%20y%20para%20siempre.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "13",
+                    "nombre": "13. Te regalaría el cielo",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/aj2h0cfsP5OM6yUeznvO43icvoo.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev\/Horimiya\/S01\/Horimiya%20-%201x13%20-%20Te%20regalar%C3%ADa%20el%20cielo.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
