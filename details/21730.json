@@ -1,0 +1,655 @@
+{
+    "id_tmdb": "21730",
+    "titulo": "Mobile Suit Gundam Wing",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/ldTILeuLdsLRNADg5T9eONC10wO.jpg",
+    "etiquetas": "Action & Adventure, Animación, Sci-Fi & Fantasy, War & Politics",
+    "year": "1995",
+    "type": "animes",
+    "synopsis": "Han pasado casi dos siglos desde que la humanidad empezó a dejar su planeta natal, para establecerse en Colonias Espaciales. La construcción de las primeras Colonias se llevó a cabo con grandes esfuerzos y sacrificios de los pioneros terrícolas. Una importante razón de este éxito estaba basada en los Mobile Suits (Trajes Móviles), esencialmente armaduras individuales humanoides, que permitían a los humanos operar en el espacio.\n\nGW23\n\nSin embargo, las cosas habrían de cambiar. En el año 175 A.C., un importante líder pacifista, Heero Yuy, es asesinado por un francotirador durante unas conferencias en las Colonias. Muchos atribuyeron el asesinato a la organización OZ (Organización del Zodíaco). Dicha organización se ha enmascarado como la fuerza élite de la Alianza Unida de la Esfera Terrestre, haciéndose llamar el grupo de los Specials. El propósito de esta organización era forzar un alto nivel de desconfianza en las Colonias que permitiera su fácil ocupación por los miembros de la aristocracia que esperaban extender su sistema de clases sociales al espacio exterior.\n\nLa ocupación militar se produjo posteriormente cuando el brazo armado de la Alianza Unida de la Esfera Terrestre tomo el control de varias Colonias. Sin embargo los movimientos de resistencia y los enfrentamientos que terminaron con masacres de Colonias completas determinaron que OZ se quedara en la Tierra, soportando al brazo público de los aristócratas llamado la Fundación Romefeller. Mientras, sin un líder fuerte como había sido Heero Yuy, las Colonias se estaban desintegrando y las diferencias políticas entre ellas se acentuaban.\n\n5 científicos que habían trabajado en un proyecto ultrasecreto para crear el Mobile Suit de combate definitivo, llamado Wing, decidieron esconderse de las fuerzas de la Alianza Unida de la Esfera Terrestre. Tras construir el primer MS (Mobile Suit) de combate para OZ, llamado OZ-00MS Tallgeese, cada uno de ellos se llevó consigo una copia de los planos originales del proyecto Wing. Ellos no volvieron a verse en mucho tiempo, y cada uno por separado empezó a hacer realidad su sueño de construir el mobile suit de combate definitivo. Aún estando separados, empezaron a trabajar alentados y auspiciados por la Fundación Barton, una organización en las Colonias cuyo objetivo era el opuesto al de la Fundación Romefeller, es decir: la ocupación militar de la Tierra para propagar las ideologías de la humanidad del espacio.",
+    "created_at": "1995-04-07",
+    "updated_at": "2026-02-10T18:24:59.000Z",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. La estrella incandesente que ella vio",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/iYIgOGqFYUTS8LWweCtbfkQsY9U.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B01%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. El Gundam Deathscythe.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/rxEIQRXmDE6f8QHG6CTXHtoFc1K.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B02%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. Cinco Gundams confirmados.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/scj6FX3gIDN2k6xoCatVsGD1Bdc.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B03%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. La pesadilla en el lago Victoria.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/x9Xz08yyLCTeziPNXtgrh4P2GOO.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B04%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "nombre": "05. El secreto de Relena.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/919D4Q4rtBHrEt2wfi9fqfBEREF.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B05%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "nombre": "06. Noche de Fiesta.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/10nngSGHzd9W1iHbZopLPTl4Tod.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B06%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "nombre": "07. Un Escenario Sangriento",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/uVa7JJgTJisDk8d1zYGIA5mGnYH.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B07%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "nombre": "08. El asesinato de Treize.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/2qyhCrA8EAAv2n9BWTSQEUYZUSH.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B08%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "nombre": "09. El retrato de un reino destruido.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/6LuDaYtbqlr1rb5LlsltxWmx2bI.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B09%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "nombre": "10. Heero atrapado en la derrota",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/u32SXIx1Lw9UNZmbo5t5cdzZTLX.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B10%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "nombre": "11. El destino de la felicidad",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/tW1vWAF0SzLKRQ1UB3W2OOCHiUn.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B11%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "nombre": "12. Los guerreros confundidos",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/qBwn0DB7X1q9K8Okd6fPdhkl2yz.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B12%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "13",
+                    "nombre": "13. Las lágrimas de Katherine",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/hzXugNmjOL4RzfL320uQ02fs9tr.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B13%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "14",
+                    "nombre": "14. La destrucción del 01",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/hKm2HiddJJbNxL1wvJ2I3VGtRcd.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B14%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "15",
+                    "nombre": "15. La Antártida se convierte en un campo de batalla",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/435mKEtGeOqy0FcBPRLz834CMX8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B15%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "16",
+                    "nombre": "16. La batalla de la tristeza.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/tsxqpFeulEfJJhMo5b5F2IBfmk2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B16%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "17",
+                    "nombre": "17. La traición de la patria",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/ic79lgTNTvgCSWOOLiZ3JB50zh8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B17%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "18",
+                    "nombre": "18. La destrucción de Tallgeese.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/Aazkh2UPN7J69H5tYXtqvMPBqyI.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B18%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "19",
+                    "nombre": "19. Ataque a Barge.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/1wZq3rX05gFScP2uFsFcq0u9hIM.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B19%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "20",
+                    "nombre": "20. La Infiltración a la Base Lunar",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/7S5X5lmjkoSA3ascQnzwPdGw1SO.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B20%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "21",
+                    "nombre": "21. La pena de Quatre",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/ny9eIONKnJox29WWUOmKVG3lItl.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B21%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "22",
+                    "nombre": "22. La batalla por la independencia",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/hmm95n6ajGTC7I3v7xCyltvxKOR.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B22%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "23",
+                    "nombre": "23. Duo se convierte en el Dios de la Muerte",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/YJ4m1RcXz7mgaQtE8U7vMQbf3m.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B23%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "24",
+                    "nombre": "24. El Gundam llamado Zero",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/2HQbfGe7RmorjBGp1alDtHxyUm.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B24%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "25",
+                    "nombre": "25. Quatre contra Heero",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/l6sNSrHAKfIBKSfdph0gYvzbew0.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B25%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "26",
+                    "nombre": "26. La estrella fugaz que nunca se extingue.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/qKkK8RiaiRUXCbWqifajJee6ggg.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B26%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "27",
+                    "nombre": "27. El lugar de la victoria y de la derrota",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/7t4w1trIrhgY0lIKMPBfKFakXDU.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B27%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "28",
+                    "nombre": "28. Destinos cruzados.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/2syIHkvAL86XCme93F10s55fNgG.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B28%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "29",
+                    "nombre": "29. La heroína de la batalla",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/atm5EbDWIMiT8Xv1LjadzI1ecB1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B29%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "30",
+                    "nombre": "30. El reencuentro con Relena.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/zu6mCfdVouir4ulMoCvoKmrreX1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B30%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "31",
+                    "nombre": "31. El reino de vidrio",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/f8AjCEvJwUzl9EXo5zdU79RvtoM.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B31%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "32",
+                    "nombre": "32. El encuentro entre el Dios de la Muerte y Gundam Wing Zero",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/xMVxcahWAs8H94X72quPikBaCrX.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B32%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "33",
+                    "nombre": "33. La soledad del lugar de la batalla.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/8A3bcDf8BN29xfld83ooi7FKjup.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B33%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "34",
+                    "nombre": "34. Su nombre es Epyon",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/daY3ym2IkkOLIzKNkMn2pvohwRu.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B34%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "35",
+                    "nombre": "35. El regreso de Wufei",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/39Xx0nSrczW4a7NlYqveNSVkx9R.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B35%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "36",
+                    "nombre": "36. La caída del reino Sanc.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/l3d4S0ZZP2CckhZ5QnLQpe0fIY3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B36%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "37",
+                    "nombre": "37. Zero vs Epyon.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/vFEnX9HjmCVNGF4oRx5rmckA0iz.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B37%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "38",
+                    "nombre": "38. El nacimiento de la reina Relena.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/2fChmXKD4W7dwGdZakOytFuiOXs.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B38%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "39",
+                    "nombre": "39. Trowa regresa a la batalla",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/wKydS60iu0Lwzpm2kQjHf1bw5B3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B39%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "40",
+                    "nombre": "40. El nuevo líder.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/aMDowfNK8xoxHmT430JOBQI5eBJ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B40%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "41",
+                    "nombre": "41. La batalla en Barge",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/5DEChtgbDWeNUH5iEWFdFRWKqvG.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B41%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "42",
+                    "nombre": "42. La nave de combate Libra",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/lGLRG4iaqWaR77s3pOcdTfLCenf.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B42%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "43",
+                    "nombre": "43. El rayo de aurora es disparado a la Tierra",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/ba2Yvy0su3ZJv9MvaFBih1UHE1L.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B43%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "44",
+                    "nombre": "44. El Equipo Gundam",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/66Q0vHtTHe1ksWwn1jeLWa6Tstz.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B44%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "45",
+                    "nombre": "45. El presentimiento de una batalla final",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/uQLlPTBxhVHdSD3plyYKZ1JNcxh.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B45%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "46",
+                    "nombre": "46. La Decisión de Milliardo",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/2LXdmt8bHvNz2Yo43lTev1Yq9nH.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B46%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "47",
+                    "nombre": "47. Colisión en el espacio.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/5UNyQuQsjGmLyBYZk0kCBRK3MFs.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B47%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "48",
+                    "nombre": "48. Un ataque lleno de confusión.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/eRyYsoipvcYeHu89ckgTujTvX8d.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B48%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "49",
+                    "nombre": "49. La última victoria",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/pJ9MCXaN7gj2womK4bpMDEnWVs4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/archive.org\/download\/47-mobile-suit-gundam-wing\/%5B49%5DMobile%20Suit%20Gundam%20Wing.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
