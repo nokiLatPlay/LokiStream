@@ -72,11 +72,22 @@
     "title": "Shinmai Maou no Testament",
     "type": "Serie",
     "image": "https://image.tmdb.org/t/p/w500/32rDJfZ4iT88UaBigKF7DwVZSuA.jpg",
-   "count": 2,
+    "count": 2,
     "timestamps": [
       "2026-02-10T00:05:21.849Z",
       "2026-02-10T00:59:11.116Z"
     ],
     "status": "PrÃ³ximamente"
+  },
+  {
+    "id": 748167,
+    "title": "Los feos",
+    "type": "Película",
+    "image": "https://image.tmdb.org/t/p/w500/rsNSv2alCHJK72JvB81aSdk9Fms.jpg",
+    "count": 1,
+    "timestamps": [
+      "2026-02-11T00:02:19.717Z"
+    ],
+    "status": "Próximamente"
   }
 ]
