@@ -1,0 +1,122 @@
+{
+    "id_tmdb": "261980",
+    "titulo": "Nuestro Seúl por descubrir",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/cI2jAwUO3paBOsUl0xcSQD4aBwe.jpg",
+    "etiquetas": "Drama",
+    "year": "2025",
+    "type": "dorama",
+    "synopsis": "Dos hermanas gemelas, que son diferentes en todo excepto en su apariencia, deciden intercambiar sus identidades y emprenden un viaje para redescubrir la vida y el amor. Yoo Mi-rae, quien tenía un trabajo estable y parecía tenerlo todo de la vida, en realidad es víctima de acoso en el trabajo. Para salvar a su hermana, Yoo Mi-ji le propone vivir su vida por ella, tal como hacían cuando eran niñas, asumiendo cada una las cargas que odiaba la otra. Aunque preparadas para intercambiar vidas, las variables diarias inquietan el corazón de las hermanas: Mi-ji debe así reencontrarse con su primer amor, Ho-soo, que conoce a las hermanas desde la escuela, y que siente una extraña inquietud ante ella creyéndola su hermana. A su vez, Mi-rae trabaja en el campo del inexperto Han Se-jin, que se está dedicando a la agricultura por primera vez en su vida .Además, se revelan heridas y el dolor ocultos en lo profundo de los corazones de las gemelas Mi-ji y Mi-rae, así como de Lee Ho-soo y Han Se-jin.",
+    "created_at": "2025-05-24",
+    "updated_at": "2026-02-11T03:14:23.000Z",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. Mi-ji hace honor a su nombre",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/l8uP9z3LWidoGsnGh88oDV19Agt.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/goodstream.one\/embed-1g4h5heohaa5.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. Episodio 2",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/cBkJPBAoT5TAHUoUvGN4j3E4q0U.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/goodstream.one\/embed-4ot9wmkup2z0.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. Episodio 3",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/5RZH8F9IztidfaPYkUq44MmBYHh.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/goodstream.one\/embed-n52zvikzihxg.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. Episodio 4",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/luh49DN3l2jPiMjgqMhdSqnWHX5.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/goodstream.one\/embed-7urxm447dgwy.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "nombre": "05. Episodio 5",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/isYFQLt1yqditXPU6bRZOJTq4jO.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/goodstream.one\/embed-aebooi7hhh3a.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "nombre": "06. Episodio 6",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/cpa3V8uYx55FVmup0ODenxI7eX7.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/goodstream.one\/embed-zl1vyzos2zdz.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "nombre": "07. Episodio 7",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/lU1ghlFa2FVRoyYSR6zLs2yuZGV.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/goodstream.one\/embed-ng9co5owhgyt.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "nombre": "08. Episodio 8",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/uoQA3YO5wqOct9BuVIUgTcjL60l.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/goodstream.one\/embed-qd7wd0nyx81i.html",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
