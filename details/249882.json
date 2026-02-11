@@ -7,7 +7,7 @@
     "type": "animes",
     "synopsis": "Natsuko Hirose, una joven animadora prodigio, debuta como directora con un anime exitoso. Su siguiente reto es una comedia romántica sobre el primer amor, pero al no haberlo vivido, no puede plasmarlo en el guion gráfico, frenando la producción.",
     "created_at": "2025-01-05",
-    "updated_at": "2026-02-09T03:36:15.000Z",
+    "updated_at": "2026-02-11T03:23:25.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -33,6 +33,12 @@
                         {
                             "nombre": "Server 1",
                             "url": "https:\/\/goodstream.one\/embed-tj3jypu2fa4j.html",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https:\/\/goodstream.one\/embed-yszv8q5ql7ae.html",
                             "type": "embed",
                             "language": "Latino"
                         }
