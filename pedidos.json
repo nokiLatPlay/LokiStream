@@ -1,93 +1,93 @@
 [
-  {
-    "id": 84958,
-    "title": "Loki",
-    "type": "Serie",
-    "image": "https://image.tmdb.org/t/p/w200/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg",
-    "count": 2,
-    "timestamps": [
-      "2026-02-02T21:41:53.059Z",
-      "2026-02-02T22:06:16.124Z"
-    ],
-    "status": "Realizado"
-  },
-  {
-    "id": 83095,
-    "title": "The Rising of the Shield Hero",
-    "type": "Serie",
-    "image": "https://image.tmdb.org/t/p/w200/yX0d6aTjHrE5Sjp6gZ1dkPWCmIF.jpg",
-    "count": 1,
-    "timestamps": [
-      "2026-02-02T21:43:29.919Z"
-    ],
-    "status": "Próximamente"
-  },
-  {
-    "id": 196285,
-    "title": "Isekai Nonbiri Nouka",
-    "type": "Serie",
-    "image": "https://image.tmdb.org/t/p/w200/mE4pE6NOV3AbvTUE3MkFMlfs12n.jpg",
-    "count": 1,
-    "timestamps": [
-      "2026-02-02T21:54:47.055Z"
-    ],
-    "status": "Próximamente"
-  },
-  {
-    "id": 72505,
-    "title": "Isekai wa Smartphone to Tomo ni.",
-    "type": "Serie",
-    "image": "https://image.tmdb.org/t/p/w200/8IZgvLzBnclalS1o6rzdYle3oIP.jpg",
-    "count": 1,
-    "timestamps": [
-      "2026-02-02T22:08:09.554Z"
-    ],
-    "status": "Próximamente"
-  },
-  {
-    "id": 667538,
-    "title": "Transformers: El despertar de las bestias",
-    "type": "Película",
-    "image": "https://image.tmdb.org/t/p/w200/peIB7KBBrqW0JsCLQBt9ChEtZ7m.jpg",
-    "count": 1,
-    "timestamps": [
-      "2026-02-02T22:22:06.647Z"
-    ],
-    "status": "Próximamente"
-  },
-  {
-    "id": 45822,
-    "title": "Ixion Saga: Dimension Transfer",
-    "type": "Serie",
-    "image": "https://image.tmdb.org/t/p/w200/r21Tlfsj08BcwSaL22mxmngBAiz.jpg",
-    "count": 3,
-    "timestamps": [
-      "2026-02-02T22:23:03.919Z",
-      "2026-02-10T00:17:56.117Z"
-    ],
-    "status": "Próximamente"
-  },
-  {
-    "id": 64163,
-    "title": "Shinmai Maou no Testament",
-    "type": "Serie",
-    "image": "https://image.tmdb.org/t/p/w500/32rDJfZ4iT88UaBigKF7DwVZSuA.jpg",
-    "count": 2,
-    "timestamps": [
-      "2026-02-10T00:05:21.849Z",
-      "2026-02-10T00:59:11.116Z"
-    ],
-    "status": "Próximamente"
-  },
-  {
-    "id": 748167,
-    "title": "Los feos",
-    "type": "Pel�cula",
-    "image": "https://image.tmdb.org/t/p/w500/rsNSv2alCHJK72JvB81aSdk9Fms.jpg",
-    "count": 1,
-    "timestamps": [
-      "2026-02-11T00:02:19.717Z"
-    ],
-    "status": "Pr�ximamente"
-  }
+    {
+        "id": 84958,
+        "title": "Loki",
+        "type": "Serie",
+        "image": "https:\/\/image.tmdb.org\/t\/p\/w200\/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg",
+        "count": 2,
+        "timestamps": [
+            "2026-02-02T21:41:53.059Z",
+            "2026-02-02T22:06:16.124Z"
+        ],
+        "status": "Realizado"
+    },
+    {
+        "id": 83095,
+        "title": "The Rising of the Shield Hero",
+        "type": "Serie",
+        "image": "https:\/\/image.tmdb.org\/t\/p\/w200\/yX0d6aTjHrE5Sjp6gZ1dkPWCmIF.jpg",
+        "count": 1,
+        "timestamps": [
+            "2026-02-02T21:43:29.919Z"
+        ],
+        "status": "PrÃ³ximamente"
+    },
+    {
+        "id": 196285,
+        "title": "Isekai Nonbiri Nouka",
+        "type": "Serie",
+        "image": "https:\/\/image.tmdb.org\/t\/p\/w200\/mE4pE6NOV3AbvTUE3MkFMlfs12n.jpg",
+        "count": 1,
+        "timestamps": [
+            "2026-02-02T21:54:47.055Z"
+        ],
+        "status": "PrÃ³ximamente"
+    },
+    {
+        "id": 72505,
+        "title": "Isekai wa Smartphone to Tomo ni.",
+        "type": "Serie",
+        "image": "https:\/\/image.tmdb.org\/t\/p\/w200\/8IZgvLzBnclalS1o6rzdYle3oIP.jpg",
+        "count": 1,
+        "timestamps": [
+            "2026-02-02T22:08:09.554Z"
+        ],
+        "status": "PrÃ³ximamente"
+    },
+    {
+        "id": 667538,
+        "title": "Transformers: El despertar de las bestias",
+        "type": "PelÃ­cula",
+        "image": "https:\/\/image.tmdb.org\/t\/p\/w200\/peIB7KBBrqW0JsCLQBt9ChEtZ7m.jpg",
+        "count": 1,
+        "timestamps": [
+            "2026-02-02T22:22:06.647Z"
+        ],
+        "status": "PrÃ³ximamente"
+    },
+    {
+        "id": 45822,
+        "title": "Ixion Saga: Dimension Transfer",
+        "type": "Serie",
+        "image": "https:\/\/image.tmdb.org\/t\/p\/w200\/r21Tlfsj08BcwSaL22mxmngBAiz.jpg",
+        "count": 3,
+        "timestamps": [
+            "2026-02-02T22:23:03.919Z",
+            "2026-02-10T00:17:56.117Z"
+        ],
+        "status": "PrÃ³ximamente"
+    },
+    {
+        "id": 64163,
+        "title": "Shinmai Maou no Testament",
+        "type": "Serie",
+        "image": "https:\/\/image.tmdb.org\/t\/p\/w500\/32rDJfZ4iT88UaBigKF7DwVZSuA.jpg",
+        "count": 2,
+        "timestamps": [
+            "2026-02-10T00:05:21.849Z",
+            "2026-02-10T00:59:11.116Z"
+        ],
+        "status": "PrÃ³ximamente"
+    },
+    {
+        "id": 748167,
+        "title": "Los feos",
+        "type": "Película",
+        "image": "https:\/\/image.tmdb.org\/t\/p\/w500\/rsNSv2alCHJK72JvB81aSdk9Fms.jpg",
+        "count": 1,
+        "timestamps": [
+            "2026-02-11T00:02:19.717Z"
+        ],
+        "status": "En Proceso"
+    }
 ]
