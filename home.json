@@ -1069,16 +1069,6 @@
             "updated_at": "2026-02-10T14:26:08.000Z",
             "year": "2013"
         },
-        "100": {
-            "id_tmdb": "21730",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/ldTILeuLdsLRNADg5T9eONC10wO.jpg",
-            "titulo": "Mobile Suit Gundam Wing",
-            "etiquetas": "Action & Adventure, Animación, Sci-Fi & Fantasy, War & Politics",
-            "type": "animes",
-            "created_at": "1995-04-07",
-            "updated_at": "2026-02-10T18:24:59.000Z",
-            "year": "1995"
-        },
         "101": {
             "id_tmdb": "127714",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/utvwr8cBZC0uurtSVbrwKu1dOg2.jpg",
@@ -1118,6 +1108,16 @@
             "created_at": "2016-10-07",
             "updated_at": "2026-02-13T03:41:44.000Z",
             "year": "2016"
+        },
+        "105": {
+            "id_tmdb": "21730",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/ldTILeuLdsLRNADg5T9eONC10wO.jpg",
+            "titulo": "Mobile Suit Gundam Wing",
+            "etiquetas": "Action & Adventure, Animación, Sci-Fi & Fantasy, War & Politics",
+            "type": "animes",
+            "created_at": "1995-04-07",
+            "updated_at": "2026-02-13T20:41:37.000Z",
+            "year": "1995"
         }
     }
 }
