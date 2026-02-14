@@ -27,7 +27,7 @@
     {
       "id": 667538,
       "title": "Transformers: El despertar de las bestias",
-      "type": "Película",
+      "type": "PelÃ­cula",
       "image": "https://image.tmdb.org/t/p/w200/peIB7KBBrqW0JsCLQBt9ChEtZ7m.jpg",
       "count": 2,
       "timestamps": [
@@ -51,7 +51,7 @@
     {
       "id": 748167,
       "title": "Los feos",
-      "type": "Pelí­cula",
+      "type": "PelÃ­Â­cula",
       "image": "https://image.tmdb.org/t/p/w500/rsNSv2alCHJK72JvB81aSdk9Fms.jpg",
       "count": 2,
       "timestamps": [
@@ -63,23 +63,34 @@
     {
       "id": 791373,
       "title": "La liga de la justicia de Zack Snyder",
-      "type": "Pelí­cula",
+      "type": "PelÃ­Â­cula",
       "image": "https://image.tmdb.org/t/p/w500/wcIJgChypo0s6ILm9Dkr13rV5q0.jpg",
       "count": 2,
       "timestamps": [
         "2026-02-12T21:19:31.703Z",
         "2026-02-14T08:35:20.934Z"
       ],
-      "status": "Próximamente"
+      "status": "PrÃ³ximamente"
     },
     {
       "id": 117886,
-      "title": "Shokei Shōjo no Virgin Road",
+      "title": "Shokei ShÅjo no Virgin Road",
       "type": "Serie",
       "image": "https://image.tmdb.org/t/p/w500/pXtIXRrMIH5Ns30S2KOv7KCaPh8.jpg",
       "count": 1,
       "timestamps": [
         "2026-02-14T09:37:16.311Z"
+      ],
+      "status": "PrÃ³ximamente"
+    },
+    {
+      "id": 118821,
+      "title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
+      "type": "Serie",
+      "image": "https://image.tmdb.org/t/p/w500/v2VA99oXvEEuZNeqXSYRhq4uY2j.jpg",
+      "count": 1,
+      "timestamps": [
+        "2026-02-14T12:46:46.463Z"
       ],
       "status": "Próximamente"
     }
