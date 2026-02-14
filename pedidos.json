@@ -16,16 +16,17 @@
       "title": "Isekai wa Smartphone to Tomo ni.",
       "type": "Serie",
       "image": "https://image.tmdb.org/t/p/w200/8IZgvLzBnclalS1o6rzdYle3oIP.jpg",
-      "count": 1,
+      "count": 2,
       "timestamps": [
-        "2026-02-02T22:08:09.554Z"
+        "2026-02-02T22:08:09.554Z",
+        "2026-02-14T08:47:02.780Z"
       ],
       "status": "En Proceso"
     },
     {
       "id": 667538,
       "title": "Transformers: El despertar de las bestias",
-      "type": "PelÃÆÃÂ­cula",
+      "type": "PelÃÂÃÂÃÂÃÂ­cula",
       "image": "https://image.tmdb.org/t/p/w200/peIB7KBBrqW0JsCLQBt9ChEtZ7m.jpg",
       "count": 1,
       "timestamps": [
@@ -48,7 +49,7 @@
     {
       "id": 748167,
       "title": "Los feos",
-      "type": "PelÃÂ­cula",
+      "type": "PelÃÂÃÂ­cula",
       "image": "https://image.tmdb.org/t/p/w500/rsNSv2alCHJK72JvB81aSdk9Fms.jpg",
       "count": 2,
       "timestamps": [
@@ -60,14 +61,14 @@
     {
       "id": 791373,
       "title": "La liga de la justicia de Zack Snyder",
-      "type": "PelÃ­cula",
+      "type": "PelÃÂ­cula",
       "image": "https://image.tmdb.org/t/p/w500/wcIJgChypo0s6ILm9Dkr13rV5q0.jpg",
       "count": 2,
       "timestamps": [
         "2026-02-12T21:19:31.703Z",
         "2026-02-14T08:35:20.934Z"
       ],
-      "status": "PrÃ³ximamente"
+      "status": "PrÃÂ³ximamente"
     }
   ]
 }
