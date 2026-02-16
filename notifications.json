@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "id": "notif_001",
+            "title": "🎬 Nuevas películas agregadas",
+            "message": "Hemos añadido 50 nuevas películas a nuestro catálogo. ¡Revísalas ahora!",
+            "icon": "fa-solid fa-film",
+            "type": "update",
+            "timestamp": "2026-02-16T10:00:00Z"
+        },
+        {
+            "id": "notif_002",
+            "title": "🚀 Actualización de la app",
+            "message": "La versión 2.1.0 ya está disponible con nuevas características",
+            "icon": "fa-solid fa-rocket",
+            "type": "update",
+            "timestamp": "2026-02-15T15:30:00Z"
+        },
+        {
+            "id": "notif_003",
+            "title": "⭐ Promoción especial",
+            "message": "Disfruta de contenido premium este fin de semana",
+            "icon": "fa-solid fa-gift",
+            "type": "promo",
+            "timestamp": "2026-02-14T12:00:00Z"
+        }
+    ]
+}
