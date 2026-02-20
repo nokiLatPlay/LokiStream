@@ -135,6 +135,17 @@
       ],
       "status": "Proximamente",
       "createdBy": true
+    },
+    {
+      "id": 483906,
+      "title": "Polar",
+      "type": "Pelicula",
+      "image": "https://image.tmdb.org/t/p/w500/tjbdSpHqd8dmkrx0K0qYqh5W5Qn.jpg",
+      "count": 1,
+      "timestamps": [
+        "2026-02-20T13:30:21.543Z"
+      ],
+      "status": "Proximamente"
     }
   ]
 }
