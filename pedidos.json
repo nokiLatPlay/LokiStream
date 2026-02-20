@@ -16,18 +16,19 @@
       "title": "Isekai wa Smartphone to Tomo ni.",
       "type": "Serie",
       "image": "https://image.tmdb.org/t/p/w200/8IZgvLzBnclalS1o6rzdYle3oIP.jpg",
-      "count": 3,
+      "count": 4,
       "timestamps": [
         "2026-02-02T22:08:09.554Z",
         "2026-02-14T08:47:02.780Z",
-        "2026-02-14T09:23:10.202Z"
+        "2026-02-14T09:23:10.202Z",
+        "2026-02-20T12:01:50.767Z"
       ],
       "status": "En Proceso"
     },
     {
       "id": 667538,
       "title": "Transformers: El despertar de las bestias",
-      "type": "PeliÃÂÃÂÃÂÃÂ­cula",
+      "type": "PeliÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­cula",
       "image": "https://image.tmdb.org/t/p/w200/peIB7KBBrqW0JsCLQBt9ChEtZ7m.jpg",
       "count": 2,
       "timestamps": [
@@ -74,7 +75,7 @@
     },
     {
       "id": 117886,
-      "title": "Shokei ShÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂjo no Virgin Road",
+      "title": "Shokei ShÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂjo no Virgin Road",
       "type": "Serie",
       "image": "https://image.tmdb.org/t/p/w500/pXtIXRrMIH5Ns30S2KOv7KCaPh8.jpg",
       "count": 1,
