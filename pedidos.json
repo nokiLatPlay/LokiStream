@@ -123,6 +123,18 @@
         "2026-02-20T12:00:31.797Z"
       ],
       "status": "Proximamente"
+    },
+    {
+      "id": 196285,
+      "title": "Isekai Nonbiri Nouka",
+      "type": "Serie",
+      "image": "https://image.tmdb.org/t/p/w500/mE4pE6NOV3AbvTUE3MkFMlfs12n.jpg",
+      "count": 1,
+      "timestamps": [
+        "2026-02-20T13:27:06.386Z"
+      ],
+      "status": "Proximamente",
+      "createdBy": true
     }
   ]
 }
