@@ -3,7 +3,7 @@
         {
             "id": "notif_008",
             "title": "Aviso importante sobre el contenido",
-            "message": "Esta aplicación utiliza la API de TMDB para obtener información sobre películas y series, pero no almacena ni reproduce archivos multimedia directamente. Todo el contenido disponible es obtenido mediante tecnología de scraper desde fuentes públicas en internet. Es posible que algunos títulos no tengan servidores disponibles en ciertos momentos, ya sea porque el contenido no está público, no se encuentra disponible temporalmente o es un estreno reciente. En estos casos, deberás esperar a que haya servidores activos. Si el contenido está disponible en fuentes públicas, nuestro equipo lo incorporará a través de nuestro servidor SM, siempre respetando la disponibilidad del mismo. Gracias por tu comprensión.",
+            "message": "Esta aplicación utiliza la API de TMDB para obtener información sobre películas y series, pero no almacena ni reproduce archivos multimedia directamente. Todo el contenido disponible es obtenido mediante tecnología de scraper desde fuentes públicas en internet. <br/> Es posible que algunos títulos no tengan servidores disponibles en ciertos momentos, ya sea porque el contenido no está público, no se encuentra disponible temporalmente o es un estreno reciente. En estos casos, deberás esperar a que haya servidores activos.<br/> Si el contenido está disponible en fuentes públicas, nuestro equipo lo incorporará a través de nuestro servidor SM, siempre respetando la disponibilidad del mismo.<br/> Gracias por tu comprensión.",
             "icon": "fa-solid fa-film",
             "type": "update",
             "timestamp": "2026-02-22T10:00:00Z"
