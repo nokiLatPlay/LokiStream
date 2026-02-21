@@ -1,3 +1,12 @@
 {
-    "data": []
+    "data": [
+        {
+            "id": "notif_001",
+            "title": "Aviso de contenido",
+            "message": "Esta app usa la API de TMDB y es 100% scraper. Puede que algunas pelis o series no tengan servidores disponibles si son estrenos o no est\u00e1n p\u00fablicas. En ese caso, hay que esperar a que haya links.\r\n\r\nEl servidor SM se usa para tener m\u00e1s opciones, pero puede que algunos contenitos no lo tengan porque a\u00fan no han sido agregados.",
+            "icon": "fa-info-circle",
+            "type": "info",
+            "timestamp": "2026-02-21 06:16:24"
+        }
+    ]
 }
