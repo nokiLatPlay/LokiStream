@@ -2,27 +2,15 @@
     "data": [
         {
             "id": "notif_001",
-            "title": "🎬 Nuevas películas agregadas",
-            "message": "Hemos añadido 50 nuevas películas a nuestro catálogo. ¡Revísalas ahora!",
+            "title": "Aviso importante sobre el contenido",
+            "message": "Esta aplicación utiliza la API de TMDB para obtener información sobre películas y series, pero no almacena ni reproduce archivos multimedia directamente. Todo el contenido disponible es obtenido mediante tecnología de scraper desde fuentes públicas en internet.
+Es posible que algunos títulos no tengan servidores disponibles en ciertos momentos, ya sea porque el contenido no está público, no se encuentra disponible temporalmente o es un estreno reciente. En estos casos, deberás esperar a que haya servidores activos.
+Si el contenido está disponible en fuentes públicas, nuestro equipo lo incorporará a través de nuestro servidor SM, siempre respetando la disponibilidad del mismo.
+Gracias por tu comprensión.",
             "icon": "fa-solid fa-film",
             "type": "update",
-            "timestamp": "2026-02-16T10:00:00Z"
-        },
-        {
-            "id": "notif_002",
-            "title": "🚀 Actualización de la app",
-            "message": "La versión 2.1.0 ya está disponible con nuevas características",
-            "icon": "fa-solid fa-rocket",
-            "type": "update",
-            "timestamp": "2026-02-15T15:30:00Z"
-        },
-        {
-            "id": "notif_003",
-            "title": "⭐ Promoción especial",
-            "message": "Disfruta de contenido premium este fin de semana",
-            "icon": "fa-solid fa-gift",
-            "type": "promo",
-            "timestamp": "2026-02-14T12:00:00Z"
+            "timestamp": "2026-02-22T10:00:00Z"
         }
+        
     ]
 }
