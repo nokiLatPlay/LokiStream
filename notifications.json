@@ -1,3 +1,12 @@
 {
-    "data": []
+    "data": [
+        {
+            "id": "notif_001",
+            "title": "Aviso de contenido",
+            "message": "StreamMix usa la API de TMDB y tecnolog\u00eda scraper. Pod\u00e9s encontrar contenido sin servidores disponibles si no est\u00e1 p\u00fablico o es un estreno reciente. En ese caso, debe esperar a que haya servidores activos. Si el contenido est\u00e1 disponible, lo subimos a nuestro servidor SM.",
+            "icon": "fa-info-circle",
+            "type": "info",
+            "timestamp": "2026-02-21 11:04:44"
+        }
+    ]
 }
