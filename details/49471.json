@@ -7,7 +7,7 @@
     "type": "animes",
     "synopsis": "Un grupo de 15 estudiantes de secundaria que sobresalen en sus propios campos (ej:shaman, deportista, Idol) son invitados a la Academia Hope Peak, una secundaria que solo acepta lo mejor de lo mejor. Graduarse de esta academia significa éxito asegurado en la vida. Poco después de llegar, los estudiantes se ven atrapados en la escuela, con todas las entradas y ventanas selladas, por un sádico oso de peluche llamado \"Monokuma\", quien ha tomado control de las instalaciones y les da dos opciones a los estudiantes: 1) Vivir por el resto de sus vidas dentro de las paredes de la escuela, o, 2) intentar escapar de esta \"graduándose\". Para graduarse un estudiante tiene que realizar un \"Asesinato perfecto\", matando a uno de sus compañeros sin ser descubierto por el resto de los estudiantes. Si el culpable es descubierto, este será \"castigado\". Si se sale con la suya, el quedara en libertad y el resto de los estudiantes serán \"castigados\".",
     "created_at": "2013-07-05",
-    "updated_at": "2026-02-10T14:26:08.000Z",
+    "updated_at": "2026-02-21T22:30:21.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -176,6 +176,167 @@
                         {
                             "nombre": "Enlace 1",
                             "url": "https:\/\/ia804505.us.archive.org\/35\/items\/danganronpa-s-1\/Danganronpa%20S1E13.mp4",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 2",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. Third Time's the Charm",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/rJvqis7jL6vz46uWlpsmghaiBYQ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/dn721900.ca.archive.org\/0\/items\/drp-0-7\/DRP_0%281%29.mp4",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. Hang the Witch",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/aoJflrZqE4VROguJ6RdTuBlRxuC.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/dn721900.ca.archive.org\/0\/items\/drp-0-7\/DRP_0%282%29.mp4",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. Cruel Violence and Hollow Words",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/5NtfStC1ZqoB2mkgWyglmKbpilo.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/dn721900.ca.archive.org\/0\/items\/drp-0-7\/DRP_0%283%29.mp4",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. Who is a Liar",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/AfEh73LNIXxyoYEY4PN8ngtNbRy.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/dn721900.ca.archive.org\/0\/items\/drp-0-7\/DRP_0%284%29.mp4",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "nombre": "05. Dream of Distant Days",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/t1q6rrDsy5UPmQM8C5Gkd8FTxhp.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/dn721900.ca.archive.org\/0\/items\/drp-0-7\/DRP_0%285%29.mp4",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "nombre": "06. No Man Is an Island",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/cGrcWPBl9lniRantuxGssfIiNFK.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/dn721900.ca.archive.org\/0\/items\/drp-0-7\/DRP_0%286%29.mp4",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "nombre": "07. Ultra Despair Girls",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/hnEcnatoWKD8dGi2s3BQEIA7q9S.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/dn721900.ca.archive.org\/0\/items\/drp-0-7\/DRP_0%287%29.mp4",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "nombre": "08. Who Killed Cock Robin?",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/mbHRR8ZjoStS3mQDeTwDYxDuVCc.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/dn721900.ca.archive.org\/0\/items\/drp-0-7\/DRP_0%288%29.mp4",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "nombre": "09. You Are My Reason to Die",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/lkEOxvQpQkAvdYultEEDOHbzlmz.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/dn721900.ca.archive.org\/0\/items\/drp-0-7\/DRP_0%289%29.mp4",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "nombre": "10. Death, Destruction, Despair",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/fyvDUBWdO6zBB2z7sluS8YJHPEg.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/dn721900.ca.archive.org\/0\/items\/drp-0-7\/DRP_0%2810%29.mp4",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "nombre": "11. All God things",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/dVwjudM1GrHaaMyLt0qGjhWkUm2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/dn721900.ca.archive.org\/0\/items\/drp-0-7\/DRP_0%2811%29.mp4",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "nombre": "12. It Is Always Darkest.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/iAbcNXXjchmAiH0agqWWPE1dM1V.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/dn721900.ca.archive.org\/0\/items\/drp-0-7\/DRP_0%2812%29.mp4",
                             "type": "mp4",
                             "language": "Sub"
                         }
