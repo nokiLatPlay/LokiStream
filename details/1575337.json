@@ -4,7 +4,7 @@
     "etiquetas": "Animación, Fantasía, Música, Ciencia ficción",
     "year": "2026",
     "created_at": "2026-01-22",
-    "updated_at": "2026-02-24T18:15:30.000Z",
+    "updated_at": "2026-02-24T18:19:25.000Z",
     "id_tmdb": "1575337",
     "type": "movie",
     "calidad": "HD",
@@ -15,6 +15,24 @@
             "url": "https:\/\/player.zilla-networks.com\/m3u8\/d1e74bf768d4d3f7a3d9bffc200fd682",
             "type": "mp4",
             "language": "Latino"
+        },
+        {
+            "nombre": "Server 2",
+            "url": "https:\/\/player.zilla-networks.com\/play\/d1e74bf768d4d3f7a3d9bffc200fd682",
+            "type": "embed",
+            "language": "Latino"
+        },
+        {
+            "nombre": "Server 3",
+            "url": "https:\/\/player.zilla-networks.com\/play\/e7d47fefa20138922fa837da9aaa7342",
+            "type": "embed",
+            "language": "Latino"
+        },
+        {
+            "nombre": "Server 1",
+            "url": "https:\/\/player.zilla-networks.com\/m3u8\/e7d47fefa20138922fa837da9aaa7342",
+            "type": "mp4",
+            "language": "Sub"
         }
     ]
 }
