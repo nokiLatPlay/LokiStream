@@ -7,7 +7,7 @@
     "type": "animes",
     "synopsis": "​Tsuda Akane, una oficinista de 28 años, parece tenerlo todo bajo control. Hermosa, inteligente y una empleada indispensable para un fabricante de robótica, Akane es admirada en su trabajo... porque sus colegas no pueden verla en casa. En privado, Akane es un desastre total, con un apartamento que parece más un basurero que un lugar para vivir. ¡Menos mal que, estando ebria, pidió una nueva androide llamada Nadeshiko para que le ayudara a limpiar! Bueno, tal vez no sea tan bueno, porque la hermosa androide que llega es una belleza ardiente y lujuriosa. ¡Akane está a punto de recibir más servicio del que esperaba!",
     "created_at": "2026-01-10",
-    "updated_at": "2026-02-24T06:34:07.000Z",
+    "updated_at": "2026-02-24T07:00:11.000Z",
     "temporadas": [
         {
             "temporada": "Especiales",
@@ -37,13 +37,85 @@
                     "enlaces": [
                         {
                             "nombre": "Server 1",
-                            "url": "https:\/\/nika.playmudos.com\/SUI4a0toaUxzVTlOUXRscG9LS2ZGQS9DT1lpamZaU0x1Z0czNWpPT0xRNkUzamhWZ3l6eDJqNWZKWlFmaXcrUg.m3u8?st=PlMoFGDWYKL4Ysk1whwC4w&e=1771942576",
-                            "type": "mp4",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Server 2",
                             "url": "https:\/\/jkanime.net\/jkplayer\/um?e=czdRcVRtcEhocUlTcFRSR2hjaG5YWVFhWGVidVpZeFhtSUk4SFVyZEg1TkRINW9XQ1BKa1ZOdjRHei9RU04yWVJoMkJuRG9CclF0ckJZcllVNnJIQzFVWllQdndMU0prbXFLdzVKK3UzbDA9Ojrdku7kbZwtF6bwiyP5g.0H&t=c3c745307d5c32c77a629c7676e6db8c&op=NzA3NDM=",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. Episodio 2",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/alw7yYRd8ZqWHENIxoELdZ2Cc96.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=TkVYMHBob3dHZmxkZVN2T2RFcU9PUEhJNWNmR29QeHZUT3dMZVZSZGR2cXVmcHhmajFZbjZCQmF1dXE4Ni9lWG5VVnRtSDhlTmdVUFdEY2JjNjJFNnZwYUgycDhaNmpDRFpZT1VEYm9KN0k9OjqlCrVtt.Gt._ZXp9QG4xaq&t=e3ac9a237468f0045cb25932566538af&op=NzA4Mzk=",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. Episodio 3",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/3dKnbxOG6gsiUeRWDF7EoGJ7Ppr.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=b3RMMEROcEsrR1lFcUk1eGJFVmZQNEMyVEUzZ0dzclI3d1Z1NmR3SUx4OEdKMktGWFIxTDNEdkhnblZsSFdaVlFDcnZYYkcwQ0EwdWtmODZkVmFoV2IwU2tTOHNtK3ZSSXFDVXExdkgxTGc9OjoHtgWPxWGDFmhLGg5k6lnC&t=e46a205f090f9b322e5f8bf1d1268d59&op=NzA5ODU=",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. Episodio 4",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/8fjCbH4jdYlJGccNTcols3AyNTa.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=Q0M4b3pScmlHazNBeG85Mmk2dGhHL2hXTWViY2YvLy83VVNIM3ArMTZwL3YrNmxFNGhoTUxyQzlNYUFMaUpxUHpVYmhtZGxGK1QraWxkc0Y5OGdFbENzdkl0b21IckxsS2VucmhxdDdBdkk9OjqFcd5UJiPVaw.4oLkwoeKY&t=fc554ac62e2609b02543bc4cc07ed1f0&op=NzExMDY=",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "nombre": "05. Episodio 5",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/oIguevMCNd1w6MAoNp37pmYrMYG.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=Z0RRUmdIa2YrU2o3ZnBaQkFtbWJzRW9qZldOWGZtSTc3U3BwWXRvdGs5bGtvMWJHS3IrNkdWZyt4bWY3R250YzJZMzNOWEdHZHNlTWJrcjRXVVNrL2hDckRNYkFTMEhyb21naE1qenhGTjA9Ojq_KsJELLYnA4MUc1mIJDQW&t=5d4fd6f0ae574759379eadd8a822d30a&op=NzEzNTc=",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "nombre": "06. Episodio 6",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/vjETKxY7yoSGbS1JrSpKlOSJIo4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=dm5PVzVrSlpqcm52cGFzeE1VQW8vQ1ZhV2p5Z3hwRlNJYXhReGZOTEoyU0FZY1RoRndXdTdZcWp0SUJoQ0pBTUJFbFg3MTA1UW95Y3lyMWhnMGFJR0pTWEMwN201MDBNUCtEeEdMbVpMaGs9Ojo14DuHOwgxKKE2xAthmUSI&t=3b2f467703050e6d8af2f65f882434b9&op=NzE0NzM=",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "nombre": "07. Episodio 7",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/oQOXUHmrfSBLwyhgyPdMIgslnGz.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=cHJGaFViK1JzVHdGQWVRejVlcXRxYkxkNnlDQU90UWpMd0oreVBhQXdrRWhNdEdjNkpmZkxUN2RkUzZlWTFPbk9jTDVnT2g3SjlyUWhONHFEQURVbnZ3SzhrcWszQS8rVmpNSDZKSFNkcWc9OjpOAWW295.d3PF.fyjPa4rz&t=10f08bc9bd8c8166aee2fa5e662e9252&op=NzE2MDg=",
                             "type": "embed",
                             "language": "Sub"
                         }
