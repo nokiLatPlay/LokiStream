@@ -7,11 +7,49 @@
     "type": "animes",
     "synopsis": "​Tsuda Akane, una oficinista de 28 años, parece tenerlo todo bajo control. Hermosa, inteligente y una empleada indispensable para un fabricante de robótica, Akane es admirada en su trabajo... porque sus colegas no pueden verla en casa. En privado, Akane es un desastre total, con un apartamento que parece más un basurero que un lugar para vivir. ¡Menos mal que, estando ebria, pidió una nueva androide llamada Nadeshiko para que le ayudara a limpiar! Bueno, tal vez no sea tan bueno, porque la hermosa androide que llega es una belleza ardiente y lujuriosa. ¡Akane está a punto de recibir más servicio del que esperaba!",
     "created_at": "2026-01-10",
-    "updated_at": "2026-02-24T06:28:36.000Z",
+    "updated_at": "2026-02-24T06:34:07.000Z",
     "temporadas": [
         {
+            "temporada": "Especiales",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. Episodio 1",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/ryderjet.com",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "temporada": "Temporada 1",
-            "capitulos": []
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. Episodio 1",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/tOpCUWWCB1VaKXP90p6hvvUaPsZ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Server 1",
+                            "url": "https:\/\/nika.playmudos.com\/SUI4a0toaUxzVTlOUXRscG9LS2ZGQS9DT1lpamZaU0x1Z0czNWpPT0xRNkUzamhWZ3l6eDJqNWZKWlFmaXcrUg.m3u8?st=PlMoFGDWYKL4Ysk1whwC4w&e=1771942576",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Server 2",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=czdRcVRtcEhocUlTcFRSR2hjaG5YWVFhWGVidVpZeFhtSUk4SFVyZEg1TkRINW9XQ1BKa1ZOdjRHei9RU04yWVJoMkJuRG9CclF0ckJZcllVNnJIQzFVWllQdndMU0prbXFLdzVKK3UzbDA9Ojrdku7kbZwtF6bwiyP5g.0H&t=c3c745307d5c32c77a629c7676e6db8c&op=NzA3NDM=",
+                            "type": "embed",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
