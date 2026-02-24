@@ -1,0 +1,20 @@
+{
+    "titulo": "La princesa Kaguya del cosmos",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/9YrbOSKoreS4oIjuwx9YjkAU8KP.jpg",
+    "etiquetas": "Animación, Fantasía, Música, Ciencia ficción",
+    "year": "2026",
+    "created_at": "2026-01-22",
+    "updated_at": "2026-02-24T18:15:30.000Z",
+    "id_tmdb": "1575337",
+    "type": "movie",
+    "calidad": "HD",
+    "synopsis": "La vida de Iroha se sale de control cuando Kaguya, una despreocupada fugitiva de la Luna, se muda con ella y la convence para actuar juntas en un mundo virtual.",
+    "enlaces": [
+        {
+            "nombre": "Enlace Principal",
+            "url": "https:\/\/player.zilla-networks.com\/m3u8\/d1e74bf768d4d3f7a3d9bffc200fd682",
+            "type": "mp4",
+            "language": "Latino"
+        }
+    ]
+}
