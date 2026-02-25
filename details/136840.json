@@ -1,0 +1,246 @@
+{
+    "id_tmdb": "136840",
+    "titulo": "The Demon Sword Master of Excalibur Academy",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/tXl07fRNFKBY4FUWB3WEWIbMWAv.jpg",
+    "etiquetas": "Animación, Comedia, Action & Adventure, Sci-Fi & Fantasy",
+    "year": "2023",
+    "type": "animes",
+    "synopsis": "¡Las batallas por reinos antiguos no son nada comparadas con las batallas de un salón de clases! ¡Al despertar de la estasis mágica después de mil años, el Señor Oscuro Leonis se encuentra de repente en el cuerpo de un niño de diez años! Rápidamente conoce a Riselia, una chica que se enfrenta a los Voids, criaturas que casi han exterminado a la humanidad. Decidida a descubrir los misterios de esta extraña nueva era, Leonis se inscribe en la Academia Excalibur, una escuela que entrena a los estudiantes para luchar contra estos enigmáticos monstruos. ¿Podrían los Voids tener alguna conexión con el pasado de Leonis?",
+    "created_at": "2023-10-03",
+    "updated_at": "2026-02-25T02:42:16.000Z",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. El Señor de los Demonios regresa",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/rKd3NJblRLfrLb7I0VV2TkK640f.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/8ab53ca52220ba5bf7a677168b6d9f4d",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/8ab53ca52220ba5bf7a677168b6d9f4d",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. Un Destino Nacido",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/gcW7pCHa56hKXQTdq4pIHCbEjL3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/b1ac1e7bf107a7bdc97798c38b1128e3",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/b1ac1e7bf107a7bdc97798c38b1128e3",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. El despertar del alma",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/tDprIn6g5YJxnaiJ3FHmxtxnyI8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/8ebdba06b3dcb20934ae681c72494fcd",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/8ebdba06b3dcb20934ae681c72494fcd",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. La agitación de un amargo rencor",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/rcDF5aBr9kBj1Hf2IScxOn8mUPc.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/87472f9d9dd3af51d97486e2e71e2b62",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/87472f9d9dd3af51d97486e2e71e2b62",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "nombre": "05. Episodio 5",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/1at7bB1NWwG7yHwUrPkLbDHEcIr.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/aa400090229402949ab4f17d5c896a1d",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/aa400090229402949ab4f17d5c896a1d",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "nombre": "06. Episodio 6",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/qdDiRm9dty73msZAn2vMoW6nMpP.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/728997137292afaaec215fd21d3a0813",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/728997137292afaaec215fd21d3a0813",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "nombre": "07. Episodio 7",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/2PEd38TZwY3gnHUMcfvmFVU1O8X.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/1eee5a47abdc1a4feaa3fa888df0a76c",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/1eee5a47abdc1a4feaa3fa888df0a76c",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "nombre": "08. Episodio 8",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/8UN7MyaMNLVoF8udrUodTVBxfQc.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/c3d23d72e575646409f23bf4e95015bc",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/c3d23d72e575646409f23bf4e95015bc",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "nombre": "09. Episodio 9",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/mRzOS4qikE72QIpo0OPIpzc99Vd.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/d3d61c3a148cefbb3e1e92d7f14cb62f",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/d3d61c3a148cefbb3e1e92d7f14cb62f",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "nombre": "10. Episodio 10",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/i3Tw6mw6y85wnf8ToKerfcXnaa1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/c8296a7fb888ece7f7dd686703b03d5d",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/c8296a7fb888ece7f7dd686703b03d5d",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "nombre": "11. Episodio 11",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/zPCzTBrmnlfpwbmorDzFqRDSnPN.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/a275df9a04faece7146c9c1938183197",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/a275df9a04faece7146c9c1938183197",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "nombre": "12. Episodio 12",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/mPDLNAzc3RBRD7Xe4tHoFGnKuZR.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/97e7f518e0ddb9a934bb658468ea11f3",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/97e7f518e0ddb9a934bb658468ea11f3",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
