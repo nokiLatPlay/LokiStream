@@ -1,0 +1,26 @@
+{
+    "titulo": "Jujutsu Kaisen 0",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/2ndvx03fmREMxEgaZ1vWt756TOQ.jpg",
+    "etiquetas": "Animación, Acción, Fantasía",
+    "year": "2021",
+    "created_at": "2021-12-24",
+    "updated_at": "2026-02-24T19:12:31.000Z",
+    "id_tmdb": "810693",
+    "type": "movie",
+    "calidad": "HD",
+    "synopsis": "Yuta Okkotsu es un nervioso estudiante de instituto que sufre un grave problema: su amiga de la infancia Rika se ha convertido en una maldición y no le deja en paz. Como Rika no es una maldición cualquiera, su situación es percibida por Satoru Gojo, un profesor del instituto Jujutsu, una escuela donde los exorcistas noveles aprenden a combatir las maldiciones. Gojo convence a Yuta para que se matricule, pero ¿podrá aprender lo suficiente a tiempo para enfrentarse a la Maldición que le persigue?",
+    "enlaces": [
+        {
+            "nombre": "Server 1",
+            "url": "https:\/\/player.zilla-networks.com\/play\/34cdc81787c65dd5d1d2c88c6d93a484",
+            "type": "embed",
+            "language": "Sub"
+        },
+        {
+            "nombre": "Server 2",
+            "url": "https:\/\/player.zilla-networks.com\/m3u8\/34cdc81787c65dd5d1d2c88c6d93a484",
+            "type": "mp4",
+            "language": "Sub"
+        }
+    ]
+}
