@@ -1,0 +1,793 @@
+{
+    "id_tmdb": "45782",
+    "titulo": "Sword Art Online",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/htNohqrYEwuz4fCa9ATVF90s58S.jpg",
+    "etiquetas": "Animación, Sci-Fi & Fantasy, Action & Adventure",
+    "year": "2012",
+    "type": "animes",
+    "synopsis": "En \"Sword Art Online\", 10,000 jugadores quedan atrapados en un MMORPG donde morir en el juego significa morir en la vida real. Kirito, un jugador solitario, se asocia con la guerrera Asuna para intentar escapar del mundo virtual y completar el juego.",
+    "created_at": "2012-07-08",
+    "updated_at": "2026-02-25T02:34:51.000Z",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. El mundo de las espadas",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/wokec1ewZhYNMLcKuK01H09i2pB.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/1db87a56703e3bc00ebde69e253bce11",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/1db87a56703e3bc00ebde69e253bce11",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/ff391d2e379cbc857d900f0f6079e3f8",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/ff391d2e379cbc857d900f0f6079e3f8",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. Beater",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/hiBynS5SFi0ltxFsaYtq39C9k76.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/0be30ebdb284fe832ab70e78c75928c8",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/0be30ebdb284fe832ab70e78c75928c8",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/3c188931c736535924c823c3df487517",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/3c188931c736535924c823c3df487517",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. El reno de nariz roja",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/kxBO1gp72V4uBWLSACzL3RvEjQ9.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/e8ecb92fbf835822276a487ab3fde9f9",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/e8ecb92fbf835822276a487ab3fde9f9",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/09ece1b38d3aae4d8bd12a814e8743ec",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/09ece1b38d3aae4d8bd12a814e8743ec",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. El espadachin negro",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/xg8AqSOPUaEJvaG8GcdPsCIT2MI.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/5d205b7057a90131e3ecce078b2712b7",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/5d205b7057a90131e3ecce078b2712b7",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/d22c29228ae8521b4a868e8607cc334a",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/d22c29228ae8521b4a868e8607cc334a",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "nombre": "05. Incidente en la zona segura",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/4r89kn8VYl2NahtGAOS1V552w71.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/ba2bbb97bd132e0c5b7fdbaedcc03b56",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/ba2bbb97bd132e0c5b7fdbaedcc03b56",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/64b9dc71995783f897f59eebd0d4e426",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/64b9dc71995783f897f59eebd0d4e426",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "nombre": "06. Fantasma vengador",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/zz9Zw04cvobbS5Bf9MYKxptk9aQ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/990facb17d2aab1780ec5cc8a8d076dd",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/990facb17d2aab1780ec5cc8a8d076dd",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/41e051dbdcda906cd7b602a2c4992940",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/41e051dbdcda906cd7b602a2c4992940",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "nombre": "07. La temperatura del corazón",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/iWGUPY39gmNrMmKAfkP8dalEVyz.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/172ec55926a85245a903ade52020b54f",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/172ec55926a85245a903ade52020b54f",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/23fabee8fc5d4c7b0a582ebd41e002c5",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/23fabee8fc5d4c7b0a582ebd41e002c5",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "nombre": "08. La danza de la espada de blanco y negro",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/cmajeWlA7OCpIT2H6JPXIo9Lwdw.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/3dbf145460d136ba721d93b0c37ea69d",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/3dbf145460d136ba721d93b0c37ea69d",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/79de22bc3ab89965a8129255a7449de0",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/79de22bc3ab89965a8129255a7449de0",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "nombre": "09. El demonio de ojos azules",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/t2GBif2MdqYhZvQx755Y9xunQkF.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/e05c30282506f2e930c66aaaf3796624",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/e05c30282506f2e930c66aaaf3796624",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/f236dabd674d65548b745d0e60885617",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/f236dabd674d65548b745d0e60885617",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "nombre": "10. Aura asesina carmesí",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/2A6GRQT5uDJhq9vc46fISn0CNzm.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/b22c4db04a0c52dca73feb97bcfc8457",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/b22c4db04a0c52dca73feb97bcfc8457",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/9cfd1aaf770e3c339d30bbd80734b37e",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/9cfd1aaf770e3c339d30bbd80734b37e",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "nombre": "11. La chica en el rocío matutino",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/tULdNWI4qoToSyO5PUEiwRWncAh.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/fcca3345dcd7295c24a8f1083660e4b5",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/fcca3345dcd7295c24a8f1083660e4b5",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/50ccc061894e4a4f22ea7b59b565a3be",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/50ccc061894e4a4f22ea7b59b565a3be",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "nombre": "12. El corazón de Yui",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/k8rzVr0A4jtsskjRMLEM5NNlqfr.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/ec3bf1224f45c03728a0c14c7732b457",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/ec3bf1224f45c03728a0c14c7732b457",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/60b4e9a834499d1e024365007172b802",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/60b4e9a834499d1e024365007172b802",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "13",
+                    "nombre": "13. Al borde del abismo del infierno",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/ooI4fJvu4eUZgvRTQx1v3uzUTLU.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/d38d7952a05af081600d5ff56ed8f5ec",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/d38d7952a05af081600d5ff56ed8f5ec",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/ce879952477a8169eaf2ae22fabafcee",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/ce879952477a8169eaf2ae22fabafcee",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "14",
+                    "nombre": "14. El fin del mundo",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/fcnSuM0WQyKODZ6BD1yUGJpDbIf.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/71570a83f8c14c6c9ba0dc3627540ecf",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/71570a83f8c14c6c9ba0dc3627540ecf",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/436ba2887bec3fd00dcd6996bddf45fa",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/436ba2887bec3fd00dcd6996bddf45fa",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "15",
+                    "nombre": "15. Regreso",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/sMmzH8KpSNV9dGEQ3LP1Xzeokfo.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/15c9f648865d5c1b543874be083348fa",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/15c9f648865d5c1b543874be083348fa",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/ebb5a840235b682f093b0461083d7e70",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/ebb5a840235b682f093b0461083d7e70",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "16",
+                    "nombre": "16. Tierra de las Hadas",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/grHJC5Gk7fuk8jywVhs7UYXLiLG.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/13a4e95ef55ceb29969f3dbe9921a9cb",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/13a4e95ef55ceb29969f3dbe9921a9cb",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/41efba4e712a118b372aff781b029960",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/41efba4e712a118b372aff781b029960",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "17",
+                    "nombre": "17. La reina en cautiverio",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/b702zYjB82kk0APiyCCYBn7fGJU.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/937a72e49b954d351abab405998bd6dc",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/937a72e49b954d351abab405998bd6dc",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/3eb5f1a536fc09ba563db06d981fca15",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/3eb5f1a536fc09ba563db06d981fca15",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "18",
+                    "nombre": "18. Hacia el Árbol del Mundo",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/kP5JiBHMtIuiTcntCZUe9ERzAYj.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/bcb1adb6dffc0929c324a6c3899b2136",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/bcb1adb6dffc0929c324a6c3899b2136",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/26281dd4eb82e19f7a7c8607b48a9664",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/26281dd4eb82e19f7a7c8607b48a9664",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "19",
+                    "nombre": "19. Corredor Lugru",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/eMcIqPhChoBMpzqXG4CIUuEjKR3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/5057bb4fd57691761ab7835c8a45dc63",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/5057bb4fd57691761ab7835c8a45dc63",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/136dfc95253a553844e7bfe648e49471",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/136dfc95253a553844e7bfe648e49471",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "20",
+                    "nombre": "20. El general de la llama ardiente",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/cOpNhZSFZv2ocUaGfZajDlHz7NK.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/fd7439f7f0d54c30575cd04e9872727f",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/fd7439f7f0d54c30575cd04e9872727f",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/84fdd7d3d074e619a59ffd628b231bba",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/84fdd7d3d074e619a59ffd628b231bba",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "21",
+                    "nombre": "21. La verdad de Alfheim",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/9AZUXEji3uy6yu7rtnb2iRuapYm.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/cf546d24d112fa64135eac1935316fb4",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/cf546d24d112fa64135eac1935316fb4",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/569c3b36b00389111b4f20becb326034",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/569c3b36b00389111b4f20becb326034",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "22",
+                    "nombre": "22. La gran aventura",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/d3Bl4GEYdM6rLO2BYoNz2esIAD7.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/d447ae322968fc9c5c7d27004f2b5017",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/d447ae322968fc9c5c7d27004f2b5017",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/1ee9ea98bfa66b3264e5d6788c0ad177",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/1ee9ea98bfa66b3264e5d6788c0ad177",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "23",
+                    "nombre": "23. Lazos",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/2OrvGXAS28CGhEs96FCAjkHDAUJ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/18fc4da380cc42323c5ca91e0dc9c905",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/18fc4da380cc42323c5ca91e0dc9c905",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/44c237ef24410ec4a78febcfb185ea33",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/44c237ef24410ec4a78febcfb185ea33",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "24",
+                    "nombre": "24. Héroe dorado",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/3hdDhZFnQ524Tjs5ehiyrDzXJjA.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/5e34d2d12db6e63ae4d41faa8b7d50f5",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/5e34d2d12db6e63ae4d41faa8b7d50f5",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/6671b9884bb6e05d911d5b5a900e0844",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/6671b9884bb6e05d911d5b5a900e0844",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "25",
+                    "nombre": "25. La semilla del mundo",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/oPuUnWxMttvfVXv99aVgXO3qxpV.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/1d0d8f86a127b66403fd103d915c73d1",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/1d0d8f86a127b66403fd103d915c73d1",
+                            "type": "mp4",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/2548d65deaf96106e947ff996f37528e",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/2548d65deaf96106e947ff996f37528e",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
