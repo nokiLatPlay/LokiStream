@@ -1,0 +1,246 @@
+{
+    "id_tmdb": "245842",
+    "titulo": "Wistoria: Wand and Sword",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/v8gkKx1BvD3AH0MjwgCPbHTwxPE.jpg",
+    "etiquetas": "Animación, Action & Adventure, Sci-Fi & Fantasy",
+    "year": "2024",
+    "type": "animes",
+    "synopsis": "En un mundo donde reina la magia, Will Serfort no puede lanzar un hechizo. Aunque es muy trabajador, sus compañeros de clase piensan menos de él por ello. Sin embargo, tiene una fuerza secreta: su espada. ¿Podrá Will desafiar las expectativas con fuerza sobre magia y espada sobre varita? ¡Descúbrelo en esta épica aventura de espada y brujería!",
+    "created_at": "2024-07-07",
+    "updated_at": "2026-02-25T02:41:09.000Z",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. Como una espada solitaria",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/ieLlWMtF5bi7DlyJITf21k6Cu3P.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/254dd19a0f9f2a107f7bd5c44b5f459e",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/254dd19a0f9f2a107f7bd5c44b5f459e",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. Como si no importara nada",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/9LpMgZDv72ZJjuejWndwQWU1ILk.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/0657a9837921a23c19e228b5d64fdafa",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/0657a9837921a23c19e228b5d64fdafa",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. Order & Watcher",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/7t1iPH7vjBBKTTpNKZi4hBDBEps.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/873aaa58a547d90b9e43f5e931ba5cb8",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/873aaa58a547d90b9e43f5e931ba5cb8",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. La víspera del Gran Festival",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/7oiqWAFQv4vlkuABNvBdz3FIUUu.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/584d6aaa3599d34970bce080f0085497",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/584d6aaa3599d34970bce080f0085497",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "nombre": "05. Da el pistoletazo de salida",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/4QBbhrpCMm335ntCEpqZNI8cyxY.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/3538ec45b1b2258714a12014b496ea4c",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/3538ec45b1b2258714a12014b496ea4c",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "nombre": "06. Entre la ira y la pasión",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/hvZzyGam9CqZGO773jDkylmO6y2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/ddf48d53ebc115625d040d368f30c521",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/ddf48d53ebc115625d040d368f30c521",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "nombre": "07. Doce secretos de hielo, El Glace Frosse",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/myPtGXeEHEtaaT0ZMt9UhDVyjmm.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/6e7c3fde7e716ddc7708bc365c76f967",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/6e7c3fde7e716ddc7708bc365c76f967",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "nombre": "08. Shall we date?",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/rmVsK0myQRoRwTtXtA26wAa5diD.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/7bb00a57760c7bac85a9b8c38ca7e592",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/7bb00a57760c7bac85a9b8c38ca7e592",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "nombre": "09. Comienzan las prácticas",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/p6wYSWB7BiIUi7WFFRagSAuNKTr.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/e1323c045d6dfb8047de9c1df5c159d0",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/e1323c045d6dfb8047de9c1df5c159d0",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "nombre": "10. Nuestro sueño",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/8flSVODuQtO0UmkCPWbTGA1qAtL.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/5474165bcf480335e11e57dd32729da6",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/5474165bcf480335e11e57dd32729da6",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "nombre": "11. El verdadero nombre de los cobardes",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/lEWHb3qmE040Wb5ncCvf3y2BCh2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/9d5d2b5103181de44953a16c296eb84e",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/9d5d2b5103181de44953a16c296eb84e",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "nombre": "12. Varita y espada",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/2fxclTqjg9gf2Bn4NxtpQGo6wsk.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/7d41b4abf3b31896f9353e1ccfcd278c",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/7d41b4abf3b31896f9353e1ccfcd278c",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
