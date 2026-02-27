@@ -1,0 +1,246 @@
+{
+    "id_tmdb": "80826",
+    "titulo": "Happy Sugar Life",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/wsfIwWu5xipQFZM2WtKRf6mK8J1.jpg",
+    "etiquetas": "Animación, Drama, Misterio, Crimen",
+    "year": "2018",
+    "type": "animes",
+    "synopsis": "Satou Matsuzaka, una chica que no se ha enamorado nunca, se fija en Shio Koube. Las dos se atraen mutuamente y comienzan una nueva vida. Satou no va a querer que nadie ponga en peligro su nueva situación y hará cualquier cosa por amor, pudiendo llegar a amenazar, poner límites o matar a quien sea. Una historia de terror psicológico de un amor verdadero, doloroso y dulce.",
+    "created_at": "2018-07-14",
+    "updated_at": "2026-02-27T01:44:34.000Z",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. La chica dulce prueba el amor",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/2sCyx9mncIVUZCweUxb1zArkXZp.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/dd638f650cbdef259fd3fdda423a260b",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/dd638f650cbdef259fd3fdda423a260b",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. El jardín en miniatura de Shio",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/zoLRpWJNHfDK6jAcQGvpuyZ3jpV.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/2054871359c5216cf28b78f223841ca7",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/2054871359c5216cf28b78f223841ca7",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. Una larga noche monocromática",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/5qQEuGbhEQb6F0Wo5PZ4azTlzF.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/fa44d850160b2f29f6c56da89113e4c5",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/fa44d850160b2f29f6c56da89113e4c5",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. La chica dulce no se da cuenta",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/s2ZmhrT7jKo9ItGwjrxpqY2sNUP.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/a84aff137612c7f38f7ffa70f797582a",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/a84aff137612c7f38f7ffa70f797582a",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "nombre": "05. El sabor del crimen y el castigo",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/wEuQfCOj174QdKvPqjqjHI5Aho4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/072ceafbfcbad3e6d7981f1d5ebaf367",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/072ceafbfcbad3e6d7981f1d5ebaf367",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "nombre": "06. Giremos alrededor de la luna",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/gviNEukMIjWC9mqiu3dlajHs11L.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/fbbb5a9b95c0ca6cb10a8e172fe503fd",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/fbbb5a9b95c0ca6cb10a8e172fe503fd",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "nombre": "07. De qué está hecha la chica dulce",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/tuaAAjJWuZPqnB8jhqeMKKVI3eJ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/bdade60c5e1348dbe5cd4492f22cebdc",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/bdade60c5e1348dbe5cd4492f22cebdc",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "nombre": "08. El piso 1208",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/dRKW8LYZgHe885hBbrRdozOydid.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/5f68158eb2607feb84984a8c7f6d517c",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/5f68158eb2607feb84984a8c7f6d517c",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "nombre": "09. La lluvia derretida",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/fedwzqZencQci31FtYMu5GclKvU.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/e13b745b87751cd928ceb97b1f04c7bf",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/e13b745b87751cd928ceb97b1f04c7bf",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "nombre": "10. Una proposición bajo el cielo estrellado",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/lfjLJc2yKMRKaEU9KugyeJHpB3j.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/ab783aa65158ff3f219d4bdf269bd8cb",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/ab783aa65158ff3f219d4bdf269bd8cb",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "nombre": "11. Compartiendo un momento eterno",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/hYNTdsibq1k9cNrXABYXCdnprKt.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/9169f330c826cd42120214e52c09defc",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/9169f330c826cd42120214e52c09defc",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "nombre": "12. Happy Sugar Life",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/vAb429s1OnoclUR89R97D3USOpw.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/795103ff542ce3173d549e54c1d98310",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/795103ff542ce3173d549e54c1d98310",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
