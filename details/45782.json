@@ -7,7 +7,7 @@
     "type": "animes",
     "synopsis": "En \"Sword Art Online\", 10,000 jugadores quedan atrapados en un MMORPG donde morir en el juego significa morir en la vida real. Kirito, un jugador solitario, se asocia con la guerrera Asuna para intentar escapar del mundo virtual y completar el juego.",
     "created_at": "2012-07-08",
-    "updated_at": "2026-02-26T21:34:39.000Z",
+    "updated_at": "2026-02-26T21:39:36.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -2291,15 +2291,15 @@
             "temporada": "Temporada 4",
             "capitulos": [
                 {
-                    "episode_id": "00",
-                    "nombre": "00. Episodio",
-                    "portada": "",
-                    "enlaces": []
-                },
-                {
                     "episode_id": "01",
                     "nombre": "01. En el extremo norte",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/z8cL9agh1EQ91AF03afc1O73zmv.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. Asalto",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/oBgJg14AIUxX16x57fnxs0py6cq.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -2328,9 +2328,9 @@
                     ]
                 },
                 {
-                    "episode_id": "02",
-                    "nombre": "02. Asalto",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/oBgJg14AIUxX16x57fnxs0py6cq.jpg",
+                    "episode_id": "03",
+                    "nombre": "03. Experimento de carga final",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/ps9zaKiZOSBYi5l3gWUnh2UGGuc.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -2359,9 +2359,9 @@
                     ]
                 },
                 {
-                    "episode_id": "03",
-                    "nombre": "03. Experimento de carga final",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/ps9zaKiZOSBYi5l3gWUnh2UGGuc.jpg",
+                    "episode_id": "04",
+                    "nombre": "04. Territorio Oscuro",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/3uewQSR2HLDr9WsuMWGNlwnzhDG.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -2390,9 +2390,9 @@
                     ]
                 },
                 {
-                    "episode_id": "04",
-                    "nombre": "04. Territorio Oscuro",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/3uewQSR2HLDr9WsuMWGNlwnzhDG.jpg",
+                    "episode_id": "05",
+                    "nombre": "05. La Noche Antes de la guerra",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/qjQmvuTg2xkpeeWJiBHmIcpvTDa.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -2421,9 +2421,9 @@
                     ]
                 },
                 {
-                    "episode_id": "05",
-                    "nombre": "05. La Noche Antes de la guerra",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/qjQmvuTg2xkpeeWJiBHmIcpvTDa.jpg",
+                    "episode_id": "06",
+                    "nombre": "06. Batalla de los Caballeros",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/9Ab7KV9JsbBKmAG9WZ6QQQTnNSx.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -2452,9 +2452,9 @@
                     ]
                 },
                 {
-                    "episode_id": "06",
-                    "nombre": "06. Batalla de los Caballeros",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/9Ab7KV9JsbBKmAG9WZ6QQQTnNSx.jpg",
+                    "episode_id": "07",
+                    "nombre": "07. La marca de los indignos",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/7lUTCntkCiZmfI46FXtNi4TM7UA.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -2483,9 +2483,9 @@
                     ]
                 },
                 {
-                    "episode_id": "07",
-                    "nombre": "07. La marca de los indignos",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/7lUTCntkCiZmfI46FXtNi4TM7UA.jpg",
+                    "episode_id": "08",
+                    "nombre": "08. Sangre y Vida",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/aac9GQl1szARGPUH0e5dFUmu0y7.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -2514,9 +2514,9 @@
                     ]
                 },
                 {
-                    "episode_id": "08",
-                    "nombre": "08. Sangre y Vida",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/aac9GQl1szARGPUH0e5dFUmu0y7.jpg",
+                    "episode_id": "09",
+                    "nombre": "09. Espada y puño",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/ngJJORUALoKW7OaoSaFlBg0Pr37.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -2545,9 +2545,9 @@
                     ]
                 },
                 {
-                    "episode_id": "09",
-                    "nombre": "09. Espada y puño",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/ngJJORUALoKW7OaoSaFlBg0Pr37.jpg",
+                    "episode_id": "10",
+                    "nombre": "10. Stacia, la diosa de la creación",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/9is6M5wHgBtftPHks9sLJ7ASoZx.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -2576,9 +2576,9 @@
                     ]
                 },
                 {
-                    "episode_id": "10",
-                    "nombre": "10. Stacia, la diosa de la creación",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/9is6M5wHgBtftPHks9sLJ7ASoZx.jpg",
+                    "episode_id": "11",
+                    "nombre": "11. Decisión impasible",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/ojEuCltZ3ZQIMYLYGhABH6AopnS.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -2607,9 +2607,9 @@
                     ]
                 },
                 {
-                    "episode_id": "11",
-                    "nombre": "11. Decisión impasible",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/ojEuCltZ3ZQIMYLYGhABH6AopnS.jpg",
+                    "episode_id": "12",
+                    "nombre": "12. Rayo de Luz",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/Agyt1VH7zVHwklzlb9IwVMSynjf.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -2638,9 +2638,9 @@
                     ]
                 },
                 {
-                    "episode_id": "12",
-                    "nombre": "12. Rayo de Luz",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/Agyt1VH7zVHwklzlb9IwVMSynjf.jpg",
+                    "episode_id": "13",
+                    "nombre": "13. La gran guerra de Underworld",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/pefmd7agmQ2xA2ZvLJqxHQMlEg6.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -2669,9 +2669,9 @@
                     ]
                 },
                 {
-                    "episode_id": "13",
-                    "nombre": "13. La gran guerra de Underworld",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/pefmd7agmQ2xA2ZvLJqxHQMlEg6.jpg",
+                    "episode_id": "14",
+                    "nombre": "14. El Límite de la Eternidad",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/bN9TqIETmwNO0wXeZM2Y4p33vw.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -2700,9 +2700,9 @@
                     ]
                 },
                 {
-                    "episode_id": "14",
-                    "nombre": "14. El Límite de la Eternidad",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/bN9TqIETmwNO0wXeZM2Y4p33vw.jpg",
+                    "episode_id": "15",
+                    "nombre": "15. Agitación",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/vdStwtLGjoZsWfVEyV0fLOUgl4l.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -2731,9 +2731,9 @@
                     ]
                 },
                 {
-                    "episode_id": "15",
-                    "nombre": "15. Agitación",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/vdStwtLGjoZsWfVEyV0fLOUgl4l.jpg",
+                    "episode_id": "16",
+                    "nombre": "16. Código 871",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/q6baJ9R5GwEnLLxoX1dC7pITrFC.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -2762,9 +2762,9 @@
                     ]
                 },
                 {
-                    "episode_id": "16",
-                    "nombre": "16. Código 871",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/q6baJ9R5GwEnLLxoX1dC7pITrFC.jpg",
+                    "episode_id": "17",
+                    "nombre": "17. Hijo del demonio",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/5xhOYfgLATDxfqnjYZYHg49CQ2w.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -2793,9 +2793,9 @@
                     ]
                 },
                 {
-                    "episode_id": "17",
-                    "nombre": "17. Hijo del demonio",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/5xhOYfgLATDxfqnjYZYHg49CQ2w.jpg",
+                    "episode_id": "18",
+                    "nombre": "18. Recuerdos",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/ahW4m6CEBXXHPhC6qejIKrgr39.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -2824,9 +2824,9 @@
                     ]
                 },
                 {
-                    "episode_id": "18",
-                    "nombre": "18. Recuerdos",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/ahW4m6CEBXXHPhC6qejIKrgr39.jpg",
+                    "episode_id": "19",
+                    "nombre": "19. Despertar",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/yGU5BwtNM1tMLMwZQNStubq5mN0.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -2855,9 +2855,9 @@
                     ]
                 },
                 {
-                    "episode_id": "19",
-                    "nombre": "19. Despertar",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/yGU5BwtNM1tMLMwZQNStubq5mN0.jpg",
+                    "episode_id": "20",
+                    "nombre": "20. Espada del Cielo Estrellado",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/fLiy5OO1Bq6ykose7z4QiNIK1g6.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -2886,9 +2886,9 @@
                     ]
                 },
                 {
-                    "episode_id": "20",
-                    "nombre": "20. Espada del Cielo Estrellado",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/fLiy5OO1Bq6ykose7z4QiNIK1g6.jpg",
+                    "episode_id": "21",
+                    "nombre": "21. A través del Tiempo",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/pOsw4FEifCe4sywwv59a9qJpmSr.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -2917,9 +2917,9 @@
                     ]
                 },
                 {
-                    "episode_id": "21",
-                    "nombre": "21. A través del Tiempo",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/pOsw4FEifCe4sywwv59a9qJpmSr.jpg",
+                    "episode_id": "22",
+                    "nombre": "22. Alice",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/7lCpkD21iDINQX17Wd22MSjN28I.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -2948,9 +2948,9 @@
                     ]
                 },
                 {
-                    "episode_id": "22",
-                    "nombre": "22. Alice",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/7lCpkD21iDINQX17Wd22MSjN28I.jpg",
+                    "episode_id": "23",
+                    "nombre": "23. Nuevo Mundo",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/w0u1bSp9EWatole6ZoRKxGWhqpf.jpg",
                     "enlaces": [
                         {
                             "nombre": "Enlace 1",
@@ -2973,37 +2973,6 @@
                         {
                             "nombre": "Enlace 4",
                             "url": "https:\/\/player.zilla-networks.com\/m3u8\/4b333a213603d485c34f86a9ebb8076b",
-                            "type": "mp4",
-                            "language": "Sub"
-                        }
-                    ]
-                },
-                {
-                    "episode_id": "23",
-                    "nombre": "23. Nuevo Mundo",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/w0u1bSp9EWatole6ZoRKxGWhqpf.jpg",
-                    "enlaces": [
-                        {
-                            "nombre": "Enlace 1",
-                            "url": "https:\/\/player.zilla-networks.com\/play\/0b07288f9ba5388620bc7eb797c7ecc5",
-                            "type": "embed",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 2",
-                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/0b07288f9ba5388620bc7eb797c7ecc5",
-                            "type": "mp4",
-                            "language": "Latino"
-                        },
-                        {
-                            "nombre": "Enlace 3",
-                            "url": "https:\/\/player.zilla-networks.com\/play\/0462b24ae4a1dbf8f2fda6a519b437f3",
-                            "type": "embed",
-                            "language": "Sub"
-                        },
-                        {
-                            "nombre": "Enlace 4",
-                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/0462b24ae4a1dbf8f2fda6a519b437f3",
                             "type": "mp4",
                             "language": "Sub"
                         }
