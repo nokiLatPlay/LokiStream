@@ -1,0 +1,142 @@
+{
+    "id_tmdb": "195382",
+    "titulo": "Complejo Residencial C",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/dJHp3WlbbBhhKo2h0avTHTrwp4C.jpg",
+    "etiquetas": "Animación, Misterio",
+    "year": "2022",
+    "type": "animes",
+    "synopsis": "Kimi vive en un pequeño complejo de viviendas de bajo costo ubicado en la ciudad costera de Kurosaki, con incidentes horribles que comienzan a ocurrir y problemas que aparentemente la siguen donde quiera que vaya. ¿Un antiguo mal acecha a los residentes del Complejo de Vivienda C?",
+    "created_at": "2022-10-02",
+    "updated_at": "2026-02-27T01:41:24.000Z",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. Ilusión óptica",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/eqSXuFaMYAM4XCSSFyRz3ge9LQ5.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/30b290dd890b0fa4225d0c9c541168d2",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/30b290dd890b0fa4225d0c9c541168d2",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/1d61be0d5aa892fef5b4950fc53c4202",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/1d61be0d5aa892fef5b4950fc53c4202",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. Botones no coincidentes",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/kzzqLutL1Ey64MpeRayfSHVXJhB.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/f34bdf5a971f0ce17abb5803ab4ba667",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/f34bdf5a971f0ce17abb5803ab4ba667",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/1b98b54dcbe0c0fbc3e3eb473d99e8b6",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/1b98b54dcbe0c0fbc3e3eb473d99e8b6",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. La rueda viene en círculo completo",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/v3SCPcuwziUA9H6G4Ph6AUBYwmJ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/dd44e1f1a4b9de8a2b53580e91881f99",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/dd44e1f1a4b9de8a2b53580e91881f99",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/bfefe948cfb5a2ed98f08f2ae77bab42",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/bfefe948cfb5a2ed98f08f2ae77bab42",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. El final de la linea",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/7nwDexwUIQ8C7XwhNIvaZt6mykm.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/46ce53bc52748791386531ed8f1583d4",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/46ce53bc52748791386531ed8f1583d4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/b8f54719debb821d9df96612a9818253",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/b8f54719debb821d9df96612a9818253",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
