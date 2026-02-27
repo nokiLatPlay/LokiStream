@@ -1,0 +1,151 @@
+{
+    "id_tmdb": "295483",
+    "titulo": "The Villainess Is Adored by the Prince of the Neighbor Kingdom",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/bjgqOgkOxWphCaq1CG1jPhDq1dI.jpg",
+    "etiquetas": "Animación, Comedia, Sci-Fi & Fantasy",
+    "year": "2026",
+    "type": "animes",
+    "synopsis": "La historia sigue a una joven que reencarna como Tiararose, la villana del videojuego otome favorito de su vida pasada. Consciente de su rol en la trama, acepta resignada su destino en el evento de juicio final del juego. Sin embargo, la narrativa da un giro inesperado cuando, justo tras romper su compromiso con el príncipe del reino, aparece un nuevo evento no incluido en el juego original: una propuesta de matrimonio por parte de Aquasteed, el príncipe heredero del reino vecino.",
+    "created_at": "2026-01-11",
+    "updated_at": "2026-02-27T01:37:37.000Z",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. Episode 1",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/y7WgGZxK1y1EHvuZVZfGEm5i4HU.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/5ab3a30b77babf497cb4c44d9452e39e",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/5ab3a30b77babf497cb4c44d9452e39e",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. Episodio 2",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/btPKZ994zppGsFV44Ocg3xLkSVG.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/a5afbcda5dff94dbb5c9c430a3db012c",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/a5afbcda5dff94dbb5c9c430a3db012c",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. Episodio 3",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/3zdZhcbPGzWohhUea3cNGUTr8nb.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/b88eb1ad5e8ce7387740c6fa1a358ede",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/b88eb1ad5e8ce7387740c6fa1a358ede",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. Episodio 4",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/pIaFrnswBCXrFR0X25DocSYvQBd.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/051203e1273ded6703b495a8b78e3c3f",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/051203e1273ded6703b495a8b78e3c3f",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "nombre": "05. Episodio 5",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/eBqagqqGf49dBomkyIZsf4Psu1W.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/c6d93e82a322a4deef4c51a35398aac8",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/c6d93e82a322a4deef4c51a35398aac8",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "nombre": "06. Episodio 6",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/g4CnC594CcXQgiufk2Tg4PkqnP1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/aabaa91c5d35c49bb22cd2ec38469c8b",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/aabaa91c5d35c49bb22cd2ec38469c8b",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "nombre": "07. Episodio 7",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/om6B5XLGBeNyHPAlA8uXJ0AzJlS.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/player.zilla-networks.com\/play\/31b6d82de59ef3f7e8667475f886c020",
+                            "type": "embed",
+                            "language": "Sub"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/31b6d82de59ef3f7e8667475f886c020",
+                            "type": "mp4",
+                            "language": "Sub"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
