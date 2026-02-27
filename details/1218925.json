@@ -4,7 +4,7 @@
     "etiquetas": "Animación, Acción, Romance, Fantasía",
     "year": "2025",
     "created_at": "2025-09-19",
-    "updated_at": "2026-01-30T08:52:52.000Z",
+    "updated_at": "2026-02-27T01:49:05.000Z",
     "id_tmdb": "1218925",
     "type": "movie",
     "calidad": "HD",
@@ -15,6 +15,12 @@
             "url": "https:\/\/goodstream.one\/embed-d45rirn66pkw.html",
             "type": "embed",
             "language": "Latino"
+        },
+        {
+            "nombre": "Enlace Principal",
+            "url": "https:\/\/player.zilla-networks.com\/m3u8\/8b6100af973bbf09b5fc1597478255d9",
+            "type": "mp4",
+            "language": "Sub"
         }
     ]
 }
