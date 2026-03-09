@@ -1,14 +1,17 @@
 {
+    "id_tmdb": "1218925",
     "titulo": "Chainsaw Man - La película: El arco de Reze",
     "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/fJdnp5OO2wh07tdy6noACNyaqMJ.jpg",
+    "backdrop": "",
     "etiquetas": "Animación, Acción, Romance, Fantasía",
     "year": "2025",
     "created_at": "2025-09-19",
-    "updated_at": "2026-02-27T01:49:05.000Z",
-    "id_tmdb": "1218925",
+    "updated_at": "2026-03-08T21:00:50.000Z",
     "type": "movie",
     "calidad": "HD",
     "synopsis": "Denji trabajaba como cazador de demonios para la yakuza, tratando de saldar la deuda que había heredado de sus padres, pero la yakuza lo traicionó y lo mató. Antes de perder el conocimiento, Pochita, el perro-demonio motosierra de Denji, hizo un trato con él y le salvó la vida. Así se fusionaron, creando al imparable Chainsaw Man. Ahora, en medio de una brutal guerra entre demonios, cazadores y enemigos secretos, una misteriosa chica llamada Reze irrumpe en su mundo y Denji se enfrenta a su batalla más mortífera, impulsado por el amor, en un mundo donde la supervivencia no conoce reglas.",
+    "rating": "",
+    "runtime": "",
     "enlaces": [
         {
             "nombre": "Server 1",
@@ -20,7 +23,14 @@
             "nombre": "Enlace Principal",
             "url": "https:\/\/player.zilla-networks.com\/m3u8\/8b6100af973bbf09b5fc1597478255d9",
             "type": "mp4",
-            "language": "Sub"
+            "language": "Latino"
+        }
+    ],
+    "servidores_privados": [
+        {
+            "nombre": "Servidor Privado 1",
+            "code": "eyJtZXRhZGF0YSI6eyJ0eXBlIjoibW92aWUiLCJ0bWRiX2lkIjoiMTIxODkyNSIsInRpdHVsbyI6IkNoYWluc2F3IE1hbiAtIExhIHBlbMOtY3VsYTogRWwgYXJjbyBkZSBSZXplIiwieWVhciI6IjIwMjUiLCJ1cmxfaW1hZ2VuIjoiaHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3AvdzUwMC9mSmRucDVPTzJ3aDA3dGR5Nm5vQUNOeWFxTUouanBnIiwiYXBwX25hbWUiOiJTdHJlYW1NaXgiLCJhcHBfbG9nbyI6IiJ9LCJjb25maWciOnsidGhlbWUiOnsicHJpbWFyeSI6IiM4YTJiZTIiLCJiYWNrZ3JvdW5kIjoiIzBhMGExMCIsInJhZGl1cyI6MTYsImF1dG9fcGxheSI6dHJ1ZSwiZW5hYmxlX3BpcCI6dHJ1ZSwic2hvd19uZXh0Ijp0cnVlLCJzaG93X3ByZXYiOnRydWUsInNob3dfZm9yd2FyZCI6dHJ1ZSwic2hvd19yZXdpbmQiOnRydWUsInNob3dfc3BlZWRfY29udHJvbCI6dHJ1ZX0sImdsb2JhbF9hZHNfY29uZmlnIjp7ImVuYWJsZWQiOnRydWUsInNob3dfZXZlcnlfbl9vcGVucyI6MSwicm90YXRpb25fc2Vjb25kcyI6MzAsImJhbm5lcl9wYXR0ZXJuIjp7Im9uX21pbiI6MTAsIm9mZl9taW4iOjJ9LCJiYW5uZXJzIjpbeyJpbWciOiJodHRwczovL2kucG9zdGltZy5jYy9uaDVQejlEei9iYWNrZ3JvdW5kLmpwZyIsImxpbmsiOiJodHRwczovL2VudHJlYXRiZWdnYXIuY29tL3l1dHBjZzFlMT9rZXk9OWNlMGU3NDgzYzFjMjdkZmZkMjdjOGY0OTBkNDgyZWEifV0sImJhbm5lcl9oZWlnaHQiOjgwLCJiYW5uZXJfd2lkdGgiOjEwMCwiYmFubmVyX3JhZGl1cyI6MCwicmV3YXJkIjp7ImVtYmVkX3VybCI6IiIsInNwb25zb3JfbGluayI6Imh0dHBzOi8vZW50cmVhdGJlZ2dhci5jb20veXV0cGNnMWUxP2tleT05Y2UwZTc0ODNjMWMyN2RmZmQyN2M4ZjQ5MGQ0ODJlYSIsImR1cmF0aW9uX2hvdXJzIjoxMn19LCJwcmVtaXVtX2NvbmZpZyI6eyJlbmFibGVkIjp0cnVlLCJsaW1pdFJlc29sdXRpb24iOnRydWUsInJlcXVpcmVSZXdhcmRGb3JQaXAiOnRydWUsImxvY2tlZENvbnRyb2xzIjpbImZmd2RfcmV3IiwiYXVkaW9fc3VidGl0dWxvcyIsInBpcCIsInZlbG9jaWRhZCJdLCJyZXdhcmREdXJhdGlvblNlY29uZHMiOjMwLCJkaWFsb2dNZXNzYWdlIjoiwqFEZXNibG9xdWVhIGZ1bmNpb25lcyBwcmVtaXVtIHBvciB2ZXIgdW4gYW51bmNpbyBzdXBlciBjb3J0byEgQWNjZWRlIGE6XG4tIENhbGlkYWQgSEQgc2luIGzDrW1pdGVzXG4tIENvbnRyb2xlcyBjb21wbGV0b3MgZGUgcmVwcm9kdWNjacOzblxuLSBBdWRpbyBEdWFsIHkgU3VidMOtdHVsb3Ncbi0gVmVudGFuYSBGbG90YW50ZSAoUGlQKSIsIndhcm5pbmdBZEV4cGlyZSI6IlR1IGFjY2VzbyBQcmVtaXVtIGZpbmFsaXphcsOhIGVuIHtzZWNvbmRzfXMiLCJ3YXJuaW5nQWRSZW5ldyI6IlR1IGFjY2VzbyBQcmVtaXVtIHNlIHJlbm92YXLDoSBlbiB7c2Vjb25kc31zIn0sInNvY2lhbHMiOnsidGVsZWdyYW0iOiIiLCJ3aGF0c2FwcCI6IiIsImZhY2Vib29rIjoiIiwidGlrdG9rIjoiIiwid2ViIjoiIn19LCJlbmxhY2VzIjpbeyJub21icmUiOiJTdHJlYW13aXNoIChTdWIpIiwib3BjaW9uIjoiaHR0cHM6Ly9zdHJlYW13aXNoLnRvL2UvNGMyY3RteXhnaTJmIiwidGlwbyI6ImRpcmVjdCIsImRybV9saWNlbnNlIjpudWxsLCJkcm1fdHlwZSI6bnVsbH0seyJub21icmUiOiJWaWRoaWRlIChTdWIpIiwib3BjaW9uIjoiaHR0cHM6Ly9maWxlbGlvbnMudG9wL3YvY3N2enA2bWh5bGV2IiwidGlwbyI6ImRpcmVjdCIsImRybV9saWNlbnNlIjpudWxsLCJkcm1fdHlwZSI6bnVsbH1dfQ==",
+            "language": "Multi"
         }
     ]
 }
