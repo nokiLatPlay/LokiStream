@@ -147,6 +147,17 @@
         "2026-03-19T10:00:06.397Z"
       ],
       "status": "Proximamente"
+    },
+    {
+      "id": 314,
+      "title": "Star Trek: Enterprise",
+      "type": "Serie",
+      "image": "https://image.tmdb.org/t/p/w500/tsbBTABtNgu0ycsFpnIhiQ5woOM.jpg",
+      "count": 1,
+      "timestamps": [
+        "2026-04-05T23:24:31.261Z"
+      ],
+      "status": "Proximamente"
     }
   ]
 }
