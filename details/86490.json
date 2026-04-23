@@ -1,0 +1,362 @@
+{
+    "id_tmdb": "86490",
+    "titulo": "Blood Code",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/5dZJVrzO6SQbgMLDIu1v4tES1FM.jpg",
+    "etiquetas": "Animación",
+    "year": "2017",
+    "type": "animes",
+    "synopsis": "Un trabajador normal, un día escanea un código qr que luego de despertarse se encuentra en otro mundo, en éste no hay reglas, matar o morir, para ello el prota debe conseguir todas las cartas para poder salir de ese mundo.",
+    "created_at": "2017-08-18",
+    "updated_at": "2026-04-23T09:25:06.000Z",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. 1",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/filemoon.sx\/e\/jhly9srrvebc",
+                            "type": "embed",
+                            "language": "Subtitulado"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/earnvids.com\/v\/12i3d1odt1bm",
+                            "type": "embed",
+                            "language": "Subtitulado"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. 2",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. 3",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. 4",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "nombre": "05. 5",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "nombre": "06. 6",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "nombre": "07. 7",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "nombre": "08. 8",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "nombre": "09. 9",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "nombre": "10. 10",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "nombre": "11. 11",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "nombre": "12. 12",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "13",
+                    "nombre": "13. 13",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "14",
+                    "nombre": "14. 14",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "15",
+                    "nombre": "15. 15",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "16",
+                    "nombre": "16. 16",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "17",
+                    "nombre": "17. 17",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "18",
+                    "nombre": "18. 18",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "19",
+                    "nombre": "19. 19",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "20",
+                    "nombre": "20. 20",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "21",
+                    "nombre": "21. 21",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "22",
+                    "nombre": "22. 22",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "23",
+                    "nombre": "23. 23",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "24",
+                    "nombre": "24. 24",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "25",
+                    "nombre": "25. 25",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "26",
+                    "nombre": "26. 26",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
