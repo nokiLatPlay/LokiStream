@@ -1282,6 +1282,16 @@
             "created_at": "2026-04-06",
             "updated_at": "2026-04-23T05:31:52.000Z",
             "year": "2026"
+        },
+        {
+            "id_tmdb": "86490",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/5dZJVrzO6SQbgMLDIu1v4tES1FM.jpg",
+            "titulo": "Blood Code",
+            "etiquetas": "Animación",
+            "type": "animes",
+            "created_at": "2017-08-18",
+            "updated_at": "2026-04-23T09:25:06.000Z",
+            "year": "2017"
         }
     ],
     "lastUpdated": "2026-04-23 04:39:20"
