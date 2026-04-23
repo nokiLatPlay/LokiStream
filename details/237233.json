@@ -1,0 +1,192 @@
+{
+    "id_tmdb": "237233",
+    "titulo": "Chillin' in Another World with Level 2 Super Cheat Powers",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/uU8JO4PsbgpuZmbkUMPjdpxEjBO.jpg",
+    "etiquetas": "Animación, Sci-Fi & Fantasy, Action & Adventure",
+    "year": "2024",
+    "type": "series",
+    "synopsis": "El Reino Mágico de Klyrode convoca cada año a cientos de héroes de otros mundos para luchar en su guerra contra el Oscuro y su ejército de poderosos demonios. Banaza es uno de esos héroes, convocado desde la capital real, Paluma, pero algo no anda bien: Banaza es solo un comerciante promedio. No tiene magia ni capacidad de lucha y sus estadísticas son abismales. Peor aún, ¡un percance lo deja incapaz de regresar a casa! Rechazado como héroe y varado en otro mundo, abandonado en los confines del reino por un rey cruel que sólo quiere que se vaya, el destino de Banaza parece bastante sombrío. Pero, ¿qué pasará una vez que el candidato a héroe fallido se encuentre con súper poderes de trampa una vez que alcance el nivel dos?",
+    "created_at": "2024-04-08",
+    "updated_at": "2026-04-23T05:13:32.000Z",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. ¿Quieres verlo sin comerciales?",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/88VK8yDXgh7q6kN5Eh8DUGG2BtB.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https:\/\/www.yourupload.com\/embed\/3ajIa04d8fKx",
+                            "type": "embed",
+                            "language": "Subtitulado"
+                        },
+                        {
+                            "nombre": "Enlace 2",
+                            "url": "https:\/\/ok.ru\/videoembed\/7668604340913",
+                            "type": "embed",
+                            "language": "Subtitulado"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/streamwish.to\/e\/jmj677tf5gm0",
+                            "type": "embed",
+                            "language": "Subtitulado"
+                        },
+                        {
+                            "nombre": "Enlace 4",
+                            "url": "https:\/\/mp4upload.com\/embed-4vkr4nvdrbxx.html",
+                            "type": "embed",
+                            "language": "Subtitulado"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. Fenrys, la guerrera loba",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/ccPFRSme3rdiBBuAl59CbAfkvgd.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. He empezado mi vida en otro mundo",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/A1gJWfvZbSdxKCu310VS2RknaL7.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. Una visita inesperada",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/glG4YvnloEQZPEdz45eS6Z2o5bY.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "nombre": "05. Hasta que termine mi vida",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/iUkKaiF2KsMAIW4M24iCJFswQMn.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "nombre": "06. Hiya, genio de la luz y la oscuridad",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/k04cyu8MAvsnLZiw6bJoWdOueJ6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "nombre": "07. Hacia el futuro de cada cual",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/mBB4tOKNl2bmXEsuaIu31pJhADh.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "nombre": "08. Un muro nunca antes visto",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/pp2DsYdljuTs8zmyCjvGjWhRem4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "nombre": "09. Loba y aventurero",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/aW2QRv38hNm5BJDwNQZfFjocOXr.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "nombre": "10. Compañía nueva en casa",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/remruceRLvLzm7doibZXf7obCkE.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "nombre": "11. Un viaje picante a las fuentes termales, primera parte",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/iSfN5mZ18JJFq2QiNrhShfGlQQ7.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "nombre": "12. Un viaje picante a las fuentes termales, segunda parte",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/8SUDxjRpg0Du5kVUkLeGKl8JDpQ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
