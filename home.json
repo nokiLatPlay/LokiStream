@@ -1262,26 +1262,7 @@
             "updated_at": "2026-04-23T00:59:21.000Z",
             "year": "2025",
             "calidad": "HD"
-        },
-        {
-            "id_tmdb": "196950",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/1qGSBnrANHLX8C7KqGuPDCylns2.jpg",
-            "titulo": "Witch Hat Atelier",
-            "etiquetas": "Animación, Drama, Sci-Fi & Fantasy",
-            "type": "series",
-            "created_at": "2026-04-06",
-            "updated_at": "2026-04-23T04:29:49.000Z",
-            "year": "2026"
-        },
-        {
-            "id_tmdb": "196950",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/1qGSBnrANHLX8C7KqGuPDCylns2.jpg",
-            "titulo": "Witch Hat Atelier",
-            "etiquetas": "Animación, Drama, Sci-Fi & Fantasy",
-            "type": "animes",
-            "created_at": "2026-04-06",
-            "updated_at": "2026-04-23T04:38:54.000Z",
-            "year": "2026"
         }
-    ]
+    ],
+    "lastUpdated": "2026-04-23 04:39:20"
 }
