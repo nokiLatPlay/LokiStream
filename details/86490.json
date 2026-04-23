@@ -7,7 +7,7 @@
     "type": "animes",
     "synopsis": "Un trabajador normal, un día escanea un código qr que luego de despertarse se encuentra en otro mundo, en éste no hay reglas, matar o morir, para ello el prota debe conseguir todas las cartas para poder salir de ese mundo.",
     "created_at": "2017-08-18",
-    "updated_at": "2026-04-23T09:25:06.000Z",
+    "updated_at": "2026-04-23T09:29:44.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -26,6 +26,12 @@
                         {
                             "nombre": "Enlace 2",
                             "url": "https:\/\/earnvids.com\/v\/12i3d1odt1bm",
+                            "type": "embed",
+                            "language": "Subtitulado"
+                        },
+                        {
+                            "nombre": "Enlace 3",
+                            "url": "https:\/\/www.dailymotion.com\/embed\/video\/k50ZlAaksKpZwpq7gBr?api=postMessage&id=player&origin=https%3A%2F%2Fwww.mdnemonicplayer.xyz&queue-autoplay-next=false&queue-enable=false&sharing-enable=false&ui-logo=false&ui-start-screen-info=false",
                             "type": "embed",
                             "language": "Subtitulado"
                         }
