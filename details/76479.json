@@ -1,0 +1,1427 @@
+{
+    "id_tmdb": "76479",
+    "titulo": "The Boys",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/5kgY14oisiHcJ4zq0Xgq1e97PHm.jpg",
+    "etiquetas": "Sci-Fi & Fantasy, Action & Adventure",
+    "year": "2019",
+    "type": "series",
+    "synopsis": "La serie tiene lugar en un mundo en el que los superhéroes representan el lado oscuro de la celebridad y la fama. Un grupo de vigilantes que se hacen llamar \"The Boys\" decide hacer todo lo posible por frenar a los superhéroes que están perjudicando a la sociedad, independientemente de los riesgos que ello conlleva.",
+    "created_at": "2019-07-25",
+    "updated_at": "2026-05-04T03:36:26.000Z",
+    "temporadas": [
+        {
+            "temporada": "Especiales",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. Episodio 1",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/aX3nE9aUIljNhCSCkHZBGBbJ0H3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. Episodio 2",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/yO3kRy31ms0Fn4KsIL3ZxTR8NbN.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. Episodio 3",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/wZxtfOWg3cZbl8lsYuAFgkshptk.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. Episodio 4",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/rWlnk1kYlHtjg75diQLrnY7P9t1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "nombre": "05. Episodio 5",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/bNqHJ9m1WZ1777S9kdl4YO75WnD.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "nombre": "06. Episodio 6",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/nNXcFzdler4tYiLYgn9mCrIVSOE.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "nombre": "07. Episodio 7",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/u6g9HZnn11dWdfhXP7xLpYH4LVq.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "nombre": "08. Episodio 8",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/vyV39G5M5GUEluO79LhMouGi1Oj.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "nombre": "09. Episodio 9",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/oNQrd2iFVF2tx7orXh3u5o45DLV.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "nombre": "10. Episodio 10",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/udWN0Yu1ju4vgBMBohArnu2abGl.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "nombre": "11. Episodio 11",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/mL7vkIaIlHbLwavAeKhp3kOpJvg.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "nombre": "12. Episodio 12",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/khcRrqYpQkyXLfMJRdbK5UZTRmP.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "13",
+                    "nombre": "13. Episodio 13",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/v4E4WNyKHlblAtFYGLWiQ8ME8oC.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "14",
+                    "nombre": "14. Episodio 14",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/8XmorJ13aNljGTxhh5zbecokXL6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "15",
+                    "nombre": "15. Episodio 15",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/uFia9W3rDhpXW5WmLqKncCaoTt1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "16",
+                    "nombre": "16. Episodio 16",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/lPmxHR9W00RXUVvMbofdpYfypZm.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "17",
+                    "nombre": "17. Episodio 17",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/fWU6rbzOxTnsCktiMu5q6yYcr8b.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "18",
+                    "nombre": "18. Episodio 18",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/aZuyF4tWhwS8iM54ySUU7U7HeiJ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "19",
+                    "nombre": "19. Episodio 19",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/oLHgjRgZH21aEYGcLeZKDkwtr3w.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "20",
+                    "nombre": "20. Episodio 20",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/k5NbQK4ucDQOSBwveRVInONcAYk.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "21",
+                    "nombre": "21. Episodio 21",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/nvfPLa2Y7ZVTyFzqVzLBz56QVzu.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "22",
+                    "nombre": "22. Episodio 22",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/hzwmwTEMGddH8dwXawBfPhZJaIx.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "23",
+                    "nombre": "23. Episodio 23",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/nQqVRezlRoFkV9pEejccXQgUlzr.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "24",
+                    "nombre": "24. Episodio 24",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/4tSRLSArxmn22xoWkHORV8whjFJ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "25",
+                    "nombre": "25. Episodio 25",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/n5STLuYJUtUanroUW6T6JeIUa2V.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "26",
+                    "nombre": "26. Episodio 26",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/kdNCSNt7cR2aocFyBIJCj2tWPeZ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "27",
+                    "nombre": "27. Episodio 27",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/4XnufJMsmW2kjsuloiGcUKxKlbP.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "28",
+                    "nombre": "28. Episodio 28",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/cb334wQFQ5nJyxNqu8glU472wuJ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "29",
+                    "nombre": "29. Episodio 29",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/qd55G1CJREb8so2oJQHKcQtIZX7.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "30",
+                    "nombre": "30. Episodio 30",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/w6taAv4ryuWOxAjxt3sQJvYBpx9.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "31",
+                    "nombre": "31. Episodio 31",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/uMd7oHuoKa6Pgwuqzcfk5vr8YYs.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "32",
+                    "nombre": "32. Episodio 32",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/eZov3dNPEaQaJpWObDsZZDBmyib.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "33",
+                    "nombre": "33. Episodio 33",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/3OuiGVOPhSHOr1glRW57xXxQzJB.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "34",
+                    "nombre": "34. Episodio 34",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/mgQGaSvciZzHvVqhVC4FKwm1SLQ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "35",
+                    "nombre": "35. Episodio 35",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/y6xTfVUwdbqWDqdY23k1RkwHLx9.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "36",
+                    "nombre": "36. Episodio 36",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/lMzHO7tRyp1nekdBmEqMWMJIgjP.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "37",
+                    "nombre": "37. Episodio 37",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/bn0JhGSfj4Vucr06pidV0OvDLNG.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "38",
+                    "nombre": "38. Episodio 38",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/veJlGXKSjHabbcJ0YfdbcNmtNhG.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "39",
+                    "nombre": "39. Episodio 39",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/eq2W512pq5ls3XrgySCTyJmePyZ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "40",
+                    "nombre": "40. Episodio 40",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/sKWI3T72VVP5yBtfhbREZ7Y8gY2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "41",
+                    "nombre": "41. Episodio 41",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/ajsbQyRvqXFZRogkv4waQIr6z1U.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "42",
+                    "nombre": "42. Episodio 42",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/htCQIToFfrPVCvTs5DOqvt3I7Ka.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "43",
+                    "nombre": "43. Episodio 43",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/e72XxEiYYVhm4NkCYaIGcUKeSub.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "44",
+                    "nombre": "44. Episodio 44",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/m4dlpglNjtFfxoHMaeH05lpAR4a.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "45",
+                    "nombre": "45. Episodio 45",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/yh5AzMIxi8c2g7cLl4ZyfW7w1Ln.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "46",
+                    "nombre": "46. Episodio 46",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/hJhJpC7ViIpdu2Ib2YhNdGQDdRf.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "47",
+                    "nombre": "47. Episodio 47",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/19n8J8OINT508K6R7LdFg8QoNuS.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "48",
+                    "nombre": "48. Episodio 48",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/6kPOHc2HF9rjZJEZ7a5xiPj4is4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "49",
+                    "nombre": "49. Episodio 49",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/bYljnvi67bz5u3bIi5Q8kgrqp8p.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "50",
+                    "nombre": "50. Episodio 50",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/pZXY4XWiTKhKiMfCaabZKD77Oud.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "51",
+                    "nombre": "51. Episodio 51",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/6cpFqsc5mPvrUvINepUcmKXAnbN.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "52",
+                    "nombre": "52. Episodio 52",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/ock2IfpCyGwE6GGENoxNwy82mjZ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "53",
+                    "nombre": "53. Episodio 53",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/6QjJSOeK7ykSPZfGU0Y8phm55C3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "54",
+                    "nombre": "54. Episodio 54",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/AgUqzvFpd09Pl8edVTKU5TlR1vJ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "55",
+                    "nombre": "55. Episodio 55",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/yXY7F7hms0vOpFs0WMHbOdahvlA.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "56",
+                    "nombre": "56. Episodio 56",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/yBkNMgPqzcHms2P8u8WGoCFTcv7.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "57",
+                    "nombre": "57. Episodio 57",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/hYlL1fvhI9KX0SnFgLB0AiUBjQY.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "58",
+                    "nombre": "58. Episodio 58",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/y6hN5FlwtdeRUV1y9LekJ9u72kQ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "59",
+                    "nombre": "59. Episodio 59",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "60",
+                    "nombre": "60. Episodio 60",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "61",
+                    "nombre": "61. Episodio 61",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/eIXV6dGFjV8azGIuBgzFONeEbmE.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "62",
+                    "nombre": "62. Episodio 62",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "63",
+                    "nombre": "63. Episodio 63",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "64",
+                    "nombre": "64. Episodio 64",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "65",
+                    "nombre": "65. Episodio 65",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "66",
+                    "nombre": "66. Episodio 66",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 1",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. Las reglas del juego",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/sMj3rlN41QiO74oT5EJY0A9dkSr.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "https:\/\/myvidplay.com\/e\/003c7bncww7i",
+                            "type": "embed",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Ver Online",
+                            "url": "https:\/\/hgplaycdn.com\/e\/vufsqwnvizk7",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. Cherry",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/nNfmRSQp42V6AS5bO1S7LMv2QOd.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. Moja (El Compuesto V)",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/mF7TK7LMbWhlLz1Q5M1662TiKvP.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. La hembra de la especie",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/1JvhnZyeQkIUrhr0OUL6S3sN5Kt.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "nombre": "05. Bueno para el alma",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/8eimUVjdXKtVb4OMzQn3aj3I0XN.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "nombre": "06. Los inocentes",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/pqz0Xvf7gpXwagUoaHxBqmyv6D5.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "nombre": "07. La sociedad de la autopreservación",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/cx7dCZVzCX9pAyC6zE6lC6jkuyF.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "nombre": "08. Me has encontrado",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/vNYs1oSMXa1V3KKWLPvtOy6UQWC.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 2",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. El tiovivo",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/3N5CZhL6jXbuSA3qS7G46PiAZND.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. Preparación y planificación",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/m6LSiAimRiST07sC0vsUDITojT3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. Más allá de la colina con las espadas de mil hombres",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/theLFUijxwD0uzdiNiJVzOpCVSG.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. Nada igual en el mundo",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/6cAdAEomp2I0JwSYNcobAB1NIdm.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "nombre": "05. Nos damos el piro",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/pn5adU2bTuMvBUZoEx2qDmSS8dv.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "nombre": "06. Las putas puertas abajo",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/ApfUQLbraTvHT1ZQ5qSafKkJC9Z.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "nombre": "07. Carnicero",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/z2npefs7R96VwfgvhGWoPYpdLFj.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "nombre": "08. Lo que yo sé",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/w44GW7Zv808V1nsr1NY6Y3I8r8B.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 3",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. Revancha",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/yeAHbQ11ExTFWg34gnP4dGNwfk5.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. El único en el cielo",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/sI10IWjMvkHxVCzGKL7G9QhqIwh.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. Costa Berberisca",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/ro9cmO9k5g6ZnPYSTu31juUhpRF.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. Glorioso plan quinquenal",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/adNh9TIlLKh0uUug3KOiuhFINAh.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "nombre": "05. La última vez para contemplar este mundo de mentiras",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/m5hFjth3uqHRdDQmFr4xDhMPyzc.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "nombre": "06. Herogasm",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/xmGw9EVZ6jSeWz0K9vyfim3KvhZ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "nombre": "07. Una vela para acompañarte a la cama",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/cG7G0XyW0KQ1oeYY06KnaP1n8PR.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "nombre": "08. El salvaje instante al rojo blanco",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/pxqOE021uJtQHOdT09WmFsXyy3V.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 4",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. Departamento de juego sucio",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/7eGAjea8dawKURw6YJxMxC6qIm9.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. Vida en las cloacas",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/4IZ7Hb8SPbHoCqL9iUWtlnusvLw.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. Mantendremos la bandera roja ondeando",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/kcHBZHSYyj0eYSDzCUTze11c5RX.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. La sabiduría de los siglos",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/n4xTP8x24KeKNhCOSuBAHrUPSNw.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "nombre": "05. Cuidado con el Galimatazo, hijo mío",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/fHeFRfcd21yOzCR5JBclaN8LuQs.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "nombre": "06. Algo apesta",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/cFrUAYssPVPCsgHVFzIrxrkOELW.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "nombre": "07. El topo",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/8bUDuBfDouc2A8Dm0495ad21v2w.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "nombre": "08. Final de la 4.ª Temporada",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/wwQiYFGSzcCNCbPaQL2dckPSxPk.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 5",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. Cuarenta centímetros de pura dinamita",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/brDJrC1Bm7oD3Pr7TL7Do0sL5yB.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. Teenage Kix",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/6SGsPDrZlNoMz1QLMEvkJHcksGg.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. Todos vosotros, hijos de puta",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/4ILWEFbicFs4uDpjwNJv4oOHr9v.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. El rey del infierno",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/g7OxzZjnOuh7osDYoKncDum6F05.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "nombre": "05. Especiales",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "nombre": "06. Episodio 6",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "nombre": "07. Episodio 7",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "nombre": "08. Episodio 8",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
