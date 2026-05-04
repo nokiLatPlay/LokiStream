@@ -1,0 +1,23 @@
+{
+    "id_tmdb": "1007757",
+    "titulo": "Intercambiados",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/i89vUDwNhAEWUZSFYITSiv1RIbK.jpg",
+    "backdrop": "https:\/\/image.tmdb.org\/t\/p\/w1280\/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
+    "etiquetas": "Animación, Aventura, Comedia, Familia, Fantasía",
+    "year": "2026",
+    "created_at": "2026-05-01",
+    "updated_at": "2026-05-03T21:24:15.000Z",
+    "type": "movie",
+    "calidad": "HD",
+    "synopsis": "Una pequeña criatura del bosque intercambia el cuerpo con un majestuoso pájaro del valle, lo que los obliga a colaborar para sobrevivir a la aventura más salvaje de sus vidas.",
+    "rating": "8.1",
+    "runtime": "102",
+    "enlaces": [
+        {
+            "nombre": "Enlace 1",
+            "url": "https:\/\/hlswish.com\/e\/psdk0obkoo6s",
+            "type": "embed",
+            "language": "Latino"
+        }
+    ]
+}
