@@ -5,9 +5,9 @@
     "backdrop": "https:\/\/image.tmdb.org\/t\/p\/w1280\/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg",
     "etiquetas": "Aventura, Acción, Ciencia ficción",
     "year": "2018",
-    "created_at": "2018-03-28",
-    "updated_at": "2026-05-05T23:32:51.000Z",
     "type": "movie",
+    "created_at": "2018-03-28",
+    "updated_at": "2026-05-27T04:16:42.000Z",
     "calidad": "HD",
     "synopsis": "Cuando el creador de una realidad virtual llamada OASIS muere, lanza un reto póstumo a todos sus usuarios para que busquen un huevo de pascua, que dará al que lo encuentre su fortuna y el control de su mundo.",
     "rating": "7.6",
@@ -22,12 +22,6 @@
         {
             "nombre": "Ver Online",
             "url": "https:\/\/vidhidepro.com\/embed\/mded2dtkk7o6",
-            "type": "embed",
-            "language": "Latino"
-        },
-        {
-            "nombre": "Ver Online",
-            "url": "https:\/\/bysedikamoum.com\/e\/99xsll6uvvu8",
             "type": "embed",
             "language": "Latino"
         }
