@@ -1,0 +1,216 @@
+{
+    "id": "1781164307",
+    "tmdb_id": "113808",
+    "titulo": "Seirei Gensouki",
+    "original_name": "精霊幻想記",
+    "imagen": "\/zq07L28laGQpTRhaEDkb2deoSbf.jpg",
+    "backdrop_path": "\/7XloWeuHmw94BFzPf4oF59rvPZH.jpg",
+    "type": "serie",
+    "year": "2021",
+    "etiquetas": [
+        "Animación",
+        "Drama",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+    ],
+    "temporadas_count": 2,
+    "episodios": 24,
+    "status": "Ended",
+    "rate": 8.199999999999999289457264239899814128875732421875,
+    "sinopsis": "*Seirei Gensouki: Spirit Chronicles* sigue a Haruto Amakawa, quien muere antes de reencontrarse con su amiga de la infancia desaparecida. Al mismo tiempo, Rio, un niño de los suburbios que busca vengar la muerte de su madre, despierta con los recuerdos y la personalidad de Haruto en su cuerpo. Ahora, ambos deben encontrar su camino en este nuevo mundo.",
+    "cast": [
+        {
+            "name": "Yoshitsugu Matsuoka",
+            "character": "Rio (voice)",
+            "profile_path": "\/ugDwdWEXnmv43jcbnfAi4XwiQ8C.jpg"
+        },
+        {
+            "name": "Ayaka Suwa",
+            "character": "Rio (young) (voice)",
+            "profile_path": "\/pLd8VPfRp50Q744sT492FCn2k6f.jpg"
+        },
+        {
+            "name": "Akane Fujita",
+            "character": "Celia Claire (voice)",
+            "profile_path": "\/oMhN3uXgezyVk86gjwi8q1TYV2R.jpg"
+        },
+        {
+            "name": "Yuuki Kuwahara",
+            "character": "Aishia (voice)",
+            "profile_path": "\/n9kLcB2YNl9S2kK6b2rId7cpjdh.jpg"
+        }
+    ],
+    "first_air_date": "2021-07-06",
+    "last_air_date": "2024-12-24",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/tQiBVUCe0haI982Q1E8NwTn5Bek.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "nombre": "Recuerdos del mundo anterior",
+                    "portada": "\/1UCeTALM67CP4rPV096fGLHSBOR.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver 1",
+                            "url": "https:\/\/morencius.com\/embed\/c0wgkn1hn2sp",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "1080p"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E02",
+                    "nombre": "La academia real",
+                    "portada": "\/tkFfHfZp9x7oPv3E9v87V26J22d.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E03",
+                    "nombre": "Un reino de mentiras",
+                    "portada": "\/4wQfAHugvjJBTSdQzZxoVcsozQZ.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E04",
+                    "nombre": "La pequeña asesina",
+                    "portada": "\/4W1HYsC7su5RFB1iK9QJoR3JF0e.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E05",
+                    "nombre": "El bosque de los espíritus",
+                    "portada": "\/2pzBtPFS1jRKZqUfAq3hnLHLx5n.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E06",
+                    "nombre": "La noche del festival",
+                    "portada": "\/d90Qq0lz5bRUcH36yfUSef4yTLe.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E07",
+                    "nombre": "La tierra prometida",
+                    "portada": "\/fzOh9NrM3cIfT13ZzRivFdw0YfQ.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E08",
+                    "nombre": "Linaje real",
+                    "portada": "\/9c9BCvM1O5faEk09czzbKdCJtaU.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E09",
+                    "nombre": "La decisión de cada uno",
+                    "portada": "\/ilCs5opytdL0n94HrcXbx7VEO6B.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E10",
+                    "nombre": "El despertar del espíritu",
+                    "portada": "\/hCmTRvPgjHxxvQGVxDY2dr3SzTy.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E11",
+                    "nombre": "La novia plateada",
+                    "portada": "\/6DhIfRI4N4E35EPQTwxeHcqGDx7.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E12",
+                    "nombre": "Reunión predestinada",
+                    "portada": "\/hrfIsrtgZp0WUPm5gMJ5CJ5HJdf.jpg",
+                    "enlaces": []
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 2",
+            "season_number": 2,
+            "poster_path": "\/nkkDhwL9p0UlWXtPnKYefCRX1j8.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S02E01",
+                    "nombre": "En este mundo también te conozco",
+                    "portada": "\/wFPsRc1w8nyDelJKTsofnDAuCLG.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S02E02",
+                    "nombre": "De compras en otro mundo",
+                    "portada": "\/pszw4sJjCaUu0pcK8rycaHtrwSl.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S02E03",
+                    "nombre": "Hogar bajo acecho",
+                    "portada": "\/fr6UF1Coel3fk7H93XZCKS9OP7I.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S02E04",
+                    "nombre": "Episodio 4",
+                    "portada": "\/yGbzX6mIobU7W9cWpVKX8I1GfpF.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S02E05",
+                    "nombre": "Episodio 5",
+                    "portada": "\/rISqEF6F38lk4SvqK7MphL3ATVQ.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S02E06",
+                    "nombre": "Episodio 6",
+                    "portada": "\/bPOVu3Ca1PoWZfdFuji8Z93eX0t.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S02E07",
+                    "nombre": "Episodio 7",
+                    "portada": "\/xfw5wNfdqovygQ9rCz0Yf0z7OA6.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S02E08",
+                    "nombre": "Episodio 8",
+                    "portada": "\/hnOPLqD0WJ9bXf6kq4nVxJbpdmQ.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S02E09",
+                    "nombre": "Episodio 9",
+                    "portada": "\/eRAKSYkmfx18WddEIeQuXg8HKjL.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S02E10",
+                    "nombre": "Episodio 10",
+                    "portada": "\/5ty7fipdZphZwVEwuBhNnqH378E.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S02E11",
+                    "nombre": "Episodio 11",
+                    "portada": "\/r6AuBH5lU6Ba09IzBGeY6BVWtfo.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S02E12",
+                    "nombre": "Episodio 12",
+                    "portada": "\/vCkj81Y1xNaD9mndyTT5VC9WR9D.jpg",
+                    "enlaces": []
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-06-11 03:51:47",
+    "created_at": "2026-06-11 03:51:47",
+    "updated_at": "2026-06-11 03:52:34"
+}
