@@ -15,7 +15,7 @@
     "calidad": [],
     "rate": 7.5999999999999996447286321199499070644378662109375,
     "sinopsis": "Jake Sully y Neytiri enfrentan una nueva amenaza en Pandora: los Ash People, una tribu Na'vi violenta y sedienta de poder, liderada por la implacable Varang. Tras la devastadora guerra contra la RDA y la pérdida de su hijo mayor, la familia de Jake deberá luchar por su supervivencia y el futuro de Pandora en un conflicto que llevará a los personajes a sus límites emocionales y físicos. Con nuevos y antiguos aliados, esta épica visual y emocional redefine el destino de un mundo al borde del abismo.",
-    "cast": null,
+    "cast": [],
     "first_air_date": null,
     "last_air_date": null,
     "status": "Released",
@@ -30,7 +30,7 @@
         },
         {
             "nombre": "Descargar 1",
-            "url": "https:\/\/morencius.com\/file\/je5c9cn0raj2",
+            "url": "https:\/\/morencius.com\/download\/je5c9cn0raj2",
             "type": "descarga",
             "language": "Latino",
             "quality": "1080p"
@@ -38,5 +38,5 @@
     ],
     "added_date": "2026-06-11 03:44:45",
     "created_at": "2026-06-11 03:44:45",
-    "updated_at": "2026-06-11 03:46:02"
+    "updated_at": "2026-06-11 03:53:28"
 }
