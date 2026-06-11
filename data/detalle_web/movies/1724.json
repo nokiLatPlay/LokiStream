@@ -1,0 +1,30 @@
+{
+    "id": "1724",
+    "tmdb_id": "1724",
+    "title": "El increíble Hulk",
+    "original_title": "The Incredible Hulk",
+    "overview": "El científico Bruce Banner recorre el mundo tratando de encontrar una cura a su problema, en busca de un antídoto que le permita librarse de su Alter Ego. Perseguido por el ejército y por su propia rabia interna, es incapaz de sacar de su cabeza a Betty Ross. Así que se decide a volver a la civilización, donde debe enfrentarse a una criatura creada cuando el agente de la KGB, Emil Blonsky, se expone a una dosis superior de la radiación que convirtió a Bruce en Hulk. Incapaz de volver a su estado humano, Emil hace responsable a Hulk de su aterradora condición, mientras que la ciudad de Nueva York se convierte en el escenario de la última batalla entre las dos criaturas más poderosas que jamás han pisado la Tierra.",
+    "poster_path": "\/rCTSJzsU2GkH5uLwP1RFb3OjtLs.jpg",
+    "backdrop_path": "\/jPu8yiadqgzwFPGKJmGo637ASVP.jpg",
+    "release_date": "2008-06-12",
+    "vote_average": 6.20000000000000017763568394002504646778106689453125,
+    "runtime": 114,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Acción"
+        },
+        {
+            "id": 12,
+            "name": "Aventura"
+        },
+        {
+            "id": 878,
+            "name": "Ciencia ficción"
+        }
+    ],
+    "cast": null,
+    "enlaces": [],
+    "status": "Released",
+    "updated_at": "2026-06-11 01:53:12"
+}
