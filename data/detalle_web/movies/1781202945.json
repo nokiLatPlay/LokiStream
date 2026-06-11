@@ -17,7 +17,7 @@
     ],
     "rate": 7.5999999999999996447286321199499070644378662109375,
     "sinopsis": "En la vida real, Suzu es una adolescente acomplejada atrapada en su pequeño pueblo de montaña con su padre. Pero en el mundo virtual de 'U', Suzu se convierte en Belle, un icono musical con más de cinco mil millones de seguidores. Su vida tomará un giro inesperado cuando Belle conozca a Bestia, una criatura tan fascinante como aterradora.",
-    "cast": null,
+    "cast": [],
     "first_air_date": null,
     "last_air_date": null,
     "status": "Released",
@@ -25,14 +25,14 @@
     "enlaces": [
         {
             "nombre": "Ver 1",
-            "url": "https:\/\/morencius.com\/embed\/6prphkqsto26",
+            "url": "https:\/\/morencius.com\/embed\/4jgv5681o8o6",
             "type": "streaming",
             "language": "Latino",
             "quality": "1080p"
         },
         {
             "nombre": "Descargar 1",
-            "url": "https:\/\/morencius.com\/download\/6prphkqsto26",
+            "url": "https:\/\/morencius.com\/download\/4jgv5681o8o6",
             "type": "descarga",
             "language": "Latino",
             "quality": "1080p"
@@ -40,5 +40,5 @@
     ],
     "added_date": "2026-06-11 14:35:45",
     "created_at": "2026-06-11 14:35:45",
-    "updated_at": "2026-06-11 14:36:34"
+    "updated_at": "2026-06-11 14:45:32"
 }
