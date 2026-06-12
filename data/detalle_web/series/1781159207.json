@@ -48,7 +48,6 @@
                 },
                 {
                     "episode_id": "S01E02",
-                    "episode_number": 2,
                     "nombre": "La Variante",
                     "portada": "\/gqpcfkdmSsm6xiX2EsLkwUvA8g8.jpg",
                     "enlaces": [
@@ -70,7 +69,6 @@
                 },
                 {
                     "episode_id": "S01E03",
-                    "episode_number": 3,
                     "nombre": "Lamentis",
                     "portada": "\/aTjfWml9Prd8cUB9cfk8yOAEh7v.jpg",
                     "enlaces": [
@@ -107,33 +105,6 @@
                     "nombre": "Eternamente. Siempre.",
                     "portada": "\/98hGgYbNFP8GnZhJzAar22bWIAT.jpg",
                     "enlaces": []
-                },
-                {
-                    "episode_id": "S01E02",
-                    "nombre": "Episodio 2",
-                    "portada": "",
-                    "enlaces": []
-                },
-                {
-                    "episode_id": "S01E03",
-                    "nombre": "Episodio 3",
-                    "portada": "",
-                    "enlaces": [
-                        {
-                            "nombre": "",
-                            "url": "https:\/\/playmogo.com\/e\/4cdmka2hc2ua",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "",
-                            "url": "https:\/\/playmogo.com\/d\/4cdmka2hc2ua",
-                            "type": "",
-                            "language": "Latino",
-                            "quality": ""
-                        }
-                    ]
                 }
             ]
         },
@@ -183,5 +154,5 @@
     ],
     "added_date": "2026-06-11 02:26:47",
     "created_at": "2026-06-11 02:26:47",
-    "updated_at": "2026-06-12 07:17:27"
+    "updated_at": "2026-06-12 07:23:24"
 }
