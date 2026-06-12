@@ -1,0 +1,466 @@
+{
+    "id": "1781233964",
+    "tmdb_id": "83095",
+    "titulo": "The Rising of the Shield Hero",
+    "original_name": "盾の勇者の成り上がり",
+    "imagen": "\/yX0d6aTjHrE5Sjp6gZ1dkPWCmIF.jpg",
+    "backdrop_path": "\/ygJ9BOiLwExwFdxQeZiiUA6TqME.jpg",
+    "type": "serie",
+    "year": "2019",
+    "etiquetas": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Drama"
+    ],
+    "temporadas_count": 5,
+    "episodios": 62,
+    "status": "Returning Series",
+    "rate": 8.5,
+    "sinopsis": "Un joven otaku es convocado por arte de magia a un universo paralelo como uno de los cuatro héroes elegidos para salvar el mundo de su vaticinada destrucción.",
+    "cast": [
+        {
+            "name": "Kaito Ishikawa",
+            "character": "Naofumi Iwatani (voice)",
+            "profile_path": "\/fzjIkotjUHHs3wgftM9tqdsG8ph.jpg"
+        },
+        {
+            "name": "Asami Seto",
+            "character": "Raphtalia (voice)",
+            "profile_path": "\/iKKCPgKrNd4pJ0iBOC1SBZy2Y4Y.jpg"
+        },
+        {
+            "name": "Rina Hidaka",
+            "character": "Filo (voice)",
+            "profile_path": "\/7JupZGvqcq4dRxiTKpPxzg8NUS4.jpg"
+        }
+    ],
+    "first_air_date": "2019-01-09",
+    "last_air_date": "2025-09-24",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/ehya6uo6r1Vu86VyZXAkHYq23nr.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "nombre": "El héroe del escudo",
+                    "portada": "\/fY3CFbtAmNEW0eaKUoqAJy0j1kb.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Ver 1",
+                            "url": "https:\/\/abyssplayer.com\/QrXgKcBr-",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "1080p"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E02",
+                    "nombre": "La niña esclava",
+                    "portada": "\/1RJ6KQWKanRyyW4Zdwg076ICfYa.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E03",
+                    "nombre": "Olas de la calamidad",
+                    "portada": "\/mhbX3YS2ZQ1nZO5xJp1WZIJLhit.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E04",
+                    "nombre": "Canción de cuna del alba",
+                    "portada": "\/3XG0HDeodVIt2XnckUSVZLjQeZC.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E05",
+                    "nombre": "Filo",
+                    "portada": "\/jvruUEIujDILqkpK8K9Pmh27076.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E06",
+                    "nombre": "Una nueva compañera",
+                    "portada": "\/89Qdf9EHEjny6jtFvJpGNmmJhtn.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E07",
+                    "nombre": "El santo del dios pájaro",
+                    "portada": "\/5WWuEzmYMaCKtVFqIlm97GSTEyY.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E08",
+                    "nombre": "Escudo maldito",
+                    "portada": "\/olNVrXVzrv0YbdrkED5rA4T63hM.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E09",
+                    "nombre": "Melty",
+                    "portada": "\/cg3oWZ9h4ZNNdPni5Oy9qc84xXx.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E10",
+                    "nombre": "Entre la confusión",
+                    "portada": "\/l0QoGILrOtqRd3j3zevXsQn1nHG.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E11",
+                    "nombre": "La calamidad regresa",
+                    "portada": "\/tvHyi53bq5B6a9GB5ZEtSihNNOX.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E12",
+                    "nombre": "La extraña de negro",
+                    "portada": "\/nbVoVBe26qYyD0g1BXIwEWxxodj.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E13",
+                    "nombre": "El demonio del escudo",
+                    "portada": "\/ymRZHbDyK3UtcfCIe9K4kx2PtOg.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E14",
+                    "nombre": "Recuerdos imborrables",
+                    "portada": "\/iNBlZurX1mjpJolfDuBar79uul0.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E15",
+                    "nombre": "Raphtalia",
+                    "portada": "\/t0y9S2tkGp6ZKM1NVGGGoIzpowZ.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E16",
+                    "nombre": "Reina de los filolial",
+                    "portada": "\/fug0Xb8LghtSXK3CAnoWXTxvfjO.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E17",
+                    "nombre": "Se forma una promesa",
+                    "portada": "\/6iPH7BkoOB1oHRjAH88OaEBiUQj.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E18",
+                    "nombre": "Una conspiración conectada",
+                    "portada": "\/r9e2zkKsE3ur94fVqV3H99AdOip.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E19",
+                    "nombre": "Los cuatro héroes sagrados",
+                    "portada": "\/mRwFpm78B8HvUrdUTnzJ90rQDcD.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E20",
+                    "nombre": "Batalla decisiva entre el bien y el mal",
+                    "portada": "\/YajDAXdBLyyEOb5ROGGPSzyS3E.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E21",
+                    "nombre": "El retorno triunfal de Naofumi",
+                    "portada": "\/1mnonU19oWG6QwE2XQuXOloSLI6.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E22",
+                    "nombre": "Reunión de héroes",
+                    "portada": "\/m7pYjTMJPgrAg6uBChbawdRdXZb.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E23",
+                    "nombre": "Isla de Cal Mira",
+                    "portada": "\/iW8jZqVct7NXPUXbEjzERdZDQtw.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E24",
+                    "nombre": "Protectores de otro mundo",
+                    "portada": "\/hRQPcTDNR5Cejz36lIJiuUqIYto.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E25",
+                    "nombre": "El ascenso del héroe del escudo",
+                    "portada": "\/pdKDwMpMp9B0tbPCpo6WDhXbxxA.jpg",
+                    "enlaces": []
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 2",
+            "season_number": 2,
+            "poster_path": "\/fRmZamBM6rJrSOub8N9joZ2ChAv.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S02E01",
+                    "nombre": "Un nuevo rugido",
+                    "portada": "\/tRO0DbjXkA6s7pU0hVJJfrDrPqr.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S02E02",
+                    "nombre": "Huellas del espíritu tortuga",
+                    "portada": "\/2WqmAKbSS78m2udzIWSZSflVU4h.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S02E03",
+                    "nombre": "Tierra Temblorosa",
+                    "portada": "\/iDeFalJ462DLsGPowJYEoy6BKmo.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S02E04",
+                    "nombre": "Ruinas en la niebla",
+                    "portada": "\/sPsdHO0u2XQpwE8RE8SkbUeaSGO.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S02E05",
+                    "nombre": "Ost Horai",
+                    "portada": "\/cmbhEixShcIkZdABWO6SwyUsmf9.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S02E06",
+                    "nombre": "Persecución",
+                    "portada": "\/6cRt8dAvxM49nuEkPe1e5COsHyP.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S02E07",
+                    "nombre": "Laberinto Infinito",
+                    "portada": "\/n7TO02GB9Y2uPEXBAhusFZfKqZd.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S02E08",
+                    "nombre": "El adiós de la nieve",
+                    "portada": "\/dRIf2z69220x4QOxZqicm3AOB2W.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S02E09",
+                    "nombre": "Humming Fairy",
+                    "portada": "\/vlnMMoBwzO5XrCeI82VWAF4nS95.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S02E10",
+                    "nombre": "El héroe de la Katana",
+                    "portada": "\/46ak0sKyNul9dwfx1wbLmVXlGTO.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S02E11",
+                    "nombre": "Kizuna",
+                    "portada": "\/arCt8efkNt2FCHZUWrrqXrczhiu.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S02E12",
+                    "nombre": "El motivo para luchar",
+                    "portada": "\/k7NAImYQXSeshdC7FAVdV6tX0eQ.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S02E13",
+                    "nombre": "Flores para el recuerdo",
+                    "portada": "\/jUPGP1lycBxOJqfibDsWXjMGwge.jpg",
+                    "enlaces": []
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 3",
+            "season_number": 3,
+            "poster_path": "\/3rRbf4rQufoiZiv4wPFdWeJovhJ.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S03E01",
+                    "nombre": "El coliseo clandestino",
+                    "portada": "\/dBS9trCTsM0TDRqGWROMfxSh69W.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S03E02",
+                    "nombre": "Nadia",
+                    "portada": "\/tpihwS5i6YRilDYD501a9a6rhHM.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S03E03",
+                    "nombre": "Los hermanos Hakoku",
+                    "portada": "\/ke53laX0I3cQhsp0y8n8BW6lkFl.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S03E04",
+                    "nombre": "Operación capturar al héroe de la lanza",
+                    "portada": "\/cnKV7Asfwf1fGNFRJumFOEX8kVt.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S03E05",
+                    "nombre": "Distintos caminos",
+                    "portada": "\/6x4r829HeaF9X9y119AHrcp8WIe.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S03E06",
+                    "nombre": "El foco de la fuerza",
+                    "portada": "\/41yMsRf0S7fDjFp7Vt9lDLp4zMj.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S03E07",
+                    "nombre": "La niña y el dragón",
+                    "portada": "\/vR4lOB162O60hXPTT8pSuybfMjr.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S03E08",
+                    "nombre": "El nido del dragón",
+                    "portada": "\/neFN4JMqFAkjnHXMhZU3mlpzwDI.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S03E09",
+                    "nombre": "El Emperador Dragón",
+                    "portada": "\/se3qM16oCkehRfwq8ZenrH3TjKN.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S03E10",
+                    "nombre": "Perfect Hidden Justice",
+                    "portada": "\/p8RhvYYa396rFRFcl6g0oMoRevp.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S03E11",
+                    "nombre": "Justicia contra justicia",
+                    "portada": "\/p2n9jaEfH8C1txGxNoaWUsAkXFw.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S03E12",
+                    "nombre": "Los que debemos proteger",
+                    "portada": "\/pHwncx2bylpW5BXe6KahBgb3xoL.jpg",
+                    "enlaces": []
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 4",
+            "season_number": 4,
+            "poster_path": "\/2MDqemFjy2gQucBfynjvE3ZxTWC.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S04E01",
+                    "nombre": "Siltvelt",
+                    "portada": "\/mz1q3UqS5jeilDk1tKvKkYOUnzJ.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S04E02",
+                    "nombre": "Hospitalidad aparente",
+                    "portada": "\/2G5OwqHd8Uq22NQiLodG11iKw4t.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S04E03",
+                    "nombre": "Un pueblo de verdades y mentiras",
+                    "portada": "\/uWPXyVRpVUZV5Y7x7u39WMGy8XO.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S04E04",
+                    "nombre": "Poder encomendado",
+                    "portada": "\/c6nv7YNlS7QhWtm6ZioPuCRIoGc.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S04E05",
+                    "nombre": "Tigre blanco (Hakuko)",
+                    "portada": "\/m3aJ1ikPpH49mbwwXlj6rlsl0Uw.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S04E06",
+                    "nombre": "Zarpando",
+                    "portada": "\/sqrq2cq9rUlzWklhL3qBqQVPI3g.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S04E07",
+                    "nombre": "Llegada a Q'ten Lo",
+                    "portada": "\/tV8KLYtfXT8yq2XlzxGtYfEHkTO.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S04E08",
+                    "nombre": "Gran serpiente",
+                    "portada": "\/v9ml9oJUhB48ZXchnaGJa9YvoYR.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S04E09",
+                    "nombre": "Zodia",
+                    "portada": "\/AjqQxLf3dgdohT2u5pmCTGFznaZ.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S04E10",
+                    "nombre": "Plegaria",
+                    "portada": "\/jsO0IrOXEqnSRDWCEzKciw8uWar.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S04E11",
+                    "nombre": "La sacerdotisa oráculo",
+                    "portada": "\/sqa7O1836rnY9WmnnI0R0zUp7Qr.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S04E12",
+                    "nombre": "El retorno de la emperatriz",
+                    "portada": "\/g8p5WHPpRF6SLZVFvWkBUlFREDI.jpg",
+                    "enlaces": []
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 5",
+            "season_number": 5,
+            "poster_path": "",
+            "capitulos": [
+                {
+                    "episode_id": "S05E01",
+                    "nombre": "Episodio 1",
+                    "portada": "",
+                    "enlaces": []
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-06-11 23:12:44",
+    "created_at": "2026-06-11 23:12:44",
+    "updated_at": "2026-06-11 23:13:51"
+}
