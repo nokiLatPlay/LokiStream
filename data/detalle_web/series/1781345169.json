@@ -1,0 +1,199 @@
+{
+    "id": "1781345169",
+    "tmdb_id": "196950",
+    "titulo": "Witch Hat Atelier",
+    "original_name": "とんがり帽子のアトリエ",
+    "imagen": "\/1qGSBnrANHLX8C7KqGuPDCylns2.jpg",
+    "backdrop_path": "\/7zSko8MBo8UxJi2fPwglXFz7gV.jpg",
+    "type": "serie",
+    "year": "2026",
+    "etiquetas": [
+        "Animación",
+        "Drama",
+        "Sci-Fi & Fantasy"
+    ],
+    "temporadas_count": 1,
+    "episodios": 13,
+    "status": "Returning Series",
+    "rate": 9.199999999999999289457264239899814128875732421875,
+    "sinopsis": "Coco es una niña que vive en un pequeño pueblo y que siempre ha soñado con convertirse en maga. Pero haber nacido sin aptitud mágica significaba que nunca podría convertirse en maga y nunca podría presenciar la chispa de la magia. Renunció a su sueño. Pero un día, un mago viajero llamado Qifrey llegó a su pueblo, y ella tuvo la oportunidad de verlo realizar magia.",
+    "cast": [
+        {
+            "name": "Rena Motomura",
+            "character": "Coco (voice)",
+            "profile_path": "\/cI7dsdfqW6hs4bbzhaQrKEcjtU4.jpg"
+        },
+        {
+            "name": "Natsuki Hanae",
+            "character": "Qifrey (voice)",
+            "profile_path": "\/alTb0DlcPIbcwM08WSmxFai58sd.jpg"
+        },
+        {
+            "name": "Hibiku Yamamura",
+            "character": "Agott (voice)",
+            "profile_path": "\/uaMNsVAS83XJ4l7hkPegkdzQnUE.jpg"
+        },
+        {
+            "name": "Kurumi Haruki",
+            "character": "Tetia (voice)",
+            "profile_path": "\/qmiDVDmKd7JWhsJAu0QLlpTV9l4.jpg"
+        },
+        {
+            "name": "Hika Tsukishiro",
+            "character": "Richeh (voice)",
+            "profile_path": "\/iJU59ru8Rv9sIHd5kMznFDZktZr.jpg"
+        }
+    ],
+    "first_air_date": "2026-04-06",
+    "last_air_date": "2026-06-08",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/1qGSBnrANHLX8C7KqGuPDCylns2.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "nombre": "El primer conjuro",
+                    "portada": "\/cac5OY1meq4yOjd9lGIhZRXNKCK.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "",
+                            "url": "https:\/\/fastream.to\/embed-25bpr0uu9rtt.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "720p"
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https:\/\/fastream.to\/25bpr0uu9rtt",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "720p"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E02",
+                    "nombre": "La academia de la pradera",
+                    "portada": "\/1DfUTPsGPgv4gPCf0RQ8MmEDp3s.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "",
+                            "url": "https:\/\/fastream.to\/embed-2vrl519c8nfc.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https:\/\/fastream.to\/2vrl519c8nfc",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "720p"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E03",
+                    "nombre": "El examen de los picos de Dada",
+                    "portada": "\/cKULApd20mjn58WEipxSVTUeSYR.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "",
+                            "url": "https:\/\/fastream.to\/embed-jb7cvohczep7.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "720p"
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https:\/\/fastream.to\/jb7cvohczep7",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "720p"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E04",
+                    "nombre": "Encuentro en Karoon",
+                    "portada": "\/l7To5Oz6fcpGnMS8jyS3HJ8Vsb3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "",
+                            "url": "https:\/\/fastream.to\/embed-lw41lqxepwda.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "720p"
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https:\/\/fastream.to\/lw41lqxepwda",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "720p"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E05",
+                    "nombre": "El laberinto del megadragón de escamas",
+                    "portada": "\/8ttC4PNqm8FpzwMJ3vIraRaMtlR.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E06",
+                    "nombre": "Luz en un día de lluvia",
+                    "portada": "\/wxPLxROGCIM2bJ4BM9pd0DbqhG9.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E07",
+                    "nombre": "El objetivo de la magia",
+                    "portada": "\/3OQqavOLJDIZF0qbNQs9NKO7Iq9.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E08",
+                    "nombre": "Las dudas del Consejo de Seguridad",
+                    "portada": "\/mvm2fhcHaZG7wYhy6Uqh7vHHemd.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E09",
+                    "nombre": "Una pesadilla que conduce a las tinieblas",
+                    "portada": "\/dyLnCaE1yNWXyJRiJFDyEkLPewM.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E10",
+                    "nombre": "Una promesa de color plateado",
+                    "portada": "\/C7M36VC0CP051TA1xaPgdoEoGx.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E11",
+                    "nombre": "La prueba de la Gruta del Lomo de la Serpiente",
+                    "portada": "\/8yEB2PYl1Uq1zZbQstqnhWwDvb1.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E12",
+                    "nombre": "Episodio 12",
+                    "portada": "",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E13",
+                    "nombre": "Episodio 13",
+                    "portada": "",
+                    "enlaces": []
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-06-13 06:06:09",
+    "created_at": "2026-06-13 06:06:09",
+    "updated_at": "2026-06-13 06:09:33"
+}
