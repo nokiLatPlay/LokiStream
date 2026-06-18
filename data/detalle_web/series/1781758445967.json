@@ -1,0 +1,359 @@
+{
+    "id": "1781758445967",
+    "tmdb_id": "220102",
+    "titulo": "Spider-Noir",
+    "original_name": "Spider-Noir",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/original\/4Pec5a1At5UMeADkgcxwf6nLqau.jpg",
+    "backdrop_path": "https:\/\/image.tmdb.org\/t\/p\/original\/mkwVoyP9bFSmfVqU8FJyem52hVR.jpg",
+    "type": "serie",
+    "year": "2026",
+    "etiquetas": [
+        "Drama",
+        "Misterio",
+        "Crimen"
+    ],
+    "temporadas_count": 1,
+    "episodios": 8,
+    "status": "Returning Series",
+    "rate": 8.5,
+    "sinopsis": "Al detective privado Ben Reilly lo contratan para un par de casos sencillos... hasta que unos mafiosos, unos monstruos y una femme fatale misteriosa tejen una red que lo obliga a encarar su antigua vida como el único superhéroe de Nueva York: La Araña.",
+    "cast": [
+        {
+            "name": "Nicolas Cage",
+            "character": "Ben Reilly \/ The Spider",
+            "profile_path": "\/y1RtezurZYveYkVNRht7CwEgSYY.jpg"
+        },
+        {
+            "name": "Lamorne Morris",
+            "character": "Joe 'Robbie' Robertson",
+            "profile_path": "\/9qPDnMsF7JbYSSn1K9yryFBmmXl.jpg"
+        },
+        {
+            "name": "Li Jun Li",
+            "character": "Cat Hardy",
+            "profile_path": "\/y8hAcbThfxkrSRWhuXl9TsYAggP.jpg"
+        },
+        {
+            "name": "Karen Rodriguez",
+            "character": "Janet Ruiz",
+            "profile_path": "\/3CxunqumXE9ZYofJ0rhF7nSSMqX.jpg"
+        },
+        {
+            "name": "Abraham Popoola",
+            "character": "Lonnie Lincoln \/ Tombstone",
+            "profile_path": "\/r5mojn6TjWgHefdMCJNiohvY82f.jpg"
+        },
+        {
+            "name": "Jack Huston",
+            "character": "Flint Marko",
+            "profile_path": "\/qWGoZaUbeuaOLbDvyP5txYr9Hct.jpg"
+        },
+        {
+            "name": "Brendan Gleeson",
+            "character": "Finn 'Silvermane' Byrne",
+            "profile_path": "\/ctPPJu5ZYDZr1IPmzoNpezczrm0.jpg"
+        }
+    ],
+    "first_air_date": "2026-05-25",
+    "last_air_date": "2026-05-25",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Spider-Noir 1x1",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/avaOuuMGhci0mIR1rQDaS0PEmtZ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Spider-Noir 1x1",
+                            "url": "https:\/\/hglamioz.com\/e\/wsz46so2lb6r",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish - HD - Latino",
+                            "url": "https:\/\/bysejikuar.com\/e\/h1f2uq8jawos",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https:\/\/callistanise.com\/v\/5xmoxb6mj8fd",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https:\/\/hglamioz.com\/d\/wsz46so2lb6r",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Spider-Noir 1x2",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/jm6IM5Suxd3zKnSyLd7ef1XhF7V.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Spider-Noir 1x2",
+                            "url": "https:\/\/hglamioz.com\/e\/3p0lvozz81ay",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish - HD - Latino",
+                            "url": "https:\/\/bysejikuar.com\/e\/xkmnh4xgedzf",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https:\/\/callistanise.com\/v\/v6j62sy0wmz6",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https:\/\/hglamioz.com\/d\/3p0lvozz81ay",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Spider-Noir 1x3",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/pi81YdQAAXOgD4LypoDO76kKwcY.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Spider-Noir 1x3",
+                            "url": "https:\/\/hglamioz.com\/e\/4j6nj9ehn73r",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish - HD - Latino",
+                            "url": "https:\/\/bysejikuar.com\/e\/mfyozlp4yqy3",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https:\/\/callistanise.com\/v\/1fbvqrjpo405",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https:\/\/hglamioz.com\/d\/4j6nj9ehn73r",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "Spider-Noir 1x4",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/mKiPRJrGUdtgOwo6AUV81rr1aNP.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Spider-Noir 1x4",
+                            "url": "https:\/\/hglamioz.com\/e\/nwfatlt3otk2",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish - HD - Latino",
+                            "url": "https:\/\/bysejikuar.com\/e\/cbhedt0xnwk0",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https:\/\/callistanise.com\/v\/qsjy5q5uf4lk",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https:\/\/hglamioz.com\/d\/nwfatlt3otk2",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "Spider-Noir 1x5",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/laPPd7YkmXSGey4VyuQFS6ELTT3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Spider-Noir 1x5",
+                            "url": "https:\/\/hglamioz.com\/e\/0qqmocy6znd5",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish - HD - Latino",
+                            "url": "https:\/\/bysejikuar.com\/e\/tyo9oewkx5rf",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https:\/\/callistanise.com\/v\/duubj9lamyyg",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https:\/\/hglamioz.com\/d\/0qqmocy6znd5",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Spider-Noir 1x6",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/yVAh5HmppUTdMqnoxpZVLuFzGWc.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Spider-Noir 1x6",
+                            "url": "https:\/\/hglamioz.com\/e\/ulyopv8h43g1",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish - HD - Latino",
+                            "url": "https:\/\/bysejikuar.com\/e\/0wpy8g000j4m",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https:\/\/callistanise.com\/v\/8n1pvchw7sbc",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https:\/\/hglamioz.com\/d\/ulyopv8h43g1",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "Spider-Noir 1x7",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/ar6dHtsfCb1e0bBXd70Gtu63Ek5.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Spider-Noir 1x7",
+                            "url": "https:\/\/hglamioz.com\/e\/dsit5xod5029",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish - HD - Latino",
+                            "url": "https:\/\/bysejikuar.com\/e\/if3ex6j7qn9o",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https:\/\/callistanise.com\/v\/77looq5k0q3m",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https:\/\/hglamioz.com\/d\/dsit5xod5029",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "Spider-Noir 1x8",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/aMsalh2p6NuBOQx6KhuZQOxsTFo.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Spider-Noir 1x8",
+                            "url": "https:\/\/hglamioz.com\/e\/ohy4ayanpva6",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish - HD - Latino",
+                            "url": "https:\/\/bysejikuar.com\/e\/c0g9n8f0t1pv",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https:\/\/callistanise.com\/v\/vgqyk7c5gbva",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https:\/\/hglamioz.com\/d\/ohy4ayanpva6",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-06-18 00:54:05",
+    "created_at": "2026-06-18 00:54:05",
+    "updated_at": "2026-06-18 00:54:05"
+}
