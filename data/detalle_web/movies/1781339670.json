@@ -1,19 +1,21 @@
 {
     "id": "1781339670",
     "tmdb_id": "61979",
-    "titulo": "Tres metros sobre el cielo",
+    "titulo": "Tres Metros Sobre El Cielo",
     "original_name": "Tres metros sobre el cielo",
-    "imagen": "\/nNoMfNPnvEzGADXDkP6eJAP81KB.jpg",
-    "backdrop_path": "\/2Mq10FWFbxoYgsZysWlw7T9wSNe.jpg",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/original\/nNoMfNPnvEzGADXDkP6eJAP81KB.jpg",
+    "backdrop_path": "https:\/\/image.tmdb.org\/t\/p\/original\/2Mq10FWFbxoYgsZysWlw7T9wSNe.jpg",
     "type": "movie",
     "year": "2010",
     "etiquetas": [
         "Romance",
         "Drama"
     ],
-    "calidad": [],
+    "calidad": [
+        "HD"
+    ],
     "rate": 7.70000000000000017763568394002504646778106689453125,
-    "sinopsis": "En Barcelona, dos jóvenes que pertenecen a mundos opuestos se conocen. Ella, la dulce Babi, es una chica de clase alta que vive en un entorno tan protegido como poco excitante. Él, Hugo, conocido como el duro \"H\", es un chico impulsivo e irresponsable, aficionado a las peleas y a las carreras ilegales de motos. Esta es la crónica de un amor inicialmente imposible que arrastrará a ambos a un frenético viaje iniciático a través del cual descubrirán el amor.",
+    "sinopsis": "Historia de dos jóvenes que pertenecen a mundos diferentes. Es la crónica de un amor improbable, casi imposible pero inevitable arrastrando en un viaje frenético descubren el primer gran amor. Babi (Maria Valverde) es una chica de clase media alta que se educa en la bondad y la inocencia. Hache (Mario Casas) es un niño rebelde, impulsivo, inconsciente, tiene un apetito de riesgo y peligro encarnado en peleas interminables y carreras ilegales de motos, el límite del sentido común",
     "cast": [
         {
             "name": "Mario Casas",
@@ -91,12 +93,60 @@
             "profile_path": "\/bdWNTvCMLGhJfIS2QZ1wLhccVVo.jpg"
         }
     ],
-    "first_air_date": null,
-    "last_air_date": null,
     "status": "Released",
-    "runtime": 117,
-    "enlaces": [],
+    "runtime": 122,
+    "enlaces": [
+        {
+            "nombre": "Streamwish - HD - Latino",
+            "url": "https:\/\/hglamioz.com\/e\/c4sx3yjesi5d",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish - HD - Castellano",
+            "url": "https:\/\/bysejikuar.com\/e\/jlr02axsaf3d",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "",
+            "url": "https:\/\/hglamioz.com\/e\/57r1mgd4885z",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": "HD"
+        },
+        {
+            "nombre": "",
+            "url": "https:\/\/bysejikuar.com\/e\/367ghekxpwqh",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": "HD"
+        },
+        {
+            "nombre": "",
+            "url": "https:\/\/filelions.to\/v\/mn11zjphfeof",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": "HD"
+        },
+        {
+            "nombre": "",
+            "url": "https:\/\/hglamioz.com\/d\/c4sx3yjesi5d",
+            "type": "descarga",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "",
+            "url": "https:\/\/hglamioz.com\/d\/57r1mgd4885z",
+            "type": "descarga",
+            "language": "Castellano",
+            "quality": "HD"
+        }
+    ],
     "added_date": "2026-06-13 04:34:30",
     "created_at": "2026-06-13 04:34:30",
-    "updated_at": "2026-06-13 04:34:31"
+    "updated_at": "2026-06-25 20:36:27"
 }
