@@ -1,0 +1,45 @@
+{
+    "id": "1782581723",
+    "tmdb_id": "569094",
+    "titulo": "Spider-Man: Cruzando el Multiverso",
+    "original_name": "Spider-Man: Across the Spider-Verse",
+    "imagen": "\/37WcNMgNOMxdhT87MFl7tq7FM1.jpg",
+    "backdrop_path": "\/9xfDWXAUbFXQK585JvByT5pEAhe.jpg",
+    "type": "movie",
+    "year": "2023",
+    "etiquetas": [
+        "Animación",
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+    ],
+    "calidad": [
+        "720p"
+    ],
+    "rate": 8.300000000000000710542735760100185871124267578125,
+    "sinopsis": "Tras reencontrarse con Gwen Stacy, el amigable vecindario de Spider-Man de Brooklyn al completo es catapultado a través del Multiverso, donde se encuentra con un equipo de Spidermans encargados de proteger su propia existencia. Pero cuando los héroes se enfrentan sobre cómo manejar una nueva amenaza, Miles se encuentra enfrentado a las otras Arañas y debe redefinir lo que significa ser un héroe para poder salvar a la gente que más quiere.",
+    "cast": [],
+    "first_air_date": null,
+    "last_air_date": null,
+    "status": "Released",
+    "runtime": 140,
+    "enlaces": [
+        {
+            "nombre": "Ver 1",
+            "url": "https:\/\/goodstream.one\/embed-7nt4n1o3rjr1.html",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "720p"
+        },
+        {
+            "nombre": "Descarga 1",
+            "url": "https:\/\/goodstream.one\/7nt4n1o3rjr1",
+            "type": "descarga",
+            "language": "Latino",
+            "quality": "720p"
+        }
+    ],
+    "added_date": "2026-06-27 13:35:23",
+    "created_at": "2026-06-27 13:35:23",
+    "updated_at": "2026-06-27 13:36:14"
+}
