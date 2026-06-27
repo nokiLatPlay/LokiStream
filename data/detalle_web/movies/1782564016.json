@@ -1,0 +1,120 @@
+{
+    "id": "1782564016",
+    "tmdb_id": "507086",
+    "titulo": "Jurassic World: Dominion",
+    "original_name": "Jurassic World Dominion",
+    "imagen": "\/sXeWfpT1EhG7f4uBouqraOhmouH.jpg",
+    "backdrop_path": "\/698FjyzLdpgXmUSr63LaRwblTmx.jpg",
+    "type": "movie",
+    "year": "2022",
+    "etiquetas": [
+        "Aventura",
+        "Ciencia ficción",
+        "Suspense"
+    ],
+    "calidad": [
+        "1080p"
+    ],
+    "rate": 6.5999999999999996447286321199499070644378662109375,
+    "sinopsis": "Cuatro años después de la destrucción de Isla Nublar, los dinosaurios conviven – y cazan – con los seres humanos en todo el mundo. Este frágil equilibrio cambiará el futuro y decidirá, de una vez por todas, si los seres humanos seguirán en la cúspide de los depredadores en un planeta que comparten con los animales más temibles de la creación.",
+    "cast": [
+        {
+            "name": "Chris Pratt",
+            "character": "Owen Grady",
+            "profile_path": "\/872Hzdq95gsbMRabsColTW3TLrD.jpg"
+        },
+        {
+            "name": "Bryce Dallas Howard",
+            "character": "Claire Dearing",
+            "profile_path": "\/6yhDkPXythZavS6Wk57XQ2sg5AW.jpg"
+        },
+        {
+            "name": "Laura Dern",
+            "character": "Ellie Sattler",
+            "profile_path": "\/gB9PnGEvxKg33OSlcqptQwTBwPE.jpg"
+        },
+        {
+            "name": "Sam Neill",
+            "character": "Alan Grant",
+            "profile_path": "\/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg"
+        },
+        {
+            "name": "Jeff Goldblum",
+            "character": "Ian Malcolm",
+            "profile_path": "\/kcyEPgYtBP5Pm6LLeLGfXKjYovL.jpg"
+        },
+        {
+            "name": "DeWanda Wise",
+            "character": "Kayla Watts",
+            "profile_path": "\/daQjduDoTzaDTC6SIsGWs55dzcM.jpg"
+        },
+        {
+            "name": "Mamoudou Athie",
+            "character": "Ramsay Cole",
+            "profile_path": "\/ycUbhfZRKC8MtNK9oMwscRsl3uM.jpg"
+        },
+        {
+            "name": "Isabella Sermon",
+            "character": "Maisie Lockwood \/ Young Charlotte Lockwood",
+            "profile_path": "\/8M6kYKV3lLjcmhOSeC5ts7tKeb8.jpg"
+        },
+        {
+            "name": "Campbell Scott",
+            "character": "Lewis Dodgson",
+            "profile_path": "\/1kj769jco2U73xasSEu0TyX9I5w.jpg"
+        },
+        {
+            "name": "BD Wong",
+            "character": "Henry Wu",
+            "profile_path": "\/4tB7i9tcGJM7SU5xbd1dBVamxVr.jpg"
+        },
+        {
+            "name": "Omar Sy",
+            "character": "Barry Sembène",
+            "profile_path": "\/ftoP3CMC4ob8VJAu1gEHSC714K5.jpg"
+        },
+        {
+            "name": "Justice Smith",
+            "character": "Franklin Webb",
+            "profile_path": "\/htJrcOzYkLVcnF4ExT4O1bDN5e5.jpg"
+        },
+        {
+            "name": "Daniella Pineda",
+            "character": "Zia Rodriguez",
+            "profile_path": "\/44t9itsZ0CDIObHgyj5rA92DSmq.jpg"
+        },
+        {
+            "name": "Scott Haze",
+            "character": "Rainn Delacourt",
+            "profile_path": "\/i0k562EpJiuglK2VnUNAh12fZfj.jpg"
+        },
+        {
+            "name": "Dichen Lachman",
+            "character": "Soyona Santos",
+            "profile_path": "\/uXguaxMm1ju4Api4cZMc3pLz5iV.jpg"
+        }
+    ],
+    "first_air_date": null,
+    "last_air_date": null,
+    "status": "Released",
+    "runtime": 147,
+    "enlaces": [
+        {
+            "nombre": "Ver 1",
+            "url": "https:\/\/goodstream.one\/embed-f3zn3z2289cm.html",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "1080p"
+        },
+        {
+            "nombre": "Descarga 1",
+            "url": "https:\/\/goodstream.one\/f3zn3z2289cm",
+            "type": "descarga",
+            "language": "Latino",
+            "quality": "1080p"
+        }
+    ],
+    "added_date": "2026-06-27 08:40:16",
+    "created_at": "2026-06-27 08:40:16",
+    "updated_at": "2026-06-27 08:42:33"
+}
