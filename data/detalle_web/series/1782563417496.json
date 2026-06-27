@@ -102,7 +102,6 @@
             "capitulos": [
                 {
                     "episode_id": "S01E01",
-                    "episode_number": 1,
                     "nombre": "Classroom of the Elite 1x1",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/8A2eGfqyomNgxqcyfIexSmYF43C.jpg",
                     "enlaces": [
@@ -111,27 +110,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/hioixh5tj0mm",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/x0wymg9q6q58",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/hioixh5tj0mm",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E02",
-                    "episode_number": 2,
                     "nombre": "Classroom of the Elite 1x2",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/dfJ0Nxw3BXXMYSMZYpthmzmhJL1.jpg",
                     "enlaces": [
@@ -140,27 +138,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/fzklpcbmvagn",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/5lgcz7cygsj0",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/fzklpcbmvagn",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E03",
-                    "episode_number": 3,
                     "nombre": "Classroom of the Elite 1x3",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/3bPj58ISsBNgI0eYK3dFK12lAML.jpg",
                     "enlaces": [
@@ -169,27 +166,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/tdi22u43c4qa",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/zoop9v78s82n",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/tdi22u43c4qa",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E04",
-                    "episode_number": 4,
                     "nombre": "Classroom of the Elite 1x4",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/2cKlPS2uEV60yVRszJSd01NOTU9.jpg",
                     "enlaces": [
@@ -198,27 +194,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/7nfnu1kkp0si",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/5ndz6x4ylct7",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/7nfnu1kkp0si",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E05",
-                    "episode_number": 5,
                     "nombre": "Classroom of the Elite 1x5",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/ijEZZSRWlAUB5yCjSHvf6eLLOsE.jpg",
                     "enlaces": [
@@ -227,27 +222,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/vdwwrpdgsujm",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/w7oai5akonaz",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/vdwwrpdgsujm",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E06",
-                    "episode_number": 6,
                     "nombre": "Classroom of the Elite 1x6",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/oXnrjcOwk5bPrzJnRRAeeC7Y7pf.jpg",
                     "enlaces": [
@@ -256,27 +250,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/y2102hra8tcx",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/vf4zvz2rrab3",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/y2102hra8tcx",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E07",
-                    "episode_number": 7,
                     "nombre": "Classroom of the Elite 1x7",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/ybpuMXUdp3AN3MDxzc8LYpeEwzt.jpg",
                     "enlaces": [
@@ -285,27 +278,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/wsoo5ma6fjd8",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/lg3bc3ohx53r",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/wsoo5ma6fjd8",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E08",
-                    "episode_number": 8,
                     "nombre": "Classroom of the Elite 1x8",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/3KROkOsEz2ERoqfqlcDHgjbbtAG.jpg",
                     "enlaces": [
@@ -314,27 +306,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/innr3mqf5b6u",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/rw7wk60b8eep",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/innr3mqf5b6u",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E09",
-                    "episode_number": 9,
                     "nombre": "Classroom of the Elite 1x9",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/iQlVTaOYHnyVca7csQuJHDCgpXD.jpg",
                     "enlaces": [
@@ -343,13 +334,12 @@
                             "url": "https:\/\/bysejikuar.com\/e\/kdhzmpdl66nb",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E10",
-                    "episode_number": 10,
                     "nombre": "Classroom of the Elite 1x10",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/gzzlScnfNVWE8EMM5rtWhwR2chj.jpg",
                     "enlaces": [
@@ -358,27 +348,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/f2hmytaqgbix",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/ykvfdzb1xa1p",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/f2hmytaqgbix",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E11",
-                    "episode_number": 11,
                     "nombre": "Classroom of the Elite 1x11",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/yELWM36I7nlC8BhUIva4gjx9DW0.jpg",
                     "enlaces": [
@@ -387,27 +376,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/8bh0j2d63ot9",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/pokdexha1lp7",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/8bh0j2d63ot9",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E12",
-                    "episode_number": 12,
                     "nombre": "Classroom of the Elite 1x12",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/74uoSfzP1uekM7P3sAILXaBOBMf.jpg",
                     "enlaces": [
@@ -416,21 +404,21 @@
                             "url": "https:\/\/hglamioz.com\/e\/u5r6mul5055m",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/xoa4a87hrcwj",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/u5r6mul5055m",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 }
@@ -439,11 +427,10 @@
         {
             "temporada": "Temporada 2",
             "season_number": 2,
-            "poster_path": "",
+            "poster_path": "https:\/\/image.tmdb.org\/t\/p\/original\/lLD9Xg5bASKrUAp7bLCm7s8WbKW.jpg",
             "capitulos": [
                 {
                     "episode_id": "S02E01",
-                    "episode_number": 1,
                     "nombre": "Classroom of the Elite 2x1",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/qUMhwS1QbTY6wuAv7CemW1AGVZA.jpg",
                     "enlaces": [
@@ -452,27 +439,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/nkdavwmqaioj",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/98xbuehf39xt",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/nkdavwmqaioj",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S02E02",
-                    "episode_number": 2,
                     "nombre": "Classroom of the Elite 2x2",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/3BE7fmLK5J1nijfY52S2nvx08tU.jpg",
                     "enlaces": [
@@ -481,27 +467,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/jha3h0iu060h",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/usieppycjwxb",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/jha3h0iu060h",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S02E03",
-                    "episode_number": 3,
                     "nombre": "Classroom of the Elite 2x3",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/xleOVHWBY4b3yGlgMG1iXfQvtYg.jpg",
                     "enlaces": [
@@ -510,27 +495,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/2zdskl3r27xr",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/luog7xrcg2xh",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/2zdskl3r27xr",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S02E04",
-                    "episode_number": 4,
                     "nombre": "Classroom of the Elite 2x4",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/oF6UbzQQce0xri9vHL7cCaN9N3J.jpg",
                     "enlaces": [
@@ -539,27 +523,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/mk0shxq5kicq",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/mqk3njkf1t16",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/mk0shxq5kicq",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S02E05",
-                    "episode_number": 5,
                     "nombre": "Classroom of the Elite 2x5",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/hyRKf7wM0cWuXpMnMHjCDoWeNoW.jpg",
                     "enlaces": [
@@ -568,27 +551,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/az5qpasifzk4",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/b3tgjs5kdx3x",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/az5qpasifzk4",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S02E06",
-                    "episode_number": 6,
                     "nombre": "Classroom of the Elite 2x6",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/qoIHpSIN1XketcShpULWMmPPDyT.jpg",
                     "enlaces": [
@@ -597,27 +579,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/i4zsn4i7hx3y",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/atfgphzpb60c",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/i4zsn4i7hx3y",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S02E07",
-                    "episode_number": 7,
                     "nombre": "Classroom of the Elite 2x7",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/l6bI7i1sKKCa94bLZ7R5WM0qRVN.jpg",
                     "enlaces": [
@@ -626,27 +607,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/89tkrp9k49q7",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/bc286cdr45x9",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/89tkrp9k49q7",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S02E08",
-                    "episode_number": 8,
                     "nombre": "Classroom of the Elite 2x8",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/qYp9tCdw4ICEQxexR4MTL6eAGw3.jpg",
                     "enlaces": [
@@ -655,27 +635,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/nrer0zyyyqdk",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/w0adc3fry3k2",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/nrer0zyyyqdk",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S02E09",
-                    "episode_number": 9,
                     "nombre": "Classroom of the Elite 2x9",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/2ToxZSq75pkFGvk45SHoywc2CJN.jpg",
                     "enlaces": [
@@ -684,27 +663,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/7h7h2vk0jqvd",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/ebhuyl4hbqlg",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/7h7h2vk0jqvd",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S02E10",
-                    "episode_number": 10,
                     "nombre": "Classroom of the Elite 2x10",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/iuH1dtZ3neoXw5Dp35cMDwxEBHt.jpg",
                     "enlaces": [
@@ -713,27 +691,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/yznsyt7q7x7s",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/blu4rwukyyd8",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/yznsyt7q7x7s",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S02E11",
-                    "episode_number": 11,
                     "nombre": "Classroom of the Elite 2x11",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/AfdWfIjGUOc1Oxtg73Oe7ElaNHa.jpg",
                     "enlaces": [
@@ -742,27 +719,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/7t21zvigp52o",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/sorjjdm7f661",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/7t21zvigp52o",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S02E12",
-                    "episode_number": 12,
                     "nombre": "Classroom of the Elite 2x12",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/6E0DJbQwTgHe1ousRpRHaP0Zx9O.jpg",
                     "enlaces": [
@@ -771,27 +747,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/fe8ebkahex4i",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/tdwlzh7fuekh",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/fe8ebkahex4i",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S02E13",
-                    "episode_number": 13,
                     "nombre": "Classroom of the Elite 2x13",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/d3ML6HoEhX8n1BZWXs4TxdQ6gVj.jpg",
                     "enlaces": [
@@ -800,21 +775,21 @@
                             "url": "https:\/\/hglamioz.com\/e\/6xoa2d9hdmhs",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/u4762vfjcgdx",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/6xoa2d9hdmhs",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 }
@@ -823,11 +798,10 @@
         {
             "temporada": "Temporada 3",
             "season_number": 3,
-            "poster_path": "",
+            "poster_path": "https:\/\/image.tmdb.org\/t\/p\/original\/wyATdDDS7T6hMwtI7AnMMjVwsGA.jpg",
             "capitulos": [
                 {
                     "episode_id": "S03E01",
-                    "episode_number": 1,
                     "nombre": "Classroom of the Elite 3x1",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/heLMHX0Ra0fpll9a4DG9dygr7Mj.jpg",
                     "enlaces": [
@@ -836,27 +810,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/apqj1y49q9ra",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/dfhvyypp43pk",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/apqj1y49q9ra",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S03E02",
-                    "episode_number": 2,
                     "nombre": "Classroom of the Elite 3x2",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/xXDNeztt5ZeANArWqRC4vtpuo7t.jpg",
                     "enlaces": [
@@ -865,34 +838,33 @@
                             "url": "https:\/\/hglamioz.com\/e\/dnm3j92fek7e",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/b512289vujcz",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/filelions.to\/v\/m14b0jmolyjv",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/dnm3j92fek7e",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S03E03",
-                    "episode_number": 3,
                     "nombre": "Classroom of the Elite 3x3",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/kYb4QROnwXGzWOdj4XkBeQ0SvBH.jpg",
                     "enlaces": [
@@ -901,34 +873,33 @@
                             "url": "https:\/\/hglamioz.com\/e\/srbgpb1sd932",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/z4i05p3vd467",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/filelions.to\/v\/tjsvs2jcw93f",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/srbgpb1sd932",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S03E04",
-                    "episode_number": 4,
                     "nombre": "Classroom of the Elite 3x4",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/bun3yUxmzcAUzrsY11HWEzlM3Mk.jpg",
                     "enlaces": [
@@ -937,27 +908,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/qdnuoklrlldd",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/gtjzwhbc7qwc",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/qdnuoklrlldd",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S03E05",
-                    "episode_number": 5,
                     "nombre": "Classroom of the Elite 3x5",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/3mzsqrmFgAH34sgvXXjKWinP1d0.jpg",
                     "enlaces": [
@@ -966,27 +936,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/rldcpht4sl9c",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/hq3so4yi284b",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/rldcpht4sl9c",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S03E06",
-                    "episode_number": 6,
                     "nombre": "Classroom of the Elite 3x6",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/kozApucCq042I5k65wSp5sxOgkE.jpg",
                     "enlaces": [
@@ -995,27 +964,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/q3qhlwc591m2",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/i9lxm6r5h4w7",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/q3qhlwc591m2",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S03E07",
-                    "episode_number": 7,
                     "nombre": "Classroom of the Elite 3x7",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/rTUO78ObihmS45DCEwJUYXYw5C4.jpg",
                     "enlaces": [
@@ -1024,27 +992,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/txwnvtamxk5m",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/7xayn1np7jr3",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/txwnvtamxk5m",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S03E08",
-                    "episode_number": 8,
                     "nombre": "Classroom of the Elite 3x8",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/hUKfUTKKG4eE6q59HfphXeobdn7.jpg",
                     "enlaces": [
@@ -1053,27 +1020,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/rzds8cgtvsw6",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/n1w4zecuh7b9",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/rzds8cgtvsw6",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S03E09",
-                    "episode_number": 9,
                     "nombre": "Classroom of the Elite 3x9",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/4OSVKq9ms88escuFnOQTK5AhZ4W.jpg",
                     "enlaces": [
@@ -1082,27 +1048,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/kuw8rz80wfcd",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/zzwlu7l35dqt",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/kuw8rz80wfcd",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S03E10",
-                    "episode_number": 10,
                     "nombre": "Classroom of the Elite 3x10",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/3NUapL1XnYroj3rxb2vnvNcpnS8.jpg",
                     "enlaces": [
@@ -1111,27 +1076,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/wiry592j5u81",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/jx6imko26rwb",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/wiry592j5u81",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S03E11",
-                    "episode_number": 11,
                     "nombre": "Classroom of the Elite 3x11",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/cnFocEvLhngdczzRrMkBHwrYakU.jpg",
                     "enlaces": [
@@ -1140,27 +1104,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/kfcq2gqqhqh7",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/r816uf1b1fn8",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/kfcq2gqqhqh7",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S03E12",
-                    "episode_number": 12,
                     "nombre": "Classroom of the Elite 3x12",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/k3LKfOU2gORPx9f0t8nsE24yW7o.jpg",
                     "enlaces": [
@@ -1169,27 +1132,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/br1619j0rvlo",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/77j13plvdsb2",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/br1619j0rvlo",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S03E13",
-                    "episode_number": 13,
                     "nombre": "Classroom of the Elite 3x13",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/bbTIodpLcABWYGiIPBUZDY4d9k6.jpg",
                     "enlaces": [
@@ -1198,21 +1160,21 @@
                             "url": "https:\/\/hglamioz.com\/e\/xkfj30rfpi44",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish - HD - Latino",
                             "url": "https:\/\/bysejikuar.com\/e\/lv6l4wl9r97y",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "",
                             "url": "https:\/\/hglamioz.com\/d\/xkfj30rfpi44",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 }
@@ -1221,5 +1183,5 @@
     ],
     "added_date": "2026-06-27 08:30:17",
     "created_at": "2026-06-27 08:30:17",
-    "updated_at": "2026-06-27 12:39:46"
+    "updated_at": "2026-06-27 12:41:43"
 }
