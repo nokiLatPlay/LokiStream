@@ -1,0 +1,45 @@
+{
+    "id": "1782581867",
+    "tmdb_id": "568160",
+    "titulo": "El tiempo contigo",
+    "original_name": "天気の子",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/original\/18lF2eTWAO0tloyBW39fob5ALAW.jpg",
+    "backdrop_path": "https:\/\/image.tmdb.org\/t\/p\/original\/3PFuo7h4kKdNybOonL7Z7aeDs6I.jpg",
+    "type": "movie",
+    "year": "2019",
+    "etiquetas": [
+        "Animación",
+        "Drama",
+        "Fantasía",
+        "Romance"
+    ],
+    "calidad": [
+        "720p"
+    ],
+    "rate": 8,
+    "sinopsis": "Tenki no Ko - En la actualidad, Tokio está experimentando lluvias que parecen interrumpir el ritmo habitual de todos los que viven allí sin fin. En medio de este aguacero aparentemente eterno llega la fugitiva estudiante de secundaria Hodaka Morishima, que lucha por mantenerse económicamente, terminando con un trabajo en una editorial de poca monta. Al mismo tiempo, la huérfana Hina Amano también se esfuerza por encontrar trabajo para mantenerse a sí misma y a su hermano menor. Ambos destinos se entrelazan cuando Hodaka intenta rescatar a Hina de hombres sombríos, decidiendo huir juntos. Posteriormente, Hodaka descubre que Hina tiene un poder extraño pero sorprendente: la capacidad de llamar al sol cada vez que reza por él. Con el clima inusual de Tokio en mente, Hodaka ve el potencial de esta habilidad. Sugiere que Hina debería convertirse en una \"chica del sol\", alguien que despeje el cielo para las personas cuando más lo necesiten.",
+    "cast": [],
+    "first_air_date": null,
+    "last_air_date": null,
+    "status": "Released",
+    "runtime": 120,
+    "enlaces": [
+        {
+            "nombre": "Ver 1",
+            "url": "https:\/\/goodstream.one\/embed-3fp3q2fhi3cd.html",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "720p"
+        },
+        {
+            "nombre": "Descarga 1",
+            "url": "https:\/\/goodstream.one\/3fp3q2fhi3cd",
+            "type": "descarga",
+            "language": "Latino",
+            "quality": "720p"
+        }
+    ],
+    "added_date": "2026-06-27 13:37:47",
+    "created_at": "2026-06-27 13:37:47",
+    "updated_at": "2026-06-27 13:42:32"
+}
