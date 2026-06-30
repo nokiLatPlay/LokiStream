@@ -1,0 +1,120 @@
+{
+    "id": "1782859100",
+    "tmdb_id": "315635",
+    "titulo": "Spider-Man. De regreso a casa",
+    "original_name": "Spider-Man: Homecoming",
+    "imagen": "\/yJfPC6pjSJ5VOsVyXhx5PXBe0mR.jpg",
+    "backdrop_path": "\/tPpYGm2mVecue7Bk3gNVoSPA5qn.jpg",
+    "type": "movie",
+    "year": "2017",
+    "etiquetas": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+    ],
+    "calidad": [
+        "720p"
+    ],
+    "rate": 7.29999999999999982236431605997495353221893310546875,
+    "sinopsis": "Peter Parker comienza a experimentar su recién descubierta identidad como el superhéroe Spider-Man. Después de la experiencia vivida con los Vengadores, Peter regresa a casa, donde vive con su tía. Bajo la atenta mirada de su mentor Tony Stark, Peter intenta mantener una vida normal como cualquier joven de su edad, pero interrumpe en su rutina diaria el nuevo villano Vulture y, con él, lo más importante de la vida de Peter comenzará a verse amenazado.",
+    "cast": [
+        {
+            "name": "Tom Holland",
+            "character": "Peter Parker \/ Spider-Man",
+            "profile_path": "\/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg"
+        },
+        {
+            "name": "Michael Keaton",
+            "character": "Adrian Toomes \/ Vulture",
+            "profile_path": "\/tYSja1KByFnZ4Hkp3stPqkKHnNL.jpg"
+        },
+        {
+            "name": "Robert Downey Jr.",
+            "character": "Tony Stark \/ Iron Man",
+            "profile_path": "\/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+        },
+        {
+            "name": "Marisa Tomei",
+            "character": "May Parker",
+            "profile_path": "\/5w6qM8FWsl5SutKSpx6Va64eCTE.jpg"
+        },
+        {
+            "name": "Jon Favreau",
+            "character": "Happy Hogan",
+            "profile_path": "\/8MtRRnEHaBSw8Ztdl8saXiw1egP.jpg"
+        },
+        {
+            "name": "Gwyneth Paltrow",
+            "character": "Pepper Potts",
+            "profile_path": "\/r4wbWWEEjmtRFZ0GU10XbLTgp47.jpg"
+        },
+        {
+            "name": "Zendaya",
+            "character": "Michelle",
+            "profile_path": "\/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
+        },
+        {
+            "name": "Donald Glover",
+            "character": "Aaron Davis",
+            "profile_path": "\/jqVkQfeeEmdga1G0jpBwwXXwwSK.jpg"
+        },
+        {
+            "name": "Jacob Batalon",
+            "character": "Ned",
+            "profile_path": "\/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
+        },
+        {
+            "name": "Laura Harrier",
+            "character": "Liz",
+            "profile_path": "\/hYS8z1DxP6jvsBNXMRALiSI3nhw.jpg"
+        },
+        {
+            "name": "Tony Revolori",
+            "character": "Flash",
+            "profile_path": "\/tSF6XmXDikrKZbFUeoDnafXxKjT.jpg"
+        },
+        {
+            "name": "Bokeem Woodbine",
+            "character": "Herman Schultz \/ Shocker #2",
+            "profile_path": "\/pnPyA5pJn94zUzuLWTNkGBNZxza.jpg"
+        },
+        {
+            "name": "Tyne Daly",
+            "character": "Anne Marie Hoag",
+            "profile_path": "\/uR0nx2bniih1Kdhst5R3LH59smk.jpg"
+        },
+        {
+            "name": "Abraham Attah",
+            "character": "Abraham",
+            "profile_path": "\/8r5GdE98NDuj8hMJktXtFWVtxxl.jpg"
+        },
+        {
+            "name": "Hannibal Buress",
+            "character": "Coach Wilson",
+            "profile_path": "\/mcw3Orbg4vbALXTVG4hriZjH1sj.jpg"
+        }
+    ],
+    "first_air_date": null,
+    "last_air_date": null,
+    "status": "Released",
+    "runtime": 133,
+    "enlaces": [
+        {
+            "nombre": "Ver 1",
+            "url": "https:\/\/goodstream.one\/embed-n83lqeidvoe3.html",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "720p"
+        },
+        {
+            "nombre": "Descargar 1",
+            "url": "https:\/\/goodstream.one\/n83lqeidvoe3",
+            "type": "descarga",
+            "language": "Latino",
+            "quality": "720p"
+        }
+    ],
+    "added_date": "2026-06-30 18:38:20",
+    "created_at": "2026-06-30 18:38:20",
+    "updated_at": "2026-06-30 18:39:14"
+}
