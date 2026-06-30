@@ -1,0 +1,44 @@
+{
+    "id": "1782859391",
+    "tmdb_id": "652",
+    "titulo": "Troya",
+    "original_name": "Troy",
+    "imagen": "\/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
+    "backdrop_path": "\/y51M7Ca95sCXTCDvJaRP1uzxKbg.jpg",
+    "type": "movie",
+    "year": "2004",
+    "etiquetas": [
+        "Bélica",
+        "Acción",
+        "Historia"
+    ],
+    "calidad": [
+        "720p"
+    ],
+    "rate": 7.20000000000000017763568394002504646778106689453125,
+    "sinopsis": "A lo largo de los tiempos, los hombres han hecho la guerra. Unos por poder, otros por gloria o por honor, y algunos por amor. En la antigua Grecia, la pasión de dos de los amantes más legendarios de la historia, Paris, príncipe de Troya y Helena, reina de Esparta, desencadena una guerra que asolará una civilización. El rapto de Helena por Paris, separándola de su esposo, el rey Menelao, es un insulto que El orgullo familiar establece que una afrenta a Menelao es una afrenta a su hermano Agamenón, el poderoso rey de Micenas, que no tarda en reunir a todas las grandes tribus de Grecia para recuperar a Helena de manos de los troyanos y defender el honor de su hermano. La verdad es que la lucha por el honor por parte de Agamenón está corrompida por su incontenible codicia ya que necesita conquistar Troya para asumir el control del mar Egeo.",
+    "cast": null,
+    "first_air_date": null,
+    "last_air_date": null,
+    "status": "Released",
+    "runtime": 163,
+    "enlaces": [
+        {
+            "nombre": "Ver",
+            "url": "https:\/\/goodstream.one\/embed-9polsuecf7ga.html",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "720p"
+        },
+        {
+            "nombre": "Descargar 1",
+            "url": "https:\/\/goodstream.one\/9polsuecf7ga",
+            "type": "descarga",
+            "language": "Latino",
+            "quality": "720p"
+        }
+    ],
+    "added_date": "2026-06-30 18:43:11",
+    "created_at": "2026-06-30 18:43:11",
+    "updated_at": "2026-06-30 18:43:58"
+}
