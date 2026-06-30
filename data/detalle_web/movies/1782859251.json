@@ -1,0 +1,121 @@
+{
+    "id": "1782859251",
+    "tmdb_id": "1194388",
+    "titulo": "Vari",
+    "original_name": "Vari",
+    "imagen": "\/2nWljN5d5VC6Zxur7ToDRpSHCoR.jpg",
+    "backdrop_path": "\/cJEfGBcVQElkQwD6nop9AcZy8X.jpg",
+    "type": "movie",
+    "year": "2024",
+    "etiquetas": [
+        "Crimen",
+        "Suspense",
+        "Terror",
+        "Misterio"
+    ],
+    "calidad": [
+        "720p"
+    ],
+    "rate": 6.5,
+    "sinopsis": "El protagonista es Juhan Liiv, un poeta y detective que resuelve truculentos casos de asesinato en la Estonia 1890 bajo la sombra del tiránico Imperio ruso.",
+    "cast": [
+        {
+            "name": "Pääru Oja",
+            "character": "Juhan Liiv",
+            "profile_path": "\/yKNm7jeaOSCGqv5Dc5lnrtzSrAC.jpg"
+        },
+        {
+            "name": "Rain Simmul",
+            "character": "Police Master Peeter",
+            "profile_path": "\/uOQV8tSEqiXS8SBbesONCGA6Nm1.jpg"
+        },
+        {
+            "name": "Karol Kuntsel",
+            "character": "Otto",
+            "profile_path": "\/eN0d8CJk2JEuuPFKeicziyvZBmQ.jpg"
+        },
+        {
+            "name": "Kersti Heinloo",
+            "character": "Liise",
+            "profile_path": "\/cBDb3aIzJ9JiKKVfc4rgKLhK64H.jpg"
+        },
+        {
+            "name": "Peeter Tammearu",
+            "character": "Innkeeper",
+            "profile_path": "\/wJQ3ETumXWw4kb7hwpHet6vnrWZ.jpg"
+        },
+        {
+            "name": "Riho Kütsar",
+            "character": "Wrestler Mill",
+            "profile_path": "\/f9nAfFv7NP0PcsBucEgrPVFmLR8.jpg"
+        },
+        {
+            "name": "Ago Anderson",
+            "character": "Wrestler Kõiv",
+            "profile_path": "\/aygJxQ4GqUaf0nyIichAdb9oaZ5.jpg"
+        },
+        {
+            "name": "Andres Mähar",
+            "character": "Ruler of the Manor",
+            "profile_path": "\/emSJBiwZ5uIqrvqvlq9UnlcJpiC.jpg"
+        },
+        {
+            "name": "Alice Siil",
+            "character": "Mari",
+            "profile_path": "\/dpvGeIZgrTeB94YxGiiYOxG2cS9.jpg"
+        },
+        {
+            "name": "Tarmo Tagamets",
+            "character": "Blacksmith Jürka",
+            "profile_path": "\/mzssdHiST5RPGfq6QH05KXdzOJ5.jpg"
+        },
+        {
+            "name": "Meelis Rämmeld",
+            "character": "Madjus",
+            "profile_path": "\/8dWWOsorM0Uk6qDtTxdZvDeuLIG.jpg"
+        },
+        {
+            "name": "Veiko Jänes",
+            "character": "Devil",
+            "profile_path": "\/xemqFnT0ChRoWJyv5XaMzRCEu67.jpg"
+        },
+        {
+            "name": "Audra Mišinite",
+            "character": "Old Woman in Black",
+            "profile_path": ""
+        },
+        {
+            "name": "Lena Barbara Luhse",
+            "character": "Juula",
+            "profile_path": "\/qpF3ubvB7LZxCiINeOcUZ1ASCK7.jpg"
+        },
+        {
+            "name": "Indrek Sammul",
+            "character": "Publisher",
+            "profile_path": "\/8s2bh1B88Rp22KuUSEwyrAh4LT5.jpg"
+        }
+    ],
+    "first_air_date": null,
+    "last_air_date": null,
+    "status": "Released",
+    "runtime": 90,
+    "enlaces": [
+        {
+            "nombre": "Ver 1",
+            "url": "https:\/\/goodstream.one\/embed-enjr0e2eaw5m.html",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "720p"
+        },
+        {
+            "nombre": "Descargar 1",
+            "url": "https:\/\/goodstream.one\/enjr0e2eaw5m",
+            "type": "descarga",
+            "language": "Latino",
+            "quality": "720p"
+        }
+    ],
+    "added_date": "2026-06-30 18:40:51",
+    "created_at": "2026-06-30 18:40:51",
+    "updated_at": "2026-06-30 18:41:48"
+}
