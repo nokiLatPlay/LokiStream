@@ -1316,16 +1316,6 @@
             "year": "2019"
         },
         {
-            "id_tmdb": "196950",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/1qGSBnrANHLX8C7KqGuPDCylns2.jpg",
-            "titulo": "Witch Hat Atelier",
-            "etiquetas": "Animación, Drama, Sci-Fi & Fantasy",
-            "type": "series",
-            "created_at": "2026-04-06",
-            "updated_at": "2026-05-27T04:11:46.000Z",
-            "year": "2026"
-        },
-        {
             "id_tmdb": "333339",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/2iuVrtC5IpwLtSFSgkIIIKLs0Zq.jpg",
             "backdrop": "https:\/\/image.tmdb.org\/t\/p\/w1280\/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg",
@@ -1336,6 +1326,16 @@
             "updated_at": "2026-05-27T04:25:10.000Z",
             "year": "2018",
             "calidad": "HD"
+        },
+        {
+            "id_tmdb": "196950",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/1qGSBnrANHLX8C7KqGuPDCylns2.jpg",
+            "titulo": "Witch Hat Atelier",
+            "etiquetas": "Animación, Drama, Sci-Fi & Fantasy",
+            "type": "series",
+            "created_at": "2026-04-06",
+            "updated_at": "2026-07-02T14:21:50.000Z",
+            "year": "2026"
         }
     ],
     "lastUpdated": "2026-04-23 04:39:20"
