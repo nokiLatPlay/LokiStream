@@ -18,7 +18,7 @@
     ],
     "rate": 7.29999999999999982236431605997495353221893310546875,
     "sinopsis": "Antes de morir, el padre de Asuna le dio a su hija una peculiar radio de cristal. Con ella sube a la montaña para sintonizar extrañas melodías. Un día un monstruo ataca a Asuna, siendo rescatada por Shun, un joven procedente de la dimensión paralela de Agartha. Deseando volver a reencontrarse con su nuevo amigo, Asuna le pedirá ayuda a su maestro para encontrar la manera de entrar en este mundo mítico. Basada libremente en el mito de Orfeo y Eurídice, la tercera película de Makoto Shinkai lo confirma como un creador de universos únicos, con un imaginario inagotable y un gusto estético exquisito.",
-    "cast": null,
+    "cast": [],
     "first_air_date": null,
     "last_air_date": null,
     "status": "Released",
@@ -41,5 +41,6 @@
     ],
     "added_date": "2026-06-30 18:44:54",
     "created_at": "2026-06-30 18:44:54",
-    "updated_at": "2026-06-30 18:45:43"
+    "updated_at": "2026-07-01 22:54:09",
+    "update_states": "No actualizado"
 }
