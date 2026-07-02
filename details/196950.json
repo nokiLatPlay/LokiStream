@@ -7,7 +7,7 @@
     "type": "series",
     "synopsis": "Coco es una niña que vive en un pequeño pueblo y que siempre ha soñado con convertirse en maga. Pero haber nacido sin aptitud mágica significaba que nunca podría convertirse en maga y nunca podría presenciar la chispa de la magia. Renunció a su sueño. Pero un día, un mago viajero llamado Qifrey llegó a su pueblo, y ella tuvo la oportunidad de verlo realizar magia.",
     "created_at": "2026-04-06",
-    "updated_at": "2026-05-27T04:11:46.000Z",
+    "updated_at": "2026-07-02T14:21:50.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -16,79 +16,200 @@
                     "episode_id": "01",
                     "nombre": "01. El primer conjuro",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/cac5OY1meq4yOjd9lGIhZRXNKCK.jpg",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/4bacf24ecb6fd23253a847deeca692b6",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Ver Online",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/bccd6d401f48bf6672d4970822696eab",
+                            "type": "mp4",
+                            "language": "Subtitulado"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "02",
                     "nombre": "02. La academia de la pradera",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/1DfUTPsGPgv4gPCf0RQ8MmEDp3s.jpg",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/8a6d151d71c74de6a5dfb7ff3b175a6e",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Ver Online",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/4777c9e6b6340cfdfaaf6edc220f072a",
+                            "type": "mp4",
+                            "language": "Subtitulado"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "03",
                     "nombre": "03. El examen de los picos de Dada",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/cKULApd20mjn58WEipxSVTUeSYR.jpg",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/ac22ffca8aa25fcd6211d1e45e2e03a8",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Ver Online",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/f66f0890f94a78bbf359647ce6e5d9ec",
+                            "type": "mp4",
+                            "language": "Subtitulado"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "04",
                     "nombre": "04. Encuentro en Karoon",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/l7To5Oz6fcpGnMS8jyS3HJ8Vsb3.jpg",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/319aa8a31be5d3540333b2d91ce64de1",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Ver Online",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/8f379a504e7a3eb11a4b4820626b6b2d",
+                            "type": "mp4",
+                            "language": "Subtitulado"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "05",
                     "nombre": "05. El laberinto del megadragón de escamas",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/8ttC4PNqm8FpzwMJ3vIraRaMtlR.jpg",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/3514c4eed40d36dab9d390ed3cac45ce",
+                            "type": "mp4",
+                            "language": "Latino"
+                        },
+                        {
+                            "nombre": "Ver Online",
+                            "url": "https:\/\/player.zilla-networks.com\/m3u8\/ee8fe410ac4bc4c13ce11adc2619b5dd",
+                            "type": "mp4",
+                            "language": "Subtitulado"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "06",
                     "nombre": "06. Luz en un día de lluvia",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/wxPLxROGCIM2bJ4BM9pd0DbqhG9.jpg",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "07",
                     "nombre": "07. El objetivo de la magia",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/3OQqavOLJDIZF0qbNQs9NKO7Iq9.jpg",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "08",
                     "nombre": "08. Las dudas del Consejo de Seguridad",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/mvm2fhcHaZG7wYhy6Uqh7vHHemd.jpg",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "09",
                     "nombre": "09. Una pesadilla que conduce a las tinieblas",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/dyLnCaE1yNWXyJRiJFDyEkLPewM.jpg",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "10",
                     "nombre": "10. Episodio 10",
                     "portada": "",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "11",
                     "nombre": "11. Episodio 11",
                     "portada": "",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "12",
                     "nombre": "12. Episodio 12",
                     "portada": "",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "13",
                     "nombre": "13. Episodio 13",
                     "portada": "",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Ver Online",
+                            "url": "",
+                            "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
                 }
             ]
         }
