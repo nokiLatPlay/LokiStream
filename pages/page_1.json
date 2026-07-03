@@ -2,6 +2,18 @@
     "page": 1,
     "data": [
         {
+            "id_tmdb": "380",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/mPX2v7MbalB9FbGsUylKW91J68E.jpg",
+            "backdrop": "https:\/\/image.tmdb.org\/t\/p\/w1280\/b3tos7Tsd6lsTe52Nn4TMrEQg65.jpg",
+            "titulo": "Rain Man",
+            "etiquetas": "Drama",
+            "type": "movie",
+            "created_at": "1988-12-12",
+            "updated_at": "2026-07-03T06:02:16.000Z",
+            "year": "1988",
+            "calidad": "HD"
+        },
+        {
             "id_tmdb": "865",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/72L6fIJWZf7OTttU6wWuhcOOTxo.jpg",
             "backdrop": "https:\/\/image.tmdb.org\/t\/p\/w1280\/ssQ7IcGmgUJdFLv8cHY3vC3OR4f.jpg",
