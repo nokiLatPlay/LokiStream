@@ -2,6 +2,16 @@
     "page": 1,
     "data": [
         {
+            "id_tmdb": "49471",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/pMNulQv3b9yaxh09sEkGFn3LiSG.jpg",
+            "titulo": "Danganronpa The Animation",
+            "etiquetas": "Action & Adventure, Animación, Drama, Misterio",
+            "type": "animes",
+            "created_at": "2013-07-05",
+            "updated_at": "2026-07-02T22:04:08.000Z",
+            "year": "2013"
+        },
+        {
             "id_tmdb": "67063",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/kUTsnVSo9JWcFK3Y2XILQfH0imK.jpg",
             "titulo": "The OutCast",
