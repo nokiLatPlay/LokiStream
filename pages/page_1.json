@@ -2,6 +2,16 @@
     "page": 1,
     "data": [
         {
+            "id_tmdb": "261980",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/cI2jAwUO3paBOsUl0xcSQD4aBwe.jpg",
+            "titulo": "Nuestro Seúl por descubrir",
+            "etiquetas": "Drama",
+            "type": "dorama",
+            "created_at": "2025-05-24",
+            "updated_at": "2026-07-02T21:50:08.000Z",
+            "year": "2025"
+        },
+        {
             "id_tmdb": "138505",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/5UbrwzZUR5lcoDds2phuahFHHhi.jpg",
             "titulo": "Marvel Zombis",
