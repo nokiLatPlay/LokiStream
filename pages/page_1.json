@@ -2,6 +2,18 @@
     "page": 1,
     "data": [
         {
+            "id_tmdb": "865",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/72L6fIJWZf7OTttU6wWuhcOOTxo.jpg",
+            "backdrop": "https:\/\/image.tmdb.org\/t\/p\/w1280\/ssQ7IcGmgUJdFLv8cHY3vC3OR4f.jpg",
+            "titulo": "Perseguido",
+            "etiquetas": "Acción, Suspense, Ciencia ficción",
+            "type": "movie",
+            "created_at": "1987-11-13",
+            "updated_at": "2026-07-03T06:01:34.000Z",
+            "year": "1987",
+            "calidad": "HD"
+        },
+        {
             "id_tmdb": "1825",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/gjkXw0MOKgr5WEdFlWDNZFyst9v.jpg",
             "backdrop": "https:\/\/image.tmdb.org\/t\/p\/w1280\/36ioS38a5xjITP6qpZg1zDUL5K4.jpg",
