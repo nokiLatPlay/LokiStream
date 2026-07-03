@@ -2,6 +2,18 @@
     "page": 1,
     "data": [
         {
+            "id_tmdb": "984",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/gJ3VDY75PGksnba8aTOueb5Gtm4.jpg",
+            "backdrop": "https:\/\/image.tmdb.org\/t\/p\/w1280\/mJjOZSaTTqG3an5MkkOX3x18lYX.jpg",
+            "titulo": "Harry el sucio",
+            "etiquetas": "Acción, Crimen, Suspense",
+            "type": "movie",
+            "created_at": "1971-12-23",
+            "updated_at": "2026-07-02T22:18:04.000Z",
+            "year": "1971",
+            "calidad": "HD"
+        },
+        {
             "id_tmdb": "681",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/zV5qtjJws8jBA2QCOIJswvZw6b5.jpg",
             "backdrop": "https:\/\/image.tmdb.org\/t\/p\/w1280\/pyTDtQCn5sG8gi2zkM5ZylSNmtJ.jpg",
