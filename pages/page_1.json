@@ -2,6 +2,16 @@
     "page": 1,
     "data": [
         {
+            "id_tmdb": "245842",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/v8gkKx1BvD3AH0MjwgCPbHTwxPE.jpg",
+            "titulo": "Wistoria: varita y espada",
+            "etiquetas": "Animación, Action & Adventure, Sci-Fi & Fantasy",
+            "type": "animes",
+            "created_at": "2024-07-07",
+            "updated_at": "2026-07-02T21:54:05.000Z",
+            "year": "2024"
+        },
+        {
             "id_tmdb": "205743",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/oqaemGl7yhcdNXOJFYL0JJLoxKU.jpg",
             "titulo": "Isekai Shikkaku",
