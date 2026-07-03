@@ -3,6 +3,16 @@
     "created_at": "2026-07-03T06:23:21.000Z",
     "data": [
         {
+            "id_tmdb": "89456",
+            "imagen": "https://image.tmdb.org/t/p/w500/evxTYlsABHvKkLBtwYqlW3HYnHw.jpg",
+            "titulo": "Primal",
+            "etiquetas": "Action & Adventure, Animación",
+            "type": "series",
+            "created_at": "2019-10-08",
+            "updated_at": "2026-07-03T08:01:21.000Z",
+            "year": "2019"
+        },
+        {
             "id_tmdb": "37854",
             "imagen": "https://image.tmdb.org/t/p/w342/frwoK0POcZ8wtW4Uu2pJLx1kpwp.jpg",
             "titulo": "One Piece",
