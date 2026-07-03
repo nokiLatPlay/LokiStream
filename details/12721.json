@@ -1,14 +1,17 @@
 {
+    "id_tmdb": "12721",
     "titulo": "Retroceder nunca, rendirse jamás",
-    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/sMSPeec7sDXl0JBvCtJtVThbIP.jpg",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/sMSPeec7sDXl0JBvCtJtVThbIP.jpg",
+    "backdrop": "https:\/\/image.tmdb.org\/t\/p\/w1280\/3An1UnuPMWPkvLNSuUwYfSjyzXD.jpg",
     "etiquetas": "Acción, Comedia, Crimen, Drama",
     "year": "1986",
     "created_at": "1986-05-02",
-    "updated_at": "2026-01-30T07:50:11.000Z",
-    "id_tmdb": "12721",
+    "updated_at": "2026-07-03T05:59:38.000Z",
     "type": "movie",
     "calidad": "HD",
     "synopsis": "Jason Slillwell es un apasionado admirador de Bruce Lee, cuyo padre, instructor de karate, resulta herido y humillado por el crimen organizado de la Costa Este. Jason decide practicar el karate esperando la hora de la venganza. Su amigo R.J. le sugiere introducirse en un determinado gimnasio, regentado por el campeón nacional de full-contact, que es precisamente hermano de su ex novia, Nelly; pero el hermano de Nelly y sus amigos le propinan una paliza de muerte.",
+    "rating": 0,
+    "runtime": 0,
     "enlaces": [
         {
             "nombre": "Server 1",
