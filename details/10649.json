@@ -1,14 +1,17 @@
 {
+    "id_tmdb": "10649",
     "titulo": "Harry el ejecutor",
-    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/5wRKjXMuHJhK3usSEVS0XZW9aER.jpg",
-    "etiquetas": "Crimen, Acción",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/nuUJqsXm18CxUn1NesGp4lxx1Q4.jpg",
+    "backdrop": "https:\/\/image.tmdb.org\/t\/p\/w1280\/x2wTPHqEcvbgX6hHz4hEBrwDiuS.jpg",
+    "etiquetas": "Crimen, Acción, Suspense",
     "year": "1976",
     "created_at": "1976-12-16",
-    "updated_at": "2026-01-30T08:55:36.000Z",
-    "id_tmdb": "10649",
+    "updated_at": "2026-07-02T22:25:12.000Z",
     "type": "movie",
     "calidad": "HD",
     "synopsis": "Tercera entrega de las andanzas del controvertido y duro policía de San Francisco, Harry Callahan, de nuevo interpretado por Clint Eastwood. Esta vez, se enfrenta a un grupo de sádicos terroristas que se hacen llamar 'Acción Revolucionaria del Pueblo' y que tratan de dominar la ciudad. Callahan y su nueva ayudante, Kate Moore, deberán rescatar al alcalde, a quien los terroristas han secuestrado.",
+    "rating": 0,
+    "runtime": 0,
     "enlaces": [
         {
             "nombre": "Server 1",
