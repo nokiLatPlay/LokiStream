@@ -1286,16 +1286,6 @@
             "calidad": "HD"
         },
         {
-            "id_tmdb": "76479",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/5kgY14oisiHcJ4zq0Xgq1e97PHm.jpg",
-            "titulo": "The Boys",
-            "etiquetas": "Sci-Fi & Fantasy, Action & Adventure",
-            "type": "series",
-            "created_at": "2019-07-25",
-            "updated_at": "2026-05-04T03:36:26.000Z",
-            "year": "2019"
-        },
-        {
             "id_tmdb": "86034",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/3vwcB2MtQA1VZMCljCRSrDzNzdj.jpg",
             "titulo": "Arifureta Shokugyou de Sekai Saikyou",
@@ -1328,5 +1318,5 @@
             "year": "2026"
         }
     ],
-    "lastUpdated": "2026-07-02 21:46:27"
+    "lastUpdated": "2026-07-02 22:00:09"
 }
