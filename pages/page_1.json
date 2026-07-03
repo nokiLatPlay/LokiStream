@@ -2,6 +2,16 @@
     "page": 1,
     "data": [
         {
+            "id_tmdb": "195382",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/dJHp3WlbbBhhKo2h0avTHTrwp4C.jpg",
+            "titulo": "Complejo Residencial C",
+            "etiquetas": "Animación, Misterio",
+            "type": "animes",
+            "created_at": "2022-10-02",
+            "updated_at": "2026-07-02T22:10:41.000Z",
+            "year": "2022"
+        },
+        {
             "id_tmdb": "21730",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/ldTILeuLdsLRNADg5T9eONC10wO.jpg",
             "titulo": "Mobile Suit Gundam Wing",
