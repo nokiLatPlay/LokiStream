@@ -2,6 +2,18 @@
     "page": 1,
     "data": [
         {
+            "id_tmdb": "10044",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/3r5phNygoJa2e4CCPaIyn9ghWb2.jpg",
+            "backdrop": "https:\/\/image.tmdb.org\/t\/p\/w1280\/nqku4NcsbNsqkzMhvNOFosVDo6a.jpg",
+            "titulo": "La banda de los supercamorristas",
+            "etiquetas": "Acción, Comedia",
+            "type": "movie",
+            "created_at": "1985-02-10",
+            "updated_at": "2026-07-03T05:58:17.000Z",
+            "year": "1985",
+            "calidad": "HD"
+        },
+        {
             "id_tmdb": "10649",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/nuUJqsXm18CxUn1NesGp4lxx1Q4.jpg",
             "backdrop": "https:\/\/image.tmdb.org\/t\/p\/w1280\/x2wTPHqEcvbgX6hHz4hEBrwDiuS.jpg",
