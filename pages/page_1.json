@@ -2,6 +2,18 @@
     "page": 1,
     "data": [
         {
+            "id_tmdb": "10649",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/nuUJqsXm18CxUn1NesGp4lxx1Q4.jpg",
+            "backdrop": "https:\/\/image.tmdb.org\/t\/p\/w1280\/x2wTPHqEcvbgX6hHz4hEBrwDiuS.jpg",
+            "titulo": "Harry el ejecutor",
+            "etiquetas": "Crimen, Acción, Suspense",
+            "type": "movie",
+            "created_at": "1976-12-16",
+            "updated_at": "2026-07-02T22:25:15.000Z",
+            "year": "1976",
+            "calidad": "HD"
+        },
+        {
             "id_tmdb": "10648",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/zaiCwmc4iEBjAQgl7Xisg80B00l.jpg",
             "backdrop": "https:\/\/image.tmdb.org\/t\/p\/w1280\/7QPcmXePg5U4hmUzugFPX44ntxK.jpg",
