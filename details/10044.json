@@ -1,14 +1,17 @@
 {
+    "id_tmdb": "10044",
     "titulo": "La banda de los supercamorristas",
-    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/3r5phNygoJa2e4CCPaIyn9ghWb2.jpg",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/3r5phNygoJa2e4CCPaIyn9ghWb2.jpg",
+    "backdrop": "https:\/\/image.tmdb.org\/t\/p\/w1280\/nqku4NcsbNsqkzMhvNOFosVDo6a.jpg",
     "etiquetas": "Acción, Comedia",
     "year": "1985",
     "created_at": "1985-02-10",
-    "updated_at": "2026-01-30T09:01:48.000Z",
-    "id_tmdb": "10044",
+    "updated_at": "2026-07-03T05:58:16.000Z",
     "type": "movie",
     "calidad": "HD",
     "synopsis": "Ricky y su compañero, apodado 'Músculos', son dos policías que viajan hasta Tokio para coger a un peligroso criminal. Pero cuando llegan les tienden una trampa y se llevan a Ricky secuestrado, por lo que Músculos recibe la ayuda de la inspectora Barbara Woo y del gordinflón Fastbuck para llevar el caso. Los tres, gracias a su audacia y su conocimiento en artes marciales, lucharán para liberar a Ricky y cazar a los delincuentes.",
+    "rating": 0,
+    "runtime": 0,
     "enlaces": [
         {
             "nombre": "Server 1",
