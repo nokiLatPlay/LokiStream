@@ -2,6 +2,18 @@
     "page": 1,
     "data": [
         {
+            "id_tmdb": "10648",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/zaiCwmc4iEBjAQgl7Xisg80B00l.jpg",
+            "backdrop": "https:\/\/image.tmdb.org\/t\/p\/w1280\/7QPcmXePg5U4hmUzugFPX44ntxK.jpg",
+            "titulo": "Harry el fuerte",
+            "etiquetas": "Drama, Crimen, Acción",
+            "type": "movie",
+            "created_at": "1973-12-13",
+            "updated_at": "2026-07-02T22:24:39.000Z",
+            "year": "1973",
+            "calidad": "HD"
+        },
+        {
             "id_tmdb": "984",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/gJ3VDY75PGksnba8aTOueb5Gtm4.jpg",
             "backdrop": "https:\/\/image.tmdb.org\/t\/p\/w1280\/mJjOZSaTTqG3an5MkkOX3x18lYX.jpg",
