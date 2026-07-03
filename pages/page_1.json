@@ -3,8 +3,18 @@
     "created_at": "2026-07-03T06:23:21.000Z",
     "data": [
         {
+            "id_tmdb": "37854",
+            "imagen": "https://image.tmdb.org/t/p/w342/frwoK0POcZ8wtW4Uu2pJLx1kpwp.jpg",
+            "titulo": "One Piece",
+            "etiquetas": "Action & Adventure, Comedia, Animación",
+            "type": "animes",
+            "created_at": "1999-10-20",
+            "updated_at": "2026-07-03T07:19:40.000Z",
+            "year": "1999"
+        },
+        {
             "id_tmdb": "196950",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/1qGSBnrANHLX8C7KqGuPDCylns2.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/1qGSBnrANHLX8C7KqGuPDCylns2.jpg",
             "titulo": "Witch Hat Atelier",
             "etiquetas": "Animación, Drama, Sci-Fi & Fantasy",
             "type": "animes",
@@ -14,8 +24,8 @@
         },
         {
             "id_tmdb": "333339",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/2iuVrtC5IpwLtSFSgkIIIKLs0Zq.jpg",
-            "backdrop": "https:\/\/image.tmdb.org\/t\/p\/w1280\/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w500/2iuVrtC5IpwLtSFSgkIIIKLs0Zq.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg",
             "titulo": "Ready Player One",
             "etiquetas": "Aventura, Acción, Ciencia ficción",
             "type": "movie",
@@ -26,8 +36,8 @@
         },
         {
             "id_tmdb": "1007757",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/i89vUDwNhAEWUZSFYITSiv1RIbK.jpg",
-            "backdrop": "https:\/\/image.tmdb.org\/t\/p\/w1280\/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w500/i89vUDwNhAEWUZSFYITSiv1RIbK.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
             "titulo": "Intercambiados",
             "etiquetas": "Animación, Aventura, Comedia, Familia, Fantasía",
             "type": "movie",
@@ -38,7 +48,7 @@
         },
         {
             "id_tmdb": "237233",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/uU8JO4PsbgpuZmbkUMPjdpxEjBO.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/uU8JO4PsbgpuZmbkUMPjdpxEjBO.jpg",
             "titulo": "Chillin' in Another World with Level 2 Super Cheat Powers",
             "etiquetas": "Animación, Sci-Fi & Fantasy, Action & Adventure",
             "type": "animes",
@@ -48,7 +58,7 @@
         },
         {
             "id_tmdb": "1242898",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/8nCEJ5hFJt0h8FhXafHGhEhT8d7.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/8nCEJ5hFJt0h8FhXafHGhEhT8d7.jpg",
             "backdrop": "",
             "titulo": "Predator: Badlands",
             "etiquetas": "Acción, Ciencia ficción, Aventura",
@@ -60,7 +70,7 @@
         },
         {
             "id_tmdb": "45782",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/htNohqrYEwuz4fCa9ATVF90s58S.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w500/htNohqrYEwuz4fCa9ATVF90s58S.jpg",
             "titulo": "Sword Art Online",
             "etiquetas": "Animación, Sci-Fi & Fantasy, Action & Adventure",
             "type": "animes",
@@ -70,7 +80,7 @@
         },
         {
             "id_tmdb": "95479",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/80eHrBl03xWcQYecoTO1LlkXpN1.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/80eHrBl03xWcQYecoTO1LlkXpN1.jpg",
             "titulo": "Jujutsu Kaisen",
             "etiquetas": "Animación, Action & Adventure, Sci-Fi & Fantasy",
             "type": "animes",
@@ -80,7 +90,7 @@
         },
         {
             "id_tmdb": "1218925",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/fJdnp5OO2wh07tdy6noACNyaqMJ.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/fJdnp5OO2wh07tdy6noACNyaqMJ.jpg",
             "backdrop": "",
             "titulo": "Chainsaw Man - La película: El arco de Reze",
             "etiquetas": "Animación, Acción, Romance, Fantasía",
@@ -92,7 +102,7 @@
         },
         {
             "id_tmdb": "205743",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/oqaemGl7yhcdNXOJFYL0JJLoxKU.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w500/oqaemGl7yhcdNXOJFYL0JJLoxKU.jpg",
             "titulo": "Isekai Shikkaku",
             "etiquetas": "Animación, Comedia, Drama, Sci-Fi & Fantasy",
             "type": "animes",
@@ -102,7 +112,7 @@
         },
         {
             "id_tmdb": "67063",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/kUTsnVSo9JWcFK3Y2XILQfH0imK.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w500/kUTsnVSo9JWcFK3Y2XILQfH0imK.jpg",
             "titulo": "The OutCast",
             "etiquetas": "Animación, Sci-Fi & Fantasy, Action & Adventure, Comedia",
             "type": "animes",
@@ -112,7 +122,7 @@
         },
         {
             "id_tmdb": "80826",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/wsfIwWu5xipQFZM2WtKRf6mK8J1.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w500/wsfIwWu5xipQFZM2WtKRf6mK8J1.jpg",
             "titulo": "Happy Sugar Life",
             "etiquetas": "Animación, Drama, Misterio, Crimen",
             "type": "animes",
@@ -122,7 +132,7 @@
         },
         {
             "id_tmdb": "195382",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/dJHp3WlbbBhhKo2h0avTHTrwp4C.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w500/dJHp3WlbbBhhKo2h0avTHTrwp4C.jpg",
             "titulo": "Complejo Residencial C",
             "etiquetas": "Animación, Misterio",
             "type": "animes",
@@ -132,7 +142,7 @@
         },
         {
             "id_tmdb": "295483",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/bjgqOgkOxWphCaq1CG1jPhDq1dI.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w500/bjgqOgkOxWphCaq1CG1jPhDq1dI.jpg",
             "titulo": "The Villainess Is Adored by the Prince of the Neighbor Kingdom",
             "etiquetas": "Animación, Comedia, Sci-Fi & Fantasy",
             "type": "animes",
@@ -142,7 +152,7 @@
         },
         {
             "id_tmdb": "272059",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/3SHNexaAClQL3CjhCESIJnGQGwf.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w500/3SHNexaAClQL3CjhCESIJnGQGwf.jpg",
             "titulo": "TO BE HERO X",
             "etiquetas": "Animación, Action & Adventure, Sci-Fi & Fantasy",
             "type": "animes",
@@ -152,7 +162,7 @@
         },
         {
             "id_tmdb": "136840",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/tXl07fRNFKBY4FUWB3WEWIbMWAv.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w500/tXl07fRNFKBY4FUWB3WEWIbMWAv.jpg",
             "titulo": "The Demon Sword Master of Excalibur Academy",
             "etiquetas": "Animación, Comedia, Action & Adventure, Sci-Fi & Fantasy",
             "type": "animes",
@@ -162,7 +172,7 @@
         },
         {
             "id_tmdb": "245842",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/v8gkKx1BvD3AH0MjwgCPbHTwxPE.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w500/v8gkKx1BvD3AH0MjwgCPbHTwxPE.jpg",
             "titulo": "Wistoria: Wand and Sword",
             "etiquetas": "Animación, Action & Adventure, Sci-Fi & Fantasy",
             "type": "animes",
@@ -172,7 +182,7 @@
         },
         {
             "id_tmdb": "285291",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/wwleFyKVSzCw2GkdJTwXplHsPZp.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w500/wwleFyKVSzCw2GkdJTwXplHsPZp.jpg",
             "titulo": "Tensei shitara Dragon no Tamago datta: Saikyou Igai Mezasanee",
             "etiquetas": "Animación, Action & Adventure, Sci-Fi & Fantasy",
             "type": "animes",
@@ -182,7 +192,7 @@
         },
         {
             "id_tmdb": "810693",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/2ndvx03fmREMxEgaZ1vWt756TOQ.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/2ndvx03fmREMxEgaZ1vWt756TOQ.jpg",
             "titulo": "Jujutsu Kaisen 0",
             "etiquetas": "Animación, Acción, Fantasía",
             "type": "movie",
@@ -193,7 +203,7 @@
         },
         {
             "id_tmdb": "1575337",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/9YrbOSKoreS4oIjuwx9YjkAU8KP.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/9YrbOSKoreS4oIjuwx9YjkAU8KP.jpg",
             "titulo": "La princesa Kaguya del cosmos",
             "etiquetas": "Animación, Fantasía, Música, Ciencia ficción",
             "type": "movie",
@@ -204,7 +214,7 @@
         },
         {
             "id_tmdb": "49471",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/pMNulQv3b9yaxh09sEkGFn3LiSG.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w500/pMNulQv3b9yaxh09sEkGFn3LiSG.jpg",
             "titulo": "Danganronpa The Animation",
             "etiquetas": "Action & Adventure, Animación, Drama, Misterio",
             "type": "animes",
@@ -214,7 +224,7 @@
         },
         {
             "id_tmdb": "21730",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/ldTILeuLdsLRNADg5T9eONC10wO.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w500/ldTILeuLdsLRNADg5T9eONC10wO.jpg",
             "titulo": "Mobile Suit Gundam Wing",
             "etiquetas": "Action & Adventure, Animación, Sci-Fi & Fantasy, War & Politics",
             "type": "animes",
@@ -224,7 +234,7 @@
         },
         {
             "id_tmdb": "68103",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/8YcUQ3epK6M1pan9xUZgmw18SH9.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w500/8YcUQ3epK6M1pan9xUZgmw18SH9.jpg",
             "titulo": "Drifters",
             "etiquetas": "Animación, Sci-Fi & Fantasy, Action & Adventure, Comedia",
             "type": "animes",
@@ -234,7 +244,7 @@
         },
         {
             "id_tmdb": "249882",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/hiLf3JKUghjhCjDCv3hKKsWtA4S.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/hiLf3JKUghjhCjDCv3hKKsWtA4S.jpg",
             "titulo": "Zenshu",
             "etiquetas": "Animación, Drama, Action & Adventure, Sci-Fi & Fantasy",
             "type": "animes",
@@ -244,7 +254,7 @@
         },
         {
             "id_tmdb": "261980",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/cI2jAwUO3paBOsUl0xcSQD4aBwe.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w500/cI2jAwUO3paBOsUl0xcSQD4aBwe.jpg",
             "titulo": "Nuestro Seúl por descubrir",
             "etiquetas": "Drama",
             "type": "dorama",
@@ -254,7 +264,7 @@
         },
         {
             "id_tmdb": "127714",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/utvwr8cBZC0uurtSVbrwKu1dOg2.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w500/utvwr8cBZC0uurtSVbrwKu1dOg2.jpg",
             "titulo": "Mi tío es de otro mundo",
             "etiquetas": "Animación, Comedia, Sci-Fi & Fantasy",
             "type": "animes",
@@ -264,7 +274,7 @@
         },
         {
             "id_tmdb": "208493",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/50OsbGp6AWw4za2aAM82vKburcg.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w500/50OsbGp6AWw4za2aAM82vKburcg.jpg",
             "titulo": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru - Level Up wa Jinsei wo Kaeta",
             "etiquetas": "Animación, Action & Adventure, Sci-Fi & Fantasy",
             "type": "animes",
@@ -274,7 +284,7 @@
         },
         {
             "id_tmdb": "110070",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/2ZOfEetRHnqCBzvubdYU3ytwcq.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/2ZOfEetRHnqCBzvubdYU3ytwcq.jpg",
             "titulo": "Horimiya",
             "etiquetas": "Animación, Comedia, Drama",
             "type": "animes",
@@ -284,7 +294,7 @@
         },
         {
             "id_tmdb": "104976",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/sv6rkGsCgQWM8vAJuOLe0euKRPo.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/sv6rkGsCgQWM8vAJuOLe0euKRPo.jpg",
             "titulo": "Life: Love on the line",
             "etiquetas": "Drama",
             "type": "dorama",
@@ -294,7 +304,7 @@
         },
         {
             "id_tmdb": "280110",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/st8tG70k4Yjn6f2odOosaJ0qWom.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/st8tG70k4Yjn6f2odOosaJ0qWom.jpg",
             "titulo": "My Hero Academia: Vigilantes",
             "etiquetas": "Animación, Action & Adventure, Drama, Sci-Fi & Fantasy",
             "type": "animes",
@@ -304,7 +314,7 @@
         },
         {
             "id_tmdb": "210942",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/b4DjQI8jkQKrlyYly3iiUDYQo6n.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/b4DjQI8jkQKrlyYly3iiUDYQo6n.jpg",
             "titulo": "APARI3NCIAS",
             "etiquetas": "Comedia, Drama, Animación",
             "type": "animes",
@@ -314,7 +324,7 @@
         },
         {
             "id_tmdb": "80321",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/8fKTIecTVNURB6CRFjYMypggRL2.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/8fKTIecTVNURB6CRFjYMypggRL2.jpg",
             "titulo": "Madagascar 3: De marcha por Europa",
             "etiquetas": "Animación, Familia, Comedia, Aventura",
             "type": "movie",
@@ -325,7 +335,7 @@
         },
         {
             "id_tmdb": "632727",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/lvwrg14ovXnAHgsmmlINnC3Oj13.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/lvwrg14ovXnAHgsmmlINnC3Oj13.jpg",
             "titulo": "La matanza de Texas",
             "etiquetas": "Terror, Suspense",
             "type": "movie",
@@ -336,7 +346,7 @@
         },
         {
             "id_tmdb": "651",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/xteeXKr4FpusQGzT9NUfhFqeEoI.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/xteeXKr4FpusQGzT9NUfhFqeEoI.jpg",
             "titulo": "M.A.S.H.",
             "etiquetas": "Comedia, Drama, Bélica",
             "type": "movie",
@@ -347,7 +357,7 @@
         },
         {
             "id_tmdb": "227306",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/s4i7KnVQQnXM6LvBAlGYFUwJIeh.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/s4i7KnVQQnXM6LvBAlGYFUwJIeh.jpg",
             "titulo": "Invencible (Unbroken)",
             "etiquetas": "Drama, Bélica",
             "type": "movie",
@@ -358,7 +368,7 @@
         },
         {
             "id_tmdb": "816904",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/nqt0jrqBG2zEScNkTuuRAd11Unc.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/nqt0jrqBG2zEScNkTuuRAd11Unc.jpg",
             "titulo": "Momias",
             "etiquetas": "Animación, Aventura, Fantasía, Familia",
             "type": "movie",
@@ -369,7 +379,7 @@
         },
         {
             "id_tmdb": "927254",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/fAeHnC35RtbYLm5tRGLveLa0YvH.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/fAeHnC35RtbYLm5tRGLveLa0YvH.jpg",
             "titulo": "Los Cretinos",
             "etiquetas": "Animación, Comedia, Familia, Fantasía",
             "type": "movie",
@@ -380,7 +390,7 @@
         },
         {
             "id_tmdb": "336004",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/yUwqfJ1us0jtyuPiV2gEItqzKdK.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/yUwqfJ1us0jtyuPiV2gEItqzKdK.jpg",
             "titulo": "El golpe del siglo",
             "etiquetas": "Acción, Crimen, Suspense, Drama",
             "type": "movie",
@@ -391,7 +401,7 @@
         },
         {
             "id_tmdb": "598",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/zYjngc6yGUO1IEuAwk0yAhg8CKh.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/zYjngc6yGUO1IEuAwk0yAhg8CKh.jpg",
             "titulo": "Ciudad de Dios",
             "etiquetas": "Drama, Crimen",
             "type": "movie",
@@ -402,7 +412,7 @@
         },
         {
             "id_tmdb": "573435",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/53y0ETa1TGdVrMEVx7oLW86ay8r.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/53y0ETa1TGdVrMEVx7oLW86ay8r.jpg",
             "titulo": "Bad Boys: Ride or Die",
             "etiquetas": "Acción, Comedia, Crimen, Suspense, Aventura",
             "type": "movie",
@@ -413,7 +423,7 @@
         },
         {
             "id_tmdb": "138505",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/5UbrwzZUR5lcoDds2phuahFHHhi.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/5UbrwzZUR5lcoDds2phuahFHHhi.jpg",
             "titulo": "Marvel Zombis",
             "etiquetas": "Sci-Fi & Fantasy, Animación, Action & Adventure",
             "type": "series",
@@ -423,7 +433,7 @@
         },
         {
             "id_tmdb": "152483",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/bpviFMjnQQWL9nP3oIF1BQOJyi8.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/bpviFMjnQQWL9nP3oIF1BQOJyi8.jpg",
             "titulo": "The Boys presenta: Diabolical",
             "etiquetas": "Animación, Action & Adventure",
             "type": "series",
@@ -433,7 +443,7 @@
         },
         {
             "id_tmdb": "254389",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/csUQq1Eck88xyNWkSo2s0X6FLzD.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/csUQq1Eck88xyNWkSo2s0X6FLzD.jpg",
             "titulo": "Hasta que el cielo nos reúna",
             "etiquetas": "Sci-Fi & Fantasy, Drama",
             "type": "dorama",
@@ -443,7 +453,7 @@
         },
         {
             "id_tmdb": "9874",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/zXW4cRRcnPGeSej9EBlKJxnxUUk.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/zXW4cRRcnPGeSej9EBlKJxnxUUk.jpg",
             "titulo": "Cobra, el brazo fuerte de la ley",
             "etiquetas": "Acción, Crimen, Suspense",
             "type": "movie",
@@ -454,7 +464,7 @@
         },
         {
             "id_tmdb": "10413",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/1m7Md2MUef2PyAwYT5Z94AbEC5u.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/1m7Md2MUef2PyAwYT5Z94AbEC5u.jpg",
             "titulo": "Sin Escape (Ganar o morir)",
             "etiquetas": "Acción, Drama, Suspense, Romance",
             "type": "movie",
@@ -465,7 +475,7 @@
         },
         {
             "id_tmdb": "1639",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/oW8jpRRj1Rot4bjtFT3XEExBo7S.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/oW8jpRRj1Rot4bjtFT3XEExBo7S.jpg",
             "titulo": "Speed 2",
             "etiquetas": "Acción, Suspense",
             "type": "movie",
@@ -476,7 +486,7 @@
         },
         {
             "id_tmdb": "461777",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/tKPTUSyy9AaO2l0KIROOpicKaPs.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/tKPTUSyy9AaO2l0KIROOpicKaPs.jpg",
             "titulo": "Sólo se vive una vez",
             "etiquetas": "Acción, Comedia, Crimen",
             "type": "movie",
@@ -487,7 +497,7 @@
         },
         {
             "id_tmdb": "865",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/72L6fIJWZf7OTttU6wWuhcOOTxo.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/72L6fIJWZf7OTttU6wWuhcOOTxo.jpg",
             "titulo": "Perseguido",
             "etiquetas": "Acción, Suspense, Ciencia ficción",
             "type": "movie",
@@ -498,7 +508,7 @@
         },
         {
             "id_tmdb": "798645",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/5WYxFamHLqroV0TilEw0RqBPzqG.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/5WYxFamHLqroV0TilEw0RqBPzqG.jpg",
             "titulo": "The Running Man",
             "etiquetas": "Acción, Suspense, Ciencia ficción",
             "type": "movie",
@@ -509,7 +519,7 @@
         },
         {
             "id_tmdb": "987400",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/wpMaI2J3ISYZiaIWNkoA1lVb5LQ.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/wpMaI2J3ISYZiaIWNkoA1lVb5LQ.jpg",
             "titulo": "Batman Azteca: Choque de imperios",
             "etiquetas": "Animación, Acción, Aventura, Fantasía",
             "type": "movie",
@@ -520,7 +530,7 @@
         },
         {
             "id_tmdb": "10303",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/46DOs7IdevzJowCM0DaJzdymIJI.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/46DOs7IdevzJowCM0DaJzdymIJI.jpg",
             "titulo": "La joya del Nilo",
             "etiquetas": "Aventura, Acción, Comedia, Romance",
             "type": "movie",
@@ -531,7 +541,7 @@
         },
         {
             "id_tmdb": "1267319",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/v1vs4RJyqzckfxPjyWN5zN1dEgH.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/v1vs4RJyqzckfxPjyWN5zN1dEgH.jpg",
             "titulo": "Mantis",
             "etiquetas": "Acción, Crimen, Suspense",
             "type": "movie",
@@ -542,7 +552,7 @@
         },
         {
             "id_tmdb": "10204",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/6breBZSHhT4Upm6TBV6ZJD3i9zN.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/6breBZSHhT4Upm6TBV6ZJD3i9zN.jpg",
             "titulo": "La vuelta al mundo en 80 días",
             "etiquetas": "Acción, Aventura, Comedia",
             "type": "movie",
@@ -553,7 +563,7 @@
         },
         {
             "id_tmdb": "1007734",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/qwdBh0102NX5fslXv3L9MSlXqKc.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/qwdBh0102NX5fslXv3L9MSlXqKc.jpg",
             "titulo": "Nadie 2",
             "etiquetas": "Acción, Suspense",
             "type": "movie",
@@ -564,7 +574,7 @@
         },
         {
             "id_tmdb": "10623",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/zTKNlCPSQPmMGvltwmZ0AaFLHxw.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/zTKNlCPSQPmMGvltwmZ0AaFLHxw.jpg",
             "titulo": "Nacer para morir",
             "etiquetas": "Acción, Crimen, Drama",
             "type": "movie",
@@ -575,7 +585,7 @@
         },
         {
             "id_tmdb": "1005985",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/oj2y8UYScRemDQTHmq9Kfwe3EpQ.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/oj2y8UYScRemDQTHmq9Kfwe3EpQ.jpg",
             "titulo": "El corazón de mi niña",
             "etiquetas": "Acción, Drama, Crimen",
             "type": "movie",
@@ -586,7 +596,7 @@
         },
         {
             "id_tmdb": "1054867",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/iZ1499F6hYxDxiqioy8oSUaxipG.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/iZ1499F6hYxDxiqioy8oSUaxipG.jpg",
             "titulo": "Una batalla tras otra",
             "etiquetas": "Suspense, Crimen, Acción",
             "type": "movie",
@@ -597,7 +607,7 @@
         },
         {
             "id_tmdb": "37834",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/keazz55QSZLZhaUi53BfiAVMuKb.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/keazz55QSZLZhaUi53BfiAVMuKb.jpg",
             "titulo": "Noche y día",
             "etiquetas": "Acción, Comedia",
             "type": "movie",
@@ -608,7 +618,7 @@
         },
         {
             "id_tmdb": "1825",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/gjkXw0MOKgr5WEdFlWDNZFyst9v.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/gjkXw0MOKgr5WEdFlWDNZFyst9v.jpg",
             "titulo": "Yo, el halcón",
             "etiquetas": "Acción, Drama",
             "type": "movie",
@@ -619,7 +629,7 @@
         },
         {
             "id_tmdb": "197",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/cDMYybBU4COJfTwcPgnihwY5EiP.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/cDMYybBU4COJfTwcPgnihwY5EiP.jpg",
             "titulo": "Braveheart",
             "etiquetas": "Acción, Drama, Historia, Bélica",
             "type": "movie",
@@ -630,7 +640,7 @@
         },
         {
             "id_tmdb": "10632",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/kzyygafdiKmg81ryXVnGcaY5aU7.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/kzyygafdiKmg81ryXVnGcaY5aU7.jpg",
             "titulo": "The Hunted (La presa)",
             "etiquetas": "Drama, Acción, Suspense, Crimen",
             "type": "movie",
@@ -641,7 +651,7 @@
         },
         {
             "id_tmdb": "1100094",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/ugP69om5kgloJur3elTG9bcVNmX.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/ugP69om5kgloJur3elTG9bcVNmX.jpg",
             "titulo": "Escalada de violencia",
             "etiquetas": "Acción, Suspense, Crimen",
             "type": "movie",
@@ -652,7 +662,7 @@
         },
         {
             "id_tmdb": "1491902",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/1kQTLtNy8A5lAWEU2LfjWxg6UQJ.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/1kQTLtNy8A5lAWEU2LfjWxg6UQJ.jpg",
             "titulo": "Explosión",
             "etiquetas": "Acción, Suspense",
             "type": "movie",
@@ -663,7 +673,7 @@
         },
         {
             "id_tmdb": "66",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/xzyyrc5qIQi62wOLnlGadLGjavJ.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/xzyyrc5qIQi62wOLnlGadLGjavJ.jpg",
             "titulo": "Poder absoluto",
             "etiquetas": "Crimen, Drama, Acción",
             "type": "movie",
@@ -674,7 +684,7 @@
         },
         {
             "id_tmdb": "681",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/zV5qtjJws8jBA2QCOIJswvZw6b5.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/zV5qtjJws8jBA2QCOIJswvZw6b5.jpg",
             "titulo": "Diamantes para la eternidad",
             "etiquetas": "Acción, Suspense",
             "type": "movie",
@@ -685,7 +695,7 @@
         },
         {
             "id_tmdb": "10923",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/mfXlGYwHdG9Jw286iftY9TiEPX5.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/mfXlGYwHdG9Jw286iftY9TiEPX5.jpg",
             "titulo": "Superagente Cody Banks",
             "etiquetas": "Acción, Aventura, Comedia, Familia",
             "type": "movie",
@@ -696,7 +706,7 @@
         },
         {
             "id_tmdb": "663558",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/bPj2YRLOnYtY7dQCZl3hHef9PZA.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/bPj2YRLOnYtY7dQCZl3hHef9PZA.jpg",
             "titulo": "Nezha: El renacer de un dios",
             "etiquetas": "Animación, Fantasía, Acción",
             "type": "movie",
@@ -707,7 +717,7 @@
         },
         {
             "id_tmdb": "1363123",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/sxoN17pPyL6SiqD8F6DXmTPILwJ.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/sxoN17pPyL6SiqD8F6DXmTPILwJ.jpg",
             "titulo": "Plan en familia 2",
             "etiquetas": "Acción, Comedia",
             "type": "movie",
@@ -718,7 +728,7 @@
         },
         {
             "id_tmdb": "984",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/gJ3VDY75PGksnba8aTOueb5Gtm4.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/gJ3VDY75PGksnba8aTOueb5Gtm4.jpg",
             "titulo": "Harry el sucio",
             "etiquetas": "Acción, Crimen, Suspense",
             "type": "movie",
@@ -729,7 +739,7 @@
         },
         {
             "id_tmdb": "330459",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/21hLJ8ruc5YjYd5kTkluXouV92S.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/21hLJ8ruc5YjYd5kTkluXouV92S.jpg",
             "titulo": "Rogue One: Una historia de Star Wars",
             "etiquetas": "Acción, Aventura, Ciencia ficción",
             "type": "movie",
@@ -740,7 +750,7 @@
         },
         {
             "id_tmdb": "628847",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/p9zbrDpAKyj3jeemkyAoBmlo3KG.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/p9zbrDpAKyj3jeemkyAoBmlo3KG.jpg",
             "titulo": "Trap House",
             "etiquetas": "Acción, Crimen, Suspense",
             "type": "movie",
@@ -751,7 +761,7 @@
         },
         {
             "id_tmdb": "1433719",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/duVGPsMt49xl6y9fiOl8ygj0aJ5.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/duVGPsMt49xl6y9fiOl8ygj0aJ5.jpg",
             "titulo": "High Ground: En la tierra de los justos",
             "etiquetas": "Suspense, Crimen, Acción",
             "type": "movie",
@@ -762,7 +772,7 @@
         },
         {
             "id_tmdb": "4108",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/gEiyyNU0CVZBgmH08l3GMgw4BfZ.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/gEiyyNU0CVZBgmH08l3GMgw4BfZ.jpg",
             "titulo": "Transporter",
             "etiquetas": "Acción, Crimen, Suspense",
             "type": "movie",
@@ -773,7 +783,7 @@
         },
         {
             "id_tmdb": "1116465",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/jvrSYRtgHTu3oqJN1X7LWZoekB6.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/jvrSYRtgHTu3oqJN1X7LWZoekB6.jpg",
             "titulo": "El descubridor de leyendas",
             "etiquetas": "Acción, Aventura, Fantasía",
             "type": "movie",
@@ -784,7 +794,7 @@
         },
         {
             "id_tmdb": "1180831",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/AisyKEN1zLKRcAPpeJ5G5DaBhyw.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/AisyKEN1zLKRcAPpeJ5G5DaBhyw.jpg",
             "titulo": "Trol 2",
             "etiquetas": "Acción, Fantasía, Suspense",
             "type": "movie",
@@ -795,7 +805,7 @@
         },
         {
             "id_tmdb": "10044",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/3r5phNygoJa2e4CCPaIyn9ghWb2.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/3r5phNygoJa2e4CCPaIyn9ghWb2.jpg",
             "titulo": "La banda de los supercamorristas",
             "etiquetas": "Acción, Comedia",
             "type": "movie",
@@ -806,7 +816,7 @@
         },
         {
             "id_tmdb": "33613",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/2YGLkB9apsLvlKiOde6P7Z90qPS.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/2YGLkB9apsLvlKiOde6P7Z90qPS.jpg",
             "titulo": "Millennium 3: La reina en el palacio de las corrientes de aire",
             "etiquetas": "Acción, Suspense, Crimen, Misterio",
             "type": "movie",
@@ -817,7 +827,7 @@
         },
         {
             "id_tmdb": "14977",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/z74oA9heJ5XjzSSUF1va2PMbQot.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/z74oA9heJ5XjzSSUF1va2PMbQot.jpg",
             "titulo": "La reliquia del mal",
             "etiquetas": "Acción, Terror, Bélica",
             "type": "movie",
@@ -828,7 +838,7 @@
         },
         {
             "id_tmdb": "297762",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/yjzHtHSAPDdRQejnTyFbifX2gef.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/yjzHtHSAPDdRQejnTyFbifX2gef.jpg",
             "titulo": "Wonder Woman",
             "etiquetas": "Acción, Aventura, Fantasía",
             "type": "movie",
@@ -839,7 +849,7 @@
         },
         {
             "id_tmdb": "10648",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/zaiCwmc4iEBjAQgl7Xisg80B00l.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/zaiCwmc4iEBjAQgl7Xisg80B00l.jpg",
             "titulo": "Harry el fuerte",
             "etiquetas": "Drama, Crimen, Acción",
             "type": "movie",
@@ -850,7 +860,7 @@
         },
         {
             "id_tmdb": "10649",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/5wRKjXMuHJhK3usSEVS0XZW9aER.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/5wRKjXMuHJhK3usSEVS0XZW9aER.jpg",
             "titulo": "Harry el ejecutor",
             "etiquetas": "Crimen, Acción",
             "type": "movie",
@@ -861,7 +871,7 @@
         },
         {
             "id_tmdb": "10771",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/llxvvAnudmk8sGJDyYxF9sp1zAL.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/llxvvAnudmk8sGJDyYxF9sp1zAL.jpg",
             "titulo": "El esmoquin",
             "etiquetas": "Suspense, Acción, Comedia, Ciencia ficción",
             "type": "movie",
@@ -872,7 +882,7 @@
         },
         {
             "id_tmdb": "754",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/alizmPaRHq7sGHW5eoshoYzWjf9.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/alizmPaRHq7sGHW5eoshoYzWjf9.jpg",
             "titulo": "Cara a cara",
             "etiquetas": "Acción, Crimen, Ciencia ficción",
             "type": "movie",
@@ -883,7 +893,7 @@
         },
         {
             "id_tmdb": "270938",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/hUmbuBpz61T6ET2hB8LEKQMz5UH.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/hUmbuBpz61T6ET2hB8LEKQMz5UH.jpg",
             "titulo": "El regreso de Falcon",
             "etiquetas": "Aventura, Acción",
             "type": "movie",
@@ -894,7 +904,7 @@
         },
         {
             "id_tmdb": "1319895",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/vntwlS3CAKfoLTs90GaoK6lymBC.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/vntwlS3CAKfoLTs90GaoK6lymBC.jpg",
             "titulo": "Cazando al Asesino",
             "etiquetas": "Acción, Comedia, Suspense",
             "type": "movie",
@@ -905,7 +915,7 @@
         },
         {
             "id_tmdb": "10661",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/7e5W4a4goRSE4uaJ8BpB84DU8c5.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/7e5W4a4goRSE4uaJ8BpB84DU8c5.jpg",
             "titulo": "Zohan: Licencia para peinar",
             "etiquetas": "Comedia, Acción",
             "type": "movie",
@@ -916,7 +926,7 @@
         },
         {
             "id_tmdb": "241848",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/cG2ueipc7UPHgSk6zxXprjeFc5k.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/cG2ueipc7UPHgSk6zxXprjeFc5k.jpg",
             "titulo": "The guest",
             "etiquetas": "Misterio, Suspense, Acción",
             "type": "movie",
@@ -927,7 +937,7 @@
         },
         {
             "id_tmdb": "75174",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/qrLan9yN5LJbJYozrr5VarL1FVh.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/qrLan9yN5LJbJYozrr5VarL1FVh.jpg",
             "titulo": "Infierno blanco",
             "etiquetas": "Acción, Aventura, Drama, Suspense",
             "type": "movie",
@@ -938,7 +948,7 @@
         },
         {
             "id_tmdb": "9074",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/bnofwLKvg2g7Ky9sSpyTHaan37n.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/bnofwLKvg2g7Ky9sSpyTHaan37n.jpg",
             "titulo": "El jefe",
             "etiquetas": "Acción, Comedia, Crimen",
             "type": "movie",
@@ -949,7 +959,7 @@
         },
         {
             "id_tmdb": "18360",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/x34vN3zHtKevAzr4APPkqxbLJTu.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/x34vN3zHtKevAzr4APPkqxbLJTu.jpg",
             "titulo": "Noche en el museo 2",
             "etiquetas": "Aventura, Fantasía, Acción, Comedia, Familia",
             "type": "movie",
@@ -960,7 +970,7 @@
         },
         {
             "id_tmdb": "1252037",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/td8bh7p876r36OF0P9PN7fitrCG.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/td8bh7p876r36OF0P9PN7fitrCG.jpg",
             "titulo": "Der Tiger (El tanque)",
             "etiquetas": "Bélica, Acción, Drama",
             "type": "movie",
@@ -971,7 +981,7 @@
         },
         {
             "id_tmdb": "1465038",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/mwRZ00JgrpF2xTmO6cvl3eYu5X.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/mwRZ00JgrpF2xTmO6cvl3eYu5X.jpg",
             "titulo": "La ultima batalla",
             "etiquetas": "Acción",
             "type": "movie",
@@ -982,7 +992,7 @@
         },
         {
             "id_tmdb": "1512623",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/h6OsRrDwbspLnKMvlFl57QFDP7d.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/h6OsRrDwbspLnKMvlFl57QFDP7d.jpg",
             "titulo": "Risqué",
             "etiquetas": "Acción, Crimen, Suspense",
             "type": "movie",
@@ -993,7 +1003,7 @@
         },
         {
             "id_tmdb": "1591822",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/xiVr4V5Ilj4ZbBofrd7OWo071d2.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/xiVr4V5Ilj4ZbBofrd7OWo071d2.jpg",
             "titulo": "Pandora: Fire and Ice",
             "etiquetas": "Ciencia ficción, Acción, Aventura",
             "type": "movie",
@@ -1004,7 +1014,7 @@
         },
         {
             "id_tmdb": "354857",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/o7ii8gudODmqyQs9PgGfmozj29o.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/o7ii8gudODmqyQs9PgGfmozj29o.jpg",
             "titulo": "Historias corrientes: La película",
             "etiquetas": "Animación, Comedia, Ciencia ficción, Aventura, Acción, Familia, Fantasía",
             "type": "movie",
@@ -1015,7 +1025,7 @@
         },
         {
             "id_tmdb": "569094",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/37WcNMgNOMxdhT87MFl7tq7FM1.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/37WcNMgNOMxdhT87MFl7tq7FM1.jpg",
             "titulo": "Spider-Man: Cruzando el Multiverso",
             "etiquetas": "Animación, Acción, Aventura, Ciencia ficción",
             "type": "movie",
@@ -1026,7 +1036,7 @@
         },
         {
             "id_tmdb": "9339",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/l06jMu0V4cp1DuQdI9ptSJjV01q.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/l06jMu0V4cp1DuQdI9ptSJjV01q.jpg",
             "titulo": "Click",
             "etiquetas": "Comedia, Drama, Fantasía",
             "type": "movie",
@@ -1037,7 +1047,7 @@
         },
         {
             "id_tmdb": "568160",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/18lF2eTWAO0tloyBW39fob5ALAW.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/18lF2eTWAO0tloyBW39fob5ALAW.jpg",
             "titulo": "El tiempo contigo",
             "etiquetas": "Animación, Drama, Fantasía, Romance",
             "type": "movie",
@@ -1048,7 +1058,7 @@
         },
         {
             "id_tmdb": "507086",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/sXeWfpT1EhG7f4uBouqraOhmouH.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/sXeWfpT1EhG7f4uBouqraOhmouH.jpg",
             "titulo": "Jurassic World: Dominion",
             "etiquetas": "Aventura, Acción, Ciencia ficción",
             "type": "movie",
@@ -1059,7 +1069,7 @@
         },
         {
             "id_tmdb": "1165642",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/6AmW8DglQ5VnOfW1lSMSOyfcwmW.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/6AmW8DglQ5VnOfW1lSMSOyfcwmW.jpg",
             "titulo": "Lo que le falta a esta estrella",
             "etiquetas": "Animación, Romance, Ciencia ficción",
             "type": "movie",
@@ -1070,7 +1080,7 @@
         },
         {
             "id_tmdb": "14943",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/rC3FJUDlrupQTIkhsytQPvWDxzy.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/rC3FJUDlrupQTIkhsytQPvWDxzy.jpg",
             "titulo": "Crows Zero",
             "etiquetas": "Acción, Comedia, Crimen",
             "type": "movie",
@@ -1081,7 +1091,7 @@
         },
         {
             "id_tmdb": "1306368",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/28hTjQCq0ul6WUR22qRsWEeuxlj.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/28hTjQCq0ul6WUR22qRsWEeuxlj.jpg",
             "titulo": "El botín",
             "etiquetas": "Acción, Suspense, Crimen",
             "type": "movie",
@@ -1092,7 +1102,7 @@
         },
         {
             "id_tmdb": "25716",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/84OA5E8VRnK1jHdPZtEeAmXADez.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/84OA5E8VRnK1jHdPZtEeAmXADez.jpg",
             "titulo": "Crows II",
             "etiquetas": "Acción, Aventura, Crimen, Comedia",
             "type": "movie",
@@ -1103,7 +1113,7 @@
         },
         {
             "id_tmdb": "868708",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/tC9WhTl23EkpvrYmkRV5ZXhAkNt.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/tC9WhTl23EkpvrYmkRV5ZXhAkNt.jpg",
             "titulo": "Black Crow 3",
             "etiquetas": "Acción, Crimen",
             "type": "movie",
@@ -1114,7 +1124,7 @@
         },
         {
             "id_tmdb": "29621",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/7mp5TkxC15jRhaD5Hj1jYABRuts.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/7mp5TkxC15jRhaD5Hj1jYABRuts.jpg",
             "titulo": "Solo, el destructor",
             "etiquetas": "Acción, Aventura, Ciencia ficción, Suspense",
             "type": "movie",
@@ -1125,7 +1135,7 @@
         },
         {
             "id_tmdb": "12721",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/sMSPeec7sDXl0JBvCtJtVThbIP.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/sMSPeec7sDXl0JBvCtJtVThbIP.jpg",
             "titulo": "Retroceder nunca, rendirse jamás",
             "etiquetas": "Acción, Comedia, Crimen, Drama",
             "type": "movie",
@@ -1136,7 +1146,7 @@
         },
         {
             "id_tmdb": "9405",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/uPld99AspbPcTI979EsOj3faE9r.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/uPld99AspbPcTI979EsOj3faE9r.jpg",
             "titulo": "Double Team",
             "etiquetas": "Acción, Ciencia ficción",
             "type": "movie",
@@ -1147,7 +1157,7 @@
         },
         {
             "id_tmdb": "71677",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/daWolaS3RNGcOwy8dxndNFvyIrl.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/daWolaS3RNGcOwy8dxndNFvyIrl.jpg",
             "titulo": "Juego de asesinos",
             "etiquetas": "Acción, Crimen, Drama, Suspense",
             "type": "movie",
@@ -1158,7 +1168,7 @@
         },
         {
             "id_tmdb": "44048",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/e4Vok9xyYs5CKKYKapGQGccyFU2.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/e4Vok9xyYs5CKKYKapGQGccyFU2.jpg",
             "titulo": "Imparable",
             "etiquetas": "Acción, Suspense",
             "type": "movie",
@@ -1169,7 +1179,7 @@
         },
         {
             "id_tmdb": "9920",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/dBH229rMswFIkk3l4C7iZhNKCOB.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/dBH229rMswFIkk3l4C7iZhNKCOB.jpg",
             "titulo": "Ultravioleta",
             "etiquetas": "Ciencia ficción, Acción, Suspense",
             "type": "movie",
@@ -1180,7 +1190,7 @@
         },
         {
             "id_tmdb": "842675",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/dCDAPDbySxYewfSzWGvQssy04sW.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/dCDAPDbySxYewfSzWGvQssy04sW.jpg",
             "titulo": "La Tierra Errante II",
             "etiquetas": "Ciencia ficción, Acción, Aventura",
             "type": "movie",
@@ -1191,7 +1201,7 @@
         },
         {
             "id_tmdb": "1276521",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/whvkL0wzxgKmVbaPontq9NlVd5z.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/whvkL0wzxgKmVbaPontq9NlVd5z.jpg",
             "titulo": "Charlie the Wonderdog",
             "etiquetas": "Acción, Animación, Aventura, Comedia",
             "type": "movie",
@@ -1202,7 +1212,7 @@
         },
         {
             "id_tmdb": "234004",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/vS6BgPO974eTmHeteU9greJZv4D.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/vS6BgPO974eTmHeteU9greJZv4D.jpg",
             "titulo": "Ratchet & Clank, la película",
             "etiquetas": "Acción, Aventura, Animación, Familia",
             "type": "movie",
@@ -1213,7 +1223,7 @@
         },
         {
             "id_tmdb": "1238188",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/2vfxMQ3WEA8goCH7LXlAzED9aed.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/2vfxMQ3WEA8goCH7LXlAzED9aed.jpg",
             "titulo": "El cautivo",
             "etiquetas": "Drama, Historia",
             "type": "movie",
@@ -1224,7 +1234,7 @@
         },
         {
             "id_tmdb": "380",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/mPX2v7MbalB9FbGsUylKW91J68E.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/mPX2v7MbalB9FbGsUylKW91J68E.jpg",
             "titulo": "Rain Man",
             "etiquetas": "Drama",
             "type": "movie",
@@ -1235,7 +1245,7 @@
         },
         {
             "id_tmdb": "200727",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/lMX7qZAcF54d0DB1Vto8gbWZlVU.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/lMX7qZAcF54d0DB1Vto8gbWZlVU.jpg",
             "titulo": "Los imprevistos del amor",
             "etiquetas": "Romance, Drama, Comedia",
             "type": "movie",
@@ -1246,7 +1256,7 @@
         },
         {
             "id_tmdb": "1221678",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/aPurbvRNfJ3KOlSLXFPoD07Cazg.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/aPurbvRNfJ3KOlSLXFPoD07Cazg.jpg",
             "titulo": "An American in Austen",
             "etiquetas": "Película de TV, Comedia, Romance",
             "type": "movie",
@@ -1257,7 +1267,7 @@
         },
         {
             "id_tmdb": "652",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
             "titulo": "Troya",
             "etiquetas": "Bélica, Acción, Historia",
             "type": "movie",
@@ -1268,7 +1278,7 @@
         },
         {
             "id_tmdb": "315635",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/yJfPC6pjSJ5VOsVyXhx5PXBe0mR.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/yJfPC6pjSJ5VOsVyXhx5PXBe0mR.jpg",
             "titulo": "Spider-Man: Homecoming",
             "etiquetas": "Acción, Aventura, Ciencia ficción",
             "type": "movie",
@@ -1279,7 +1289,7 @@
         },
         {
             "id_tmdb": "1084242",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/4fRdfQPjHiuDSkzaxFAV44k7Iem.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/4fRdfQPjHiuDSkzaxFAV44k7Iem.jpg",
             "titulo": "Zootrópolis 2",
             "etiquetas": "Animación, Comedia, Aventura, Familia, Misterio",
             "type": "movie",
@@ -1290,7 +1300,7 @@
         },
         {
             "id_tmdb": "20662",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/rRwrvxi2YA9DzAYcqtMZd2C3rfL.jpg",
+            "imagen": "https://image.tmdb.org/t/p/w342/rRwrvxi2YA9DzAYcqtMZd2C3rfL.jpg",
             "titulo": "Robin Hood",
             "etiquetas": "Acción, Aventura, Historia",
             "type": "movie",
