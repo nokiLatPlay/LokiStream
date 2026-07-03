@@ -1264,16 +1264,6 @@
             "year": "2024"
         },
         {
-            "id_tmdb": "86490",
-            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/5dZJVrzO6SQbgMLDIu1v4tES1FM.jpg",
-            "titulo": "Blood Code",
-            "etiquetas": "Animación",
-            "type": "animes",
-            "created_at": "2017-08-18",
-            "updated_at": "2026-04-23T09:29:44.000Z",
-            "year": "2017"
-        },
-        {
             "id_tmdb": "1007757",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/i89vUDwNhAEWUZSFYITSiv1RIbK.jpg",
             "backdrop": "https:\/\/image.tmdb.org\/t\/p\/w1280\/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
@@ -1308,5 +1298,5 @@
             "year": "2026"
         }
     ],
-    "lastUpdated": "2026-07-02 22:00:40"
+    "lastUpdated": "2026-07-02 22:02:42"
 }
