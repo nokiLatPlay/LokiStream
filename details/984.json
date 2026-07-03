@@ -1,14 +1,17 @@
 {
+    "id_tmdb": "984",
     "titulo": "Harry el sucio",
-    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/gJ3VDY75PGksnba8aTOueb5Gtm4.jpg",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/gJ3VDY75PGksnba8aTOueb5Gtm4.jpg",
+    "backdrop": "https:\/\/image.tmdb.org\/t\/p\/w1280\/mJjOZSaTTqG3an5MkkOX3x18lYX.jpg",
     "etiquetas": "Acción, Crimen, Suspense",
     "year": "1971",
     "created_at": "1971-12-23",
-    "updated_at": "2026-01-30T09:26:47.000Z",
-    "id_tmdb": "984",
+    "updated_at": "2026-07-02T22:18:01.000Z",
     "type": "movie",
     "calidad": "HD",
     "synopsis": "Harry Callahan es un duro policía que se ha criado en la calle. Sus compañeros le llaman Harry el Sucio por sus particulares métodos de lucha contra el crimen y porque siempre se encarga de los trabajos más desagradables. En San Francisco, un francotirador ha matado ya a dos personas. Harry será el encargado de resolver el caso.",
+    "rating": 0,
+    "runtime": 0,
     "enlaces": [
         {
             "nombre": "Server 1",
