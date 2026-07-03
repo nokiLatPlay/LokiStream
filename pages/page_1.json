@@ -2,6 +2,18 @@
     "page": 1,
     "data": [
         {
+            "id_tmdb": "10413",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/1m7Md2MUef2PyAwYT5Z94AbEC5u.jpg",
+            "backdrop": "https:\/\/image.tmdb.org\/t\/p\/w1280\/5VF6N8dPSSPeyQdQoQ53mxDcUjw.jpg",
+            "titulo": "Sin Escape (Ganar o morir)",
+            "etiquetas": "Acción, Drama, Suspense, Romance",
+            "type": "movie",
+            "created_at": "1993-01-15",
+            "updated_at": "2026-07-03T06:02:55.000Z",
+            "year": "1993",
+            "calidad": "HD"
+        },
+        {
             "id_tmdb": "380",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/mPX2v7MbalB9FbGsUylKW91J68E.jpg",
             "backdrop": "https:\/\/image.tmdb.org\/t\/p\/w1280\/b3tos7Tsd6lsTe52Nn4TMrEQg65.jpg",
