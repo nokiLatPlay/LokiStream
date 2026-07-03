@@ -1,14 +1,17 @@
 {
+    "id_tmdb": "10648",
     "titulo": "Harry el fuerte",
-    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/zaiCwmc4iEBjAQgl7Xisg80B00l.jpg",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/zaiCwmc4iEBjAQgl7Xisg80B00l.jpg",
+    "backdrop": "https:\/\/image.tmdb.org\/t\/p\/w1280\/7QPcmXePg5U4hmUzugFPX44ntxK.jpg",
     "etiquetas": "Drama, Crimen, Acción",
     "year": "1973",
     "created_at": "1973-12-13",
-    "updated_at": "2026-01-30T08:57:11.000Z",
-    "id_tmdb": "10648",
+    "updated_at": "2026-07-02T22:24:37.000Z",
     "type": "movie",
     "calidad": "HD",
     "synopsis": "Los principales asesinos de la ciudad están siendo asesinados en San Francisco. Uno a uno, los criminales que han escapado de una acción judicial están recibiendo la justicia que merecen, un tipo de justicia que haría pensar que el detective de homicidios Harry Callahan está utilizando sus métodos implacables. Pero los asesinos han juzgado mal a Harry, que deberá enfrentarse esta vez a un inesperado escuadrón de la muerte que lleva placa policial. Su enemigo verdadero es el sistema. Pero Harry ha jurado proteger el sistema con su Magnum 44.",
+    "rating": 0,
+    "runtime": 0,
     "enlaces": [
         {
             "nombre": "Server 1",
