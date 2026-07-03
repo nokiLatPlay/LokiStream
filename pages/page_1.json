@@ -2,6 +2,16 @@
     "page": 1,
     "data": [
         {
+            "id_tmdb": "21730",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/ldTILeuLdsLRNADg5T9eONC10wO.jpg",
+            "titulo": "Mobile Suit Gundam Wing",
+            "etiquetas": "Action & Adventure, Animación, Sci-Fi & Fantasy, War & Politics",
+            "type": "animes",
+            "created_at": "1995-04-07",
+            "updated_at": "2026-07-02T22:05:59.000Z",
+            "year": "1995"
+        },
+        {
             "id_tmdb": "45782",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/htNohqrYEwuz4fCa9ATVF90s58S.jpg",
             "titulo": "Sword Art Online",
