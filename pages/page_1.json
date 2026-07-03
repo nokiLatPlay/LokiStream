@@ -2,6 +2,18 @@
     "page": 1,
     "data": [
         {
+            "id_tmdb": "9874",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/biFe44HHfSOvGzWkvqLgLnIggxx.jpg",
+            "backdrop": "https:\/\/image.tmdb.org\/t\/p\/w1280\/zPDpHMdbbE4O0TxVkMcgD6j2ImR.jpg",
+            "titulo": "Cobra, el brazo fuerte de la ley",
+            "etiquetas": "Acción, Crimen, Suspense",
+            "type": "movie",
+            "created_at": "1986-05-22",
+            "updated_at": "2026-07-03T05:59:20.000Z",
+            "year": "1986",
+            "calidad": "HD"
+        },
+        {
             "id_tmdb": "10303",
             "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/46DOs7IdevzJowCM0DaJzdymIJI.jpg",
             "backdrop": "https:\/\/image.tmdb.org\/t\/p\/w1280\/6QstEy47t8yLY3FZCqukbKlYIH3.jpg",
