@@ -7,7 +7,7 @@
     "type": "series",
     "synopsis": "Nagi Umino es un estudiante de instituto al que intercambiaron con el hijo de otra familia cuando nació, pero ahora por fin va a conocer a sus padres biológicos. El día que va a conocerlos se encuentra con Erika Amano, estudiante en un instituto femenino para señoritas de buena familia. A petición de la chica, Nagi se ve medio forzado a fingir ser su novio para evitar un matrimonio concertado... Sin embargo, lo que no sabían es que además de ser falsos prometidos, ¡son los bebés a los que intercambiaron al nacer!",
     "created_at": "2022-04-24",
-    "updated_at": "2026-07-03T08:14:34.000Z",
+    "updated_at": "2026-07-03T08:39:12.000Z",
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -320,6 +320,167 @@
                             "nombre": "Enlace 1",
                             "url": "https://pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev/2025%20Verano/Kakkou%20no%20Iinazuke/S01/A%20Couple%20of%20Cuckoos%20-%201x24%20-%20Episodio%2024.mp4",
                             "type": "embed",
+                            "language": "Latino"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 2",
+            "capitulos": [
+                {
+                    "episode_id": "01",
+                    "nombre": "01. ¿Quién fue el primer amor de Umino?",
+                    "portada": "https://image.tmdb.org/t/p/w300/clwJ3pR8817f5BN2vvVQVIvuhDd.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev/2025%20Verano/Kakkou%20no%20Iinazuke/S02/A%20Couple%20of%20Cuckoos%20-%202x01.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "02",
+                    "nombre": "02. Se te declaró mi hermano, ¿verdad?",
+                    "portada": "https://image.tmdb.org/t/p/w300/mvz8tj9bHJXdywWw0aQRXqg1S7B.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev/2025%20Verano/Kakkou%20no%20Iinazuke/S02/A%20Couple%20of%20Cuckoos%20-%202x02.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "03",
+                    "nombre": "03. Eso, pero multiplicado por cien",
+                    "portada": "https://image.tmdb.org/t/p/w300/3GJJoDqY9jhNdLUJXkOS9mPhovf.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev/2025%20Verano/Kakkou%20no%20Iinazuke/S02/A%20Couple%20of%20Cuckoos%20-%202x03.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "04",
+                    "nombre": "04. Ya estamos todos",
+                    "portada": "https://image.tmdb.org/t/p/w300/jHcq5AdavfHG54Qv7QqsIlyPV7y.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev/2025%20Verano/Kakkou%20no%20Iinazuke/S02/A%20Couple%20of%20Cuckoos%20-%202x04.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "05",
+                    "nombre": "05. ¡También es mi vida!",
+                    "portada": "https://image.tmdb.org/t/p/w300/oYrkng8ZGXSxKlhIqW6pzlRgkxQ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev/2025%20Verano/Kakkou%20no%20Iinazuke/S02/A%20Couple%20of%20Cuckoos%20-%202x05.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "06",
+                    "nombre": "06. ¡Es imposible que yo sea normal!",
+                    "portada": "https://image.tmdb.org/t/p/w300/95K78QicVSh32TlEkR5Ku2WTTzX.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev/2025%20Verano/Kakkou%20no%20Iinazuke/S02/A%20Couple%20of%20Cuckoos%20-%202x06.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "07",
+                    "nombre": "07. ¡Porque lo construimos nosotros!",
+                    "portada": "https://image.tmdb.org/t/p/w300/s38DMtsia88ZZomrBjwbXDRHVQH.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev/2025%20Verano/Kakkou%20no%20Iinazuke/S02/A%20Couple%20of%20Cuckoos%20-%202x07.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "08",
+                    "nombre": "08. No hay ningún beso sin significado",
+                    "portada": "https://image.tmdb.org/t/p/w300/bfNUFoBoDeN4Gf2yjUn4z3V9W5z.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev/2025%20Verano/Kakkou%20no%20Iinazuke/S02/A%20Couple%20of%20Cuckoos%20-%202x08.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "09",
+                    "nombre": "09. ¡Sachi es la enemiga a temer!",
+                    "portada": "https://image.tmdb.org/t/p/w300/7SPyQsRFxyfMWrWw5emnukNyeHB.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev/2025%20Verano/Kakkou%20no%20Iinazuke/S02/A%20Couple%20of%20Cuckoos%20-%202x09.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "10",
+                    "nombre": "10. ¡Nagi! ¡Tomémonos fotos para tener recuerdos!",
+                    "portada": "https://image.tmdb.org/t/p/w300/A4c6JLevJFPf48chDdtoDkZDSRz.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev/2025%20Verano/Kakkou%20no%20Iinazuke/S02/A%20Couple%20of%20Cuckoos%20-%202x10.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "11",
+                    "nombre": "11. La primera vez que me pareciste atractivo",
+                    "portada": "https://image.tmdb.org/t/p/w300/pJnlhY6HqfwZA4r8YsHT5Y0uALt.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev/2025%20Verano/Kakkou%20no%20Iinazuke/S02/A%20Couple%20of%20Cuckoos%20-%202x11.mp4",
+                            "type": "mp4",
+                            "language": "Latino"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "12",
+                    "nombre": "12. Gracias por enamorarte de mí",
+                    "portada": "https://image.tmdb.org/t/p/w300/6Z9eeNomUkhTopdmvegI0BtG1Gn.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Enlace 1",
+                            "url": "https://pub-192f85bc3f094c9d8efa6b544fa8fba4.r2.dev/2025%20Verano/Kakkou%20no%20Iinazuke/S02/A%20Couple%20of%20Cuckoos%20-%202x12.mp4",
+                            "type": "mp4",
                             "language": "Latino"
                         }
                     ]
