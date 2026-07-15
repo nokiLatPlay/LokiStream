@@ -12,119 +12,48 @@
         "Comedia",
         "Familia"
     ],
-    "calidad": [],
+    "calidad": [
+        "720p"
+    ],
     "rate": 6.4000000000000003552713678800500929355621337890625,
     "sinopsis": "Cansado de que toda la atención vaya a parar a Bugs Bunny, el pato Daffy abandona Hollywood y se une al especialista en doblaje recientemente despedido Bobby Delmont para embarcarse juntos en una aventura. Su misión: encontrar un diamante azul desaparecido del padre de Bobby, y permanecer un paso por delante de Bugs Bunny y una ejecutiva del estudio que van tras su pista... Mezcla de personajes de animación de la Warner Bros. -los creados por Chuck Jones- y actores reales, escrita por uno de los responsables de la serie \"Los Simpsons\". (FILMAFFINITY)",
-    "cast": [
-        {
-            "name": "Brendan Fraser",
-            "character": "DJ Drake \/ Tasmanian Devil (voice) \/ She-Devil (voice) \/ Self",
-            "profile_path": "\/tFj5PaWWQbb8rHBBhu1EHklznph.jpg"
-        },
-        {
-            "name": "Jenna Elfman",
-            "character": "Kate",
-            "profile_path": "\/AsXlf2XtVF3tyx0GrUPRq72NLIa.jpg"
-        },
-        {
-            "name": "Steve Martin",
-            "character": "Mr. Chairman",
-            "profile_path": "\/d0KthX8hVWU9BxTCG1QUO8FURRm.jpg"
-        },
-        {
-            "name": "Joe Alaskey",
-            "character": "Bugs Bunny-Daffy Duck \/ Beaky Buzzard \/ Sylvester \/ Mama Bear (voice)",
-            "profile_path": "\/bYC9pHuC8ownvMlEgWoMEwItsUu.jpg"
-        },
-        {
-            "name": "Jeff Bennett",
-            "character": "Yosemite Sam \/ Foghorn Leghorn \/ Nasty Canasta (voice)",
-            "profile_path": "\/6Fq3Q1e0Oz0j2J2fnFSl7fKCHd9.jpg"
-        },
-        {
-            "name": "Timothy Dalton",
-            "character": "Damien Drake",
-            "profile_path": "\/rKYQd6ihqWiOaCHEDrvgV2VPtAo.jpg"
-        },
-        {
-            "name": "Billy West",
-            "character": "Elmer Fudd \/ Peter Lorre (voice)",
-            "profile_path": "\/iNQtBsgV4wr3z5CEEFhR5U4Yedk.jpg"
-        },
-        {
-            "name": "Heather Locklear",
-            "character": "Dusty Tails",
-            "profile_path": "\/rIvuZwIMRkwSVGMza7Tm2yBXD5g.jpg"
-        },
-        {
-            "name": "Joan Cusack",
-            "character": "Mother",
-            "profile_path": "\/59UIeHZFYrKyP20lXqijtfTXglO.jpg"
-        },
-        {
-            "name": "Bill Goldberg",
-            "character": "Mr. Smith",
-            "profile_path": "\/cymPEmQ8WwAqHPwGFBJjpHN0Sck.jpg"
-        },
-        {
-            "name": "Don Stanton",
-            "character": "Mr. Warner",
-            "profile_path": ""
-        },
-        {
-            "name": "Dan Stanton",
-            "character": "Mr. Warner's Brother",
-            "profile_path": "\/rpWrNQr2DypzP0SBbsHkBj7HYA3.jpg"
-        },
-        {
-            "name": "Dick Miller",
-            "character": "Security Guard",
-            "profile_path": "\/zyQXh8BkLg0DDo23pxJN2dy6Bqj.jpg"
-        },
-        {
-            "name": "Roger Corman",
-            "character": "Hollywood Director",
-            "profile_path": "\/m0ApZMol42l8vLV8MLpUSCpyA6n.jpg"
-        },
-        {
-            "name": "Kevin McCarthy",
-            "character": "Dr. Bennell",
-            "profile_path": "\/nKKwlz1tvDABTIrxK6oH4zdQPPB.jpg"
-        }
-    ],
+    "cast": null,
+    "first_air_date": null,
+    "last_air_date": null,
     "status": "Released",
     "runtime": 91,
     "enlaces": [
         {
             "nombre": "Ver 1",
             "url": "https:\/\/vimeos.net\/embed-zg4y4dd32j1i.html",
-            "type": "movie",
+            "type": "streaming",
             "language": "Latino",
-            "quality": ""
+            "quality": "720p"
         },
         {
             "nombre": "Ver 2",
             "url": "https:\/\/goodstream.one\/embed-zsio24selej8.html",
             "type": "streaming",
             "language": "Latino",
-            "quality": ""
+            "quality": "720p"
         },
         {
             "nombre": "Descarga 1",
             "url": "https:\/\/vimeos.net\/zg4y4dd32j1i",
-            "type": "streaming",
+            "type": "descarga",
             "language": "Latino",
-            "quality": ""
+            "quality": "720p"
         },
         {
             "nombre": "Descarga 2",
             "url": "https:\/\/goodstream.one\/zsio24selej8",
             "type": "descarga",
             "language": "Latino",
-            "quality": ""
+            "quality": "720p"
         }
     ],
     "added_date": "2026-07-14 20:17:43",
     "created_at": "2026-07-14 20:17:43",
-    "updated_at": "2026-07-14 20:17:43"
+    "updated_at": "2026-07-14 20:19:19",
+    "update_states": "No actualizado"
 }
