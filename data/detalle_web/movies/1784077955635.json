@@ -1,0 +1,130 @@
+{
+    "id": "1784077955635",
+    "tmdb_id": "574982",
+    "titulo": "The Blackout (2019)",
+    "original_name": "Аванпост",
+    "imagen": "\/q4Nm8AobNibA55AqTImjsZvJAqm.jpg",
+    "backdrop_path": "\/4phMeITqEnShF5C3ZD0Q8YQFMAB.jpg",
+    "type": "movie",
+    "year": "2019",
+    "etiquetas": [
+        "Suspense",
+        "Ciencia ficción",
+        "Acción"
+    ],
+    "calidad": [],
+    "rate": 6.5,
+    "sinopsis": "Aunque no se ha dado ninguna circunstancia sobrenatural, la comunicación entre la mayor parte de los pueblos del planeta se ha cortado. Sin embargo, una ciudad de Europa del Este aún cuenta con electricidad, algo de lo que se percata la Estación Espacial mientras trata de encontrar sentido a lo acontecido. Cuando los ejércitos comienzan a movilizarse, descubren una situación de pesadilla: hay muertos en todos lados, aunque se desconocen las causas por las cuales el ser humano está siendo erradicado. Mientras tanto, el último reducto de la humanidad trata de sobrevivir a cualquier precio. La pregunta es: ¿lo conseguirán?",
+    "cast": [
+        {
+            "name": "Лукерья Ильяшенко",
+            "character": "Alena",
+            "profile_path": "\/uc8bGkZSsdaafi7EuZTcPy86UJT.jpg"
+        },
+        {
+            "name": "Пётр Фёдоров",
+            "character": "Yura",
+            "profile_path": "\/o5LMY6QgIXRxgK6iTG4YGDccGsi.jpg"
+        },
+        {
+            "name": "Светлана Иванова",
+            "character": "Olya",
+            "profile_path": "\/4YKFshSLYzMXibw6NBmc3pTmcDO.jpg"
+        },
+        {
+            "name": "Алексей Чадов",
+            "character": "Oleg",
+            "profile_path": "\/A0E0JD77IicUC5BL2nG97DtU78i.jpg"
+        },
+        {
+            "name": "Ксения Кутепова",
+            "character": "Marina",
+            "profile_path": "\/jPcHWXQXOz02HlVCXDOpaIDuGJy.jpg"
+        },
+        {
+            "name": "Константин Лавроненко",
+            "character": "Dolmatov, major",
+            "profile_path": "\/hKmuAKgNVpHkns7RYQik5Y8EFpa.jpg"
+        },
+        {
+            "name": "Филипп Авдеев",
+            "character": "Zhenya",
+            "profile_path": "\/zg252vCV7rejEwcKI7WvjYxq4uG.jpg"
+        },
+        {
+            "name": "Артём Маркарьян",
+            "character": "Sasha",
+            "profile_path": "\/g87UTFpgH2zzyndyRXlPAWJrmpf.jpg"
+        },
+        {
+            "name": "Сергей Годин",
+            "character": "Lavrin",
+            "profile_path": "\/3YbKy0HmhQWtXnGBzP1qrO5B8Xy.jpg"
+        },
+        {
+            "name": "Артём Ткаченко",
+            "character": "Id",
+            "profile_path": "\/47fzIBKxprff2Mmy5Y1vKcNzciZ.jpg"
+        },
+        {
+            "name": "Ангелина Стречина",
+            "character": "Katya",
+            "profile_path": "\/oqk6fURbThLXbSCzFy0Xs3c3nOe.jpg"
+        },
+        {
+            "name": "Александр Недорезов",
+            "character": "commando",
+            "profile_path": "\/1UuCgXTe0UZYV2eVkDZ3fE0JJP2.jpg"
+        },
+        {
+            "name": "Стася Толстая",
+            "character": "",
+            "profile_path": "\/7VP0BB7WJuKjDAf9s9oj1N552ux.jpg"
+        },
+        {
+            "name": "Михаил Грубов",
+            "character": "Kopylov",
+            "profile_path": "\/su4r0Bt1tLaeVCmfXC3EwNfXyhS.jpg"
+        },
+        {
+            "name": "Артём Гайдуков",
+            "character": "Senchuk",
+            "profile_path": "\/55Y7v1J5RUcSo2plGWVoCuMCcbQ.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 127,
+    "enlaces": [
+        {
+            "nombre": "Goodstream -  - Latino",
+            "url": "https:\/\/goodstream.one\/embed-ar156p2anjbe.html",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Vimeos -  - Latino",
+            "url": "https:\/\/vimeos.net\/embed-i06x3yrd05kq.html",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Goodstream -  - Latino",
+            "url": "https:\/\/goodstream.one\/ar156p2anjbe",
+            "type": "descarga",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Vimeos -  - Latino",
+            "url": "https:\/\/vimeos.net\/i06x3yrd05kq",
+            "type": "descarga",
+            "language": "Latino",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-07-14 21:12:35",
+    "created_at": "2026-07-14 21:12:35",
+    "updated_at": "2026-07-14 21:12:35"
+}
