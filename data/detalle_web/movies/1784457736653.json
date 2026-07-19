@@ -1,0 +1,130 @@
+{
+    "id": "1784457736653",
+    "tmdb_id": "13",
+    "titulo": "Forrest Gump (1994)",
+    "original_name": "Forrest Gump",
+    "imagen": "\/azV6hV99lYkdhydsQbJCI6FqMl4.jpg",
+    "backdrop_path": "\/66Kn4XWhkuPkJxOJyPEx4U2CUfN.jpg",
+    "type": "movie",
+    "year": "1994",
+    "etiquetas": [
+        "Comedia",
+        "Drama",
+        "Romance"
+    ],
+    "calidad": [],
+    "rate": 8.5,
+    "sinopsis": "Forrest Gump es un chico con deficiencias mentales no muy profundas y con alguna incapacidad motora que, a pesar de todo, llegará a convertirse, entre otras cosas, en un héroe durante la Guerra del Vietnam. Su persistencia y bondad le llevarán a conseguir una gran fortuna, ser objeto del clamor popular y a codearse con las más altas esferas sociales y políticas del país. Siempre sin olvidar a Jenny, su gran amor desde que era niño.",
+    "cast": [
+        {
+            "name": "Tom Hanks",
+            "character": "Forrest Gump",
+            "profile_path": "\/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+        },
+        {
+            "name": "Robin Wright",
+            "character": "Jenny Curran",
+            "profile_path": "\/d3rIv0y2p0jMsQ7ViR7O1606NZa.jpg"
+        },
+        {
+            "name": "Gary Sinise",
+            "character": "Lieutenant Dan Taylor",
+            "profile_path": "\/olRjiV8ZhBixQiTvrGwXhpVXxsV.jpg"
+        },
+        {
+            "name": "Sally Field",
+            "character": "Mrs. Gump",
+            "profile_path": "\/iMeq1j9Xwvaf6PbTJ0FQz69fpuA.jpg"
+        },
+        {
+            "name": "Mykelti Williamson",
+            "character": "Bubba Blue",
+            "profile_path": "\/dR16zD9AjnHWbeN5OVmJWE0vSax.jpg"
+        },
+        {
+            "name": "Michael Conner Humphreys",
+            "character": "Young Forrest Gump",
+            "profile_path": "\/irYRs3COggVHg91jL3CrlCIWmnx.jpg"
+        },
+        {
+            "name": "Hanna Hall",
+            "character": "Young Jenny Curran",
+            "profile_path": "\/xkZ2Hwz1QLXvQCgGlWgVgx00Rtd.jpg"
+        },
+        {
+            "name": "Haley Joel Osment",
+            "character": "Forrest Junior",
+            "profile_path": "\/2rnMTQB9Q3vLtmRyyUaenVwSgfY.jpg"
+        },
+        {
+            "name": "Siobhan Fallon Hogan",
+            "character": "School Bus Driver",
+            "profile_path": "\/5OExagnRsUcOYLMPTSrv4x2G95R.jpg"
+        },
+        {
+            "name": "Rebecca Williams",
+            "character": "Nurse at Park Bench",
+            "profile_path": ""
+        },
+        {
+            "name": "Bob Penny",
+            "character": "Crony",
+            "profile_path": "\/28JAyf5kFHLSxI8Ny6HXMyU84nO.jpg"
+        },
+        {
+            "name": "Harold G. Herthum",
+            "character": "Doctor",
+            "profile_path": ""
+        },
+        {
+            "name": "George Kelly",
+            "character": "Barber",
+            "profile_path": ""
+        },
+        {
+            "name": "John Randall",
+            "character": "Crony",
+            "profile_path": ""
+        },
+        {
+            "name": "Sam Anderson",
+            "character": "Principal Hancock",
+            "profile_path": "\/AnSyGuhjALUwUzMfQFhYMSJp4ra.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 142,
+    "enlaces": [
+        {
+            "nombre": "Goodstream -  - Latino",
+            "url": "https:\/\/goodstream.one\/embed-6q166ecqc101.html",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Vimeos -  - Latino",
+            "url": "https:\/\/vimeos.net\/embed-j5bbarvkqdbp.html",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Goodstream -  - Latino",
+            "url": "https:\/\/goodstream.one\/6q166ecqc101",
+            "type": "descarga",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Vimeos -  - Latino",
+            "url": "https:\/\/vimeos.net\/j5bbarvkqdbp",
+            "type": "descarga",
+            "language": "Latino",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-07-19 06:42:16",
+    "created_at": "2026-07-19 06:42:16",
+    "updated_at": "2026-07-19 06:42:16"
+}
