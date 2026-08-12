@@ -1,0 +1,188 @@
+{
+    "id": "1786494322650",
+    "tmdb_id": "1234731",
+    "titulo": "Anaconda",
+    "original_name": "Anaconda",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/9PBECvTohqOnh9nYr6huoA7UQ4J.jpg",
+    "backdrop_path": "https:\/\/image.tmdb.org\/t\/p\/original\/swxhEJsAWms6X1fDZ4HdbvYBSf9.jpg",
+    "type": "movie",
+    "year": "2025",
+    "etiquetas": [
+        "Aventura",
+        "Comedia",
+        "Terror"
+    ],
+    "calidad": [
+        "HD"
+    ],
+    "rate": 5.79999999999999982236431605997495353221893310546875,
+    "sinopsis": "Doug y Griff, amigos de toda la vida, atraviesan una crisis de mediana edad y deciden realizar el remake de su película favorita de su juventud: Anaconda (1997). Viajan a la selva amazónica para filmar su versión, pero pronto descubren que una anaconda real los acecha, convirtiendo su proyecto cinematográfico en una lucha por sobrevivir. La película combina comedia, acción y terror en una experiencia cinematográfica única.",
+    "cast": [
+        {
+            "name": "Jack Black",
+            "character": "Doug McCallister",
+            "profile_path": "\/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg"
+        },
+        {
+            "name": "Paul Rudd",
+            "character": "Ronald Griffin Jr.",
+            "profile_path": "\/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
+        },
+        {
+            "name": "Steve Zahn",
+            "character": "Kenny Trent",
+            "profile_path": "\/rwrPdKGwXnByxUVMxMf8Y7oswi3.jpg"
+        },
+        {
+            "name": "Thandiwe Newton",
+            "character": "Claire Simons",
+            "profile_path": "\/hZQLvxj7nV7pBrRyWTvWVz1CDi8.jpg"
+        },
+        {
+            "name": "Daniela Melchior",
+            "character": "Ana Almeida",
+            "profile_path": "\/tjAEB90Sa7DJtyTlDAkzVhPLQin.jpg"
+        },
+        {
+            "name": "Selton Mello",
+            "character": "Santiago",
+            "profile_path": "\/sBVDTAAEDJuVBTKzVGA0PrqeD17.jpg"
+        },
+        {
+            "name": "Ice Cube",
+            "character": "Ice Cube",
+            "profile_path": "\/9EghwabQ1wIQT4oN69qtPlzqGn4.jpg"
+        },
+        {
+            "name": "Ione Skye",
+            "character": "Malie",
+            "profile_path": "\/ye8qsi6fn51HW93c7065Jogbh9p.jpg"
+        },
+        {
+            "name": "Rui Ricardo Diaz",
+            "character": "João",
+            "profile_path": "\/zjFqxdsijCYiWHvEwaztRP1eQet.jpg"
+        },
+        {
+            "name": "John Billingsley",
+            "character": "Jerry",
+            "profile_path": "\/uQzAvv4LUt57GBrYzDj5Ao1vhUT.jpg"
+        },
+        {
+            "name": "Sebastian Sero",
+            "character": "Charlie",
+            "profile_path": "\/c87XzTcaC7dLCGoIdcDkIKnPOiP.jpg"
+        },
+        {
+            "name": "Diego Arnary",
+            "character": "Paulo",
+            "profile_path": "\/j2oHPh6BhduRIiRb6TeTZNxjvri.jpg"
+        },
+        {
+            "name": "Dan Silveira",
+            "character": "Timo",
+            "profile_path": ""
+        },
+        {
+            "name": "Anna Francesca Armenia",
+            "character": "Bride",
+            "profile_path": ""
+        },
+        {
+            "name": "Jarred Blakiston",
+            "character": "Groom",
+            "profile_path": "\/slwXUIBB8nqyJKM66yM4MhwJvhI.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 100,
+    "enlaces": [
+        {
+            "nombre": "Hglamioz - HD - Latino",
+            "url": "https:\/\/hglamioz.com\/e\/01h9ck5x4xhv",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Bysejikuar - HD - Latino",
+            "url": "https:\/\/bysejikuar.com\/e\/zr7vucngufx3",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Callistanise - HD - Latino",
+            "url": "https:\/\/callistanise.com\/v\/pmy2lxsmcviz",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Hglamioz - HD - Castellano",
+            "url": "https:\/\/hglamioz.com\/e\/n0wim27gcv3f",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Bysejikuar - HD - Castellano",
+            "url": "https:\/\/bysejikuar.com\/e\/hrycu6vj2ngl",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Callistanise - HD - Castellano",
+            "url": "https:\/\/callistanise.com\/v\/rz3k35jkwkcu",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Hglamioz - HD - Sub",
+            "url": "https:\/\/hglamioz.com\/e\/3o3p15egq76i",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Bysejikuar - HD - Sub",
+            "url": "https:\/\/bysejikuar.com\/e\/uoji75wwuwqg",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Callistanise - HD - Sub",
+            "url": "https:\/\/callistanise.com\/v\/tlh8swofiml8",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Hglamioz - HD - Latino",
+            "url": "https:\/\/hglamioz.com\/d\/01h9ck5x4xhv",
+            "type": "descarga",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Hglamioz - HD - Castellano",
+            "url": "https:\/\/hglamioz.com\/d\/n0wim27gcv3f",
+            "type": "descarga",
+            "language": "Castellano",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Hglamioz - HD - Sub",
+            "url": "https:\/\/hglamioz.com\/d\/3o3p15egq76i",
+            "type": "descarga",
+            "language": "Sub",
+            "quality": "HD"
+        }
+    ],
+    "added_date": "2026-08-11 20:25:22",
+    "created_at": "2026-08-11 20:25:22",
+    "updated_at": "2026-08-11 20:25:22"
+}
