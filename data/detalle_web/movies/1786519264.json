@@ -1,0 +1,118 @@
+{
+    "id": "1786519264",
+    "tmdb_id": "672",
+    "titulo": "Harry Potter y la cámara secreta",
+    "original_name": "Harry Potter and the Chamber of Secrets",
+    "imagen": "\/3nvGqfZE3yrsqehpF107byUdUSq.jpg",
+    "backdrop_path": "\/1stUIsjawROZxjiCMtqqXqgfZWC.jpg",
+    "type": "movie",
+    "year": "2002",
+    "etiquetas": [
+        "Aventura",
+        "Fantasía"
+    ],
+    "calidad": [],
+    "rate": 7.70000000000000017763568394002504646778106689453125,
+    "sinopsis": "Harry regresa a su segundo año a Hogwarts, pero descubre que cosas malas ocurren debido a que un sitio llamado la Cámara de los Secretos ha sido abierto por el heredero de Slytherin y hará que los hijos de muggles, los impuros, aparezcan petrificados misteriosamente por un animal monstruoso.",
+    "cast": [
+        {
+            "name": "Daniel Radcliffe",
+            "character": "Harry Potter",
+            "profile_path": "\/uUFfo8RANo7tuckB6AZAnESne55.jpg"
+        },
+        {
+            "name": "Rupert Grint",
+            "character": "Ron Weasley",
+            "profile_path": "\/q2KZZ0ltTEl7Sf8volNFV1JDEP4.jpg"
+        },
+        {
+            "name": "Emma Watson",
+            "character": "Hermione Granger",
+            "profile_path": "\/A14lLCZYDhfYdBa0fFRpwMDiwRN.jpg"
+        },
+        {
+            "name": "Kenneth Branagh",
+            "character": "Gilderoy Lockhart",
+            "profile_path": "\/AbCqqFxNi5w3nDUFdQt0DGMFh5H.jpg"
+        },
+        {
+            "name": "Toby Jones",
+            "character": "Dobby (voice)",
+            "profile_path": "\/1qNisdp4f1KstdfvAgYXMdrhwfk.jpg"
+        },
+        {
+            "name": "Robbie Coltrane",
+            "character": "Rubeus Hagrid",
+            "profile_path": "\/jOHs3xvlwRiiG2CLtso5zzmGCXg.jpg"
+        },
+        {
+            "name": "Richard Harris",
+            "character": "Albus Dumbledore",
+            "profile_path": "\/lCvcVMuxrg1f5A8OMqY9AqkkcZR.jpg"
+        },
+        {
+            "name": "Alan Rickman",
+            "character": "Severus Snape",
+            "profile_path": "\/7tADZs4ILE93oJ5pAh6mKQFEq2m.jpg"
+        },
+        {
+            "name": "Tom Felton",
+            "character": "Draco Malfoy",
+            "profile_path": "\/etmtUBzJ1i1XJTLS6MkotJFE1se.jpg"
+        },
+        {
+            "name": "Jason Isaacs",
+            "character": "Lucius Malfoy",
+            "profile_path": "\/s6XRFjqUsrDJfDQuXPOoExAYPmb.jpg"
+        },
+        {
+            "name": "Shirley Henderson",
+            "character": "Moaning Myrtle",
+            "profile_path": "\/ufyhBJUrG3h4BrLNN8gMuYGhJd6.jpg"
+        },
+        {
+            "name": "Richard Griffiths",
+            "character": "Vernon Dursley",
+            "profile_path": "\/bFUo1pzPw74X8Zl9afzzXCBdV95.jpg"
+        },
+        {
+            "name": "Julie Walters",
+            "character": "Molly Weasley",
+            "profile_path": "\/bCTkV2OUgzbJdQEoCk3GesE4DXq.jpg"
+        },
+        {
+            "name": "Bonnie Wright",
+            "character": "Ginny Weasley",
+            "profile_path": "\/1O3bVJp2geFCqlDkOCJuTeSuqx.jpg"
+        },
+        {
+            "name": "Fiona Shaw",
+            "character": "Petunia Dursley",
+            "profile_path": "\/8X7fZybxtwh2nTvYk6kjRYo9RIY.jpg"
+        }
+    ],
+    "first_air_date": null,
+    "last_air_date": null,
+    "status": "Released",
+    "runtime": 150,
+    "enlaces": [
+        {
+            "nombre": "StreamWish",
+            "url": "https:\/\/hgcloud.to\/e\/8qht8yvzm01d",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "720p"
+        },
+        {
+            "nombre": "StreamWish",
+            "url": "https:\/\/hgcloud.to\/8qht8yvzm01d",
+            "type": "descarga",
+            "language": "Latino",
+            "quality": "720p"
+        }
+    ],
+    "added_date": "2026-08-12 03:21:04",
+    "created_at": "2026-08-12 03:21:04",
+    "updated_at": "2026-08-12 03:22:00",
+    "update_states": "No actualizado"
+}
