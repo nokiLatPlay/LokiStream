@@ -1,0 +1,78 @@
+{
+    "id": "1786581080",
+    "tmdb_id": "1599993",
+    "titulo": "Animales",
+    "original_name": "Animales",
+    "imagen": "\/wOnhgV3RZJhpOMA5b3LWBcfMncB.jpg",
+    "backdrop_path": "\/3jgATRIFenOrgNKEC9bFv5QqKGf.jpg",
+    "type": "movie",
+    "year": "2026",
+    "etiquetas": [
+        "Comedia",
+        "Suspense"
+    ],
+    "calidad": [],
+    "rate": 0,
+    "sinopsis": "Cuatro parejas navegan por la delgada línea que separa el deseo de la búsqueda de autenticidad, en un mundo donde la verdad es tan frágil como sus relaciones.",
+    "cast": [
+        {
+            "name": "Nashla Bogaert",
+            "character": "",
+            "profile_path": "\/tGCIlMxyMh3qpt7xNLzzltNHDQq.jpg"
+        },
+        {
+            "name": "Frank Perozo",
+            "character": "Martín",
+            "profile_path": "\/qWqwiMFEdQE0dLuqSPt3qHDQfQQ.jpg"
+        },
+        {
+            "name": "Pamela Sued",
+            "character": "",
+            "profile_path": ""
+        },
+        {
+            "name": "David Maler",
+            "character": "",
+            "profile_path": ""
+        },
+        {
+            "name": "Camila Issa",
+            "character": "",
+            "profile_path": "\/xOlZ7bA7OlePdxMRNPsGJ8Yi3nU.jpg"
+        },
+        {
+            "name": "Pedro Casals",
+            "character": "",
+            "profile_path": ""
+        },
+        {
+            "name": "Vitaly Sánchez",
+            "character": "",
+            "profile_path": ""
+        }
+    ],
+    "first_air_date": null,
+    "last_air_date": null,
+    "status": "Released",
+    "runtime": 0,
+    "enlaces": [
+        {
+            "nombre": "Callistanise",
+            "url": "https:\/\/callistanise.com\/v\/n8lqn0bc2u0n",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "720p"
+        },
+        {
+            "nombre": "Callistanise",
+            "url": "https:\/\/callistanise.com\/n8lqn0bc2u0n",
+            "type": "descarga",
+            "language": "Latino",
+            "quality": "720p"
+        }
+    ],
+    "added_date": "2026-08-12 20:31:20",
+    "created_at": "2026-08-12 20:31:20",
+    "updated_at": "2026-08-12 20:33:26",
+    "update_states": "No actualizado"
+}
