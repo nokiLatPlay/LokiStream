@@ -99,15 +99,22 @@
     "runtime": 131,
     "enlaces": [
         {
-            "nombre": "",
+            "nombre": "Streamwish",
+            "url": "https:\/\/hanerix.com\/e\/q8xik29ykxjl",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "720p"
+        },
+        {
+            "nombre": "Descargar",
             "url": "https:\/\/hanerix.com\/q8xik29ykxjl",
-            "type": "",
-            "language": "",
-            "quality": ""
+            "type": "descarga",
+            "language": "Latino",
+            "quality": "720p"
         }
     ],
     "added_date": "2026-08-13 13:28:58",
     "created_at": "2026-08-13 13:28:58",
-    "updated_at": "2026-08-13 13:29:14",
+    "updated_at": "2026-08-13 13:30:14",
     "update_states": "No actualizado"
 }
