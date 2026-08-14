@@ -43,10 +43,24 @@
             "type": "streaming",
             "language": "Latino",
             "quality": "720p"
+        },
+        {
+            "nombre": "Ver online 3",
+            "url": "https:\/\/animeav1.uns.bio\/#8a5hra",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "720p"
+        },
+        {
+            "nombre": "Ver online 4",
+            "url": "https:\/\/animeav1.uns.bio\/#ucyrnq",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "720p"
         }
     ],
     "added_date": "2026-06-11 14:35:45",
     "created_at": "2026-06-11 14:35:45",
-    "updated_at": "2026-08-13 06:25:44",
+    "updated_at": "2026-08-13 21:02:18",
     "update_states": "No actualizado"
 }
