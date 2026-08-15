@@ -1,0 +1,80 @@
+{
+    "id": "1786814540618",
+    "tmdb_id": "42610",
+    "titulo": "La horripilante bestia humana",
+    "original_name": "La horripilante bestia humana",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w432\/zspn5rkOnud2WdNoVWxyp4qfU09.jpg",
+    "backdrop_path": "https:\/\/image.tmdb.org\/t\/p\/w780\/iF20QYCoE86ybUIKgLiNtBoQH39.jpg",
+    "type": "movie",
+    "year": "1969",
+    "etiquetas": [
+        "Terror",
+        "Ciencia ficción"
+    ],
+    "calidad": [
+        "HD"
+    ],
+    "rate": 5.5,
+    "sinopsis": "A surgeon transplants the heart of an ape into his ailing son with horrific results.",
+    "cast": [
+        {
+            "name": "José Elías Moreno",
+            "character": "Dr. Krallman",
+            "profile_path": "\/7HBXZQ7j7wsjrnc1qD6HUGuNPvF.jpg"
+        },
+        {
+            "name": "Carlos López Moctezuma",
+            "character": "Goyo",
+            "profile_path": "\/wujChAGj1QJUpnlzGAAuUDSrTro.jpg"
+        },
+        {
+            "name": "Armando Silvestre",
+            "character": "Lt. Arturo Martinez",
+            "profile_path": "\/mLhN2dj35DKV0Geur2J7aMtbft3.jpg"
+        },
+        {
+            "name": "Norma Lazareno",
+            "character": "Lucy Ossorio",
+            "profile_path": "\/f9QNajPBLWXU8MRd66lSwxui6A6.jpg"
+        },
+        {
+            "name": "Agustín Martínez Solares",
+            "character": "Julio Krallman",
+            "profile_path": "\/qvImdX8ODT3HESsd8JwxBXC6G8X.jpg"
+        },
+        {
+            "name": "Gerardo Zepeda",
+            "character": "Monstruo",
+            "profile_path": "\/d8Xna17QDkXLRXSWXFC336vBiQ4.jpg"
+        },
+        {
+            "name": "Noelia Noel",
+            "character": "Redhead victim",
+            "profile_path": "\/cT2SRf7ZaVcI8Hoj7sAoW6neofV.jpg"
+        },
+        {
+            "name": "Gina Morett",
+            "character": "Woman in Shower",
+            "profile_path": "\/5jGzBlcP8Gyar5Bgkjpvd72F82b.jpg"
+        },
+        {
+            "name": "Nathanael León",
+            "character": "Security Chief",
+            "profile_path": "\/AdGJPixniBu9n4q6kPA23LLic6R.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 81,
+    "enlaces": [
+        {
+            "nombre": "Playmogo - HD - Latino",
+            "url": "https:\/\/playmogo.com\/e\/vqbe09l6awy2",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        }
+    ],
+    "added_date": "2026-08-15 13:22:20",
+    "created_at": "2026-08-15 13:22:20",
+    "updated_at": "2026-08-15 13:22:20"
+}
