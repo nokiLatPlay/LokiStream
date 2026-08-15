@@ -1,0 +1,286 @@
+{
+    "id": "1786834591734",
+    "tmdb_id": "95557",
+    "titulo": "INVENCIBLE",
+    "original_name": "INVINCIBLE",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/AdcfiT5FsjUooyP7CrKzEGmP9K1.jpg",
+    "backdrop_path": "https:\/\/image.tmdb.org\/t\/p\/w780\/9qrroces8C6R9aKr08hACNPVXdZ.jpg",
+    "type": "serie",
+    "year": "2021",
+    "etiquetas": [
+        "Animación",
+        "Drama",
+        "Ciencia ficción",
+        "Fantasía",
+        "Acción",
+        "Aventura"
+    ],
+    "temporadas_count": 1,
+    "episodios": 8,
+    "status": "Returning Series",
+    "rate": 8.5999999999999996447286321199499070644378662109375,
+    "sinopsis": "Mark Grayson hereda superpoderes a los diecisiete años y se une a su padre como uno de los mayores héroes de la Tierra. Todos sus sueños se hacen realidad, hasta que un evento impactante lo cambia todo.",
+    "cast": [
+        {
+            "name": "Steven Yeun",
+            "character": "Mark Grayson \/ Invincible (voice)",
+            "profile_path": "\/fOMFO2Xx4duzpNgS9Q5ytO44yGb.jpg"
+        },
+        {
+            "name": "Sandra Oh",
+            "character": "Debbie Grayson (voice)",
+            "profile_path": "\/zU8vjebHxcP60ESEL5Ok68KWZvj.jpg"
+        },
+        {
+            "name": "J.K. Simmons",
+            "character": "Nolan Grayson \/ Omni-Man (voice)",
+            "profile_path": "\/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+        }
+    ],
+    "first_air_date": "2021-03-25",
+    "last_air_date": "2026-04-22",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/gvhGh5PUBQ7OIXZ1L8Xy30aCI3v.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "INVENCIBLE 1x1",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/7S9RDiSixGe2miORi1fakQwZhjS.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/e\/ctjhp6efxxy6",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Callistanise - HD - Latino",
+                            "url": "https:\/\/callistanise.com\/v\/c6dt8vk573ns",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/d\/ctjhp6efxxy6",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "INVENCIBLE 1x2",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/pkxbaf98mNpxyoZAiNmJo8vHoDD.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/e\/4bk9phu2wcr0",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Callistanise - HD - Latino",
+                            "url": "https:\/\/callistanise.com\/v\/9ggyo9p23i4a",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/d\/4bk9phu2wcr0",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "INVENCIBLE 1x3",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/h6rJcoDs7tFjLT79RRM3q2ImAuQ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/e\/d84enf6p9b7o",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Callistanise - HD - Latino",
+                            "url": "https:\/\/callistanise.com\/v\/wvlfzcbmxn4r",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/d\/d84enf6p9b7o",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "INVENCIBLE 1x4",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/6gaE4O5tWAkUbjJlGQ8DVyG6q8h.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/e\/efnk62bqkcbf",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Callistanise - HD - Latino",
+                            "url": "https:\/\/callistanise.com\/v\/l2s0giam26pt",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo - HD - Latino",
+                            "url": "https:\/\/playmogo.com\/e\/9xgxmpjshi3c",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/d\/efnk62bqkcbf",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "INVENCIBLE 1x5",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/1v9aBIzrSwCVzp8SlNBpVqR4K4N.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/e\/hdncm2fdtrpm",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Callistanise - HD - Latino",
+                            "url": "https:\/\/callistanise.com\/v\/c74ypjgktx30",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/d\/hdncm2fdtrpm",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "INVENCIBLE 1x6",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/2FtdRhVTJsdS3pWoIYx9w4yD29F.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/e\/0ybmm3zrnzr4",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Callistanise - HD - Latino",
+                            "url": "https:\/\/callistanise.com\/v\/5wpm1hvzypkb",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/d\/0ybmm3zrnzr4",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "INVENCIBLE 1x7",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/qP3FnggFKbJSeSRMxKkYM8hWymc.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/e\/92hgm4dy5ojn",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/d\/92hgm4dy5ojn",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "INVENCIBLE 1x8",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/ijDV8Z23iR5B2ftx0WggiXbfqGi.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/e\/ycsb0365yh16",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Callistanise - HD - Latino",
+                            "url": "https:\/\/callistanise.com\/v\/q2vzvwwiq5xt",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/d\/ycsb0365yh16",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-08-15 18:56:31",
+    "created_at": "2026-08-15 18:56:31",
+    "updated_at": "2026-08-15 18:56:31"
+}
