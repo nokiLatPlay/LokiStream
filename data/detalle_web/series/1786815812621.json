@@ -1,0 +1,538 @@
+{
+    "id": "1786815812621",
+    "tmdb_id": "127532",
+    "titulo": "Solo Leveling",
+    "original_name": "俺だけレベルアップな件",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/fxxr3oGCbc0cTsnpxRDnIdKJB4q.jpg",
+    "backdrop_path": "https:\/\/image.tmdb.org\/t\/p\/w780\/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
+    "type": "serie",
+    "year": "2024",
+    "etiquetas": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción",
+        "Fantasía",
+        "Animación"
+    ],
+    "temporadas_count": 1,
+    "episodios": 12,
+    "status": "Ended",
+    "rate": 8.699999999999999289457264239899814128875732421875,
+    "sinopsis": "Lo que no te mata te hace más fuerte, pero en el caso de Sung Jinwoo, lo que lo mató lo hizo más fuerte. Después de ser brutalmente asesinado por monstruos en una mazmorra de alto rango, Jinwoo regresó con el Sistema, un programa que solo él puede ver y que eleva su nivel en todos los sentidos. Ahora, está decidido a descubrir los secretos detrás de sus poderes y la mazmorra que los engendró.",
+    "cast": [
+        {
+            "name": "Taito Ban",
+            "character": "Shun Mizushino (voice)",
+            "profile_path": "\/pSExEOVmjAujKUyJJJSxC1WEzOM.jpg"
+        },
+        {
+            "name": "Genta Nakamura",
+            "character": "Kenta Morobishi (voice)",
+            "profile_path": "\/bl3pu2fsaNfHqnZQSDugY4V1CE0.jpg"
+        },
+        {
+            "name": "Haruna Mikawa",
+            "character": "Aoi Mizushino (voice)",
+            "profile_path": "\/nsrFjmDDzo4FDMhxyvuVk4mPEH3.jpg"
+        },
+        {
+            "name": "Reina Ueda",
+            "character": "Shizuku Kousaka (voice)",
+            "profile_path": "\/2WV61uVU7y6XGYqNHLMpP0sApdu.jpg"
+        },
+        {
+            "name": "Daisuke Hirakawa",
+            "character": "Shin Mogami (voice)",
+            "profile_path": "\/8uDi5NxFdxFvfVyo4n5CeOSLWEf.jpg"
+        },
+        {
+            "name": "Hiroki Touchi",
+            "character": "Taiga Shirakawa (voice)",
+            "profile_path": "\/bU2vogWmnTWiQEwUADWlnBqAPhJ.jpg"
+        },
+        {
+            "name": "Banjo Ginga",
+            "character": "Kiyoomi Goto (voice)",
+            "profile_path": "\/qiXnKaZheMiVyA1U2mX9tPdNA3T.jpg"
+        },
+        {
+            "name": "Makoto Furukawa",
+            "character": "Akira Inukai (voice)",
+            "profile_path": "\/inLmBZhrqXeE9wlViyK28ocKJSw.jpg"
+        }
+    ],
+    "first_air_date": "2024-01-07",
+    "last_air_date": "2025-03-30",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/451lpwzbSKClDUHmKxOcBboBf7E.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Solo Leveling 1x1",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/2rjil078wSfnjqdpELrMxwn6zxk.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/e\/s58c7qfm4rf3",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Bysejikuar - HD - Latino",
+                            "url": "https:\/\/bysejikuar.com\/e\/ga00tbqzxqku",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Callistanise - HD - Latino",
+                            "url": "https:\/\/callistanise.com\/v\/qgoplpasv207",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo - HD - Latino",
+                            "url": "https:\/\/playmogo.com\/e\/okdbwb2nciuq",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/d\/s58c7qfm4rf3",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Solo Leveling 1x2",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/ch5o2NnATbswomEiCugOgjX8IwY.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/e\/u6znujcmqyq5",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Bysejikuar - HD - Latino",
+                            "url": "https:\/\/bysejikuar.com\/e\/ew1l14j3nq93",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Callistanise - HD - Latino",
+                            "url": "https:\/\/callistanise.com\/v\/eycv56m4pxlf",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo - HD - Latino",
+                            "url": "https:\/\/playmogo.com\/e\/z070llqnlvye",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/d\/u6znujcmqyq5",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Solo Leveling 1x3",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/3h4QyKMODJiOQKqfuL4NrehcV43.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/e\/550t882p7mhu",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Bysejikuar - HD - Latino",
+                            "url": "https:\/\/bysejikuar.com\/e\/qk9nlwshapmy",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Callistanise - HD - Latino",
+                            "url": "https:\/\/callistanise.com\/v\/xe8pbc5n6fgh",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo - HD - Latino",
+                            "url": "https:\/\/playmogo.com\/e\/71bvuyfmehw3",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/d\/550t882p7mhu",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "Solo Leveling 1x4",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/2zbHJNbyuGEdyGVOyJpv24qgf2w.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/e\/kxdi14gy1s5i",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Bysejikuar - HD - Latino",
+                            "url": "https:\/\/bysejikuar.com\/e\/y09q876ytjzy",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Callistanise - HD - Latino",
+                            "url": "https:\/\/callistanise.com\/v\/a0wi98yk7ol3",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo - HD - Latino",
+                            "url": "https:\/\/playmogo.com\/e\/aa2ttqmnqngz",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/d\/kxdi14gy1s5i",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "Solo Leveling 1x5",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/vPpiI1sKgiJgWykydYzOf2XfCcR.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/e\/rspxuapve9ji",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Bysejikuar - HD - Latino",
+                            "url": "https:\/\/bysejikuar.com\/e\/2nnagjvyhw9z",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo - HD - Latino",
+                            "url": "https:\/\/playmogo.com\/e\/x9mwvhuk0zq6",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/d\/rspxuapve9ji",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Solo Leveling 1x6",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/jeyh5o40BjSmkYxv1FV7OMqJn9m.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/e\/hq20w5qtvdh2",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Bysejikuar - HD - Latino",
+                            "url": "https:\/\/bysejikuar.com\/e\/gmfnkmh7cnyf",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo - HD - Latino",
+                            "url": "https:\/\/playmogo.com\/e\/w3bb8az0ahxx",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/d\/hq20w5qtvdh2",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "Solo Leveling 1x7",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/3UGTVLFHcAIQgjolx6rQpCottRj.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/e\/bm538z65g8e0",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Bysejikuar - HD - Latino",
+                            "url": "https:\/\/bysejikuar.com\/e\/hb9hb9761dg2",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo - HD - Latino",
+                            "url": "https:\/\/playmogo.com\/e\/rxhosaqq4jiy",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/d\/bm538z65g8e0",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "Solo Leveling 1x8",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/mYoah2DtfKVqGMtuCBmgeZYCQoM.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/e\/d0gn0y9k8ag8",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Bysejikuar - HD - Latino",
+                            "url": "https:\/\/bysejikuar.com\/e\/afo21nvk66m0",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo - HD - Latino",
+                            "url": "https:\/\/playmogo.com\/e\/cxqgxqoox4rf",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/d\/d0gn0y9k8ag8",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E09",
+                    "episode_number": 9,
+                    "nombre": "Solo Leveling 1x9",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/e740cGwsp7JWs19CgWTp0uBDPMp.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/e\/yc8zgpgkwgu8",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Bysejikuar - HD - Latino",
+                            "url": "https:\/\/bysejikuar.com\/e\/ecgfbp3ikqwz",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo - HD - Latino",
+                            "url": "https:\/\/playmogo.com\/e\/u3znzxvy46u5",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/d\/yc8zgpgkwgu8",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E10",
+                    "episode_number": 10,
+                    "nombre": "Solo Leveling 1x10",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/anFjSYbyhwOntz31Qr0Egl9qnGz.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/e\/zxyej2gcp3v8",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Bysejikuar - HD - Latino",
+                            "url": "https:\/\/bysejikuar.com\/e\/mp3uiflg3pkk",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo - HD - Latino",
+                            "url": "https:\/\/playmogo.com\/e\/luu4iz529ud2",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/d\/zxyej2gcp3v8",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E11",
+                    "episode_number": 11,
+                    "nombre": "Solo Leveling 1x11",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/xwTGcW5n6CdxW8SfipWiQzz40RO.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/e\/wcko7qu7llml",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Bysejikuar - HD - Latino",
+                            "url": "https:\/\/bysejikuar.com\/e\/jleydh8888mf",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo - HD - Latino",
+                            "url": "https:\/\/playmogo.com\/e\/lmuqvr1u3jgl",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/d\/wcko7qu7llml",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E12",
+                    "episode_number": 12,
+                    "nombre": "Solo Leveling 1x12",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/8WNsU7GLSsXcCAxa5th5nkWeO6W.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/e\/cmfmkbvlxdxk",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Bysejikuar - HD - Latino",
+                            "url": "https:\/\/bysejikuar.com\/e\/s203a12l6iq4",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo - HD - Latino",
+                            "url": "https:\/\/playmogo.com\/e\/fps87sq7nkwb",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/d\/cmfmkbvlxdxk",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-08-15 13:43:32",
+    "created_at": "2026-08-15 13:43:32",
+    "updated_at": "2026-08-15 13:43:32"
+}
