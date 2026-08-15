@@ -1,0 +1,549 @@
+{
+    "id": "1786836430530",
+    "tmdb_id": "235930",
+    "titulo": "Devil May Cry",
+    "original_name": "Devil May Cry",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/9YA4ko7x1o2NS65lDrlKAuNAqjJ.jpg",
+    "backdrop_path": "https:\/\/image.tmdb.org\/t\/p\/w780\/nLyXXIDMpDHvUgxchezxuhoJ4Ej.jpg",
+    "type": "anime",
+    "year": "2025",
+    "etiquetas": [
+        "Animación",
+        "Acción",
+        "Aventura",
+        "Ciencia ficción",
+        "Fantasía"
+    ],
+    "temporadas_count": 1,
+    "episodios": 8,
+    "status": "Returning Series",
+    "rate": 8.199999999999999289457264239899814128875732421875,
+    "sinopsis": "Ante la amenaza de un misterioso villano de abrir las puertas del infierno, un cazador de demonios endiabladamente guapo podría ser la mejor opción para salvar el mundo.",
+    "cast": [],
+    "first_air_date": "2025-04-03",
+    "last_air_date": "2026-05-12",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/mX9tqfpjqwreONJHhap7SnSSowe.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Devil May Cry 1x1",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/3AXTaKtkYwCqtklTNgHLyeFoUyV.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/e\/uuyt11r6f47z",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Callistanise - HD - Latino",
+                            "url": "https:\/\/callistanise.com\/v\/fwvgehhdalmq",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Doodstream - HD - Latino",
+                            "url": "https:\/\/doodstream.com\/e\/9q8853xw8neq",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Sub",
+                            "url": "https:\/\/hglamioz.com\/e\/fr7x80s8zckk",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Callistanise - HD - Sub",
+                            "url": "https:\/\/callistanise.com\/v\/hbjgpcz2fs25",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Doodstream - HD - Sub",
+                            "url": "https:\/\/doodstream.com\/e\/7j42374f2o1y",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/d\/uuyt11r6f47z",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Sub",
+                            "url": "https:\/\/hglamioz.com\/d\/fr7x80s8zckk",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Devil May Cry 1x2",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/y9wTar4QMczPjqOeAqrBlsODkCv.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/e\/z22cju4iiocv",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Callistanise - HD - Latino",
+                            "url": "https:\/\/callistanise.com\/v\/qqee826qtjwp",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Doodstream - HD - Latino",
+                            "url": "https:\/\/doodstream.com\/e\/77nz081nbf88",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Sub",
+                            "url": "https:\/\/hglamioz.com\/e\/wfv8p4gbszyb",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Callistanise - HD - Sub",
+                            "url": "https:\/\/callistanise.com\/v\/u0jmiaecyg9a",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Doodstream - HD - Sub",
+                            "url": "https:\/\/doodstream.com\/e\/or4amzs32uzf",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/d\/z22cju4iiocv",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Sub",
+                            "url": "https:\/\/hglamioz.com\/d\/wfv8p4gbszyb",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Devil May Cry 1x3",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/8w71FnTTwcGG6S8Rwj2QXLKFqzJ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/e\/vej0imd1ppiy",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Callistanise - HD - Latino",
+                            "url": "https:\/\/callistanise.com\/v\/kyj5hfmzodb6",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Doodstream - HD - Latino",
+                            "url": "https:\/\/doodstream.com\/e\/h24wxxch5tth",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Sub",
+                            "url": "https:\/\/hglamioz.com\/e\/yuh7xafse5qc",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Callistanise - HD - Sub",
+                            "url": "https:\/\/callistanise.com\/v\/j2h2zxp65y2f",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Doodstream - HD - Sub",
+                            "url": "https:\/\/doodstream.com\/e\/8yy0i82p3dfb",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/d\/vej0imd1ppiy",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Sub",
+                            "url": "https:\/\/hglamioz.com\/d\/yuh7xafse5qc",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "Devil May Cry 1x4",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/jeSrAQDh9mxqtPK2jqyrkB04VdD.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/e\/dbtklcrpqjj9",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Callistanise - HD - Latino",
+                            "url": "https:\/\/callistanise.com\/v\/iytpr68dsx1s",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Doodstream - HD - Latino",
+                            "url": "https:\/\/doodstream.com\/e\/eu60shswz0nh",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Sub",
+                            "url": "https:\/\/hglamioz.com\/e\/dyzau86to2nl",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Callistanise - HD - Sub",
+                            "url": "https:\/\/callistanise.com\/v\/rgxa30cbr6ku",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Doodstream - HD - Sub",
+                            "url": "https:\/\/doodstream.com\/e\/02y5wydcyouj",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/d\/dbtklcrpqjj9",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Sub",
+                            "url": "https:\/\/hglamioz.com\/d\/dyzau86to2nl",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "Devil May Cry 1x5",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/Au1bhII1lTEBSp5Ki1K1hvjOma3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/e\/cf03mqcl10nn",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Callistanise - HD - Latino",
+                            "url": "https:\/\/callistanise.com\/v\/rvm019zo3wxo",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Doodstream - HD - Latino",
+                            "url": "https:\/\/doodstream.com\/e\/wr02wi6qsv6i",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Sub",
+                            "url": "https:\/\/hglamioz.com\/e\/ysoqepbdlat7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Callistanise - HD - Sub",
+                            "url": "https:\/\/callistanise.com\/v\/gjyh7yti1z4c",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Doodstream - HD - Sub",
+                            "url": "https:\/\/doodstream.com\/e\/6f937ghg3yd4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/d\/cf03mqcl10nn",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Sub",
+                            "url": "https:\/\/hglamioz.com\/d\/ysoqepbdlat7",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Devil May Cry 1x6",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/abKCqXorjOqvzubzh17gzcbVIp9.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/e\/pt93gs6yvsz6",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Callistanise - HD - Latino",
+                            "url": "https:\/\/callistanise.com\/v\/h119ppxhfhsv",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Doodstream - HD - Latino",
+                            "url": "https:\/\/doodstream.com\/e\/tqqs5xw75aqg",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Sub",
+                            "url": "https:\/\/hglamioz.com\/e\/2gmmgkw87ybc",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Callistanise - HD - Sub",
+                            "url": "https:\/\/callistanise.com\/v\/fzcnfrbhh4sv",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Doodstream - HD - Sub",
+                            "url": "https:\/\/doodstream.com\/e\/0lk8pe7aj7r1",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/d\/pt93gs6yvsz6",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Sub",
+                            "url": "https:\/\/hglamioz.com\/d\/2gmmgkw87ybc",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "Devil May Cry 1x7",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/m61gU3gV3LT0w4ogesOsrOFBlK8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/e\/fphu7xg6q7q0",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Callistanise - HD - Latino",
+                            "url": "https:\/\/callistanise.com\/v\/jf4v30dc8jb8",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Doodstream - HD - Latino",
+                            "url": "https:\/\/doodstream.com\/e\/o1o17wh4d2s3",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Sub",
+                            "url": "https:\/\/hglamioz.com\/e\/d0smwjtqnryy",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Callistanise - HD - Sub",
+                            "url": "https:\/\/callistanise.com\/v\/al2lq0jy2evl",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Doodstream - HD - Sub",
+                            "url": "https:\/\/doodstream.com\/e\/lpcsdzk7e7jb",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/d\/fphu7xg6q7q0",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Sub",
+                            "url": "https:\/\/hglamioz.com\/d\/d0smwjtqnryy",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "Devil May Cry 1x8",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/b4a7be1TBke4CV2AJ0m7xcsloWI.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/e\/fheigpzu5osk",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Callistanise - HD - Latino",
+                            "url": "https:\/\/callistanise.com\/v\/ctw438ywred3",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Doodstream - HD - Latino",
+                            "url": "https:\/\/doodstream.com\/e\/86j3pnl4gxvo",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Sub",
+                            "url": "https:\/\/hglamioz.com\/e\/w8f0qli8z1f4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Callistanise - HD - Sub",
+                            "url": "https:\/\/callistanise.com\/v\/swlcyj28oghl",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Doodstream - HD - Sub",
+                            "url": "https:\/\/doodstream.com\/e\/6ltorb5mj49f",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Latino",
+                            "url": "https:\/\/hglamioz.com\/d\/fheigpzu5osk",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Hglamioz - HD - Sub",
+                            "url": "https:\/\/hglamioz.com\/d\/w8f0qli8z1f4",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-08-15 19:27:10",
+    "created_at": "2026-08-15 19:27:10",
+    "updated_at": "2026-08-15 19:27:10"
+}
