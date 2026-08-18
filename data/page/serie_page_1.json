@@ -1,5 +1,22 @@
 [
     {
+        "id": "1787036974773",
+        "tmdb_id": "",
+        "titulo": "Sin título",
+        "imagen": "",
+        "type": "anime",
+        "year": "2026",
+        "etiquetas": [],
+        "rate": 0,
+        "added_date": "2026-08-18 03:09:34",
+        "created_at": "2026-08-18 03:09:34",
+        "updated_at": "2026-08-18 03:09:35",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 24,
+        "status": "Ended"
+    },
+    {
         "id": "1786815812621",
         "tmdb_id": "127532",
         "titulo": "Solo Leveling",
