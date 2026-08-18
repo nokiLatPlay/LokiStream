@@ -3,7 +3,7 @@
         "id": "1787037175256",
         "tmdb_id": "82684",
         "titulo": "That Time I Got Reincarnated as a Slime",
-        "imagen": "/9YcNx1dnNkZ3PZzrMqc52WjCEcw.jpg",
+        "imagen": "https://image.tmdb.org/t/p/w500/9YcNx1dnNkZ3PZzrMqc52WjCEcw.jpg",
         "type": "anime",
         "year": "2018",
         "etiquetas": [
@@ -15,10 +15,10 @@
         "rate": 8.4000000000000003552713678800500929355621337890625,
         "added_date": "2026-08-18 03:12:55",
         "created_at": "2026-08-18 03:12:55",
-        "updated_at": "2026-08-18 12:06:05",
+        "updated_at": "2026-08-18 16:11:43",
         "update_states": "No actualizado",
-        "temporadas": 3,
-        "episodios": 60,
+        "temporadas": 4,
+        "episodios": 78,
         "status": "Returning Series"
     },
     {
