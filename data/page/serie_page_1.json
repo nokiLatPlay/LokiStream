@@ -1,5 +1,28 @@
 [
     {
+        "id": "1786815812621",
+        "tmdb_id": "127532",
+        "titulo": "Solo Leveling",
+        "imagen": "https://image.tmdb.org/t/p/w342/fxxr3oGCbc0cTsnpxRDnIdKJB4q.jpg",
+        "type": "anime",
+        "year": "2024",
+        "etiquetas": [
+            "Acción",
+            "Aventura",
+            "Ciencia ficción",
+            "Fantasía",
+            "Animación"
+        ],
+        "rate": 8.699999999999999289457264239899814128875732421875,
+        "added_date": "2026-08-15 13:43:32",
+        "created_at": "2026-08-15 13:43:32",
+        "updated_at": "2026-08-18 02:27:15",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 12,
+        "status": "Ended"
+    },
+    {
         "id": "1786836430530",
         "tmdb_id": "235930",
         "titulo": "Devil May Cry",
@@ -13,7 +36,7 @@
             "Ciencia ficción",
             "Fantasía"
         ],
-        "rate": 8.1,
+        "rate": 8.0999999999999996447286321199499070644378662109375,
         "added_date": "2026-08-15 19:27:10",
         "created_at": "2026-08-15 19:27:10",
         "updated_at": "2026-08-15 19:27:11",
@@ -67,29 +90,6 @@
         "status": "Returning Series"
     },
     {
-        "id": "1786815812621",
-        "tmdb_id": "127532",
-        "titulo": "Solo Leveling",
-        "imagen": "https://image.tmdb.org/t/p/w342/fxxr3oGCbc0cTsnpxRDnIdKJB4q.jpg",
-        "type": "anime",
-        "year": "2024",
-        "etiquetas": [
-            "Acción",
-            "Aventura",
-            "Ciencia ficción",
-            "Fantasía",
-            "Animación"
-        ],
-        "rate": 8.5,
-        "added_date": "2026-08-15 13:43:32",
-        "created_at": "2026-08-15 13:43:32",
-        "updated_at": "2026-08-15 13:43:33",
-        "update_states": "No actualizado",
-        "temporadas": 1,
-        "episodios": 12,
-        "status": "Ended"
-    },
-    {
         "id": "1781164307",
         "tmdb_id": "113808",
         "titulo": "Seirei Gensouki",
@@ -105,7 +105,7 @@
         "temporadas": 2,
         "episodios": 24,
         "status": "Ended",
-        "rate": 8.0,
+        "rate": 8,
         "added_date": "2026-06-11 03:51:47",
         "created_at": "2026-06-11 03:51:47",
         "updated_at": "2026-08-13 14:21:16",
@@ -126,7 +126,7 @@
         "temporadas": 1,
         "episodios": 13,
         "status": "Returning Series",
-        "rate": 9.0,
+        "rate": 9,
         "added_date": "2026-06-13 06:06:09",
         "created_at": "2026-06-13 06:06:09",
         "updated_at": "2026-08-11 20:48:18",
@@ -145,7 +145,7 @@
         "temporadas": 3,
         "episodios": 38,
         "status": "Returning Series",
-        "rate": 8.4,
+        "rate": 8.4000000000000003552713678800500929355621337890625,
         "added_date": "2026-06-27 08:30:17",
         "created_at": "2026-06-27 08:30:17",
         "updated_at": "2026-06-27 12:41:46"
