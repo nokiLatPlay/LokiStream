@@ -1,5 +1,29 @@
 [
     {
+        "id": "1787103329836",
+        "tmdb_id": "1226863",
+        "titulo": "Super Mario Galaxy: La película",
+        "imagen": "https://image.tmdb.org/t/p/w342/4Js0gYWxuvTN6b8iAaSF1cSQzBs.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Familia",
+            "Comedia",
+            "Aventura",
+            "Fantasía",
+            "Animación"
+        ],
+        "rate": 8.199999999999999289457264239899814128875732421875,
+        "added_date": "2026-08-18 21:35:29",
+        "created_at": "2026-08-18 21:35:29",
+        "updated_at": "2026-08-18 21:35:30",
+        "update_states": "No actualizado",
+        "calidad": [
+            "HD"
+        ],
+        "status": "Released"
+    },
+    {
         "id": "1782859391",
         "tmdb_id": "652",
         "titulo": "Troya",
