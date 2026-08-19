@@ -3,8 +3,8 @@
     "tmdb_id": "72517",
     "titulo": "Classroom of the Elite",
     "original_name": "ようこそ実力至上主義の教室へ",
-    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/bLkCJuUhVPNE7PVh7Za6hpA775z.jpg",
-    "backdrop_path": "https:\/\/image.tmdb.org\/t\/p\/original\/d3yNn379emGP8xztqeOsB9oLNG2.jpg",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/6lNOqksJZAE4LzUs2yaqBpnZVm5.jpg",
+    "backdrop_path": "https:\/\/image.tmdb.org\/t\/p\/w780\/d3yNn379emGP8xztqeOsB9oLNG2.jpg",
     "type": "anime",
     "year": "2017",
     "etiquetas": [
@@ -102,7 +102,6 @@
             "capitulos": [
                 {
                     "episode_id": "S01E01",
-                    "episode_number": 1,
                     "nombre": "¿Qué es malo? Todo lo que proviene de la debilidad.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/8A2eGfqyomNgxqcyfIexSmYF43C.jpg",
                     "enlaces": [
@@ -173,7 +172,6 @@
                 },
                 {
                     "episode_id": "S01E02",
-                    "episode_number": 2,
                     "nombre": "Es una gran inteligencia saber ocultar la inteligencia.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/dfJ0Nxw3BXXMYSMZYpthmzmhJL1.jpg",
                     "enlaces": [
@@ -244,7 +242,6 @@
                 },
                 {
                     "episode_id": "S01E03",
-                    "episode_number": 3,
                     "nombre": "El hombre es un animal que negocia, ningún otro hace esto, ningún perro intercambia huesos con otro.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/3bPj58ISsBNgI0eYK3dFK12lAML.jpg",
                     "enlaces": [
@@ -315,7 +312,6 @@
                 },
                 {
                     "episode_id": "S01E04",
-                    "episode_number": 4,
                     "nombre": "No hay que ofenderse porque los demás nos oculten la verdad, ya que nos la ocultamos tan a menudo a nosotros mismos.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/2cKlPS2uEV60yVRszJSd01NOTU9.jpg",
                     "enlaces": [
@@ -386,7 +382,6 @@
                 },
                 {
                     "episode_id": "S01E05",
-                    "episode_number": 5,
                     "nombre": "El infierno son los otros.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/ijEZZSRWlAUB5yCjSHvf6eLLOsE.jpg",
                     "enlaces": [
@@ -471,7 +466,6 @@
                 },
                 {
                     "episode_id": "S01E06",
-                    "episode_number": 6,
                     "nombre": "Existen dos clases de mentiras: la de hecho, que se refiere a una acción pasada, y la de derecho, que es la que tiene relación con lo futuro.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/oXnrjcOwk5bPrzJnRRAeeC7Y7pf.jpg",
                     "enlaces": [
@@ -542,7 +536,6 @@
                 },
                 {
                     "episode_id": "S01E07",
-                    "episode_number": 7,
                     "nombre": "Nada hay más peligroso que un amigo ignorante; es mejor un enemigo razonable.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/ybpuMXUdp3AN3MDxzc8LYpeEwzt.jpg",
                     "enlaces": [
@@ -613,7 +606,6 @@
                 },
                 {
                     "episode_id": "S01E08",
-                    "episode_number": 8,
                     "nombre": "Vosotros los que entráis, abandonad toda esperanza.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/3KROkOsEz2ERoqfqlcDHgjbbtAG.jpg",
                     "enlaces": [
@@ -684,7 +676,6 @@
                 },
                 {
                     "episode_id": "S01E09",
-                    "episode_number": 9,
                     "nombre": "El hombre está condenado a ser libre.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/iQlVTaOYHnyVca7csQuJHDCgpXD.jpg",
                     "enlaces": [
@@ -755,7 +746,6 @@
                 },
                 {
                     "episode_id": "S01E10",
-                    "episode_number": 10,
                     "nombre": "El traidor mas peligroso de todos es aquel que cada ser humano tiene en sí mismo.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/gzzlScnfNVWE8EMM5rtWhwR2chj.jpg",
                     "enlaces": [
@@ -826,7 +816,6 @@
                 },
                 {
                     "episode_id": "S01E11",
-                    "episode_number": 11,
                     "nombre": "Lo que la gente comúnmente llama destino es, por regla general, nada más que su propia conducta estúpida y tonta.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/yELWM36I7nlC8BhUIva4gjx9DW0.jpg",
                     "enlaces": [
@@ -911,7 +900,6 @@
                 },
                 {
                     "episode_id": "1782563417496",
-                    "episode_number": 12,
                     "nombre": "El genio vive solamente un piso por encima de la locura.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/74uoSfzP1uekM7P3sAILXaBOBMf.jpg",
                     "enlaces": [
@@ -1003,7 +991,6 @@
             "capitulos": [
                 {
                     "episode_id": "S02E01",
-                    "episode_number": 1,
                     "nombre": "Recuerda mantener el ánimo sereno en los momentos difíciles.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/qUMhwS1QbTY6wuAv7CemW1AGVZA.jpg",
                     "enlaces": [
@@ -1088,7 +1075,6 @@
                 },
                 {
                     "episode_id": "S02E02",
-                    "episode_number": 2,
                     "nombre": "Hay dos grandes pecados humanos de los que derivan todos los demás: la impaciencia y la pereza.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/3BE7fmLK5J1nijfY52S2nvx08tU.jpg",
                     "enlaces": [
@@ -1159,7 +1145,6 @@
                 },
                 {
                     "episode_id": "S02E03",
-                    "episode_number": 3,
                     "nombre": "Las almas más grandes son capaces de los mayores vicios, así como de las mayores virtudes.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/xleOVHWBY4b3yGlgMG1iXfQvtYg.jpg",
                     "enlaces": [
@@ -1230,7 +1215,6 @@
                 },
                 {
                     "episode_id": "S02E04",
-                    "episode_number": 4,
                     "nombre": "El personal debe ser formado.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/oF6UbzQQce0xri9vHL7cCaN9N3J.jpg",
                     "enlaces": [
@@ -1301,7 +1285,6 @@
                 },
                 {
                     "episode_id": "S02E05",
-                    "episode_number": 5,
                     "nombre": "Cada fracaso es un paso hacia el éxito.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/hyRKf7wM0cWuXpMnMHjCDoWeNoW.jpg",
                     "enlaces": [
@@ -1386,7 +1369,6 @@
                 },
                 {
                     "episode_id": "S02E06",
-                    "episode_number": 6,
                     "nombre": "La adversidad es el sendero más seguro de la verdad.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/qoIHpSIN1XketcShpULWMmPPDyT.jpg",
                     "enlaces": [
@@ -1471,7 +1453,6 @@
                 },
                 {
                     "episode_id": "S02E07",
-                    "episode_number": 7,
                     "nombre": "Dudar de todo o creerlo todo son dos soluciones igualmente convenientes, las cuales nos eximen de pensar.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/l6bI7i1sKKCa94bLZ7R5WM0qRVN.jpg",
                     "enlaces": [
@@ -1556,7 +1537,6 @@
                 },
                 {
                     "episode_id": "S02E08",
-                    "episode_number": 8,
                     "nombre": "La herida vive silenciosa en el fondo del pecho.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/qYp9tCdw4ICEQxexR4MTL6eAGw3.jpg",
                     "enlaces": [
@@ -1641,7 +1621,6 @@
                 },
                 {
                     "episode_id": "S02E09",
-                    "episode_number": 9,
                     "nombre": "El verdadero error es cometer un error y no corregirlo.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/2ToxZSq75pkFGvk45SHoywc2CJN.jpg",
                     "enlaces": [
@@ -1726,7 +1705,6 @@
                 },
                 {
                     "episode_id": "S02E10",
-                    "episode_number": 10,
                     "nombre": "El pueblo muchas veces anhela su ruina, engañado por un falso bien.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/iuH1dtZ3neoXw5Dp35cMDwxEBHt.jpg",
                     "enlaces": [
@@ -1811,7 +1789,6 @@
                 },
                 {
                     "episode_id": "S02E11",
-                    "episode_number": 11,
                     "nombre": "El que no se controla a sí mismo permanece esclavo para siempre.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/AfdWfIjGUOc1Oxtg73Oe7ElaNHa.jpg",
                     "enlaces": [
@@ -1882,7 +1859,6 @@
                 },
                 {
                     "episode_id": "S02E12",
-                    "episode_number": 12,
                     "nombre": "La fuerza, sin sabiduría, se derrumba por su propio peso.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/6E0DJbQwTgHe1ousRpRHaP0Zx9O.jpg",
                     "enlaces": [
@@ -1967,7 +1943,6 @@
                 },
                 {
                     "episode_id": "S02E13",
-                    "episode_number": 13,
                     "nombre": "El peor enemigo al que te puedas enfrentar siempre serás tú mismo.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/d3ML6HoEhX8n1BZWXs4TxdQ6gVj.jpg",
                     "enlaces": [
@@ -2059,7 +2034,6 @@
             "capitulos": [
                 {
                     "episode_id": "S03E01",
-                    "episode_number": 1,
                     "nombre": "El principio más fuerte del crecimiento está en la elección humana.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/heLMHX0Ra0fpll9a4DG9dygr7Mj.jpg",
                     "enlaces": [
@@ -2130,7 +2104,6 @@
                 },
                 {
                     "episode_id": "S03E02",
-                    "episode_number": 2,
                     "nombre": "El hombre es un lobo para el hombre.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/xXDNeztt5ZeANArWqRC4vtpuo7t.jpg",
                     "enlaces": [
@@ -2194,7 +2167,6 @@
                 },
                 {
                     "episode_id": "S03E03",
-                    "episode_number": 3,
                     "nombre": "Es imposible olvidar lo que deseas olvidar.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/kYb4QROnwXGzWOdj4XkBeQ0SvBH.jpg",
                     "enlaces": [
@@ -2272,7 +2244,6 @@
                 },
                 {
                     "episode_id": "S03E04",
-                    "episode_number": 4,
                     "nombre": "Lo único que puedes hacer es actuar para alcanzar tu objetivo. No puedes limitarte a desear un resultado.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/bun3yUxmzcAUzrsY11HWEzlM3Mk.jpg",
                     "enlaces": [
@@ -2329,7 +2300,6 @@
                 },
                 {
                     "episode_id": "S03E05",
-                    "episode_number": 5,
                     "nombre": "La fortuna favorece a los audaces.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/3mzsqrmFgAH34sgvXXjKWinP1d0.jpg",
                     "enlaces": [
@@ -2386,7 +2356,6 @@
                 },
                 {
                     "episode_id": "S03E06",
-                    "episode_number": 6,
                     "nombre": "Es mejor sufrir una injusticia que hacerla.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/kozApucCq042I5k65wSp5sxOgkE.jpg",
                     "enlaces": [
@@ -2457,7 +2426,6 @@
                 },
                 {
                     "episode_id": "S03E07",
-                    "episode_number": 7,
                     "nombre": "La gente hará lo que sea, por muy absurdo que parezca, para evitar afrontar su propia alma.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/rTUO78ObihmS45DCEwJUYXYw5C4.jpg",
                     "enlaces": [
@@ -2528,7 +2496,6 @@
                 },
                 {
                     "episode_id": "S03E08",
-                    "episode_number": 8,
                     "nombre": "Aquellos que no pueden recordar el pasado están condenados a repetirlo.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/hUKfUTKKG4eE6q59HfphXeobdn7.jpg",
                     "enlaces": [
@@ -2613,7 +2580,6 @@
                 },
                 {
                     "episode_id": "S03E09",
-                    "episode_number": 9,
                     "nombre": "Suma justicia, suma injusticia.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/4OSVKq9ms88escuFnOQTK5AhZ4W.jpg",
                     "enlaces": [
@@ -2698,7 +2664,6 @@
                 },
                 {
                     "episode_id": "S03E10",
-                    "episode_number": 10,
                     "nombre": "La primera causa de las conclusiones absurdas la adscribo a la falta de método.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/3NUapL1XnYroj3rxb2vnvNcpnS8.jpg",
                     "enlaces": [
@@ -2783,7 +2748,6 @@
                 },
                 {
                     "episode_id": "S03E11",
-                    "episode_number": 11,
                     "nombre": "Solo hay una ley en los sentimientos. Brindar felicidad a aquellos que amas.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/cnFocEvLhngdczzRrMkBHwrYakU.jpg",
                     "enlaces": [
@@ -2868,7 +2832,6 @@
                 },
                 {
                     "episode_id": "S03E12",
-                    "episode_number": 12,
                     "nombre": "Cambia tus deseos en lugar del orden del mundo",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/k3LKfOU2gORPx9f0t8nsE24yW7o.jpg",
                     "enlaces": [
@@ -2953,7 +2916,6 @@
                 },
                 {
                     "episode_id": "1782563417496",
-                    "episode_number": 13,
                     "nombre": "El amor es el mejor maestro.",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/bbTIodpLcABWYGiIPBUZDY4d9k6.jpg",
                     "enlaces": [
@@ -3045,7 +3007,6 @@
             "capitulos": [
                 {
                     "episode_id": "S04E01",
-                    "episode_number": 1,
                     "nombre": "El sicario de la White Room",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/yl8210bV4qRUPBpGFmEHRbkG8sU.jpg",
                     "enlaces": [
@@ -3123,7 +3084,6 @@
                 },
                 {
                     "episode_id": "S04E02",
-                    "episode_number": 2,
                     "nombre": "Contrato y premio",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/yBSNdrbiSSY0IF617InFvQXw6c3.jpg",
                     "enlaces": [
@@ -3187,7 +3147,6 @@
                 },
                 {
                     "episode_id": "S04E03",
-                    "episode_number": 3,
                     "nombre": "La resolución de un líder",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/7MqipjUXmGfMZKnwpxR2hnwcmfS.jpg",
                     "enlaces": [
@@ -3251,7 +3210,6 @@
                 },
                 {
                     "episode_id": "S04E04",
-                    "episode_number": 4,
                     "nombre": "A qué apunta la hoja",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/frVQkedKhzY9gmVCydEiG7VJ48F.jpg",
                     "enlaces": [
@@ -3329,7 +3287,6 @@
                 },
                 {
                     "episode_id": "S04E05",
-                    "episode_number": 5,
                     "nombre": "El hombre de 20 millones",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/uk28bwhtbaV2fuiNMkr9fz7kANB.jpg",
                     "enlaces": [
@@ -3407,7 +3364,6 @@
                 },
                 {
                     "episode_id": "S04E06",
-                    "episode_number": 6,
                     "nombre": "Una caótica contienda de persuasión",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/fsQZd0BndTQlqd94i9FSk4zkffq.jpg",
                     "enlaces": [
@@ -3471,7 +3427,6 @@
                 },
                 {
                     "episode_id": "S04E07",
-                    "episode_number": 7,
                     "nombre": "Maniobras encubiertas",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/2eMWwzG6LfRecO8XKb6fcVbXRfk.jpg",
                     "enlaces": [
@@ -3549,7 +3504,6 @@
                 },
                 {
                     "episode_id": "S04E08",
-                    "episode_number": 8,
                     "nombre": "La ambición de los dragones",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/ghtGd2fgz9H7BTUSIqFQo1BoQrg.jpg",
                     "enlaces": [
@@ -3613,7 +3567,6 @@
                 },
                 {
                     "episode_id": "S04E09",
-                    "episode_number": 9,
                     "nombre": "Un inicio ominoso",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/dnu4b8i36fQNzWEEAiuubwNa4yl.jpg",
                     "enlaces": [
@@ -3677,7 +3630,6 @@
                 },
                 {
                     "episode_id": "S04E10",
-                    "episode_number": 10,
                     "nombre": "Amor inenarrable",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/bTBXjugnBi2JDJ878Lbm1Zgjktn.jpg",
                     "enlaces": [
@@ -3755,7 +3707,6 @@
                 },
                 {
                     "episode_id": "S04E11",
-                    "episode_number": 11,
                     "nombre": "Nexo",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/yiARNbRGEyRZw1x3zSRNTvqsEIP.jpg",
                     "enlaces": [
@@ -3833,7 +3784,6 @@
                 },
                 {
                     "episode_id": "S04E12",
-                    "episode_number": 12,
                     "nombre": "En el confín de la venganza",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/pgqP2q5wpsWelYPTpFo1cUgfxQc.jpg",
                     "enlaces": [
@@ -3911,7 +3861,6 @@
                 },
                 {
                     "episode_id": "S04E13",
-                    "episode_number": 13,
                     "nombre": "Oculto entre la lluvia",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/to13ELuiblIykpL4GQbRdpS0FmX.jpg",
                     "enlaces": [
@@ -3989,7 +3938,6 @@
                 },
                 {
                     "episode_id": "S04E14",
-                    "episode_number": 14,
                     "nombre": "Prodigio independiente",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/wOP8R0JwnsngyP55cyxoLPgLM83.jpg",
                     "enlaces": [
@@ -4067,7 +4015,6 @@
                 },
                 {
                     "episode_id": "S04E15",
-                    "episode_number": 15,
                     "nombre": "Fuerza y voluntad",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/v1TYMbjrPsOoq6BiqdVKaPjv4Ah.jpg",
                     "enlaces": [
@@ -4145,7 +4092,6 @@
                 },
                 {
                     "episode_id": "S04E16",
-                    "episode_number": 16,
                     "nombre": "Por el futuro deseado",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/bAJaxCy2WB1u9UNbJxEvNSGURJa.jpg",
                     "enlaces": [
@@ -4226,5 +4172,6 @@
     ],
     "added_date": "2026-06-27 08:30:17",
     "created_at": "2026-06-27 08:30:17",
-    "updated_at": "2026-08-18 23:06:35"
+    "updated_at": "2026-08-18 23:08:05",
+    "update_states": "No actualizado"
 }
