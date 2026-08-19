@@ -3,19 +3,20 @@
     "tmdb_id": "84958",
     "titulo": "Loki",
     "original_name": "Loki",
-    "imagen": "\/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg",
-    "backdrop_path": "\/q3jHCb4dMfYF6ojikKuHd6LscxC.jpg",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg",
+    "backdrop_path": "https:\/\/image.tmdb.org\/t\/p\/w780\/N1hWzVPpZ8lIQvQskgdQogxdsc.jpg",
     "type": "serie",
     "year": "2021",
     "etiquetas": [
         "Drama",
-        "Sci-Fi & Fantasy"
+        "Ciencia ficción",
+        "Fantasía"
     ],
     "temporadas_count": 2,
-    "episodios": 14,
+    "episodios": 12,
     "status": "Ended",
     "rate": 8.199999999999999289457264239899814128875732421875,
-    "sinopsis": "Loki es llevado ante la misteriosa organización llamada AVT (Autoridad de Variación Temporal) después de los acontecimientos  ocurridos en  \"Avengers: Endgame (2019)\" y  se le da a elegir  enfrentarse a ser borrado de la existencia debido a que es una \"variante de tiempo\" o ayudar a arreglar la línea de tiempo y detener una amenaza mayor.",
+    "sinopsis": "Loki es llevado ante la misteriosa organización llamada AVT (Autoridad de Variación Temporal) después de los acontecimientos ocurridos en \"Avengers: Endgame (2019)\" y se le da a elegir enfrentarse a ser borrado de la existencia debido a que es una \"variante de tiempo\" o ayudar a arreglar la línea de tiempo y detener una amenaza mayor.",
     "cast": [],
     "first_air_date": "2021-06-09",
     "last_air_date": "2023-11-09",
@@ -27,84 +28,303 @@
             "capitulos": [
                 {
                     "episode_id": "S01E01",
-                    "nombre": "Glorioso propósito",
-                    "portada": "\/gxh0k3aADsYkt9tgkfm2kGn2qQj.jpg",
+                    "episode_number": 1,
+                    "nombre": "Loki 1x1",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/gxh0k3aADsYkt9tgkfm2kGn2qQj.jpg",
                     "enlaces": [
                         {
-                            "nombre": "",
+                            "nombre": "Playmogo",
                             "url": "https:\/\/playmogo.com\/e\/p2sfycdvtce4",
                             "type": "streaming",
                             "language": "Latino",
                             "quality": "1080p"
                         },
                         {
-                            "nombre": "",
+                            "nombre": "Playmogo",
                             "url": "https:\/\/playmogo.com\/d\/p2sfycdvtce4",
                             "type": "descarga",
                             "language": "Latino",
                             "quality": "1080p"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/xlcb974yssx0",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/oef7d27o2b0p",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/2mdcqlx7mvid",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/vvp2l6i5vy8k",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/xlcb974yssx0",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E02",
-                    "nombre": "La Variante",
-                    "portada": "\/gqpcfkdmSsm6xiX2EsLkwUvA8g8.jpg",
+                    "episode_number": 2,
+                    "nombre": "Loki 1x2",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/gqpcfkdmSsm6xiX2EsLkwUvA8g8.jpg",
                     "enlaces": [
                         {
-                            "nombre": "",
+                            "nombre": "Playmogo",
                             "url": "https:\/\/playmogo.com\/e\/4cdmka2hc2ua",
                             "type": "streaming",
                             "language": "Latino",
                             "quality": "1080p"
                         },
                         {
-                            "nombre": "",
+                            "nombre": "Playmogo",
                             "url": "https:\/\/playmogo.com\/d\/4cdmka2hc2ua",
                             "type": "descarga",
                             "language": "Latino",
                             "quality": "1080p"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/y9urwy1uwl4j",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/2vez5wsrkduf",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/o3aoo7yeibs1",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/nb6y05det5lo",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/y9urwy1uwl4j",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E03",
-                    "nombre": "Lamentis",
-                    "portada": "\/aTjfWml9Prd8cUB9cfk8yOAEh7v.jpg",
+                    "episode_number": 3,
+                    "nombre": "Loki 1x3",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/aTjfWml9Prd8cUB9cfk8yOAEh7v.jpg",
                     "enlaces": [
                         {
-                            "nombre": "",
+                            "nombre": "Playmogo",
                             "url": "https:\/\/playmogo.com\/e\/krxjzfg7rbo4",
                             "type": "streaming",
                             "language": "Latino",
                             "quality": "1080p"
                         },
                         {
-                            "nombre": "",
+                            "nombre": "Playmogo",
                             "url": "https:\/\/playmogo.com\/d\/krxjzfg7rbo4",
                             "type": "descarga",
                             "language": "Latino",
                             "quality": "1080p"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/rc8kxbx35r0m",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/5z1jrk7ad2ur",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/basmnidl9s1k",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/6n8q0yrm04x9",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/rc8kxbx35r0m",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E04",
-                    "nombre": "El evento en el nexo",
-                    "portada": "\/niIXLqEr98mnQuYuMuEvq9Y6OQa.jpg",
-                    "enlaces": []
+                    "episode_number": 4,
+                    "nombre": "Loki 1x4",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/niIXLqEr98mnQuYuMuEvq9Y6OQa.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ioahum6ukqyb",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/cpcwjcvm9w0w",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/mrmaowzlh6ab",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/y67zeiomvzd2",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/ioahum6ukqyb",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "S01E05",
-                    "nombre": "Viaje al misterio",
-                    "portada": "\/5fRAAO13URmteku8mb39V9YPJBb.jpg",
-                    "enlaces": []
+                    "episode_number": 5,
+                    "nombre": "Loki 1x5",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/5fRAAO13URmteku8mb39V9YPJBb.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/dydqics4xv6l",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/w7x22aklu94k",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/hewzdgofd8bc",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/grpdvwhc9ci3",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/dydqics4xv6l",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "S01E06",
-                    "nombre": "Eternamente. Siempre.",
-                    "portada": "\/98hGgYbNFP8GnZhJzAar22bWIAT.jpg",
-                    "enlaces": []
+                    "episode_number": 6,
+                    "nombre": "Loki 1x6",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/98hGgYbNFP8GnZhJzAar22bWIAT.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/zll6ms2ha40m",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/ymlid5m6q6n3",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/e8no5dk42qit",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/5g9bzs4i2cey",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/zll6ms2ha40m",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
                 }
             ]
         },
@@ -154,5 +374,5 @@
     ],
     "added_date": "2026-06-11 02:26:47",
     "created_at": "2026-06-11 02:26:47",
-    "updated_at": "2026-06-12 07:23:24"
+    "updated_at": "2026-08-18 22:42:47"
 }
