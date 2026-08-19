@@ -1,0 +1,151 @@
+{
+    "id": "1787163567417",
+    "tmdb_id": "222623",
+    "titulo": "The Elusive Samurai",
+    "original_name": "逃げ上手の若君",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/original\/3ff9ZIZJmBr9rhMkdTgeewH6v0e.jpg",
+    "backdrop_path": "https:\/\/image.tmdb.org\/t\/p\/original\/cN8u7s6vaQezheTy2mGOzEmF7Hg.jpg",
+    "type": "serie",
+    "year": "2024",
+    "etiquetas": [
+        "Animación",
+        "Acción",
+        "Aventura"
+    ],
+    "temporadas_count": 1,
+    "episodios": 5,
+    "status": "Returning Series",
+    "rate": 7.79999999999999982236431605997495353221893310546875,
+    "sinopsis": "Año 1333, el shogunato de Kamakura se desmorona. Ashikaga Takauji, uno de los vasallos de confianza del shogunato, lo traiciona y organiza una rebelión. Hojo Tokiyuki, heredero legítimo, logra huir de la masacre junto a un sacerdote sintoista llamado Suwa Yorisige y llega hasta Kamakura. Tokiyuki, convertido en fugitivo para poder seguir con vida, pone en marcha un plan para recuperar lo que le corresponde por derecho.",
+    "cast": [],
+    "first_air_date": "2024-07-06",
+    "last_air_date": "2026-08-14",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/8T3QsGzRvvAPUUw9Z1UjLNCQZlH.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "The Elusive Samurai 1x1",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/1vTJfbpOeIQC0sXcam334vSfzNF.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/zc3qyuh0c7pj",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/2dr781gvwjaa",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/zc3qyuh0c7pj",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "The Elusive Samurai 1x2",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/tjtW3JNQeP7rywJVUvuZdrkY31M.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/nr9cnh0n6fte",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/5hoh1a6v18ji",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/nr9cnh0n6fte",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "The Elusive Samurai 1x3",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/2ycJOneFjUE98iHwgrv1B4MsbV0.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/b5yoigjh1hhn",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/b5yoigjh1hhn",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "The Elusive Samurai 1x4",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/62cyh6SWOt8MW3mfKDIrW83UTvG.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/qzrzm6zqb4l2",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/m4pl5vzcep4v",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/qzrzm6zqb4l2",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "The Elusive Samurai 1x5",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/7ccuUd7OKPqFhPq2B2D4HP8RGWz.jpg",
+                    "enlaces": []
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-08-19 14:19:27",
+    "created_at": "2026-08-19 14:19:27",
+    "updated_at": "2026-08-19 14:19:27"
+}
