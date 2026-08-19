@@ -1,0 +1,169 @@
+{
+    "id": "1787103329836",
+    "tmdb_id": "1226863",
+    "titulo": "Super Mario Galaxy: La película",
+    "original_name": "The Super Mario Galaxy Movie",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/4Js0gYWxuvTN6b8iAaSF1cSQzBs.jpg",
+    "backdrop_path": "https:\/\/image.tmdb.org\/t\/p\/w780\/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+    "type": "movie",
+    "year": "2026",
+    "etiquetas": [
+        "Familia",
+        "Comedia",
+        "Aventura",
+        "Fantasía",
+        "Animación"
+    ],
+    "calidad": [
+        "HD"
+    ],
+    "rate": 8.199999999999999289457264239899814128875732421875,
+    "sinopsis": "Mario y Luigi se enfrentan una nueva amenaza: Bowser Jr., quién está decidido liberar a su padre del cautiverio y restaurar el legado familiar. Junto con nuevos y viejos compañeros, los hermanos viajan a través de las estrellas para detener la cruzada del joven heredero.",
+    "cast": [
+        {
+            "name": "Chris Pratt",
+            "character": "Mario (voice)",
+            "profile_path": "\/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
+        },
+        {
+            "name": "Charlie Day",
+            "character": "Luigi (voice)",
+            "profile_path": "\/c0HNhjChGybnHa4eoLyqO4dDu1j.jpg"
+        },
+        {
+            "name": "Anya Taylor-Joy",
+            "character": "Princess Peach (voice)",
+            "profile_path": "\/qYNofOjlRke2MlJVihmJmEdQI4v.jpg"
+        },
+        {
+            "name": "Jack Black",
+            "character": "Bowser (voice)",
+            "profile_path": "\/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg"
+        },
+        {
+            "name": "Keegan-Michael Key",
+            "character": "Toad (voice)",
+            "profile_path": "\/xmdzYXP9j87a43FSiL138nLesuS.jpg"
+        },
+        {
+            "name": "Donald Glover",
+            "character": "Yoshi (voice)",
+            "profile_path": "\/jqVkQfeeEmdga1G0jpBwwXXwwSK.jpg"
+        },
+        {
+            "name": "Benny Safdie",
+            "character": "Bowser Junior (voice)",
+            "profile_path": "\/u10A5DpUYRB1zMF7YoGYcyvhois.jpg"
+        },
+        {
+            "name": "Brie Larson",
+            "character": "Rosalina (voice)",
+            "profile_path": "\/iqZ5uKJWbwSITCK4CqdlUHZTnXD.jpg"
+        },
+        {
+            "name": "Glen Powell",
+            "character": "Fox McCloud (voice)",
+            "profile_path": "\/fUnIaJkdgvQTztyR1nLeUceSzly.jpg"
+        },
+        {
+            "name": "Luis Guzmán",
+            "character": "Wart (voice)",
+            "profile_path": "\/kSdxUckOJj9R5VKrLUnRy14YhNV.jpg"
+        },
+        {
+            "name": "Issa Rae",
+            "character": "Honey Queen (voice)",
+            "profile_path": "\/uFjimuDgBv8kckApr19t8DykxPH.jpg"
+        },
+        {
+            "name": "Kevin Michael Richardson",
+            "character": "Kamek (voice)",
+            "profile_path": "\/xXt9Nh7RAT5bOen66TaXreNYmCl.jpg"
+        },
+        {
+            "name": "Juliet Jelenic",
+            "character": "Lumalee (voice)",
+            "profile_path": ""
+        },
+        {
+            "name": "Ed Skudder",
+            "character": "R.O.B. (voice)",
+            "profile_path": ""
+        },
+        {
+            "name": "Roxana Ortega",
+            "character": "Ukiki (voice)",
+            "profile_path": "\/tAkMeufq6ruljugyHhjvtIe72H4.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 98,
+    "enlaces": [
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/z8u26emm0wb1",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/s77vjnrci9p2",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/coqr0iz0kweh",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/06jd08e9vfl5",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/eqia2igmpyir",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/9rc8acsbzqt3",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/d\/z8u26emm0wb1",
+            "type": "descarga",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/d\/coqr0iz0kweh",
+            "type": "descarga",
+            "language": "Castellano",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/d\/eqia2igmpyir",
+            "type": "descarga",
+            "language": "Sub",
+            "quality": "HD"
+        }
+    ],
+    "added_date": "2026-08-18 21:35:29",
+    "created_at": "2026-08-18 21:35:29",
+    "updated_at": "2026-08-18 21:35:29"
+}
