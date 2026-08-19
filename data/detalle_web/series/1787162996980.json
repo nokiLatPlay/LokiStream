@@ -1,0 +1,727 @@
+{
+    "id": "1787162996980",
+    "tmdb_id": "290856",
+    "titulo": "Marshals: Una historia de Yellowstone",
+    "original_name": "Marshals",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/original\/dlQIl9xzWcSb3d0Sn56x1bFbOJw.jpg",
+    "backdrop_path": "https:\/\/image.tmdb.org\/t\/p\/original\/ihT4s15wPjqXLblKlE6cwBhJVz4.jpg",
+    "type": "serie",
+    "year": "2026",
+    "etiquetas": [
+        "Drama",
+        "Crimen",
+        "Acción",
+        "Aventura"
+    ],
+    "temporadas_count": 1,
+    "episodios": 13,
+    "status": "Returning Series",
+    "rate": 7.9000000000000003552713678800500929355621337890625,
+    "sinopsis": "Tras abandonar el rancho Yellowstone, Kayce Dutton se une a los Marshals Federales. Usa su habilidad como vaquero y agente SEAL para llevar justicia a Montana. Los Marshals son la última línea de defensa en la guerra contra la violencia regional.",
+    "cast": [
+        {
+            "name": "Luke Grimes",
+            "character": "Kayce Dutton",
+            "profile_path": "\/c547Xiwf9feeDbGfQchfJCkC111.jpg"
+        },
+        {
+            "name": "Logan Marshall-Green",
+            "character": "Pete Calvin",
+            "profile_path": "\/vOV76X3Dd8LsBxrTLdHybFLU8w8.jpg"
+        },
+        {
+            "name": "Arielle Kebbel",
+            "character": "Belle Skinner",
+            "profile_path": "\/eFN9TTOFk4COQQsDSufChNd7GfP.jpg"
+        },
+        {
+            "name": "Ash Santos",
+            "character": "Andrea Cruz",
+            "profile_path": "\/uT0GGLGN2mAZcc0dlVrtP7cpy6t.jpg"
+        },
+        {
+            "name": "Tatanka Means",
+            "character": "Miles Kittle",
+            "profile_path": "\/Aq7VrwQeUeDNn0y74m7bxDBOAGj.jpg"
+        },
+        {
+            "name": "Brecken Merrill",
+            "character": "Tate Dutton",
+            "profile_path": "\/j2cJIrlfMSVWCq491ZMnguhGjXP.jpg"
+        },
+        {
+            "name": "Mo Brings Plenty",
+            "character": "Mo",
+            "profile_path": "\/2CxofuWPRZf3G0kYJytblYiHXIy.jpg"
+        },
+        {
+            "name": "Gil Birmingham",
+            "character": "Thomas Rainwater",
+            "profile_path": "\/bWYOwtq0zUgpbEhTyiJHo2TmVju.jpg"
+        }
+    ],
+    "first_air_date": "2026-03-01",
+    "last_air_date": "2026-05-24",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/fXcLx5yaFNo5vMDBREZ2L83dfyd.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Marshals: Una historia de Yellowstone 1x1",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/zHfWl4xfc4l7ZM8pxjmEQm53I31.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/8p9ptd51mp5f",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/6b8v50jzdp76",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/wau3co99yadt",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/zc14iwzcirmk",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/8p9ptd51mp5f",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/wau3co99yadt",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Marshals: Una historia de Yellowstone 1x2",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/r1GLaDUe0pUYOTGZwJbtPU3o5pD.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/8qhlbhmrwjd9",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/3asmxbi42bbk",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/4smrfpym3ruj",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/5i6d0z2c9zx0",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/8qhlbhmrwjd9",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/4smrfpym3ruj",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Marshals: Una historia de Yellowstone 1x3",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/r1oUWBp9C19nBVOVAmx40e8x3Ud.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/s36lv6lig7sy",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/z2h13s9hf38d",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/pswdwpw5keiu",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/mkgh8lt336t6",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/s36lv6lig7sy",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/pswdwpw5keiu",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "Marshals: Una historia de Yellowstone 1x4",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/rzHsW0sJpDwTNjlyopZJf1fW1AQ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/wpx1b68vcdvd",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/u063jhxcpw0n",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/82xb0f4b370h",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/oh10bcmh0wei",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/wpx1b68vcdvd",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/82xb0f4b370h",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "Marshals: Una historia de Yellowstone 1x5",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/p0E6kLpclxjr02lO4Vvb2TptDvc.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/j22ktzw71r0f",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/x2junmtpzdhb",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/zl18d2ey4fpl",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/h1injiormmb4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/j22ktzw71r0f",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/zl18d2ey4fpl",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Marshals: Una historia de Yellowstone 1x6",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/iPjkJYLASNerXgLXwqOB5xoAy4y.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/muqch61rrnlu",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/99gktbsl69i5",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/jywiwwmnhlje",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/eopx5qgze252",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/muqch61rrnlu",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/jywiwwmnhlje",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "Marshals: Una historia de Yellowstone 1x7",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/5EjKBI1GKMGRWe5muZVy6TlwQTE.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/lfo8l3r4owe9",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/q8lp7v9uiskj",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/tzxfb23nooti",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/e1nbx6jappki",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/lfo8l3r4owe9",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/tzxfb23nooti",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "Marshals: Una historia de Yellowstone 1x8",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/AnwY7IBZYIlBuzn5sQD21IjD226.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/gyr8hl1mja3m",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/pectnsvqc2pg",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/mej4pm2wd7sk",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/ci2zrt31cb97",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/gyr8hl1mja3m",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/mej4pm2wd7sk",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E09",
+                    "episode_number": 9,
+                    "nombre": "Marshals: Una historia de Yellowstone 1x9",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/2ymRyR7S3mNFMO3EGWME91vzpy1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/fg94wnd67rfd",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/tn1q3i9muawl",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ngmvhbjsbv4r",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/4zzl3v8re0bt",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/fg94wnd67rfd",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/ngmvhbjsbv4r",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E10",
+                    "episode_number": 10,
+                    "nombre": "Marshals: Una historia de Yellowstone 1x10",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/2shS56LHbSBB0X5FhB8yhAdrKFL.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/1fn014gvmd9m",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/lw30kbx8lefw",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/5zjv62vk6e4o",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/xp032x5qfbpp",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/1fn014gvmd9m",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/5zjv62vk6e4o",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E11",
+                    "episode_number": 11,
+                    "nombre": "Marshals: Una historia de Yellowstone 1x11",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/jUXz9Y0ENf3hcmdK82QtirE4V1e.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/jqlc4a3jen5i",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/pfzap471txmo",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/88610b6arqsd",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/3ntwe9h4jh15",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/jqlc4a3jen5i",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/88610b6arqsd",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E12",
+                    "episode_number": 12,
+                    "nombre": "Marshals: Una historia de Yellowstone 1x12",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/vSwrwadzKRVFj9Oy9LWHbKWtOzI.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/b67xq15el9xv",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/vqny1vltbbdq",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/1loy8sb71hze",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/brwx715ch3hp",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/b67xq15el9xv",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/1loy8sb71hze",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E13",
+                    "episode_number": 13,
+                    "nombre": "Marshals: Una historia de Yellowstone 1x13",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/afQtT4eDN6TgeX7iJhAIFBEDr83.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/68fxocnds5wr",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/ulfax9bxn9so",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/v5rgyz2ru4ks",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/ocg7a1xcqiv3",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/68fxocnds5wr",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/v5rgyz2ru4ks",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-08-19 14:09:56",
+    "created_at": "2026-08-19 14:09:56",
+    "updated_at": "2026-08-19 14:09:56"
+}
