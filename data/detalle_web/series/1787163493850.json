@@ -1,0 +1,375 @@
+{
+    "id": "1787163493850",
+    "tmdb_id": "292533",
+    "titulo": "Furioso",
+    "original_name": "Fúria",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/original\/up9kAhzfN3wtnFi1D8AloWeHGDo.jpg",
+    "backdrop_path": "https:\/\/image.tmdb.org\/t\/p\/original\/kZ77s94jLBliHXDXXPegi6ZbbtN.jpg",
+    "type": "serie",
+    "year": "2026",
+    "etiquetas": [
+        "Crimen",
+        "Drama"
+    ],
+    "temporadas_count": 1,
+    "episodios": 6,
+    "status": "Ended",
+    "rate": 8.0999999999999996447286321199499070644378662109375,
+    "sinopsis": "Herido y con amnesia, un hombre halla refugio con un entrenador de artes marciales mixtas y sube al cuadrilátero, dividido entre un futuro esperanzador y un pasado que lo acecha.",
+    "cast": [
+        {
+            "name": "Vinícius Neri",
+            "character": "Marcelo Lázaro",
+            "profile_path": "\/vrvK5eWfHj6nDcaMRi1Oitt2E6f.jpg"
+        },
+        {
+            "name": "Fábio Lago",
+            "character": "Toni Trindade",
+            "profile_path": "\/aD0gCVtKmN1veh0aauvNyJhZ3WP.jpg"
+        },
+        {
+            "name": "Alice Carvalho",
+            "character": "Gabriela Trinidade",
+            "profile_path": "\/xj2BDbWC0ECOlT3tBaIG0su74Ea.jpg"
+        },
+        {
+            "name": "MC Cabelinho",
+            "character": "Júnior Malamute",
+            "profile_path": "\/byy8YwrFhCkqzkwWxvVq0yw2tDz.jpg"
+        },
+        {
+            "name": "Bianca Comparato",
+            "character": "Yana Novaes",
+            "profile_path": "\/sDYX8F5TInMRmqdyECO9xyt3Ir1.jpg"
+        },
+        {
+            "name": "Babu Santana",
+            "character": "Britadeira",
+            "profile_path": "\/uEOL1Q3pNMZmzYF3nJcIcgeGAtV.jpg"
+        },
+        {
+            "name": "Eduardo Moscovis",
+            "character": "",
+            "profile_path": "\/vRIEz0KKxwO63ULtKhDkPWji9wU.jpg"
+        },
+        {
+            "name": "Cláudia Raia",
+            "character": "Dienifer",
+            "profile_path": "\/8CtXg9ZbsggMCMIFTyn02wsQYE4.jpg"
+        }
+    ],
+    "first_air_date": "2026-07-29",
+    "last_air_date": "2026-07-29",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/p6hygGauFta3QRyNvCYr7W672A7.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Furioso 1x1",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/dDUFv6fPfkjBEp7NTxMFAymlYoj.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/8edbb96zvhm1",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/a773fd2cfla7",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/vzv1q5f8zu0f",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/p0gmxqkv5gis",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/8edbb96zvhm1",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/vzv1q5f8zu0f",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Furioso 1x2",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/9bBaLfWWiCeIZEEmN45VK19oX6X.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/6mdp9kp7gs0u",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/qvlrg4plfzv2",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/qspegbjc721k",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/ogqqvjfv25f2",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/6mdp9kp7gs0u",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/qspegbjc721k",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Furioso 1x3",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/i7beJl2oHM1THn3nqXTO4KyVFgg.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/2fx3jpoenznd",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/omlqv0yx73gm",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/j4dsdchdhkww",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/1r8hfrc29xg7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/2fx3jpoenznd",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/j4dsdchdhkww",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "Furioso 1x4",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/w9O5tQ0uYbuNMFxZ8whtdO6tl9a.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/rzjloe19styh",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/io6ieruo30qg",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/u4v16vl8n5zs",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/xyrihv0ia3dg",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/rzjloe19styh",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/u4v16vl8n5zs",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "Furioso 1x5",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/yoZsmjq0MbIrKD0Tg2YUAHP9G1e.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ihqiqopxez1r",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/zkn8u1vgp3sx",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ambirrnc0vrw",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/ivg9lze65hnp",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/ihqiqopxez1r",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/ambirrnc0vrw",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Furioso 1x6",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/irHOhtS0o0kaPi6SH5ncA43Fskp.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ojzoe7q4j5ba",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/98i7vmwvmete",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/oa3b7a86rkce",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/jxj50tnbpads",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/ojzoe7q4j5ba",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/oa3b7a86rkce",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-08-19 14:18:13",
+    "created_at": "2026-08-19 14:18:13",
+    "updated_at": "2026-08-19 14:18:13"
+}
