@@ -5,7 +5,7 @@
     "original_name": "逃げ上手の若君",
     "imagen": "https:\/\/image.tmdb.org\/t\/p\/original\/3ff9ZIZJmBr9rhMkdTgeewH6v0e.jpg",
     "backdrop_path": "https:\/\/image.tmdb.org\/t\/p\/original\/cN8u7s6vaQezheTy2mGOzEmF7Hg.jpg",
-    "type": "serie",
+    "type": "anime",
     "year": "2024",
     "etiquetas": [
         "Animación",
@@ -28,7 +28,6 @@
             "capitulos": [
                 {
                     "episode_id": "S01E01",
-                    "episode_number": 1,
                     "nombre": "The Elusive Samurai 1x1",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/1vTJfbpOeIQC0sXcam334vSfzNF.jpg",
                     "enlaces": [
@@ -37,27 +36,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/zc3qyuh0c7pj",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Vidhide",
                             "url": "https:\/\/callistanise.com\/v\/2dr781gvwjaa",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish",
                             "url": "https:\/\/hglamioz.com\/d\/zc3qyuh0c7pj",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E02",
-                    "episode_number": 2,
                     "nombre": "The Elusive Samurai 1x2",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/tjtW3JNQeP7rywJVUvuZdrkY31M.jpg",
                     "enlaces": [
@@ -66,27 +64,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/nr9cnh0n6fte",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Vidhide",
                             "url": "https:\/\/callistanise.com\/v\/5hoh1a6v18ji",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish",
                             "url": "https:\/\/hglamioz.com\/d\/nr9cnh0n6fte",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E03",
-                    "episode_number": 3,
                     "nombre": "The Elusive Samurai 1x3",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/2ycJOneFjUE98iHwgrv1B4MsbV0.jpg",
                     "enlaces": [
@@ -95,20 +92,19 @@
                             "url": "https:\/\/hglamioz.com\/e\/b5yoigjh1hhn",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish",
                             "url": "https:\/\/hglamioz.com\/d\/b5yoigjh1hhn",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E04",
-                    "episode_number": 4,
                     "nombre": "The Elusive Samurai 1x4",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/62cyh6SWOt8MW3mfKDIrW83UTvG.jpg",
                     "enlaces": [
@@ -117,27 +113,26 @@
                             "url": "https:\/\/hglamioz.com\/e\/qzrzm6zqb4l2",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Vidhide",
                             "url": "https:\/\/callistanise.com\/v\/m4pl5vzcep4v",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish",
                             "url": "https:\/\/hglamioz.com\/d\/qzrzm6zqb4l2",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E05",
-                    "episode_number": 5,
                     "nombre": "The Elusive Samurai 1x5",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/7ccuUd7OKPqFhPq2B2D4HP8RGWz.jpg",
                     "enlaces": []
@@ -147,5 +142,6 @@
     ],
     "added_date": "2026-08-19 14:19:27",
     "created_at": "2026-08-19 14:19:27",
-    "updated_at": "2026-08-19 14:19:27"
+    "updated_at": "2026-08-19 14:25:30",
+    "update_states": "No actualizado"
 }
