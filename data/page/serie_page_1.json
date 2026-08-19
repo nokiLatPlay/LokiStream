@@ -1,5 +1,27 @@
 [
     {
+        "id": "1781164307",
+        "tmdb_id": "113808",
+        "titulo": "Seirei Gensouki",
+        "imagen": "https://image.tmdb.org/t/p/w342/tQiBVUCe0haI982Q1E8NwTn5Bek.jpg",
+        "type": "anime",
+        "year": "2021",
+        "etiquetas": [
+            "Animación",
+            "Drama",
+            "Action & Adventure",
+            "Sci-Fi & Fantasy"
+        ],
+        "rate": 8.199999999999999289457264239899814128875732421875,
+        "added_date": "2026-06-11 03:51:47",
+        "created_at": "2026-06-11 03:51:47",
+        "updated_at": "2026-08-18 22:01:54",
+        "update_states": "No actualizado",
+        "temporadas": 2,
+        "episodios": 24,
+        "status": "Ended"
+    },
+    {
         "id": "1787096173574",
         "tmdb_id": "82684",
         "titulo": "That Time I Got Reincarnated as a Slime",
@@ -131,28 +153,6 @@
         "temporadas": 1,
         "episodios": 8,
         "status": "Returning Series"
-    },
-    {
-        "id": "1781164307",
-        "tmdb_id": "113808",
-        "titulo": "Seirei Gensouki",
-        "imagen": "/zq07L28laGQpTRhaEDkb2deoSbf.jpg",
-        "type": "anime",
-        "year": "2021",
-        "etiquetas": [
-            "Animación",
-            "Drama",
-            "Action & Adventure",
-            "Sci-Fi & Fantasy"
-        ],
-        "temporadas": 2,
-        "episodios": 24,
-        "status": "Ended",
-        "rate": 8,
-        "added_date": "2026-06-11 03:51:47",
-        "created_at": "2026-06-11 03:51:47",
-        "updated_at": "2026-08-13 14:21:16",
-        "update_states": "No actualizado"
     },
     {
         "id": "1781345169",
