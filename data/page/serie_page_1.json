@@ -1,5 +1,25 @@
 [
     {
+        "id": "1787167989540",
+        "tmdb_id": "284029",
+        "titulo": "Neko to Ryuu",
+        "imagen": "https://image.tmdb.org/t/p/w342/dhoCxAW431DQBA3u9f6mwJJfAbb.jpg",
+        "type": "anime",
+        "year": "2026",
+        "etiquetas": [
+            "Animación",
+            "Sci-Fi & Fantasy"
+        ],
+        "rate": 8.9000000000000003552713678800500929355621337890625,
+        "added_date": "2026-08-19 15:33:09",
+        "created_at": "2026-08-19 15:33:09",
+        "updated_at": "2026-08-19 15:33:10",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 8,
+        "status": "Returning Series"
+    },
+    {
         "id": "1787165949513",
         "tmdb_id": "309974",
         "titulo": "Un Amor Invisible bajo el Cielo Nocturno",
