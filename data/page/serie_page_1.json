@@ -1,5 +1,25 @@
 [
     {
+        "id": "1786835287592",
+        "tmdb_id": "316205",
+        "titulo": "El rostro de la venganza",
+        "imagen": "https://image.tmdb.org/t/p/w342/pN4PB0dU9rzJkuwk3RNuGg2dnjm.jpg",
+        "type": "dorama",
+        "year": "2026",
+        "etiquetas": [
+            "Drama",
+            "Misterio"
+        ],
+        "temporadas": 1,
+        "episodios": 6,
+        "status": "Returning Series",
+        "rate": 8.5,
+        "added_date": "2026-08-15 19:08:07",
+        "created_at": "2026-08-15 19:08:07",
+        "updated_at": "2026-08-18 23:28:31",
+        "update_states": "No actualizado"
+    },
+    {
         "id": "1786834591734",
         "tmdb_id": "95557",
         "titulo": "INVENCIBLE",
@@ -237,25 +257,5 @@
         "temporadas": 1,
         "episodios": 12,
         "status": "Ended"
-    },
-    {
-        "id": "1786835287592",
-        "tmdb_id": "316205",
-        "titulo": "Deep Revenge",
-        "imagen": "https://image.tmdb.org/t/p/w342/pN4PB0dU9rzJkuwk3RNuGg2dnjm.jpg",
-        "type": "dorama",
-        "year": "2026",
-        "etiquetas": [
-            "Drama",
-            "Misterio"
-        ],
-        "rate": 8.5,
-        "added_date": "2026-08-15 19:08:07",
-        "created_at": "2026-08-15 19:08:07",
-        "updated_at": "2026-08-15 19:08:08",
-        "update_states": "No actualizado",
-        "temporadas": 1,
-        "episodios": 6,
-        "status": "Returning Series"
     }
 ]
