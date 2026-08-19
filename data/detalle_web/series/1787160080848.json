@@ -1,0 +1,608 @@
+{
+    "id": "1787160080848",
+    "tmdb_id": "126027",
+    "titulo": "Fantasmas",
+    "original_name": "Ghosts",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/original\/kFiJUxYDuFzvnVoWuTcapGgSJ0y.jpg",
+    "backdrop_path": "https:\/\/image.tmdb.org\/t\/p\/original\/3MmRal3Uw3O0TVMvhfM63Z3mPz3.jpg",
+    "type": "serie",
+    "year": "2021",
+    "etiquetas": [
+        "Comedia",
+        "Ciencia ficción",
+        "Fantasía"
+    ],
+    "temporadas_count": 1,
+    "episodios": 18,
+    "status": "Returning Series",
+    "rate": 8,
+    "sinopsis": "Samantha y Jay son un par de citadinos que se mudan a una finca campestre, recién heredada, para convertirla en una posada. pero al llegar descubren que la propiedad no sólo se está cayendo a pedazos, además está habitada por varios residentes anteriores ya fallecidos. Tras un accidente, Samantha descubre que puede ver y oír a los fantasmas.",
+    "cast": [
+        {
+            "name": "Rose McIver",
+            "character": "Samantha Arondekar",
+            "profile_path": "\/7oswXIUIGAZphpZMBhuXoUgOIJi.jpg"
+        },
+        {
+            "name": "Utkarsh Ambudkar",
+            "character": "Jay Arondekar",
+            "profile_path": "\/vUW5bFrkjWikNFzh5B6F11r5C3X.jpg"
+        },
+        {
+            "name": "Brandon Scott Jones",
+            "character": "Isaac Higgintoot",
+            "profile_path": "\/lgw6q8nuBLDet1VUIEbuS5FX9eJ.jpg"
+        },
+        {
+            "name": "Danielle Pinnock",
+            "character": "Alberta Haynes",
+            "profile_path": "\/hFMGpNsziDjtFvrkQ6KCJSiRN4e.jpg"
+        },
+        {
+            "name": "Richie Moriarty",
+            "character": "Pete Martino",
+            "profile_path": "\/cXQMQvEzZwALyfHuHUaq9bHvelY.jpg"
+        },
+        {
+            "name": "Asher Grodman",
+            "character": "Trevor Lefkowitz",
+            "profile_path": "\/vB7oRsWlQ5dIGsh2hdEG3OIdYUh.jpg"
+        },
+        {
+            "name": "Rebecca Wisocky",
+            "character": "Hetty Woodstone",
+            "profile_path": "\/rR3LZIHFs0pQz0wd9zDPdVvd3nv.jpg"
+        },
+        {
+            "name": "Sheila Carrasco",
+            "character": "Flower",
+            "profile_path": "\/a3F6yzxjFKZDssAPOymXwYKjwe8.jpg"
+        },
+        {
+            "name": "Devan Chandler Long",
+            "character": "Thorfinn",
+            "profile_path": "\/qPZeVZqH1z7n5LVKVdzwXbAHe6s.jpg"
+        },
+        {
+            "name": "Román Zaragoza",
+            "character": "Sasappis",
+            "profile_path": "\/uWkOkSLqj2POMqkeLk5E5UJzebv.jpg"
+        }
+    ],
+    "first_air_date": "2021-10-07",
+    "last_air_date": "2026-05-21",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/ghUIvOulICYNBy3pG4mjVOhquWK.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Fantasmas 1x1",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/gfTKbRs5DcVQKcohbvO6xvArzxb.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/8ff0lap3zukz",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/74ue5vz3m9wy",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/8ff0lap3zukz",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Fantasmas 1x2",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/1tanxlI4ch7nnkyEmOmUQySUr4S.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/gykmek4iori9",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/9rjechafzmfl",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/gykmek4iori9",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Fantasmas 1x3",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/9wbhWS1fkdkqkWUVn3ZsDmu2tsb.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/au67opojkf6g",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/4vy9pach3f3m",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/au67opojkf6g",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "Fantasmas 1x4",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/1YJc171aGLUgc2sS1fq1sPQbsPY.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/uiu55l5i8dl6",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/odyp83uilsnh",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/uiu55l5i8dl6",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "Fantasmas 1x5",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/A9CRGxeLjiQI6siajdWGsQinNd7.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/b0e8uau18o3b",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/cvz4rmvov3po",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/b0e8uau18o3b",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Fantasmas 1x6",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/zwF5MWLxyDTaiROELnDVDNPhcCC.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/hvurhgbzzp6s",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/48lrfmlcvqhl",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/hvurhgbzzp6s",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "Fantasmas 1x7",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/ija5kouIih1ug7BhIVCpfvoto6G.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/zqlx5hb9n6uz",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/adxmi2d20l9v",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/zqlx5hb9n6uz",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "Fantasmas 1x8",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/6dkC1Gbtg0tnnFN6m6KS8Ytcbjp.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/5b2zwim50ssg",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/8ybkywomp04b",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/5b2zwim50ssg",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E09",
+                    "episode_number": 9,
+                    "nombre": "Fantasmas 1x9",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/5XgUUqEEQyjdnra8wOipTHJUmhy.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/bxnbjd8k3nex",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/1fas14fa4ewo",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/bxnbjd8k3nex",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E10",
+                    "episode_number": 10,
+                    "nombre": "Fantasmas 1x10",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/9aRpEQmBD7YBkb0UTFQLZp2WAbR.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/lic5ec44bqlv",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/e9ztycib6m4c",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/lic5ec44bqlv",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E11",
+                    "episode_number": 11,
+                    "nombre": "Fantasmas 1x11",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/rnkC0hfphSuwswWDJavWXrLug28.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/io7nkus386zu",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/s3lm7sqhg5lf",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/io7nkus386zu",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E12",
+                    "episode_number": 12,
+                    "nombre": "Fantasmas 1x12",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/6W4s9DfqVNDP69LPNGLRWYX7YUs.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/g9rdbgrdr4bv",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/w1ng785xpgj1",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/g9rdbgrdr4bv",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E13",
+                    "episode_number": 13,
+                    "nombre": "Fantasmas 1x13",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/cmDzugj2MbfQ3ikyaaU7g7lFCWT.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ovcs8a3jkxju",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/4rglhqhreg4l",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/ovcs8a3jkxju",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E14",
+                    "episode_number": 14,
+                    "nombre": "Fantasmas 1x14",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/9RF5chCsJjg3glBVNXGpq3pGTY2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/q24tt1z00xaw",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/qathcjckghtc",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/q24tt1z00xaw",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E15",
+                    "episode_number": 15,
+                    "nombre": "Fantasmas 1x15",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/aV0TL2jGJkkWVdqtr0qqEjeXc7y.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ljtei2pz5zzy",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/h715bo6g2o41",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/ljtei2pz5zzy",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E16",
+                    "episode_number": 16,
+                    "nombre": "Fantasmas 1x16",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/igH5zdTa1w2cqqdHdir19PmYJRz.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/zhjcp8a9j8ds",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/iw0q7wxx4spr",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/zhjcp8a9j8ds",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E17",
+                    "episode_number": 17,
+                    "nombre": "Fantasmas 1x17",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/cLynZUQxjvdZb8PYG6JEM4l10T3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/paueahfjhmyk",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/lyjif9cd9cgd",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/paueahfjhmyk",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E18",
+                    "episode_number": 18,
+                    "nombre": "Fantasmas 1x18",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/aOM118eCGTr16352KiBicBYSYlX.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/lkbl83g6oe86",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/t5djlssvoozu",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/lkbl83g6oe86",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-08-19 13:21:20",
+    "created_at": "2026-08-19 13:21:20",
+    "updated_at": "2026-08-19 13:21:20"
+}
