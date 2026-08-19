@@ -3,7 +3,7 @@
         "id": "1781233964",
         "tmdb_id": "83095",
         "titulo": "The Rising of the Shield Hero",
-        "imagen": "https://image.tmdb.org/t/p/w342/3rRbf4rQufoiZiv4wPFdWeJovhJ.jpg",
+        "imagen": "/2MDqemFjy2gQucBfynjvE3ZxTWC.jpg",
         "type": "anime",
         "year": "2019",
         "etiquetas": [
@@ -12,14 +12,14 @@
             "Sci-Fi & Fantasy",
             "Drama"
         ],
+        "temporadas": 4,
+        "episodios": 63,
+        "status": "Ended",
         "rate": 8.5,
         "added_date": "2026-06-11 23:12:44",
         "created_at": "2026-06-11 23:12:44",
-        "updated_at": "2026-08-18 22:25:09",
-        "update_states": "No actualizado",
-        "temporadas": 5,
-        "episodios": 63,
-        "status": "Returning Series"
+        "updated_at": "2026-08-18 22:30:20",
+        "update_states": "No actualizado"
     },
     {
         "id": "1781164307",
