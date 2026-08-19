@@ -3,8 +3,8 @@
     "tmdb_id": "95557",
     "titulo": "INVENCIBLE",
     "original_name": "INVINCIBLE",
-    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/AdcfiT5FsjUooyP7CrKzEGmP9K1.jpg",
-    "backdrop_path": "https:\/\/image.tmdb.org\/t\/p\/w780\/9qrroces8C6R9aKr08hACNPVXdZ.jpg",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/original\/AdcfiT5FsjUooyP7CrKzEGmP9K1.jpg",
+    "backdrop_path": "https:\/\/image.tmdb.org\/t\/p\/original\/9qrroces8C6R9aKr08hACNPVXdZ.jpg",
     "type": "serie",
     "year": "2021",
     "etiquetas": [
@@ -15,8 +15,8 @@
         "Acción",
         "Aventura"
     ],
-    "temporadas_count": 1,
-    "episodios": 8,
+    "temporadas_count": 2,
+    "episodios": 16,
     "status": "Ended",
     "rate": 8.5999999999999996447286321199499070644378662109375,
     "sinopsis": "Mark Grayson hereda superpoderes a los diecisiete años y se une a su padre como uno de los mayores héroes de la Tierra. Todos sus sueños se hacen realidad, hasta que un evento impactante lo cambia todo.",
@@ -270,10 +270,326 @@
                     ]
                 }
             ]
+        },
+        {
+            "temporada": "Temporada 2",
+            "season_number": 2,
+            "poster_path": "\/sm1e2BnJzrYEv8Xqp76tz7rHIt6.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S02E01",
+                    "episode_number": 1,
+                    "nombre": "INVENCIBLE 2x1",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/7668uz2MvZNnHHxc1X8WnF8Qg71.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/k2l4jpjrqpz8",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/4v7075xgikga",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/j6cguqnmq3wb",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/k2l4jpjrqpz8",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/j6cguqnmq3wb",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E02",
+                    "episode_number": 2,
+                    "nombre": "INVENCIBLE 2x2",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/86LzgXATHHPbJkQKGZWLKXPHQfY.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/alvcl3b5jdbw",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/ty6jkpkwtnqd",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/zxwg2yds6zsr",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/alvcl3b5jdbw",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/zxwg2yds6zsr",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E03",
+                    "episode_number": 3,
+                    "nombre": "INVENCIBLE 2x3",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/hhuAU2n6j5Z5VIQLZh3LjexezRu.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/gwa94sd3zrvf",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/m5pmhc9nwoen",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/8lfqb81g9m8h",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/gwa94sd3zrvf",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/8lfqb81g9m8h",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E04",
+                    "episode_number": 4,
+                    "nombre": "INVENCIBLE 2x4",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/4OVjqdrakEnlEbstrhQVS4YhBVU.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/r5ck20wrzij3",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/z2filf91xajy",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/r5ck20wrzij3",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/z2filf91xajy",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E05",
+                    "episode_number": 5,
+                    "nombre": "INVENCIBLE 2x5",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/7gVrb31GptKLDLR4fzR0Mc3tnJU.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/5yvn1mfbqtcx",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/x46696u9t2fy",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/5yvn1mfbqtcx",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/x46696u9t2fy",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E06",
+                    "episode_number": 6,
+                    "nombre": "INVENCIBLE 2x6",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/5eXJeZqfEKP8kggTEaPA9CGU7cF.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/yykqycrtkegc",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/lywtjvkuemyv",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/yykqycrtkegc",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/lywtjvkuemyv",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E07",
+                    "episode_number": 7,
+                    "nombre": "INVENCIBLE 2x7",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/1mO9XfiKQKEMypiEZ9hmLDzCeK2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/qe8ueus2qlz5",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/bvk07ijuszlo",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/qe8ueus2qlz5",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/bvk07ijuszlo",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E08",
+                    "episode_number": 8,
+                    "nombre": "INVENCIBLE 2x8",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/yasOqypIHTH1ioss7T12LjcIcnG.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/w0bk0ec8wd53",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/a6ciycr94zi6",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/w0bk0ec8wd53",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/a6ciycr94zi6",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                }
+            ]
         }
     ],
     "added_date": "2026-08-15 18:56:31",
     "created_at": "2026-08-15 18:56:31",
-    "updated_at": "2026-08-18 23:09:58",
+    "updated_at": "2026-08-19 10:19:02",
     "update_states": "No actualizado"
 }
