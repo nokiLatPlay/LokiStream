@@ -1,5 +1,29 @@
 [
     {
+        "id": "1786834591734",
+        "tmdb_id": "95557",
+        "titulo": "INVENCIBLE",
+        "imagen": "https://image.tmdb.org/t/p/original/AdcfiT5FsjUooyP7CrKzEGmP9K1.jpg",
+        "type": "serie",
+        "year": "2021",
+        "etiquetas": [
+            "Animación",
+            "Drama",
+            "Ciencia ficción",
+            "Fantasía",
+            "Acción",
+            "Aventura"
+        ],
+        "rate": 8.5999999999999996447286321199499070644378662109375,
+        "added_date": "2026-08-15 18:56:31",
+        "created_at": "2026-08-15 18:56:31",
+        "updated_at": "2026-08-19 10:19:04",
+        "update_states": "No actualizado",
+        "temporadas": 2,
+        "episodios": 16,
+        "status": "Ended"
+    },
+    {
         "id": "1786815812621",
         "tmdb_id": "127532",
         "titulo": "Solo Leveling",
@@ -40,30 +64,6 @@
         "added_date": "2026-08-15 19:08:07",
         "created_at": "2026-08-15 19:08:07",
         "updated_at": "2026-08-18 23:28:31",
-        "update_states": "No actualizado"
-    },
-    {
-        "id": "1786834591734",
-        "tmdb_id": "95557",
-        "titulo": "INVENCIBLE",
-        "imagen": "https://image.tmdb.org/t/p/w342/AdcfiT5FsjUooyP7CrKzEGmP9K1.jpg",
-        "type": "serie",
-        "year": "2021",
-        "etiquetas": [
-            "Animación",
-            "Drama",
-            "Ciencia ficción",
-            "Fantasía",
-            "Acción",
-            "Aventura"
-        ],
-        "temporadas": 1,
-        "episodios": 8,
-        "status": "Ended",
-        "rate": 8.5999999999999996447286321199499070644378662109375,
-        "added_date": "2026-08-15 18:56:31",
-        "created_at": "2026-08-15 18:56:31",
-        "updated_at": "2026-08-18 23:09:59",
         "update_states": "No actualizado"
     },
     {
