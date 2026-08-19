@@ -14,7 +14,7 @@
     ],
     "temporadas_count": 1,
     "episodios": 13,
-    "status": "Returning Series",
+    "status": "Ended",
     "rate": 9.199999999999999289457264239899814128875732421875,
     "sinopsis": "Coco es una niña que vive en un pequeño pueblo y que siempre ha soñado con convertirse en maga. Pero haber nacido sin aptitud mágica significaba que nunca podría convertirse en maga y nunca podría presenciar la chispa de la magia. Renunció a su sueño. Pero un día, un mago viajero llamado Qifrey llegó a su pueblo, y ella tuvo la oportunidad de verlo realizar magia.",
     "cast": [
@@ -54,7 +54,6 @@
             "capitulos": [
                 {
                     "episode_id": "S01E01",
-                    "episode_number": 1,
                     "nombre": "El primer conjuro",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/cac5OY1meq4yOjd9lGIhZRXNKCK.jpg",
                     "enlaces": [
@@ -167,7 +166,6 @@
                 },
                 {
                     "episode_id": "S01E02",
-                    "episode_number": 2,
                     "nombre": "La academia de la pradera",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/1DfUTPsGPgv4gPCf0RQ8MmEDp3s.jpg",
                     "enlaces": [
@@ -259,7 +257,6 @@
                 },
                 {
                     "episode_id": "S01E03",
-                    "episode_number": 3,
                     "nombre": "El examen de los picos de Dada",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/cKULApd20mjn58WEipxSVTUeSYR.jpg",
                     "enlaces": [
@@ -351,7 +348,6 @@
                 },
                 {
                     "episode_id": "S01E04",
-                    "episode_number": 4,
                     "nombre": "Encuentro en Karoon",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/l7To5Oz6fcpGnMS8jyS3HJ8Vsb3.jpg",
                     "enlaces": [
@@ -443,7 +439,6 @@
                 },
                 {
                     "episode_id": "S01E05",
-                    "episode_number": 5,
                     "nombre": "El laberinto del megadragón de escamas",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/8ttC4PNqm8FpzwMJ3vIraRaMtlR.jpg",
                     "enlaces": [
@@ -521,7 +516,6 @@
                 },
                 {
                     "episode_id": "S01E06",
-                    "episode_number": 6,
                     "nombre": "Luz en un día de lluvia",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/wxPLxROGCIM2bJ4BM9pd0DbqhG9.jpg",
                     "enlaces": [
@@ -599,7 +593,6 @@
                 },
                 {
                     "episode_id": "S01E07",
-                    "episode_number": 7,
                     "nombre": "El objetivo de la magia",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/3OQqavOLJDIZF0qbNQs9NKO7Iq9.jpg",
                     "enlaces": [
@@ -677,7 +670,6 @@
                 },
                 {
                     "episode_id": "S01E08",
-                    "episode_number": 8,
                     "nombre": "Las dudas del Consejo de Seguridad",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/mvm2fhcHaZG7wYhy6Uqh7vHHemd.jpg",
                     "enlaces": [
@@ -755,7 +747,6 @@
                 },
                 {
                     "episode_id": "S01E09",
-                    "episode_number": 9,
                     "nombre": "Una pesadilla que conduce a las tinieblas",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/dyLnCaE1yNWXyJRiJFDyEkLPewM.jpg",
                     "enlaces": [
@@ -833,7 +824,6 @@
                 },
                 {
                     "episode_id": "S01E10",
-                    "episode_number": 10,
                     "nombre": "Una promesa de color plateado",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/C7M36VC0CP051TA1xaPgdoEoGx.jpg",
                     "enlaces": [
@@ -897,7 +887,6 @@
                 },
                 {
                     "episode_id": "S01E11",
-                    "episode_number": 11,
                     "nombre": "La prueba de la Gruta del Lomo de la Serpiente",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/8yEB2PYl1Uq1zZbQstqnhWwDvb1.jpg",
                     "enlaces": [
@@ -975,7 +964,6 @@
                 },
                 {
                     "episode_id": "S01E12",
-                    "episode_number": 12,
                     "nombre": "La sombra de Romonoon",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/1RT02SNw5fXmdTfHXUjtyUFqXRd.jpg",
                     "enlaces": [
@@ -1053,7 +1041,6 @@
                 },
                 {
                     "episode_id": "S01E13",
-                    "episode_number": 13,
                     "nombre": "Magia prohibida",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/7kyQxkRLm9AnEPnVL6lTSW4tTdE.jpg",
                     "enlaces": [
@@ -1134,6 +1121,6 @@
     ],
     "added_date": "2026-06-13 06:06:09",
     "created_at": "2026-06-13 06:06:09",
-    "updated_at": "2026-08-18 22:36:20",
+    "updated_at": "2026-08-18 22:44:54",
     "update_states": "No actualizado"
 }
