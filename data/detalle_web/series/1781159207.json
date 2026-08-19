@@ -335,44 +335,266 @@
             "capitulos": [
                 {
                     "episode_id": "S02E01",
-                    "nombre": "Ouroboros",
-                    "portada": "\/aIJvoQAal0TDDIl5plfKfSnAish.jpg",
-                    "enlaces": []
+                    "episode_number": 1,
+                    "nombre": "Loki 2x1",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/aIJvoQAal0TDDIl5plfKfSnAish.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/gpj939h0bilg",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/hbwwwkrwfyjx",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/4rfk412rfw77",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/gpj939h0bilg",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/4rfk412rfw77",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "S02E02",
-                    "nombre": "De Brad en peor",
-                    "portada": "\/cNyNfCWMdLpTXquuGzUvZwhBaVJ.jpg",
-                    "enlaces": []
+                    "episode_number": 2,
+                    "nombre": "Loki 2x2",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/cNyNfCWMdLpTXquuGzUvZwhBaVJ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/evm6h7r7j29z",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/s4r3i8a32kea",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/0jo70hry9owe",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/evm6h7r7j29z",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/0jo70hry9owe",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "S02E03",
-                    "nombre": "1893",
-                    "portada": "\/1LWyxNX7B5TWfJUB6gw3UFPZOF2.jpg",
-                    "enlaces": []
+                    "episode_number": 3,
+                    "nombre": "Loki 2x3",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/1LWyxNX7B5TWfJUB6gw3UFPZOF2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/gebounep08p6",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/b6x75fzsydrm",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/3ryuwrztbj89",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/gebounep08p6",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/3ryuwrztbj89",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "S02E04",
-                    "nombre": "El corazón de la AVT",
-                    "portada": "\/3NUiKf3CEoZtXB4EaBPOHVEPUxR.jpg",
-                    "enlaces": []
+                    "episode_number": 4,
+                    "nombre": "Loki 2x4",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/3NUiKf3CEoZtXB4EaBPOHVEPUxR.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/et5s7ju1veyj",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/nwrfkh82udrr",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/bo6rfj83gfew",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/et5s7ju1veyj",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/bo6rfj83gfew",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "S02E05",
-                    "nombre": "Ciencia \/ Ficción",
-                    "portada": "\/ygWEp4FRGPx5VDpOCcWMQzgqEf7.jpg",
-                    "enlaces": []
+                    "episode_number": 5,
+                    "nombre": "Loki 2x5",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/ygWEp4FRGPx5VDpOCcWMQzgqEf7.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/2u38k6unn9cn",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/jd2413l559c4",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/0h91c69azoyq",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/2u38k6unn9cn",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/0h91c69azoyq",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
                 },
                 {
                     "episode_id": "S02E06",
-                    "nombre": "Glorioso propósito",
-                    "portada": "\/avCnQZPvHbqDLWMqlRNtayG732A.jpg",
-                    "enlaces": []
+                    "episode_number": 6,
+                    "nombre": "Loki 2x6",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/avCnQZPvHbqDLWMqlRNtayG732A.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/otbs3vpbyf2a",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/tkp9xpge1pne",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/yx68oenhh5ke",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/otbs3vpbyf2a",
+                            "type": "descarga",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/d\/yx68oenhh5ke",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
                 }
             ]
         }
     ],
     "added_date": "2026-06-11 02:26:47",
     "created_at": "2026-06-11 02:26:47",
-    "updated_at": "2026-08-18 22:42:47"
+    "updated_at": "2026-08-18 22:47:17"
 }
