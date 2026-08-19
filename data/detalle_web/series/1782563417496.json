@@ -3,7 +3,7 @@
     "tmdb_id": "72517",
     "titulo": "Classroom of the Elite",
     "original_name": "ようこそ実力至上主義の教室へ",
-    "imagen": "https:\/\/image.tmdb.org\/t\/p\/original\/mmhx3dImdsfYpcFm3J1tlQt5IRN.jpg",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/obhfWcGyvLWlaTNZ5ajcr7ydrPH.jpg",
     "backdrop_path": "https:\/\/image.tmdb.org\/t\/p\/original\/d3yNn379emGP8xztqeOsB9oLNG2.jpg",
     "type": "anime",
     "year": "2017",
@@ -98,12 +98,13 @@
         {
             "temporada": "Temporada 1",
             "season_number": 1,
-            "poster_path": "\/obhfWcGyvLWlaTNZ5ajcr7ydrPH.jpg",
+            "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w342\/obhfWcGyvLWlaTNZ5ajcr7ydrPH.jpg",
             "capitulos": [
                 {
                     "episode_id": "S01E01",
-                    "nombre": "Classroom of the Elite 1x1",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/8A2eGfqyomNgxqcyfIexSmYF43C.jpg",
+                    "episode_number": 1,
+                    "nombre": "¿Qué es malo? Todo lo que proviene de la debilidad.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/8A2eGfqyomNgxqcyfIexSmYF43C.jpg",
                     "enlaces": [
                         {
                             "nombre": "Classroom of the Elite 1x1",
@@ -120,18 +121,61 @@
                             "quality": ""
                         },
                         {
-                            "nombre": "",
+                            "nombre": "Streamwish",
                             "url": "https:\/\/hglamioz.com\/d\/hioixh5tj0mm",
                             "type": "descarga",
                             "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=NmZTZmVlTWFhMDVJV2UwY3YzeHZmd3Q1dFVyZWVQSnNCNUJGVklNcmlmVThQUlJTdlBPZ2VJeGNWOTY0bDNFZnBFekJlUm9UY1VmRnJFY0tDdTkxbnM2RWJXbzNJdEJDOWJKYUttOENmNWszSFR0eGtMQ2F3K0l0R2VMbDBCVTY6OnnntIH9sga9imHeARf3IK4-&t=458f2f30b29105c76eb18b693f70ba68&op=MzUxODE=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=dnJiYzByNWVva2VYdW42d3lHN2h3R3JRZUp0bDY3NFNLNlZJSTU5VEZKT3RrNHkvS1FLTTV5Z3RwWTJvR1ovMEloSmgyZEtsQnNWSU5JZlc0UTZYRXRtN0ZIMk90UlVBcWg0Q1pQQy9mY3dkdzdPaWFaY3U3YzcveXRyWERjcFY6OhFjE0ku_Qn1gjgthuA5TBo-&t=458f2f30b29105c76eb18b693f70ba68",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/8whyykaq6i6k",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/3c6m9e5ccsb7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/iRZ74667Ckkba\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/6dw71908UwJO3\/",
+                            "type": "descarga",
+                            "language": "Sub",
                             "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E02",
-                    "nombre": "Classroom of the Elite 1x2",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/dfJ0Nxw3BXXMYSMZYpthmzmhJL1.jpg",
+                    "episode_number": 2,
+                    "nombre": "Es una gran inteligencia saber ocultar la inteligencia.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/dfJ0Nxw3BXXMYSMZYpthmzmhJL1.jpg",
                     "enlaces": [
                         {
                             "nombre": "Classroom of the Elite 1x2",
@@ -148,18 +192,61 @@
                             "quality": ""
                         },
                         {
-                            "nombre": "",
+                            "nombre": "Streamwish",
                             "url": "https:\/\/hglamioz.com\/d\/fzklpcbmvagn",
                             "type": "descarga",
                             "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=dHpoT0pXcHdYTmhJeTAyQ0plTVVPMGFMcXNVcXVxL2JRWGFMSzIrQkptb2dYMkY0OUNUUGxIQ0hWaTYrY0srMk9IOWlxTThhaEtOVnRqb0hqRklNZzFVT0xTM241emxJVStDeEVzVG01K3ZLcE43MHlVZWpRMUVOeGRMNGIxZVY6Op6i9Jibx2pNqhgPojgnvwE-&t=41768754d777815578bfe2fa95da614d&op=MzUyMzA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=L1B0MWJkbEl4ZWJMeG01VHBlV1pJYzRZblN2dWtZT1FyME5jQlJFL3M0TFU5a0tiNU9TaWJIemJoTEhsUmdYVHZ2TExXdGUzdDVsQmV6NGxYbURnSHNjN1gyQXNBNGk4YlZGaHBuYjJzbUJkQzJPTm9MOGpsUlhIM2tWejlJU1I6OpXbQvZ142gOGVAHGHerpoM-&t=41768754d777815578bfe2fa95da614d",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/bwncxd16sdb7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/3ghczlydkl0p",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/9juO47596RVLl\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/AZSP15715vVCl\/",
+                            "type": "descarga",
+                            "language": "Sub",
                             "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E03",
-                    "nombre": "Classroom of the Elite 1x3",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/3bPj58ISsBNgI0eYK3dFK12lAML.jpg",
+                    "episode_number": 3,
+                    "nombre": "El hombre es un animal que negocia, ningún otro hace esto, ningún perro intercambia huesos con otro.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/3bPj58ISsBNgI0eYK3dFK12lAML.jpg",
                     "enlaces": [
                         {
                             "nombre": "Classroom of the Elite 1x3",
@@ -176,18 +263,61 @@
                             "quality": ""
                         },
                         {
-                            "nombre": "",
+                            "nombre": "Streamwish",
                             "url": "https:\/\/hglamioz.com\/d\/tdi22u43c4qa",
                             "type": "descarga",
                             "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=dW0rM29PeThzMGpmQ05LTWlmWkx5UHgwWHp0WVptWkZyakxSbHpaeGhsdkNaeCswV1JtMVF4RnBiS2ZtQzFwa3FpSWZCSHNIbFY0bHRTZ05xc0FmRGNLaU40bWFxT2oySUQrRFh4MnZvUUV4QVU1K3ZNMkFLa0tmMTRJM3BGMDM6Ohb.wiAi24cB9LQLN.9StJ8-&t=b801759e5fe60c6715cdbb0a8a4574c1&op=MzUyODA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=UERSWDhmSEtvRW5QUHF1UFh5QmRKQno0bmY4YVhQM1dwSy9rR1dpMC84V1VldytWV0huNmpNZ3RocklTa3F1Q010ZVk3VDAvelF6VnRQbGEwOForSXlNRUZkdVZRVkNQN2xXVE10WFEzckY1QnpQbExSS2tiS1Z5ZTMwUFlndGE6OrPCF0sPwib0Rv.MYLAwRRc-&t=b801759e5fe60c6715cdbb0a8a4574c1",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/dkww38cnb0ro",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/07ktd9dhlw0h",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/QpLP4593TU9LW\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/eeAY1256E4NnA\/",
+                            "type": "descarga",
+                            "language": "Sub",
                             "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E04",
-                    "nombre": "Classroom of the Elite 1x4",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/2cKlPS2uEV60yVRszJSd01NOTU9.jpg",
+                    "episode_number": 4,
+                    "nombre": "No hay que ofenderse porque los demás nos oculten la verdad, ya que nos la ocultamos tan a menudo a nosotros mismos.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/2cKlPS2uEV60yVRszJSd01NOTU9.jpg",
                     "enlaces": [
                         {
                             "nombre": "Classroom of the Elite 1x4",
@@ -204,18 +334,61 @@
                             "quality": ""
                         },
                         {
-                            "nombre": "",
+                            "nombre": "Streamwish",
                             "url": "https:\/\/hglamioz.com\/d\/7nfnu1kkp0si",
                             "type": "descarga",
                             "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=cUo4cGpuNDc3WGVLcjlacVpQeWcrcUU5NW9mbHBZRktwUmhjZ3RTZlFHYUticnRNMDBJYkgxSURPbk9TQmVSWnNJb1dkbWFUcU5qREg0TU1QZExvL1VNSDlXb0dQU2ZETVNXZ3lqU0VPUXRYMEpDMlJydThJVW9tVXhSNkVxQ2c6OvQcrh7KruPynXYVgPEVfdA-&t=e705347f928a8783bad0ff2b252cb140&op=MzUzMzE=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=ejkvUUlGMzI4cXJCR3dOdHcwdiswQ0dTcTFPK3VjOEZEK3RPYzRiNTVXSk9TM2VOUDMwZDlISEREWXdRL215REFSR0EyamNDOHc3RndQSXI2SlczSGNPb1UvT3ViT0lPd3V1bWdQYWR3Z3ZwK2NRbFNCaU9wR0xWSzd5QzMyTEo6Or9.zqIplI8B2vWo2NQsDQM-&t=e705347f928a8783bad0ff2b252cb140",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/qdg614r9424q",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/kola0g5zfpin",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/XN2R45463zDdv\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/tlI00936BAQW1\/",
+                            "type": "descarga",
+                            "language": "Sub",
                             "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E05",
-                    "nombre": "Classroom of the Elite 1x5",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/ijEZZSRWlAUB5yCjSHvf6eLLOsE.jpg",
+                    "episode_number": 5,
+                    "nombre": "El infierno son los otros.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/ijEZZSRWlAUB5yCjSHvf6eLLOsE.jpg",
                     "enlaces": [
                         {
                             "nombre": "Classroom of the Elite 1x5",
@@ -232,18 +405,75 @@
                             "quality": ""
                         },
                         {
-                            "nombre": "",
+                            "nombre": "Streamwish",
                             "url": "https:\/\/hglamioz.com\/d\/vdwwrpdgsujm",
                             "type": "descarga",
                             "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=QmlWRStDS2t1QmQzUlJZNDFHdE1NVkxaUVRRY0hOUXdZUmwvV2IzT2MrdVFYa0x0OThvdGI1MldLcTY0VjFoRjlucEQzUnE2RFV0SWRZNjBWcUpTVFR6czFrMHlLeTlNRVhOVkJidVpMMmpmb043RHFuNHdMZ1AyOVpBL2lnTFc6OizCChf0zkz9rOJSDeez_7E-&t=5c733bd63223c2d18f5d66f0c15a88cb&op=MzUzODU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=Y3lhSlVuL0ZjSVMxYzVuTUZYUzBWWlFFM0YrdXVYejRGYWtkK2dlYjNXemRlMWlsUE5QazJUSzB4SGJKbWV4a3NabTJ1N2NXQ29yWnFWRTVRSllXYkZZV29iVG1Maktla0F5ZERUcVJBaFZiRjVGQm93RzVZY1BZWXVqRDBGNnY6OofIscSal8AbzfQLKdaXksQ-&t=5c733bd63223c2d18f5d66f0c15a88cb",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/e38k8qty0bfr",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/wgt6d4mbabsl",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-yud7jrvpq07w.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/iZ5T4375OPyTG\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/Ohdu0650kjpSq\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/0eyP4366RtXwD\/",
+                            "type": "descarga",
+                            "language": "Sub",
                             "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E06",
-                    "nombre": "Classroom of the Elite 1x6",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/oXnrjcOwk5bPrzJnRRAeeC7Y7pf.jpg",
+                    "episode_number": 6,
+                    "nombre": "Existen dos clases de mentiras: la de hecho, que se refiere a una acción pasada, y la de derecho, que es la que tiene relación con lo futuro.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/oXnrjcOwk5bPrzJnRRAeeC7Y7pf.jpg",
                     "enlaces": [
                         {
                             "nombre": "Classroom of the Elite 1x6",
@@ -260,18 +490,61 @@
                             "quality": ""
                         },
                         {
-                            "nombre": "",
+                            "nombre": "Streamwish",
                             "url": "https:\/\/hglamioz.com\/d\/y2102hra8tcx",
                             "type": "descarga",
                             "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=ZnRmWXV4Q1Y4L1R3S3dYQTNlTnhCRHU3cS9VMnNQek1qd1dndlFDSHZmTVFXU2dGV0poMHVEREtwOTlUVmEvOW5pVWU5UnRzU0k1aS9JL3BneFo0Z0dFYXQrN1dqR1Z2VmI1czBUclhCY1hRMW9oUFk2dDMwL2VJYy9xcUxNMzA6Oui8rjSvscAmx2DhK_vfDt4-&t=64126291a78b0949415681f9c9e8446d&op=MzU0MzE=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=RVZpTWNveTFDZVF3TUNMdjFBT2JtVndkcHNKTk5PVTh0MzlLTHR2NVBOUlJhY2RXbHVJMWtIb1E2SFg0RU5RNU44OGhQcWR4NUpKa0dlRSt5akFiZmN0OUlFV2Z0cGlTMjNaek5hcVlMakRXZ2lyZzR4dnB0QU42V0d5ZXYvcDM6OsnUL3SS70hSpFDLCqmjQGU-&t=64126291a78b0949415681f9c9e8446d",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/4po9bcj1wzjc",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/aksgf2q4r6iw",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/clIF42621Qm7M\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/uCSe0354belXf\/",
+                            "type": "descarga",
+                            "language": "Sub",
                             "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E07",
-                    "nombre": "Classroom of the Elite 1x7",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/ybpuMXUdp3AN3MDxzc8LYpeEwzt.jpg",
+                    "episode_number": 7,
+                    "nombre": "Nada hay más peligroso que un amigo ignorante; es mejor un enemigo razonable.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/ybpuMXUdp3AN3MDxzc8LYpeEwzt.jpg",
                     "enlaces": [
                         {
                             "nombre": "Classroom of the Elite 1x7",
@@ -288,18 +561,61 @@
                             "quality": ""
                         },
                         {
-                            "nombre": "",
+                            "nombre": "Streamwish",
                             "url": "https:\/\/hglamioz.com\/d\/wsoo5ma6fjd8",
                             "type": "descarga",
                             "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=cDJ3WVB0QU5YSWpWczUxZzd1T2g1dVZCZHVLTHBZcG55cEh1MTFxU0w4S01NUzFrc01QSldGVzMzOHVOVU16MkpmY1lJWjM4MTRFeWJudEdIZzFJVkNwaStZSlczNjgxT29jbzF0bVpUV1JXdFFlY2Zyd2JlVDJ0UStpeHZtZE46OjqkTlTO.v0f9gchF1QFGbk-&t=aa1ec9091310e2f702004015db05a86b&op=MzU0Nzk=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=dUFqaXM0c0Q3ZjdORnBJVnYvQS81NEtseENTMCtZc0F0bWo5M1pQK1VVaGNIenkvNDdtVTkzUCtIQ05SMWZTK09WUlJkT3cwVUsyRWFORjQzSkxXZjVHZWk2U1Q4RWJWbHpia091WlFldGZtbEk1dXZ6NGNYbEhWRldrMks4UWs6OgZguipLWb8I2QYya0321OM-&t=aa1ec9091310e2f702004015db05a86b",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/hixiaracmcvy",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/rhqcfjusplss",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/jZlJ4431hyp27\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/JpNX0057qFvZF\/",
+                            "type": "descarga",
+                            "language": "Sub",
                             "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E08",
-                    "nombre": "Classroom of the Elite 1x8",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/3KROkOsEz2ERoqfqlcDHgjbbtAG.jpg",
+                    "episode_number": 8,
+                    "nombre": "Vosotros los que entráis, abandonad toda esperanza.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/3KROkOsEz2ERoqfqlcDHgjbbtAG.jpg",
                     "enlaces": [
                         {
                             "nombre": "Classroom of the Elite 1x8",
@@ -316,18 +632,61 @@
                             "quality": ""
                         },
                         {
-                            "nombre": "",
+                            "nombre": "Streamwish",
                             "url": "https:\/\/hglamioz.com\/d\/innr3mqf5b6u",
                             "type": "descarga",
                             "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=ejZkVjNxV0ljbGFPWXF3TjhlRDlwTWozTmUvb0JZQTJ6cGxxV2tEaDlHZGxQczdQNnJvdmpJV0hhNDZkMGIwdEVyR0pWTzRpaHRGVnBIQm1uaXFodmVBU01ybWRNNllhbkdJYmRKTk9sdWl6MGV5Rm5QdXNIMGlpcU1kaVJDQnc6OlPk4aonIlwsNV2ed2qft8s-&t=0ba425cc5b752326954361d23a9999b5&op=MzU1MjQ=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=SStjSjVFd3p3Zm5RamhlNjF1bXM0SjBZYjZJREErbjJnTUhlWXRad1Y3Z0FqL2tMOUdhRzBvNmE5SUpob0orQUdVbVZ4ejI3TUhhR29Sd1NwZnNQdVdQZ3VXc1AxUS9mekNxM2IzNVJCZFY2aXg3NSt6Ulk4aFdweWZSOGR4ZUc6OvR44bhhG6VjZwbLKvwllWQ-&t=0ba425cc5b752326954361d23a9999b5",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/q2401j2pcpi9",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/kovtg0g5fadp",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/NmeN4203fGCic\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/ejdS9755qXZ27\/",
+                            "type": "descarga",
+                            "language": "Sub",
                             "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E09",
-                    "nombre": "Classroom of the Elite 1x9",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/iQlVTaOYHnyVca7csQuJHDCgpXD.jpg",
+                    "episode_number": 9,
+                    "nombre": "El hombre está condenado a ser libre.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/iQlVTaOYHnyVca7csQuJHDCgpXD.jpg",
                     "enlaces": [
                         {
                             "nombre": "Classroom of the Elite 1x9",
@@ -335,13 +694,70 @@
                             "type": "streaming",
                             "language": "Latino",
                             "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=UEFJb3dvVjRDdmpuOEJwdUlqVlR2QVRLMWRlQmc2ZkdBUnRkVTNYSWQ0VmhmdTIrNU1wL2U4THhQdm40eS9VMDVkY0F2UjFoampXUVkzY05ZWEZMMGNzUUN4dEZDTEdTUXk3THZYMWUxNDdjZXRLTnJXdTNLZ0loU2VDMk9tY0g6Ot2UBuKGfketPmIkXUkTZD8-&t=eab1afa09dad06a14a00c44a5824e531&op=MzU1Nzk=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=ZXpWMmdjaElNdWwvaEtreHd2Mjh2SG83YnIrMTd3WWZVcVBSbTlOUnpMUm5VZFNoQXYyQ2dDM2ZIS3NPc3Z3b085cEFsZ21kNVYzU09wVERMU2x5MW0yTUNxU3NwNU5uZlFROXhOOFBkUnNWeXNJUlVhTjJwd2ZoUUd1MS9EMkI6OsiaqK0l3q.sCa7Xt_G4d9M-&t=eab1afa09dad06a14a00c44a5824e531",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/1f6why0iu3o5",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/o31e6ml99jhe",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-i1qfwlqp427r.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/lyta4615Untgg\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/mLIZ9420JKfH2\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/CMC74075WYGGp\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E10",
-                    "nombre": "Classroom of the Elite 1x10",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/gzzlScnfNVWE8EMM5rtWhwR2chj.jpg",
+                    "episode_number": 10,
+                    "nombre": "El traidor mas peligroso de todos es aquel que cada ser humano tiene en sí mismo.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/gzzlScnfNVWE8EMM5rtWhwR2chj.jpg",
                     "enlaces": [
                         {
                             "nombre": "Classroom of the Elite 1x10",
@@ -358,18 +774,61 @@
                             "quality": ""
                         },
                         {
-                            "nombre": "",
+                            "nombre": "Streamwish",
                             "url": "https:\/\/hglamioz.com\/d\/f2hmytaqgbix",
                             "type": "descarga",
                             "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=aUxRSFphbFN2REp0N0t3aEt0ZWM3YkVSOEFKcnp1MHBSTGpNNXVIaUhxc3VNcWVzNG93SWVabmNEMzc3aVFyTno0bmdHdXRpR0lreGF4c2xSSEVzNTI4ZkVxRXZHV2JZWWJNdEhGczMrNG5iUGVRTXJjWVA0RHhJcm9QVzBnM0E6OoxYuh834eNgAR1v7WTfAL0-&t=b3caa55866114553ce319a3013ef211d&op=MzU2Mjc=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=RGpVRGFqNG5rWHFERFloN3hIeCszdGM3c2VEV0ZqckY2dVUwSVpzZE8xUUFpNFRoK2RXci9sYVZ6dXAxUTZoVWZRdU1tU0lvL0REdzBuVmxmcyt2clZnRmR0dTMrV29ySzJ6VGhuZ0xnUy9XaVlma0M0ckxTM0VXSnlJaVZySDM6OjNMGwYKXw1WcTu9B_1RYK4-&t=b3caa55866114553ce319a3013ef211d",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/k90jt2vzrf4d",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/sdzrh28nd4ei",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/rqbB40362w62c\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/tW9c9146z7WJ5\/",
+                            "type": "descarga",
+                            "language": "Sub",
                             "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E11",
-                    "nombre": "Classroom of the Elite 1x11",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/yELWM36I7nlC8BhUIva4gjx9DW0.jpg",
+                    "episode_number": 11,
+                    "nombre": "Lo que la gente comúnmente llama destino es, por regla general, nada más que su propia conducta estúpida y tonta.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/yELWM36I7nlC8BhUIva4gjx9DW0.jpg",
                     "enlaces": [
                         {
                             "nombre": "Classroom of the Elite 1x11",
@@ -386,18 +845,75 @@
                             "quality": ""
                         },
                         {
-                            "nombre": "",
+                            "nombre": "Streamwish",
                             "url": "https:\/\/hglamioz.com\/d\/8bh0j2d63ot9",
                             "type": "descarga",
                             "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=OVAyZzdoUEhQVHNUZm5YcjNISTlEYWZVN2w2N1NZZFBEWVE4cnNGeDl4ZHRjT2RKY25obi9vZS9PbXdlaWkwemJtd1JQNysybFc3SzhqR3d0Mk5MdUZrbzdKb1c3NmphTFlnQjJGU1pqNXRHV1pKZHowVlloblZiYjZjZTlpWDM6OsyE46xAOGMsdrKy9GM1hLQ-&t=b4b673a5a429cff04c5aa380dfe159c6&op=MzU2ODI=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=RDV6aVhsTmgzMjF5aFVFMHRZdlE3c05iR1JpNmJBZW5kUzdEc0lVVTVsTGdqTWM3UkQ2cmhYTWw5Q0FCcVV1QmR2MEVVQXd3SmtJTmk4ZE1lUkdtTm1WMS9LWk9pUjFFRGVIQ2ZXQ3lLT29aem4zL2xrSEF5R0hnd085SUM3SGE6OlSK_A2ojesZaTntu8a6EoU-&t=b4b673a5a429cff04c5aa380dfe159c6",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/hdmdbj7e2nfi",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/nisz8fygvyi8",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-g2f1qg58kmtp.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/eNsx3985oHmnQ\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/qIhE8804TNW8k\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/8LLT3982OKP7c\/",
+                            "type": "descarga",
+                            "language": "Sub",
                             "quality": ""
                         }
                     ]
                 },
                 {
-                    "episode_id": "S01E12",
-                    "nombre": "Classroom of the Elite 1x12",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/74uoSfzP1uekM7P3sAILXaBOBMf.jpg",
+                    "episode_id": "1782563417496",
+                    "episode_number": 12,
+                    "nombre": "El genio vive solamente un piso por encima de la locura.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/74uoSfzP1uekM7P3sAILXaBOBMf.jpg",
                     "enlaces": [
                         {
                             "nombre": "Classroom of the Elite 1x12",
@@ -414,10 +930,66 @@
                             "quality": ""
                         },
                         {
-                            "nombre": "",
+                            "nombre": "Streamwish",
                             "url": "https:\/\/hglamioz.com\/d\/u5r6mul5055m",
                             "type": "descarga",
                             "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=M2tDa1lKclJBTHJWZlE3RTNoenNIR1RYbExRRGRKZDY0SWRjcVZ2MVJOQkZ5NkRhdUdHZEp5aGx3cHVSZnBxWitBRmJmNjJOMjQ0a1E3WkdaT3ZTZ0kwTHN6QU1reldQZGNUdGc3a3lnajRoWHgvWkZvT2VQYXdNSVU5Rzg1c2k6Om3j4LOGgCDKVno9gqKPndk-&t=45bb6f7fd156d0f5ed675304cf8a978a&op=MzU3MTQ=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=aWx2VFVuUFpXNGw2U3kzaDIvc01uRkt3clVyZnVSOWdMb3BXK1JkRmxlQ2ZSeWY2OVFXbXBWczduMmk5di94TjdXdXZlL0ZPYWRnMm1IM1FtQysyai9tZm5GSnBLQ2NNN0dyMDFoSklGVi96SGU4UnNsd2FVUEcxWVVUVDdhVm06OozKgD.9H.LiktlZvNbG3.Y-&t=45bb6f7fd156d0f5ed675304cf8a978a",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/x0cq4rns27nu",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/qnb5jegp99fj",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-73410nkj2uaq.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/64Jb38999gx9C\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/hIZO8606TYuFC\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/u1CM3890uqN2n\/",
+                            "type": "descarga",
+                            "language": "Sub",
                             "quality": ""
                         }
                     ]
@@ -427,12 +999,13 @@
         {
             "temporada": "Temporada 2",
             "season_number": 2,
-            "poster_path": "https:\/\/image.tmdb.org\/t\/p\/original\/lLD9Xg5bASKrUAp7bLCm7s8WbKW.jpg",
+            "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w342\/teNCrB7zT11Jy0tpyp1e7IAzlXX.jpg",
             "capitulos": [
                 {
                     "episode_id": "S02E01",
-                    "nombre": "Classroom of the Elite 2x1",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/qUMhwS1QbTY6wuAv7CemW1AGVZA.jpg",
+                    "episode_number": 1,
+                    "nombre": "Recuerda mantener el ánimo sereno en los momentos difíciles.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/qUMhwS1QbTY6wuAv7CemW1AGVZA.jpg",
                     "enlaces": [
                         {
                             "nombre": "Classroom of the Elite 2x1",
@@ -449,18 +1022,75 @@
                             "quality": ""
                         },
                         {
-                            "nombre": "",
+                            "nombre": "Streamwish",
                             "url": "https:\/\/hglamioz.com\/d\/nkdavwmqaioj",
                             "type": "descarga",
                             "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=MXN1d01jbDBkNUo2blAzVVJKOUg4RkY1WHdjcEoxdHFNalg5V2ZJT2RtbkVVNVdvV3FuMnJCSmtXQW4ydTV6Mnc4Q0dFU1IrSWpOSDRqc3k1UUtWc1E9PTo6hMSyKuFMcCWQKT46kW9hPA--&t=641d9a56adfc5f316077c54708626ff5&op=NDk3OTQ=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=QkZ5S2JvdXNiZThvMktzUXQ3VXVtMm1xMFRTY1c2MUpFWlpVT2RXYjZBSllFd0kxY1YwUUY2aGd2Qzk2OExNZUZiWGI1ZDF1bWptQVJzV0ttZUo1bGc9PTo6MmqNhWDCZnaDQv.C9fOB2w--&t=641d9a56adfc5f316077c54708626ff5",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/acbspdtna9gy",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/7w7t6qn8q63i",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-3v5n524y778c.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/D5ht0995JwhYs\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/aLIe2922fnIZH\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/bQfY0995Pp8OC\/",
+                            "type": "descarga",
+                            "language": "Sub",
                             "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S02E02",
-                    "nombre": "Classroom of the Elite 2x2",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/3BE7fmLK5J1nijfY52S2nvx08tU.jpg",
+                    "episode_number": 2,
+                    "nombre": "Hay dos grandes pecados humanos de los que derivan todos los demás: la impaciencia y la pereza.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/3BE7fmLK5J1nijfY52S2nvx08tU.jpg",
                     "enlaces": [
                         {
                             "nombre": "Classroom of the Elite 2x2",
@@ -477,18 +1107,61 @@
                             "quality": ""
                         },
                         {
-                            "nombre": "",
+                            "nombre": "Streamwish",
                             "url": "https:\/\/hglamioz.com\/d\/jha3h0iu060h",
                             "type": "descarga",
                             "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=UTBIejVCdC9aMGtoNEJ4M0ZSNFl4dVZZWGlsMWRkSHJ2bHpRNTZJUncxU3ZwR2ZLUHozcXE1Mi95OVptWjFSUFdRQmtSQ21kdWoraEJXNW5ieFBpeGc9PTo61cMeos4qnhZmgwcM1dNP_g--&t=c892820673fcd1dc9d8129c078e37424&op=NDk4NDU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=MXQ3WFZxNjN6MVFKbTdwZnpJNWRwU05IRENKdlpSOW1QNXVBbVJOcEFkNFJrS05PNnlHc2hTVzZiUkZRTCtkem9TemQ0MXFUYkhkU3lGVVZJbzBUbFE9PTo6UjTU5zHFz_sYCrrWk0ctwQ--&t=c892820673fcd1dc9d8129c078e37424",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/r8ymxwiqn10u",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/oof22fsqsfdm",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/wM1U6935VGDh2\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/OpuK2502C4Tn9\/",
+                            "type": "descarga",
+                            "language": "Sub",
                             "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S02E03",
-                    "nombre": "Classroom of the Elite 2x3",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/xleOVHWBY4b3yGlgMG1iXfQvtYg.jpg",
+                    "episode_number": 3,
+                    "nombre": "Las almas más grandes son capaces de los mayores vicios, así como de las mayores virtudes.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/xleOVHWBY4b3yGlgMG1iXfQvtYg.jpg",
                     "enlaces": [
                         {
                             "nombre": "Classroom of the Elite 2x3",
@@ -505,18 +1178,61 @@
                             "quality": ""
                         },
                         {
-                            "nombre": "",
+                            "nombre": "Streamwish",
                             "url": "https:\/\/hglamioz.com\/d\/2zdskl3r27xr",
                             "type": "descarga",
                             "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=SHRncDZPbTc4b2VNdVRVRnQxMk1pSytYeGtuWjgvK2VRdDZtOSs4eGRTQ3JCckJWRFZobFQvSTg1UC9Rd09MYndBOVZ6amc1cUZqR3QwODAzZFVzeGc9PTo6zhDSw8PThVhU8MQ5WqLrhA--&t=86979a07bb269879d0fc58b113a95fa1&op=NDk5MDA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=cFAxZXRjVDdiajUwR0ZJSXFweTQ1d2pKMkI4ZXFuV2JoSngxOTZDUXhIVEtUREN5YURaZ1FTSEpBNHFFWXNKQllTNVFwUXJnRWRaNlBxU2haRVRhaGc9PTo6aIUyyLdJ5K.JjtB3R7p.XA--&t=86979a07bb269879d0fc58b113a95fa1",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/kygboio2ekcx",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/g6nbxnysjs99",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/u3FD2575ObXJm\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/NcIe20587kzpZ\/",
+                            "type": "descarga",
+                            "language": "Sub",
                             "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S02E04",
-                    "nombre": "Classroom of the Elite 2x4",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/oF6UbzQQce0xri9vHL7cCaN9N3J.jpg",
+                    "episode_number": 4,
+                    "nombre": "El personal debe ser formado.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/oF6UbzQQce0xri9vHL7cCaN9N3J.jpg",
                     "enlaces": [
                         {
                             "nombre": "Classroom of the Elite 2x4",
@@ -533,18 +1249,61 @@
                             "quality": ""
                         },
                         {
-                            "nombre": "",
+                            "nombre": "Streamwish",
                             "url": "https:\/\/hglamioz.com\/d\/mk0shxq5kicq",
                             "type": "descarga",
                             "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=UEFaeVQ3ZGZNUkduNnNzQVJyRWo3eUd5NCs1eTZ2bDY4cDBVNWtaZ2hpWlVLbXhDek9YT3IrWEwxbmVrajcyU3hTcVpzUEJnT2MzTWVQMjJPZnVndFE9PTo6R8ybJSJdUCHC.qWXlGRYeA--&t=88096281ef1c9f74d2d35d64820b4576&op=NDk5NTY=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=Ym13dk1YWE1oak0wN3J4b00wTmhWMnFpQ1J0Ri9Eb2wxRjM5RlhPS2R0UmNZUEhlSktuWEhvQjVreklyVnNVNXZPTXZjeG8wQzVjRWhVYzlaeHhNd0E9PTo6IQsrOg2.Wxkb5TszT.JTxQ--&t=88096281ef1c9f74d2d35d64820b4576",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/dyl41blpbuex",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/14cuo6quehp2",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/TbR34335FWw0G\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/zQxG1621l1xyd\/",
+                            "type": "descarga",
+                            "language": "Sub",
                             "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S02E05",
-                    "nombre": "Classroom of the Elite 2x5",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/hyRKf7wM0cWuXpMnMHjCDoWeNoW.jpg",
+                    "episode_number": 5,
+                    "nombre": "Cada fracaso es un paso hacia el éxito.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/hyRKf7wM0cWuXpMnMHjCDoWeNoW.jpg",
                     "enlaces": [
                         {
                             "nombre": "Classroom of the Elite 2x5",
@@ -561,18 +1320,75 @@
                             "quality": ""
                         },
                         {
-                            "nombre": "",
+                            "nombre": "Streamwish",
                             "url": "https:\/\/hglamioz.com\/d\/az5qpasifzk4",
                             "type": "descarga",
                             "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=a3kvQlJnaVExUlhLVFR4cjN1U2s4K0lwMGI3ajBnRkpERWtoN0MrblQ5bGcyT3VDaUNRVkVoOTk3VE8yWnRDTTM4VEJyUFQ5WnRlODNZWlVWNDFWRlE9PTo6o.jLwawIoT_i.mRZrGZq7Q--&t=13d17ac9bff8fb6e89832556feef0745&op=NTAwMTI=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=S0x6OHV3YVBkVm9jd1hJVUlxeGhZV3dVc0tKeUZIWkpPYkhtNTkzVVc0L3U5ZlVuM25ZdklJcFVaZkI1TjRhQ3dmT2xaaWZqMmxqV1YvVXNlVFZtR2c9PTo6xKOlJfAs6bVwpVa7jXoQ6w--&t=13d17ac9bff8fb6e89832556feef0745",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/6yj8je3yhqcd",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/vmd5elmiiog1",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-7iqyhfbygf71.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/85Km4395Xm3Ue\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/vQuG1126e3y1I\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/VMjN4395K7y5o\/",
+                            "type": "descarga",
+                            "language": "Sub",
                             "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S02E06",
-                    "nombre": "Classroom of the Elite 2x6",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/qoIHpSIN1XketcShpULWMmPPDyT.jpg",
+                    "episode_number": 6,
+                    "nombre": "La adversidad es el sendero más seguro de la verdad.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/qoIHpSIN1XketcShpULWMmPPDyT.jpg",
                     "enlaces": [
                         {
                             "nombre": "Classroom of the Elite 2x6",
@@ -589,18 +1405,75 @@
                             "quality": ""
                         },
                         {
-                            "nombre": "",
+                            "nombre": "Streamwish",
                             "url": "https:\/\/hglamioz.com\/d\/i4zsn4i7hx3y",
                             "type": "descarga",
                             "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=a3YzL0ZYaDF3WlV1NkdWcmJ0MjZPcVZOZVZLd2Q2dTk0cTZib1pKQlhzNXFnWGZUSWVOZmtUaERRald1N1Vmbk92TWRnSFFXZGJFMTFIWnppVXFGRnc9PTo6KJoy0FzuxCd7JdezEViWPQ--&t=b7c1825ab851b0a18d21740900564871&op=NTAwODM=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=czZNbm5nWUd1QzJoNUJES01QMEtMTTBZTGkrd3hub3lEVGs3cTUvc1laRkpNZzlhRTRSdU9QMko0TEVYK29vRG1INkVTS3FjV2t1VnRpYzM4Qkw1Qmc9PTo6KFGIwjWJVhy44Ys61PBAhQ--&t=b7c1825ab851b0a18d21740900564871",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/87ad1zqk9xn6",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/brp2x9vjo00t",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-yhz7p4bagytn.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/3Eqm58868pRoW\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/Kyzb0573iPoh7\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/Cjkj5884k2Ug5\/",
+                            "type": "descarga",
+                            "language": "Sub",
                             "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S02E07",
-                    "nombre": "Classroom of the Elite 2x7",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/l6bI7i1sKKCa94bLZ7R5WM0qRVN.jpg",
+                    "episode_number": 7,
+                    "nombre": "Dudar de todo o creerlo todo son dos soluciones igualmente convenientes, las cuales nos eximen de pensar.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/l6bI7i1sKKCa94bLZ7R5WM0qRVN.jpg",
                     "enlaces": [
                         {
                             "nombre": "Classroom of the Elite 2x7",
@@ -617,18 +1490,75 @@
                             "quality": ""
                         },
                         {
-                            "nombre": "",
+                            "nombre": "Streamwish",
                             "url": "https:\/\/hglamioz.com\/d\/89tkrp9k49q7",
                             "type": "descarga",
                             "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=NHVsaWV6aXlKYU1ianBMTVhPRkFaTWR2dzlxTUlST1I0cmdyeVNQVDA0MG5WYVlBOEFHNExOTVhJNTRLZjRRdGsreEYxS09yaVBQeVE3dzU0d1dWYUE9PTo6Sm_mcSwxDSwRyB0.au34OA--&t=f0ebf7867735036093326fffaf707089&op=NTAxOTQ=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=cmhIVDBLMVJoYWxFT3dheCsxQnVNV0t3ZHUwSWcwQ0IvWWhYS1l0SDRPUVROVnQ5WGE3SVhqVnN2ditGUUFTYjJDa050bUJqbnpKS3I4a0lLM0h2Umc9PTo6eAnmoJyF9hDYvstrr6DWWQ--&t=f0ebf7867735036093326fffaf707089",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/64bosht2cmwx",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/jxtxbuzarxnf",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-ybibb01uhqo1.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/TFDO0135lM535\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/MQgh9676X7pYW\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/43DU0135o89Ok\/",
+                            "type": "descarga",
+                            "language": "Sub",
                             "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S02E08",
-                    "nombre": "Classroom of the Elite 2x8",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/qYp9tCdw4ICEQxexR4MTL6eAGw3.jpg",
+                    "episode_number": 8,
+                    "nombre": "La herida vive silenciosa en el fondo del pecho.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/qYp9tCdw4ICEQxexR4MTL6eAGw3.jpg",
                     "enlaces": [
                         {
                             "nombre": "Classroom of the Elite 2x8",
@@ -645,18 +1575,75 @@
                             "quality": ""
                         },
                         {
-                            "nombre": "",
+                            "nombre": "Streamwish",
                             "url": "https:\/\/hglamioz.com\/d\/nrer0zyyyqdk",
                             "type": "descarga",
                             "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=cWhUUmI1SStkeHNtczdrMEFOZERWNzRydUZSa2trM1JUWlVvazMraTZDcFA2eHQ4alFFODBVN3RVdUNTUEJWKzBTVWlaeWh1QWZmWTMzeDlMK1l1a0E9PTo6W6SVI7Z0qSSaLAy_irDU2g--&t=c471b3fa169e051fd5510ce4684b76b9&op=NTAyNjI=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=U1lqck82Nkt4OGhCV1MrcmhBWmdDK0NzWXJJWXlla0lUa0xwdUcwbjJydDE3U2FXVlcxSStzS3FId0dOVlJZVDEyZDRTSEh6TkVxcXBrZGxSREp0YWc9PTo6X7vzC28IXcuGHDeqMO0B.Q--&t=c471b3fa169e051fd5510ce4684b76b9",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/329oi6bbrjmm",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/28t6876t8f7w",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-gcaou2oke51f.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/Vb8f8184a1Zpg\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/Xxk19093cS11O\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/2ASJ8173U8HTL\/",
+                            "type": "descarga",
+                            "language": "Sub",
                             "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S02E09",
-                    "nombre": "Classroom of the Elite 2x9",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/2ToxZSq75pkFGvk45SHoywc2CJN.jpg",
+                    "episode_number": 9,
+                    "nombre": "El verdadero error es cometer un error y no corregirlo.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/2ToxZSq75pkFGvk45SHoywc2CJN.jpg",
                     "enlaces": [
                         {
                             "nombre": "Classroom of the Elite 2x9",
@@ -673,18 +1660,75 @@
                             "quality": ""
                         },
                         {
-                            "nombre": "",
+                            "nombre": "Streamwish",
                             "url": "https:\/\/hglamioz.com\/d\/7h7h2vk0jqvd",
                             "type": "descarga",
                             "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=Y1RGOWZqZ1dpT1llbEtwOVpPOThRaVkxdFIwSjg5c3RHVkVURWc3dVZ2NGRvSWFDeXY3SXRsN0RuOHNvOG5tL0dNOWtwelFkd0tjNUJvTnBJcVJZU2c9PTo6p61jQRaKZP58G1GTqiQivw--&t=2644f0461af98d3adb1915a04c8cf22c&op=NTAzNzM=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=WklxelBHRFZMaHZ0YjRVRnllN3FPM3MzQlpiWWxsTmRlT1Y1TVhBRGVXR1lrbG40dWRaMWhqMGZyWkt0NGtrNytVTmpnSU1vbTIwZGVIVUhMbkdQT1E9PTo69ip_qBUZUVVQCPumd9vDww--&t=2644f0461af98d3adb1915a04c8cf22c",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/brumm388420j",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/2utdt6a1ftsw",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-2n2uhyrio7br.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/J5U55726jo2XX\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/f9Zf8288RkqVi\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/jkCz5723PPai3\/",
+                            "type": "descarga",
+                            "language": "Sub",
                             "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S02E10",
-                    "nombre": "Classroom of the Elite 2x10",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/iuH1dtZ3neoXw5Dp35cMDwxEBHt.jpg",
+                    "episode_number": 10,
+                    "nombre": "El pueblo muchas veces anhela su ruina, engañado por un falso bien.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/iuH1dtZ3neoXw5Dp35cMDwxEBHt.jpg",
                     "enlaces": [
                         {
                             "nombre": "Classroom of the Elite 2x10",
@@ -701,18 +1745,75 @@
                             "quality": ""
                         },
                         {
-                            "nombre": "",
+                            "nombre": "Streamwish",
                             "url": "https:\/\/hglamioz.com\/d\/yznsyt7q7x7s",
                             "type": "descarga",
                             "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=VlQ3MmRiakh3dzVBbThacmhXaHlDNTVRQkdWNjNydnpoeWJ5SW11ZzdZcGFkSVVJa2RaYnFEMkJMc3kveWMxRVltUHhQaFlyL1k2NTd0Nm0rZXJFVFE9PTo6nvLT8mUJp5XB2nylqSMIag--&t=25ff92547e03623ce9931d785c52909c&op=NTA0ODQ=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=d2lzYUN1Uytpc21zcmVSTGU0VXEvbFRUNHVwWWhFVndyYXkybHd2aWF2alJoR2FlRmljZUpYUUNzZGIwUkx5cDRZU2h1Y2ZWaFh0K0JVWjczN1lkSGc9PTo6Ehi.SnBWfDBYi.ZH1RzAVg--&t=25ff92547e03623ce9931d785c52909c",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/de904l61z5jc",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/9n7unqkqfolv",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-2i0z0i9ivvpy.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/YjPQ10409stN5\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/DaMf7420fxstY\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/A88v10315v8xh\/",
+                            "type": "descarga",
+                            "language": "Sub",
                             "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S02E11",
-                    "nombre": "Classroom of the Elite 2x11",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/AfdWfIjGUOc1Oxtg73Oe7ElaNHa.jpg",
+                    "episode_number": 11,
+                    "nombre": "El que no se controla a sí mismo permanece esclavo para siempre.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/AfdWfIjGUOc1Oxtg73Oe7ElaNHa.jpg",
                     "enlaces": [
                         {
                             "nombre": "Classroom of the Elite 2x11",
@@ -729,18 +1830,61 @@
                             "quality": ""
                         },
                         {
-                            "nombre": "",
+                            "nombre": "Streamwish",
                             "url": "https:\/\/hglamioz.com\/d\/7t21zvigp52o",
                             "type": "descarga",
                             "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=Q0EvTXA4YWExOEpyaVhrOWczTGR4TVJRc0pvMXFIL1FUcm43M2s5Ry90M2I5RlBvVzZMcGJRb2tncHFrQTZnOVZZY2NyT3BaMDhYT3d1NjNnUUdmZHc9PTo6Y0zvLzoVo27T0GRGjt5Cnw--&t=9948d7893241bc2f157f55534d133039&op=NTA1Mzg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=dEZiU3NDb2VQRlZ5dnR5bEpDS1huVXl3aDVjRkRwL1hWWnJnQ09hTDdtUTcvaVJRMU5uN0VpcmVCWnBjZEIxUlJwUW01RUZBZFZCNkkwaTdDUlErVVE9PTo6sL24iLjBYtNAuZmj0mSJXw--&t=9948d7893241bc2f157f55534d133039",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/0gbbyarvgsrd",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/7vve8bmfzqco",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/iBAQ0875tDOkh\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/GIQb7009jQqnK\/",
+                            "type": "descarga",
+                            "language": "Sub",
                             "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S02E12",
-                    "nombre": "Classroom of the Elite 2x12",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/6E0DJbQwTgHe1ousRpRHaP0Zx9O.jpg",
+                    "episode_number": 12,
+                    "nombre": "La fuerza, sin sabiduría, se derrumba por su propio peso.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/6E0DJbQwTgHe1ousRpRHaP0Zx9O.jpg",
                     "enlaces": [
                         {
                             "nombre": "Classroom of the Elite 2x12",
@@ -757,18 +1901,75 @@
                             "quality": ""
                         },
                         {
-                            "nombre": "",
+                            "nombre": "Streamwish",
                             "url": "https:\/\/hglamioz.com\/d\/fe8ebkahex4i",
                             "type": "descarga",
                             "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=ci96cFc3a2NMNzlOdGJiVCtaUU94UUJGa1RxZE1CeHl4UXpCT3UzeDRnVnBRWEVCaXkybE0zVnIvTDF4eVdZM3FwbDRVNEt5ZTN3R1UrQTA0V3l5Y3c9PTo6C1rjH1skG2wSQxJG1Ma8qw--&t=c6d1b6af398ac0a32e5227bd77ccfda3&op=NTA1OTM=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=T281SHltc2hiOGNTTngydGZUUkkyaE1uLzBJdVZCT1IwdkdGYUozdFEzdUZKeS9UKytGRUtUaVVJbzlKRFhib1hOdmxCRlllYjFhL2F5amxibFlKL1E9PTo6s86DqTuOUviWDOIjtbH1fA--&t=c6d1b6af398ac0a32e5227bd77ccfda3",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/zdq377p8y1hm",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/5pxvviccqhft",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-zksigwaqtkp6.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/XH0w4835tIHQD\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/Lont6568qtBTT\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/rwqI4835Ad1tZ\/",
+                            "type": "descarga",
+                            "language": "Sub",
                             "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S02E13",
-                    "nombre": "Classroom of the Elite 2x13",
-                    "portada": "https:\/\/image.tmdb.org\/t\/p\/original\/d3ML6HoEhX8n1BZWXs4TxdQ6gVj.jpg",
+                    "episode_number": 13,
+                    "nombre": "El peor enemigo al que te puedas enfrentar siempre serás tú mismo.",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w342\/d3ML6HoEhX8n1BZWXs4TxdQ6gVj.jpg",
                     "enlaces": [
                         {
                             "nombre": "Classroom of the Elite 2x13",
@@ -785,10 +1986,66 @@
                             "quality": ""
                         },
                         {
-                            "nombre": "",
+                            "nombre": "Streamwish",
                             "url": "https:\/\/hglamioz.com\/d\/6xoa2d9hdmhs",
                             "type": "descarga",
                             "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=UW9oakIxOU90VXRjOUhuQ2tUeCtEd1pKeUw4aFBFdHlDdnpyWU1jdVFmNCtibWRBcHFxSzErbkZmaXZBRUdkV0EzQnZ1ZmlWVlF5YXVGNUVGSU5LUXc9PTo6L30VZivQIQ959Ka_CW41aw--&t=6bf2163131594d87d7b9e1eece5f28c1&op=NTA2NTc=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=Y3h2ZVNydmk3dDRUL3V5Q3N0RUFqS2xuTE9yZGVoMUpBcFM3VTdhekNDdmFrYmN3eE1OclpzVHVWVEIxbXRpTEZJOVFYTHR3dmpMNVA5NDB2eXhEZGc9PTo65c9oKS1w6YDaRNVERdpMuA--&t=6bf2163131594d87d7b9e1eece5f28c1",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/fyugtf3fzowr",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/jdx06o0ff9r0",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-2gwk8j9vjfpk.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/VleB5716W5Irp\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/10H06018XHnlm\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/RAlY6958rqrG3\/",
+                            "type": "descarga",
+                            "language": "Sub",
                             "quality": ""
                         }
                     ]
@@ -1183,5 +2440,5 @@
     ],
     "added_date": "2026-06-27 08:30:17",
     "created_at": "2026-06-27 08:30:17",
-    "updated_at": "2026-06-27 12:41:43"
+    "updated_at": "2026-08-18 22:58:32"
 }
