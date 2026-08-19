@@ -1,5 +1,26 @@
 [
     {
+        "id": "1787160080848",
+        "tmdb_id": "126027",
+        "titulo": "Fantasmas",
+        "imagen": "https://image.tmdb.org/t/p/original/kFiJUxYDuFzvnVoWuTcapGgSJ0y.jpg",
+        "type": "serie",
+        "year": "2021",
+        "etiquetas": [
+            "Comedia",
+            "Ciencia ficción",
+            "Fantasía"
+        ],
+        "rate": 8,
+        "added_date": "2026-08-19 13:21:20",
+        "created_at": "2026-08-19 13:21:20",
+        "updated_at": "2026-08-19 13:21:21",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 18,
+        "status": "Returning Series"
+    },
+    {
         "id": "1786834591734",
         "tmdb_id": "95557",
         "titulo": "INVENCIBLE",
