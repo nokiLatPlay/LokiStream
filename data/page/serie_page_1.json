@@ -1,5 +1,25 @@
 [
     {
+        "id": "1787163866167",
+        "tmdb_id": "284736",
+        "titulo": "Boston Blue",
+        "imagen": "https://image.tmdb.org/t/p/original/8pyxutHxpgBt8ZwbIG2TZWCW394.jpg",
+        "type": "serie",
+        "year": "2025",
+        "etiquetas": [
+            "Crimen",
+            "Drama"
+        ],
+        "rate": 7,
+        "added_date": "2026-08-19 14:24:26",
+        "created_at": "2026-08-19 14:24:26",
+        "updated_at": "2026-08-19 14:24:32",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 20,
+        "status": "Returning Series"
+    },
+    {
         "id": "1787163567417",
         "tmdb_id": "222623",
         "titulo": "The Elusive Samurai",
