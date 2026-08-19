@@ -1,5 +1,26 @@
 [
     {
+        "id": "1787104405404",
+        "tmdb_id": "1363974",
+        "titulo": "That Time I Got Reincarnated as a Slime. La película: Lágrimas del mar celeste",
+        "imagen": "https://image.tmdb.org/t/p/w342/5q1nyfdqhI1ezlCohQAnOTNumSc.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Animación",
+            "Fantasía",
+            "Aventura",
+            "Comedia"
+        ],
+        "rate": 8.199999999999999289457264239899814128875732421875,
+        "added_date": "2026-08-18 21:53:25",
+        "created_at": "2026-08-18 21:53:25",
+        "updated_at": "2026-08-18 21:53:25",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1787103329836",
         "tmdb_id": "1226863",
         "titulo": "Super Mario Galaxy: La película",
