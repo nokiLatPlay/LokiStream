@@ -1,7 +1,7 @@
 {
     "id": "1786835287592",
     "tmdb_id": "316205",
-    "titulo": "Deep Revenge",
+    "titulo": "El rostro de la venganza",
     "original_name": "ディープリベンジ-顔を捨てた家政婦-",
     "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/pN4PB0dU9rzJkuwk3RNuGg2dnjm.jpg",
     "backdrop_path": "https:\/\/image.tmdb.org\/t\/p\/w780\/36GPahqFqgVPQEMjN2qZK5Y8ptm.jpg",
@@ -48,7 +48,6 @@
             "capitulos": [
                 {
                     "episode_id": "S01E01",
-                    "episode_number": 1,
                     "nombre": "Deep Revenge 1x1",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/1QxKq1ki8WbTOIhJxVdUf5kRUQv.jpg",
                     "enlaces": [
@@ -57,62 +56,61 @@
                             "url": "https:\/\/hglamioz.com\/e\/qyi004t6bpfx",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Callistanise - HD - Latino",
                             "url": "https:\/\/callistanise.com\/v\/v6nn6cuigbvt",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Playmogo - HD - Latino",
                             "url": "https:\/\/playmogo.com\/e\/qckzibxh8jf5",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Hglamioz - HD - Sub",
                             "url": "https:\/\/hglamioz.com\/e\/j8367c8s2tcd",
                             "type": "streaming",
                             "language": "Sub",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Callistanise - HD - Sub",
                             "url": "https:\/\/callistanise.com\/v\/4hf0yehqpxlf",
                             "type": "streaming",
                             "language": "Sub",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Playmogo - HD - Sub",
                             "url": "https:\/\/playmogo.com\/e\/twx378x0wyqf",
                             "type": "streaming",
                             "language": "Sub",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Hglamioz - HD - Latino",
                             "url": "https:\/\/hglamioz.com\/d\/qyi004t6bpfx",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Hglamioz - HD - Sub",
                             "url": "https:\/\/hglamioz.com\/d\/j8367c8s2tcd",
                             "type": "descarga",
                             "language": "Sub",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E02",
-                    "episode_number": 2,
                     "nombre": "Deep Revenge 1x2",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/4tI5Bpm4r5tvBZgQuzWkxscLGXC.jpg",
                     "enlaces": [
@@ -121,62 +119,61 @@
                             "url": "https:\/\/hglamioz.com\/e\/177yrpv62h9o",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Callistanise - HD - Latino",
                             "url": "https:\/\/callistanise.com\/v\/dzs1k5t4lfqe",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Playmogo - HD - Latino",
                             "url": "https:\/\/playmogo.com\/e\/4bhwgvi3znmw",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Hglamioz - HD - Sub",
                             "url": "https:\/\/hglamioz.com\/e\/pulkei0cxan2",
                             "type": "streaming",
                             "language": "Sub",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Callistanise - HD - Sub",
                             "url": "https:\/\/callistanise.com\/v\/gjq1k2hoxvr3",
                             "type": "streaming",
                             "language": "Sub",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Playmogo - HD - Sub",
                             "url": "https:\/\/playmogo.com\/e\/kajyxv8zhhw9",
                             "type": "streaming",
                             "language": "Sub",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Hglamioz - HD - Latino",
                             "url": "https:\/\/hglamioz.com\/d\/177yrpv62h9o",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Hglamioz - HD - Sub",
                             "url": "https:\/\/hglamioz.com\/d\/pulkei0cxan2",
                             "type": "descarga",
                             "language": "Sub",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E03",
-                    "episode_number": 3,
                     "nombre": "Deep Revenge 1x3",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/8gq41wnWbe6T5AZlLSNkTRnyqw5.jpg",
                     "enlaces": [
@@ -185,62 +182,61 @@
                             "url": "https:\/\/hglamioz.com\/e\/04wsr3nfiiiu",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Callistanise - HD - Latino",
                             "url": "https:\/\/callistanise.com\/v\/wyrq8jmelwd4",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Playmogo - HD - Latino",
                             "url": "https:\/\/playmogo.com\/e\/0wzw812egp1b",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Hglamioz - HD - Sub",
                             "url": "https:\/\/hglamioz.com\/e\/hzbmfiq8t6a3",
                             "type": "streaming",
                             "language": "Sub",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Callistanise - HD - Sub",
                             "url": "https:\/\/callistanise.com\/v\/60it47rf3n78",
                             "type": "streaming",
                             "language": "Sub",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Playmogo - HD - Sub",
                             "url": "https:\/\/playmogo.com\/e\/imiq67ewq1a6",
                             "type": "streaming",
                             "language": "Sub",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Hglamioz - HD - Latino",
                             "url": "https:\/\/hglamioz.com\/d\/04wsr3nfiiiu",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Hglamioz - HD - Sub",
                             "url": "https:\/\/hglamioz.com\/d\/hzbmfiq8t6a3",
                             "type": "descarga",
                             "language": "Sub",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E04",
-                    "episode_number": 4,
                     "nombre": "Deep Revenge 1x4",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/4ctBGCcPNIwtAkiAfpvNJyNhVfX.jpg",
                     "enlaces": [
@@ -249,62 +245,61 @@
                             "url": "https:\/\/hglamioz.com\/e\/ksydtxd6tof2",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Callistanise - HD - Latino",
                             "url": "https:\/\/callistanise.com\/v\/l7l7v74do6za",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Playmogo - HD - Latino",
                             "url": "https:\/\/playmogo.com\/e\/j585gflz66yt",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Hglamioz - HD - Sub",
                             "url": "https:\/\/hglamioz.com\/e\/j2k466x54sjy",
                             "type": "streaming",
                             "language": "Sub",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Callistanise - HD - Sub",
                             "url": "https:\/\/callistanise.com\/v\/vlx71su0sjzj",
                             "type": "streaming",
                             "language": "Sub",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Playmogo - HD - Sub",
                             "url": "https:\/\/playmogo.com\/e\/8kv6hioi9qlw",
                             "type": "streaming",
                             "language": "Sub",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Hglamioz - HD - Latino",
                             "url": "https:\/\/hglamioz.com\/d\/ksydtxd6tof2",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Hglamioz - HD - Sub",
                             "url": "https:\/\/hglamioz.com\/d\/j2k466x54sjy",
                             "type": "descarga",
                             "language": "Sub",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E05",
-                    "episode_number": 5,
                     "nombre": "Deep Revenge 1x5",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/xokhn5ZZVGDKaRD9aEFv1uqJK6f.jpg",
                     "enlaces": [
@@ -313,62 +308,61 @@
                             "url": "https:\/\/hglamioz.com\/e\/l652uo0dpaso",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Callistanise - HD - Latino",
                             "url": "https:\/\/callistanise.com\/v\/10em035vmnli",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Playmogo - HD - Latino",
                             "url": "https:\/\/playmogo.com\/e\/n7384bz4kq59",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Hglamioz - HD - Sub",
                             "url": "https:\/\/hglamioz.com\/e\/odjokjtgndnf",
                             "type": "streaming",
                             "language": "Sub",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Callistanise - HD - Sub",
                             "url": "https:\/\/callistanise.com\/v\/zlp7tuaq084f",
                             "type": "streaming",
                             "language": "Sub",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Playmogo - HD - Sub",
                             "url": "https:\/\/playmogo.com\/e\/wjzo32eixtu6",
                             "type": "streaming",
                             "language": "Sub",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Hglamioz - HD - Latino",
                             "url": "https:\/\/hglamioz.com\/d\/l652uo0dpaso",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Hglamioz - HD - Sub",
                             "url": "https:\/\/hglamioz.com\/d\/odjokjtgndnf",
                             "type": "descarga",
                             "language": "Sub",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E06",
-                    "episode_number": 6,
                     "nombre": "Deep Revenge 1x6",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w300\/pN4PB0dU9rzJkuwk3RNuGg2dnjm.jpg",
                     "enlaces": [
@@ -377,56 +371,56 @@
                             "url": "https:\/\/hglamioz.com\/e\/b477siaz10ms",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Callistanise - HD - Latino",
                             "url": "https:\/\/callistanise.com\/v\/g6et3038t2hq",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Playmogo - HD - Latino",
                             "url": "https:\/\/playmogo.com\/e\/ia5djgb4h2wg",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Hglamioz - HD - Sub",
                             "url": "https:\/\/hglamioz.com\/e\/9wpbhej557pg",
                             "type": "streaming",
                             "language": "Sub",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Callistanise - HD - Sub",
                             "url": "https:\/\/callistanise.com\/v\/nl0fktsl5t7b",
                             "type": "streaming",
                             "language": "Sub",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Playmogo - HD - Sub",
                             "url": "https:\/\/playmogo.com\/e\/h6x1tvzw9gx8",
                             "type": "streaming",
                             "language": "Sub",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Hglamioz - HD - Latino",
                             "url": "https:\/\/hglamioz.com\/d\/b477siaz10ms",
                             "type": "descarga",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Hglamioz - HD - Sub",
                             "url": "https:\/\/hglamioz.com\/d\/9wpbhej557pg",
                             "type": "descarga",
                             "language": "Sub",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 }
@@ -435,5 +429,6 @@
     ],
     "added_date": "2026-08-15 19:08:07",
     "created_at": "2026-08-15 19:08:07",
-    "updated_at": "2026-08-15 19:08:07"
+    "updated_at": "2026-08-18 23:28:28",
+    "update_states": "No actualizado"
 }
