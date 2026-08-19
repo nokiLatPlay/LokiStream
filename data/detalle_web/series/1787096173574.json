@@ -3,7 +3,7 @@
     "tmdb_id": "82684",
     "titulo": "That Time I Got Reincarnated as a Slime",
     "original_name": "転生したらスライムだった件",
-    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/sCqKbuBf5t3gPIoV6prIgxk7Svn.jpg",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w500\/rQJ8EHSyDtgdMb2JWdD9zOeZQUd.jpg",
     "backdrop_path": "\/eJOy7YWAHgOS3V477sdTsq4v9jp.jpg",
     "type": "anime",
     "year": "2018",
@@ -13,8 +13,8 @@
         "Sci-Fi & Fantasy",
         "Comedia"
     ],
-    "temporadas_count": 2,
-    "episodios": 48,
+    "temporadas_count": 4,
+    "episodios": 90,
     "status": "Returning Series",
     "rate": 8.4000000000000003552713678800500929355621337890625,
     "sinopsis": "Satoru Mikami es un hombre de 37 años que tiene un trabajo que no le gusta, sin salida y que no es feliz con la vida que lleva, pero cuando muere a manos de un ladrón y piensa que es su fin, se despierta descubriendo que se ha reencarnado en un mundo de magia y espada… ¡pero como un slime! Ahora tendrá que acostumbrarse a su nueva vida, aunque por suerte contará con dos habilidades únicas que le ayudarán a sobrevivir: una que le proporciona una gran comprensión de todo lo que le rodea, y otra que le permite copiar las habilidades de sus oponentes.",
@@ -2724,9 +2724,2935 @@
                     ]
                 }
             ]
+        },
+        {
+            "temporada": "Temporada 3",
+            "season_number": 3,
+            "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/rQJ8EHSyDtgdMb2JWdD9zOeZQUd.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S03E01",
+                    "episode_number": 1,
+                    "nombre": "Demonios e intrigas",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/qGdvJCuZLL3XTlaVcokjmjOYwVT.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=Z2lpa3BMd2hrRzB0bk1PZytVV2JvNkQxTTRYcXQxOGlzWHNranpZTGR0RCtZYWlwL0dlMWU4ZitDT3FaM2xxdCttL2lOMFpPcmQ3QU5reUsreE4yRXl3M0NLNjE4bUtnRXJEdUZWcncrc2M9OjqyAAlOP9O9JRkKIDjYoXQB&t=fa625e2e58c23345413fc3dad294e535&op=NTY3MzQ=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=V0UvUG9sRlppSTJJengxaGU2dTZHYlZRS1FkU05ZTWZYcGkyQUZYMmdSVFBKMmkzb0RDRmxpNlVESkhhWndRMWFsM2dwUWt2TEZaeTBzNDdiRE5qVHRrSlFuV0l6cmExQjNDUDdwZlJGNDA9OjoRd5mF.93ZnyHRvZ8vhDEO&t=fa625e2e58c23345413fc3dad294e535",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ovw5gm5d2iy6",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/cw6gj6buukmo",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-0xva7cgee4gq.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/kgmU3535neKKy\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/27ev1779zp8nT\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/8Et23521Nwiss\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E02",
+                    "episode_number": 2,
+                    "nombre": "Los planes de los santos",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/gnkxMRfTMvM4MINia242eUwC2BC.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=WmVDbWdGM29PaHhOSmJHQW50U2tGRy81MzZVT1plaExCZGEvU2loSkQ2NTN2M0lRZW5acHhrbjFDSWVyeTNNOFozbDhrelRmQytzemlneGNJUU95S3MvZlhKc0tZUkRYb2tZYzdhSlVYdEE9OjrWAJFyycB6Q4pNqq61KQEC&t=43ca5642dc95274d459c203a12d81200&op=NTY4Mjg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=cGxLNVJFMkRXMXdWOWREMzI0ZVprQ3l1dTdXei9HdEJ6TmhWbE52K3pYNHFDRGpkVXltbjU4a3puUkdVblhXUXdjSE5Ka21JT09qREpLZFdFK2RiYjM2aHVDeDJhL25hd0w0WHNiN09Jb2c9OjqVQJMmpeOrPdV5dZLbEiwT&t=43ca5642dc95274d459c203a12d81200",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/i87hgjkju24s",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/458rv0opt8zl",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-oxxya1prmq4v.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/JlEu58028i57c\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/E7xY093876LAn\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/i7Fe5801A551R\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E03",
+                    "episode_number": 3,
+                    "nombre": "Días de paz",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/oX5lgWyfgFytnF4CMd54iiSZk4z.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=aHpoUnFPRzJVb0JrZ1I2Ni9UclFGcEpzZ1hUbitrY2NyNGc3Vm5XMklIYTBFRkdkRXZlcHR4VURCcGRoYjc5bkZjOUFDcTRPTkdHVTRETTVjd3I2cWF4Uzd4bjg0ZnptbWhuYjUvNFVIZzVNRmRCNlc1K2l1eWNRd0I0Z1cvaGs6OoUypUtdfo9dfbL5WA9WJdQ-&t=f38da45e4a8c68f7fc6bd3cce0dc5d71&op=NTY5MTU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=Z0NlT0RzQWRPZkJXeXZ2U3k2MWdONE13MmVOWk1EejI1cVR3VjM1Y3F0a24vNlVaYWw3MWJzaEF5NjRJMzgwelJlM0ZTK3JpSXpGdm9wanU1dDA2TWtRTUNpNUZ0RmM5ZzZaSm0xR0VTQU5SaktaVyt2YnZ2SHZXTGQwSVBRYzU6Onrtunn3uVPvjNZitOkEPag-&t=f38da45e4a8c68f7fc6bd3cce0dc5d71",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/wgqiwelydwrd",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/7ni3ztncmc2p",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-657kb1z03mm1.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/QqiV1206jW5ep\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/pCRP0029idZne\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/eEwJ1198n8o5q\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E04",
+                    "episode_number": 4,
+                    "nombre": "El papel de cada uno",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/jxataJe0pYR1TsO6XdmALL9ANxw.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=YXE5bnJaWUZ5N3pvYjl5djVGRVRnd1dYNXFOZnVNVEVpcG1rMVRBbEtrOEVIbXducFlZdDJqU1owV2FDS2ltdGF6NGNQZ1JvQjFqWE1vZUFjVDBYeStRUmdxcVQvSndMWi9iOS9QQWUxNnFRZHVkbWZUWkVVWHFzRlBSUkVLdjM6OlAfy4.iuXZw3n2zu8f61eI-&t=da8c1fcd952e2b89c832d81edbcf65ed&op=NTcwMTQ=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=M1YzaTQzamtveGhlRVN1bVIzNzJHYW4wWnBvbkpsak1ZTFc5S2NSeWM4cEtjMThWNW5wTnMyUHpnTTBoRG8wK2NDWkFEdVA2dTd5d2JkaFhGYWFBK2ttSTFrNmY5eDd6NFZoeFp4RnZybVBGb052bjBwSHhOVWtYMjlXVlBSbVg6Og8WOmeKoGl2iJP8m2t9biM-&t=da8c1fcd952e2b89c832d81edbcf65ed",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/z51xaaaddvmx",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/c4080fhx47ts",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-7y1okedqnhe5.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/bMVs893999rH3\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/PzBV9137zyMih\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/fwXc89330YsHf\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E05",
+                    "episode_number": 5,
+                    "nombre": "Reunión de las dos alas",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/kzmSrgouF94DQPtUDh4Kz5TKWD8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=SXM5ak12aTBncm5GOHowSnVFOUhBMkovc0tFcWcwR2dzSG1JTXdsY0NRNU0vT1V5UG1oRGpIbUp3dDNld0xNdjhFb29kc2FwTERrS0VUWERnY3ZseHE0eUJ2b1JMSWxhcFVpS3FFR2lsZ0U9OjpPUNgFxGXF5lcfxxEuh_cH&t=00084f9d61b2589446c30b8c86b22835&op=NTcwODg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=bHhmZy9tN0lGbXZndktvUWtrYWZxVENyTFNLeUs0Mit5cHJ4UG1xeVE3ZHlWMmplWEU0S3VvTlVPM3E5anV3a3BSWCtPc1AzK2d3UjRYM2Rma09lOXdTRlZLVFBzVUs0ZlU2a3J4ODRuUUE9OjqUxCssJu_Y11O40uv7Cybg&t=00084f9d61b2589446c30b8c86b22835",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/dyse3arn3ki4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/sj3nxhmmi8mw",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-v1olru8hyyup.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/IKp94658RHDAy\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/n5qA8402L46Dn\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/15lj4646bTUb7\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E06",
+                    "episode_number": 6,
+                    "nombre": "Los que se aproximan",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/b8A5oHCMXL1jjuO2M03JscJdzuS.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=NTBJa3htY2VrY0krVVdrWm0xaXUyMExmRVFwVFdNM1FxK0M1MlAwdGxJR3g4UjEyeTNPK1BtV2Q0VGY5V2xGdGtKc1g3S2lud01jTmJWdERnRzdFTENlNHJTbDFydzdXYVkyM3U4L1ZVUEE9OjoBCzNynzkMzzr459AvokZq&t=c543695a97fc5840f39c59bf913de94a&op=NTcxODc=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=NCtJL0ZIaVJ1MFBaT2dhWlg1aXJhWndSN25oeTJWREdSMm5XL0RYeFdtVDlyaGV3QTRCSzF4L1o0YldiMGFuYXYwbnp1VDNOOXRZTUtZaHN2VEJkbGE3eXQxZjM2UlNYMmtGWVB6WGJLaWM9OjqjVndXU8Xe1MfweNas5Png&t=c543695a97fc5840f39c59bf913de94a",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/n03quwaio8ft",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/ait7pr86bjof",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-q3jgodvhrdoe.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/2KSh5960FxKyI\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/vNdK6206TRbr6\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/ETEN5950BE1s5\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E07",
+                    "episode_number": 7,
+                    "nombre": "Santos y monstruos",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/6mNV55ohN64U7aJwEmJjjp4hGKi.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=OS9FZGNJZE5DUnJyRHpEaE1DWTFIcWpIcm9mMURRRk12azY5Y1g4L2Ftek5YSERIZEU1K3YxbFpGd25YSHlDNFduY0N2UXA1aERXNU1GeEl0ZHh2elhWZWJsNUVNQzk0MHRXcWVhUEtXa2s9OjoIIAdpbscIY8GVIhKNxrty&t=b5b8bbb76d29b9f4b27912d042fa4768&op=NTcyNzA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=K0FGRFp0ZFg4VUMvUVQ3VTQ2b24wQitkc05GTUJuTUpFRGMyRjNMeFFOeGdwenVEdHh5bFU3MStOaFF4RXFaRWVpWnVaNWFLNkJLT2l3VU5RTC9SLzgzYmI5UDZHdDFva0ZvZWtrMWJmcEE9Ojr6IwVJL7.aS1LSI3KKU5KL&t=b5b8bbb76d29b9f4b27912d042fa4768",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/wvx1scizzulo",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/5f8p7ot1xfj2",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-slfwkrycbsu7.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/e\/My46PVD9qWSDOe\/tenseiiislimeshitaraaadattaken3rseasunss-07.mp4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/J8sW8132ejZSd\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/sSvk81696vRT3\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/wFzK8126jcAoi\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/d\/NKJ28164RBC7u\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E08",
+                    "episode_number": 8,
+                    "nombre": "Empezando con mal pie",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/c3Jj3Xb99fSvJJpvddxZnq3dy0c.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=ZGVicng0bTJFWkJOVzM2Y2xwTFB4czB6NjN6NkY3aXdwT01lNHdZeVRxRXVYZ1k4alRTNmYwcFRvb0VwNExHWENIbm1QcEFLZTYvUmhmNHk3ekFvN3V1Q1dtbDVpaVlFZHBaM3lRSzJhL1U9OjqSwPpG2RF_pelIqCLju198&t=41aba4cdb909aa4a94d733371ab9d285&op=NTczNTM=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=c3d6dzZVUG1OMW55STlvakE1WUp4ZWo5dXI5RzhMbGZ3cmdyQkRqRUI1azZmMmZqQ2o4a3lhT0M2YkpLbmljTTgxa25oVFFiTkNaNklKZ1RqUWVRemVFM3pJRU1LU091NU9GNFgxR1pUZWs9Ojrbvxr6Z0Lxv.Aj5KZk7tpe&t=41aba4cdb909aa4a94d733371ab9d285",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/yaih2c66zz1z",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/dd2mxsgogtwo",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-occfxkwgsub1.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/wFPt5715HwmAk\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/RUtL5766PeUvC\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/aDSL5700HSD6S\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E09",
+                    "episode_number": 9,
+                    "nombre": "La conspiración de las Siete Eminencias",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/bGT0jO2TjNWLg3OiDkGdaSJP6g9.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=Rmd0TkhldWorWFVhbUtWd3RuQ0duWE1CbStPQUFKRG1XTWxHdFN3QTdlUTlGSGJWb1dwUnFKdVo0UTV5UDYzRTZKNVhrMU1JdjdvMzVpUzNnMkpaRENqRDl0THpiaFduNDN4OG16S2hqUjdzWEJNMCtCdGI3dW1qWmtmWlhEaGs6OqKeQSTcCfTiWc45CKwNEVk-&t=7dfb632a3a55951b44533f5a5f52b8ab&op=NTc0NDQ=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=M0phOHdxNUlxNGpyd3RlVGZrdHhxMkgwWHRWOU80eVBzWkJnUVBoYWU4SnpNY2JTY1Y0T2tBRVptTllqWjZzdHdJMnhid0t5VnE0VGE1UHpXTnpHWnFVQUt4aXlCZGlNQ202Y3d0bU9EVnBPVGJMVDZLeWRwbEJDSXJQUWRNWE06Oq517KwzHkOf.7j3ahtVG2c-&t=7dfb632a3a55951b44533f5a5f52b8ab",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/fv7caw7zgnai",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/uvedcu2f0zqw",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-z9ova90vvqqa.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/h3AF1163WwLMU\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/G7Ri1211p8MOP\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/JUQK1146yoE7F\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E10",
+                    "episode_number": 10,
+                    "nombre": "Dios y Rey Demonio",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/9jYxy649Hdhsq8h5TvuLHiAAv7B.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=QUtRNDgrS21CUGEyOXhBTzJ1VDQ0TTFzNkkrNXN3NHpFemt4cnVVRVhBb0NqbmxFekJHdVpPVS82Z1c3UDF0OHJMU1EwRSt4TDcrY1M3a2FNNVVYbGJiY2x4cS9ES2ZLUE85NVdSOXBlNEZYNFNReEdqZmVlQ09BK3FrT1JmU3U6OkywgXcKMw17c35SFM1WvMg-&t=7977754bcdad0b7a9c7ae4aa4d9c74a9&op=NTc1Mjk=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=ZXZRNEpOUlM5RDY5ajBPRW9jbHRGT0JLSlNiK1g1MWFxdjVtbXI0YXl4NzM5cDN0YmdrQmg1MFcrMytVb013dFM2OHpHQ05QcGw5YWUrQnpQclB5aER2K1pjb05DT3VMM3hEVXRpV2pOTjNtNDFRc1RsMHhoRXNaNklsdlVNS0U6Olp10XPeOV1jUMoRUWcmjTg-&t=7977754bcdad0b7a9c7ae4aa4d9c74a9",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/jkxey9a78yih",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/z1x3jk4xm0eq",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-lj95q5fnsu13.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/w4pJ9666tcx1W\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/IxXh9692MHlj2\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/E7zE9644SYj4u\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E11",
+                    "episode_number": 11,
+                    "nombre": "Reconciliación y acuerdo",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/wwHzXThhY1lXcMWSRbVStjdpLEw.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=aFo5Nmg2bngvclpQbFh0bWRoVGtKa0s4Y3dTaEgwa09OdlJtWno0NFoxZlFuK3c3cXZKa3Q5eDFkZ2lzNUlJU3c2VVVYaWxqdVI4b3NrMnNYQ0tUbHErSXV4SHd1QklBVlBzc1JiUENKZlk9OjpORJmYefNEdlTbIflwj6_L&t=b3b7b2aff3ddfe9ec5bb8f4eb3eb8049&op=NTc2MDY=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=RllHcG1JU1dlNHgzU0ZpRzdUVVBLYjVGbC9qaEUvVHFJUXJkTzBOM3FMMFBxRU1laWlGdUxEaFNHd1BLR01Semg1R3lZOVg3SkhzUzAyTGxOSFVkcktvcXZBWU10S3d2TkIrUklxTDZ5ZXc9OjqJb1cLFcOrzN5g7rIa6PRT&t=b3b7b2aff3ddfe9ec5bb8f4eb3eb8049",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/q145j92xul4r",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/ptuajcuooaaa",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-9icd6nchi8uq.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/PbpM1340gb0BW\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/kvyz1381FHeCD\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/LoOY1333DN84V\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E12",
+                    "episode_number": 12,
+                    "nombre": "Preparando el evento",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/hPGZS4IGBxTQVZJmhgUwIIFXslH.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=MzdkOTlxeXNIRWhYalNLSGFySXpaNjVSWVNzaE9sMFJKaU91VWhYZ3h1VnBPSUxzbGRoRWFHbzJMeWhrRVZWNm5aVExMZ3BzUVlPK3R1L3FoZys3TnNEblRMU1NHbGNqdkF5WVRVbnF2aHBYaHo3QVJiRWN0alVNNVhsekdsTHM6Ol870cZrfuxaKBl5ls41phY-&t=3364097e1c5533db73ce8bd51de6206f&op=NTc2NzU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=cTVGMkF4aCtaZ3ppbktWWllzTUNFR3ZRbzR6ZDlhZG1DTkN1Nzk5STQzQXJtMlNKTis0Mk5OQytvbmw4bDlSL3FKQlgzSDd1ejBtb09Td1VmQWp0RGE4UlcwSThRL0JKZXNYRytESmdtOVU0dlh1V0h4STk2OWhBK3dMeDE3djE6Ou30y9DkOvCDMCB4uBv3rho-&t=3364097e1c5533db73ce8bd51de6206f",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/y5m241b5g72v",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/c82qw87aw20a",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-fuw8c0yf4el7.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/C4Dy65493lMIH\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/GAw96621AIbJr\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/k12n6544CLwdp\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E13",
+                    "episode_number": 13,
+                    "nombre": "Invitaciones para los reinos",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/3zBjNDMUpcRVjgFjZocBEGqAT9F.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=TjRPTDhMVkdVeFpkTnp4K0F2dFBmU05DdVhrODBtaTdxQXZjelZsVGV3eUFTb0haYUprbHhzK1RURDd4d2puMWhnZldYaTdJU1A0V1N1VWRXOWdtN0tUYnMyMUswYXJBS1M4OWsrZWxEMTQ9Ojos0HM44tBjr3_Tuk6l5zGE&t=d61cfd3cf3a439ebb1012e56dd59de10&op=NTc3MzA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=SmI4bU5kWldBTGNGV0V2MEI1OUpkeGxORVU4T0V2L1IrWHBJTW5BSXBNaTdsSG5QTit6dVkzRkM5WjhDL1Iwd3dxci9LdmYyT0szSHFSQlhLY0I4M3Z1U0tJd1NKcCtwMmpKb1hFUldoRTg9OjoOChIhtkDAtMM1d7gcxgqx&t=d61cfd3cf3a439ebb1012e56dd59de10",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/gx35szt8txks",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/89u9cf9hek4p",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-iuwxkzkys8s4.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/DF0v5399vIB24\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/EY2R5655PtPOf\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/Nwzd5385hYBp5\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E14",
+                    "episode_number": 14,
+                    "nombre": "El laberinto y el Dragón de la Tormenta",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/r2etwUKAEWtBwpS1IxawnFGUXDL.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=NnRoUjZFT1lDbGs4Ky9tR1Z6ZUU5SURZODNEYUg5N204WVZ3ZlhaM2l5VE13RE4vZUtOUWh6R21kNUtNVW1TR2dOV0JxdjBXL1lNMUxVYm1ibkJyYXhBbndOa1FIUFc2clVpS1QvY2R0QTlqVjAxelpWMVhHOE5tMi9FOW1JUXc6Onz6_wcUQUzVMj4x.a6c.T0-&t=fbc37d367bdd6d810ab7b8fd0351fcbc&op=NTc4MDU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=RTBKZUdFMkk5WGFGZE1NVjhzaSthOFlYcjVmclJTTmJHQ3pzcEtoZG8vcjlPaEdqL000TEhhNzh4ZWlqclNYMU1FaHplU0grRlJaaVpnK202QUVTSHpXQWpJN0x5ZzE1NkV0SUIvUFY5eFRHckJRazRFL1VGNW5lYkF6YnRpZVU6OilG7AQIG7KoFH0aig24GTo-&t=fbc37d367bdd6d810ab7b8fd0351fcbc",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/prfuzfeuue2u",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/sh4docrsxvhl",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-cu6fzxj4bx3e.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/JztI5170ABh4p\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/jb3R5213tgTQT\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/SAu15156C1o4g\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E15",
+                    "episode_number": 15,
+                    "nombre": "Audiencia",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/3sNFkBcw2Voe9B7vNj2EZw9f5KM.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=MmRuT1ZOWWhYSWtKdWE3cE5idmdERlV2UmpqSVM0T0ZRejIxNEtaL0xIc0o4NTVkTnE5VCswRDl3S3NlNmFEUDhoWTZYaDhLbk9XdjdjKy8xYXQyZExXb0tLcHBkcXA3RFd4cXlwSEV0RTlnV1JOSm9zTzF0K0N6eDBqV3A1Ris6OhPiH2ak8KFI0juSzxbHZvk-&t=38fe6805d0931fe77ec8c4362583150e&op=NTc5OTM=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=NkdKZ3B4eHRQWjlZNVJaemY4N0RCbUZlMTdGVUJJUzduT3M3REhTRWkwbTdIVmRsb0ltQUdNREJEWU9lZHBoWFoyK09YQ2orN1FUM0dBRTFLcitLR3IvTll1NXEweGw2RFEwV2hZdjZNak1NaGEyMHZvV2tlSDlqOEYxekJhVXU6Otg4jK8xMniDGnfomClQW68-&t=38fe6805d0931fe77ec8c4362583150e",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/webpr21mxw2h",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/4bx70g3rphj1",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-s6i9e7dm7obl.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/yt7Q3474wy0hj\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/YgQh3499rHZO5\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/ZvfA3446YCuyb\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E16",
+                    "episode_number": 16,
+                    "nombre": "El sufrmiento de Benimaru",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/pimVG6E4gDUEpttY4OZCXDLZmbb.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=U1daZE80N0Q0S0RrTC8rNWJNVlJlQWM3cG9JaUNUb2NxampFK0k1b3FQNDJ2cTdSSTN0VGFWVkJub3NySWtzeGxQYXFJb0JyOTEvSkZVTkJueSs3U2RJTTZqaXIyMm1pcGFTYlZ4OHRGTTg9OjqDOxS24WZNF7kaTGgWQ6V0&t=d86174ac58c7a906ae4d64150a7c3883&op=NTgwNzc=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=MXYwUHd3bVY2anVLNGhDYVNFb2FJZ25uVU54TW1uelRCQnp1L09MVzVCSWtXbGZJUStWU1NjcFp2Q25VREpnZitURkZzbHJIWnd3ckZtZzdGUUV2dEs4WmFnWGxXN2ZUWkdpY09hRUhnVFE9Ojo5zBDgpEU0pZcSB_cZ3Jqa&t=d86174ac58c7a906ae4d64150a7c3883",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/1qr38gx2w0zr",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/kve25rtmrm4k",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-79vboxyzodwf.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/hVWB1349rugTp\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/gQH91373KylOY\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/lOYl1340tOabR\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E17",
+                    "episode_number": 17,
+                    "nombre": "El héroe destello",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/7xUiEXbNU4yWw4r8XWmBrrC6wsB.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=dUpPZ1pvVGZ1d0Fhb3dHV3J0NHltWVVseXpwc2pXTVdDWVlRMUYwaEpIb203Y2w1VDVWU2NQMVpjaFVPL3BCb1NocytSVVZNbHA3RWZkSzY3d0ExcDZyYkJOZTI4d3BqTGFhczZjRDhFSWs9OjpxytXAu1A1xtCowgQcWK4V&t=307f4521798e1d2c83033722865e437b&op=NTgxNzk=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=QXhiSDkya0N1VDhEYWdqMWY4d29BVlRlZnplZGREd1Q2ZzNVUUd1V092OHRGdlJWUW14QmVBQS9VNEdqZjQweGtjOHpGcHZkRUZHVVFFSDhueE12RHQvOTJwdzBxTy9BV0lnL3lQeHVZYnc9OjrllhaVOtrU9il0zi3TZkTZ&t=307f4521798e1d2c83033722865e437b",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/4nu1is72zl46",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/n0tpkosy1bga",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-gtjfg4m9jfda.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/lmIk9048FBpiF\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/3fpy9090TPp7e\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/tOyG9027edeL8\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E18",
+                    "episode_number": 18,
+                    "nombre": "Marea de visitantes",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/er7j1Py01CRLM8ZOtzv5yBVREjX.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=YnBiM3F4WXZ2cFdpMGN4L2Fmd3Q0SXQzQ2UwN1pyUm5aV0U2S051bmpGN1FkeFgzS283cXlQU2tqUXFSUmxOV1hZaEdFSTFjaDhBTVRNazNTUFdqQWRNc2dnb0dtQkhod0s2Mmx5bnJGSGs9OjrtlTYj3U7KhnEJcEoRmlTa&t=a65b7c502d0f2bea2f8846a998a24ad5&op=NTgzNzI=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=akV0V3NqQ0poZ0NrVFFLZzg1dEVwRWF5OWIwSnUrL0VwbjdVazc1aEVjSzlYOGJXZmpWTXh3MSt2SVRYTnh2c0xXSXFza0p2cGZNWkU5MlZrQ09WZzNFL21pYm9PRklEUGlEVWhyUlgvcXc9OjpNe6OzDo29_iinls3o.NQO&t=a65b7c502d0f2bea2f8846a998a24ad5",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/gjwkhdrzz0bq",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/z7udca820c5r",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-61u1fubuxl0c.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/bb883827Gradj\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/aGgc3860NWLZ6\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/L4nw3817Zy9ja\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E19",
+                    "episode_number": 19,
+                    "nombre": "Víspera del festival",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/sDHYySPS447hY31ukvDRAar0ODo.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=cU54M01kajZxOEJSbWxTTGN1MklPY09xdW5hQm5FUjFwSkg4bUFycmZKbUY5dlllRjR3ZllYVHlRMVhlQzVZT0xUanlmSHV4eGYzQXUrc3FoaHZNOGxLVDlqOTB2K1dTR25OcitGaC9aQ0E9OjoLeqK1CBlTdT8Yy0zkyGB6&t=b60fc1b2c1e0dce26cd93c788ed713a5&op=NTg0NDE=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=cWdLVzloSFB6VGwxSSsxWVVENG5Tb2RaOEpZL01iYXpvT0xGdTZKa0FXVmhIZTJQbmUxQnBtTGZNUm05Y1p2MWhzSEpTdURSSlNqMzlCUTFOWXdpWnp6QWJ1V1pOWU1vd1orUlM0YjFNaVk9Ojp97hE007jiYQhagws2eQMk&t=b60fc1b2c1e0dce26cd93c788ed713a5",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/arze6z61sxa0",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/83kil6dht4pd",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-7xyhkhza4ou4.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/zOdR29699B22T\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/wDRK3083hsv8m\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/ICu12957Ov16T\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E20",
+                    "episode_number": 20,
+                    "nombre": "Festival de Apertura",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/ibk5z7Byfgqi1J9Fv2iZ0iMqizh.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=ZUREdXY3NGQwajJWeS85UlVQVUlpSlFTZFpwbmhsMjltVlJIN1ZJeTlJY1FkNFVvMVI3TzBhUXkzQ0JUWXdQS1lKdHZCRFIwdm90dlJCMG5Hc1hTTUNYTk1ySXNRT2NKdFVSZU95WEQyZGM9OjpCu1BBCVjTVauF6dNkdl1O&t=cdda6b7bb5cd7df0ae1f0f54b4b393d2&op=NTg2MDQ=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=eWYva3E3OWU3b0FQZkNuaytaUmxScVhRa1RYaG5LTWdHb0NneUpVcE1OMHZ2QXc5bENkbE05eEdtVVBMaVdzMDRRTUlzVHdiYW5Obzl4MlpEdU4zWjNNRjJmNlV4Z0ZIWlNpTldJVG1SYXc9OjrRacC4RyTievumJ5wln9n4&t=cdda6b7bb5cd7df0ae1f0f54b4b393d2",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/l37b30zmql0z",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/jcoo355c7dy7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-274zea78r5ng.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/dVZO7316EEXjP\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/NxGd7340tuMSH\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/7pnK7303AAt6C\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E21",
+                    "episode_number": 21,
+                    "nombre": "Torneo marcial",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/eeBoOXCFaClxOoZYkVjxQejtRVe.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=YXdKWWhCMm5ud3o5UGc5K1Y1cVdSTG52SG1FZVJkcENRZXMvQzN4Vm9nZ1ZuaDE1OVlEMmpHMzRjREwwZ3VKV0o2Z3N3TnNya09OOGF5MjZWZFZOK3BzVjU5UGtNbWZvZ1d3TUt6SUtVTHc9OjoZhgYMT4vJlUj_LoMz6ynR&t=d38af27810a28aefc94cabe990ee9f68&op=NTg2OTA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=SmMvQkxIQTBvN3BPRDFWRHozNG96V21teWd6NTlvRGtUVGxpbUk5alpDelNERUdDQmhDSVVuTCtUcjVYYXBHQnJGZGRuQ3c0MkJCSjZNK2hnRENVSkNiSzBTRXRmTlFwWHdvQ2E5OU1jNEE9OjrwVcr0FMa1yOIISD3jPN6q&t=d38af27810a28aefc94cabe990ee9f68",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/xc3ito45hi4s",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/coqczcjum9k7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-3e74q055uw23.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/IPeZ82374q6fh\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/8vQq8265YGY54\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/sJw58218UDVg2\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E22",
+                    "episode_number": 22,
+                    "nombre": "Zanjar la disputa con el héroe",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/cvHGEtq9GNlCw881vxQGdiMKVSh.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=YWVaOStwUloyQmcrUnlGS3ZmMU00UzlDUFhEbm9aSGkrazhtc2NIczg5eFZXK0U2VUgyaGxxRW40V25LRld3SFJIUlRqckhZNTdTZUpwbEE2R09jOS80SldUUXRXaHN5UlNMMk1vWVV2eEE9Ojpo5r01TA8ZP1RgvkCpCB7Q&t=b0c513d09a02a4d7ef35dc4495e11c7c&op=NTk5MDg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=S3hmTWNIRnJtMEVwNCtIbGFyUkRxUDF2Z2Y0Z01TenBnYWduK2hncXJiWm1rS0xLN2tmNHB2a1hIeE41QVQ0TUVJZFU5dTh0S0swTzVGZ0puWFpSZ3RJUk1GLzBNRlAzUzdDc01PandKQkk9OjpreZMQQRWWw6CouWTWFKTU&t=b0c513d09a02a4d7ef35dc4495e11c7c",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ju9otsjrzb86",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/0f4j2t1z6s1p",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-xonutdzwmyw8.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/8RRp9957ZPp2G\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/urr90012QQSWu\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/Apuc9949FTckI\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E23",
+                    "episode_number": 23,
+                    "nombre": "Se abre el laberinto",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/W2cb5PfYVUTZyxskYTnTWw93Ps.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=RGZiM0lmdjY4MnJvdUwwbjNUTkdvOWVWQTExOExtb25zcU9lZnRZL1RuMm81VExrUzlzOEp2Zkw2eS9zVWFvb1ZodUVaZGl0QzBjMm05ZUhRUVVBb1BrZk9EQjdrazFOOXNubUt3RU9Zams9OjrPfknz3g7njhGzpCGzRI0E&t=94655a4f0e6cfa40b54fcb7f2376ddc6&op=NTk5OTE=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=MTMvR2ozSWp1K205aGNXL2dRUko3NWl3MlRBUmNTcDZWQ2xFelFDd1hqT0hkbExaSEZyemdBNFdaM1JaSmlzbVROVGM2aDRna3N1bmVPaW55Tmh1cWFwYVlFQ1NZUWoxbldqZXd1TTU4REU9OjoxBuNanKYT4wCw0ulULm9y&t=94655a4f0e6cfa40b54fcb7f2376ddc6",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/7dbqapdy9yd6",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/pnmlwjzlfxg8",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-6q11x7y3hpd8.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/bWQs2700gIdEi\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/M9yy2758ULFSr\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/W0wr2687gouem\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "1787096173574",
+                    "episode_number": 24,
+                    "nombre": "Después del festival",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/uP8ocjWcFCWazhPpP8wVpGfezYM.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=Z1k0SVZuNnFkaC9TUVk1Z01pZEJvVzgySjluVlkxazZzd1pzTXYwMXB0TG1YNC9SS241djlpQk40MStmRVc4NnJrYzQzNTVoUFlHRDZwdHhkdWtwRXBsSzdwVTQyczlrOFBSUUxhR1hDbTNVWWpGekxZekduWFJoaDM3M0tXZlU6Oss.tVt1b2c4itB3uDGZ1b8-&t=93cee704d0ff0766b3b6af384cfb7f37&op=NjAwNTk=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=VW94bUY4bWc3S2dJN3VIT3hiVzlZbXV1d1VWQS9lNW1FMEt1STNZc1dyWFA1OURHVCtZcDgyR3FmeW9EN3h1VDVabVQyNDdDTW1sakcvdmxJb1hybDl4Q0MvU0dpV3pRWE1jbWxKOHlJU0haQVRLM0F5ZlhNQUNjQXRISEoyUG46OibZRenKl0ymNu.brqLRfEE-&t=93cee704d0ff0766b3b6af384cfb7f37",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/hvtshbirxgrq",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/gub0bxys5pf4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-lglq30ecqf1q.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/IhnO6777s5WwD\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/Clq66821ecBd2\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/M0I26764YgSUX\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 4",
+            "season_number": 4,
+            "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/prvAooNqgzTPkXc0iyzN5QqpoUA.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S04E01",
+                    "episode_number": 1,
+                    "nombre": "Una nueva rutina",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/gb4p6xHYwN3c4gYlnVzvpFtlOB8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=d1FMNXhCZ2VXZGtaa3ZVbzhrdkN5aFZwaURtMjhqRVI1eG5MZWFNTG1sMEdYaDc1Mm9yYnNRVkxRYlVNWDlrN1B0ak1GY2Z2NFFRaTI1L2lDdEdKVk11WmtKWlphZkJmT0RJYTRqS0xleGM9OjqtTl5GOPVw3G0B5Dsj0359&t=74d46c260ef0f818d4ef4dbcdb44fd1d&op=NzIzNzk=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=dHNLZHd4SnYyMjNYOWJ3TkE0dUMvR1c2WEpDTGFjNFVjdEduNm5CQ3FaaWNGVmE1V3ZDN2lROXhDUUpvL2hvb3Nqdi9IT3hCN3pXSGxlbkFhRlNocEtIUzE1WVZyMGlHQ3MyU1NBWUhXU2M9OjqivVI26xlsQZUAtgqsMq6v&t=74d46c260ef0f818d4ef4dbcdb44fd1d",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/pbyk9aizsd0a",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/nm5kbsgd7ss0",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-r3bjeqe767a7.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/e\/7XR4xJXDPwTJ2l\/tennnseiishitaraslimedattaken4thseasonss-01.mp4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/0BxH0709Ry7U1\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/1dlT0765Df6ps\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/0bcE0685kCCC8\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/d\/2jA40745NCtp0\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E02",
+                    "episode_number": 2,
+                    "nombre": "La evolución de la mazmorra",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/nRLCpzRP359dz7u475PlzOuT9zW.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=VmRJN3lqNTBCMDVKV1ZOU0FhVGRCYzhBRXZuaG4zTGVBa3VLYTNUQTBBTEhabGhiREJJcWpjU1VCUEVoQW4wS2R3MXlyVjJoYmxyUWJoZWJRNTJXT1IxUWpjZ2d2SEV4TFI1bEZmNWJOOU09OjoZ4Hk.3KqHmABdAEHSVXEf&t=2e4587d04da030f88d5ff074f1db1e87&op=NzI0Njg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=SUxLckE1SmN3ZDhxcDhqTGN5QmFjekhjNnFnNXJkVzNlYUtZNEd6UkVXeCttOUlMNDBUOWcwdEhPUzBQRGdvZVhIREkvVHhKRGFweWg1VXBHSzdqbS9mU2NUakFkNWs3M0dTaDNHNTB2T0U9Ojrjdc.2JkGmeOm3JAcbtmOT&t=2e4587d04da030f88d5ff074f1db1e87",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/c4ymeiwxueza",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/lyowjbgzluor",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-5zndl0hbqvv2.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/e\/rD7eoDA3m0SbZY3\/tennnseiishitaraaanoslimee4thseasunss-02.mp4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/2Umu3863RJJk8\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/W9y53900LsZG9\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/LSk03845bTaZ9\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/d\/QOBi38783Y8c5\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E03",
+                    "episode_number": 3,
+                    "nombre": "El nacimiento del equipo Avatar",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/tm0pmQIOdzW5choXRITpHgYGGSC.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=ZnRCYkl5SWlTVUVrWXY1R2xyc1duU2JCWDhQZStWUGg2Mld5d0ROTzhoSVJDMkxiVDl2bzN4ZjE0UVJDbTJJamRNKzdjaFdLZXdienFzSXVEUlBacFplV0U3dkcyWC9STHBBYjdXTEF4MEdOeTlNOHp1elZQbllzY0tGY1NZMWo6OjVTOSblw1x4ypvJNu6cv0U-&t=fd824e002d55972075abbc47aad067f6&op=NzI1NzU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=UFZaVExhdytuTW5BdFQ4YUU0ckloWE5pZ1VyNnhoVkF2UHo0MkRDNFhSS2w3RGswZGFneG1ITWQxamg0UFozVjlEUDRUdi9EbHk5TTE5MXFXaW1Nc0JBdHpWdjh5dm10b05ESVRnQWM2Vmh3TmxlY0U4Ui9EL2UyYnFGdW80UmQ6OkOS.Bo2wzdnBq0QrySa3r0-&t=fd824e002d55972075abbc47aad067f6",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/9ev2d56b5wxd",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/t0unitbtsili",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-n5qrpgny5td2.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/e\/BPXbJbakq2UyoZG\/tennnseiishitaraaaslimedattaken4thseasonesss-03.mp4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/0j8H1715y6GQb\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/yytG17759jeTy\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/NFBR1706ZcBHX\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/d\/JYpw1754AAKw0\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E04",
+                    "episode_number": 4,
+                    "nombre": "Invitación",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/wzYc59SeMxQUIrb01D3BwIAj90c.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=QVZ5KzExaWd2NVBKbWtNUHIzWXB6MUovd3paMG9yTFltUzRlMlY0bnBvTGpJaDJoS1BCdXhaSWZlWlNNcWEzaUk1UjRrWGkrRm5qcGJ0aXF4VW9lZUN6Q1FZQ0dzdTBYTVlZY2VpUk53VDg9OjoOzkVWRVHH7I.0GsToBVjk&t=2f8b8a6d583cdce6deea989927c29402&op=NzI3MTk=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=N1ZCRCs0WU05TVV6eWt2MTduNmdUcXF5ZFh6enlKakQ4My9kenNBMUF5U3JKZUMrdHk4S0ozNnFlZ3hYUVVHZUlRMFQ3WkFDQWNDVGdmSUFIbk9zem00V3V5NFBjeWZKVkpnbkgzRnFuZkU9OjpZ3.7L8WRODk4zALG8Kyg0&t=2f8b8a6d583cdce6deea989927c29402",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/p3m3flmvkmoq",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/bru24r0uy03h",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-nv9n2kbamof6.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/e\/jkqGLg42wbtGz6\/teeennnseishitaraaaslimee4thseasons-04.mp4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/xfxA5121t7von\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/9ivZ5162IMQGY\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/8sGZ5105He3lw\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/d\/jvyw5144LrcVo\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E05",
+                    "episode_number": 5,
+                    "nombre": "El primer paso",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/ztpuWTZbiM0aXFlUSGdhk1Q17zk.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=RzJ0RVBnLzRyZDhnQkprWFJVbldmZCtIRFFnR1crRGhPNHZwWDdYeTlhZ0U2bXF4YVRnckNRb2hmdndNaml3QnZyMzNQcG9uZS9aNjhtQlRLMXdseTJzSnlvYWRWUGVhZE5HMEpHZHZraFU9Ojo5ReGkzosP6KNmDTsRJx52&t=bf7b96b8607520c0e0fed185aabf2769&op=NzMxMDk=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=WUpnZUVkUnR2RDZIZHk5L3h5cjVRa0lqT3ZrNTRkL05DMnlFeGtYYjJhNEFVWmdoRjV1UzE3a1dJdDVTaWtxUjBlVnFmUXViSFovTzFydG9tSVBuc0dUdmRyS1g1VGs5dFhrbDdqMm9XZ009Ojp3GmgPutXP5ly31.idAiGx&t=bf7b96b8607520c0e0fed185aabf2769",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/0u9uzm7lmgf7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-845c1vgv6pyi.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/e\/gaD7Rpr4AMigjG\/teeennnseiishitaraaslimedattken4thseasonss-05.mp4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/jkyV61599AvYF\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/Mwti61533J56t\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/d\/kDGk6191AUgkV\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E06",
+                    "episode_number": 6,
+                    "nombre": "Consejo del Oeste",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/27GSNADh5MnmkTwHC8pmi3SOW7G.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=a3dOS2p3Uyt5NTV2WWw4R2tXL0t6Z1c2QTBVdkxWM1BYblV1S3c4YlN1U2VCSmE1eWpPZEU3SXJkVlhpN0ZGS0ZNa08ya1hHZ1FKY1RDRjI4dmo5cFY4WkcxYWExU0dTODNFTUVaeVZhNWs9OjqQGOh9HwzuVaqiGR73HD1s&t=6c05092b4790d9861d79f88fd4e7a329&op=NzMyNDA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=eDRqUU9URE84UU1YS1BPTkdmMklJdWgzNElkcW1lRnd0U1Byb0Z4akhyMndpRHVqT0RxNmVVVDh3Q0g1MW1UaXd3TFFlY3M4SnB2SnlScmEwYlVjQXJENVdNQmRDQXR0WmdtRjRadVEwVzQ9OjqtyLrfO_sD9i7XMxt4j0b6&t=6c05092b4790d9861d79f88fd4e7a329",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/r4l3p2rft88k",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/j1v8i0owgm8g",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-fze35bwszlvr.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/e\/BeZP0RVxRgtKkY\/teeennseiishitaraaslimeeedattaken4seasonss-06.mp4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/LGNe1985M7q8R\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/HpQO2041eiKN9\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/Rdlg19660HwmY\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/d\/1Eyg2018PW82T\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E07",
+                    "episode_number": 7,
+                    "nombre": "La identidad de la mente maestra",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/edUKB10nnw9BBK0dyoJNiAlSR56.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=MnEvU1hEN3ZqKzZzdVpqVGlPcmlIMDFEM2o2THE3YTd6MGovSjhmZ29LaWhMK2hON3NYeExXSHU2SllkVXBZUUF3MHJJeEpyS1BzaWhqREJWQ2Vudk5qeG0wTGRSYXRxNVJoL2ZSdVJWVEJaTEh5NGlMajgzNklrTnV4cEcvbnE6OmFdWCR7hRood8UAIyh5WNE-&t=566fac0618540075a6c485e2dc6080f8&op=NzMzMzU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=U0RmK3NoTUpHTGxUdmNTSzJPYmxLRlpYL2h5U0FYbk0xMkxoYTQwVldmMG9zRnpMMHlTVHVvQUI5UEFWTHp4Z24yTzc2eVVsM1FyRTRNQk5BV3JQcnBhRjc1K2RVMElSdEprWjRLc1dHN1oyUTlTaXJka1BvU0xUOXZrSm82VnY6OjQHFy_oyL6DwXgpAYBKAJw-&t=566fac0618540075a6c485e2dc6080f8",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/g16jwg2wp3jy",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/tr72gdi600m9",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-p8gyi2wcq710.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/e\/Zg9Q4e2qaDIwrg\/teeennnseiishitaraaslimeedattaaken4thseasonsss-07.mp4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/RbTb2763iZk1F\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/JXpu2814Z4ZLK\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/19lZ2726IWu05\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/d\/9QBj2783WmUvq\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E08",
+                    "episode_number": 8,
+                    "nombre": "Los preparativos de la avaricia",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/bs2vK9WUOQKvwj8KEC3Ra3WXDQV.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=aU1nQlFvb2lYZ0RUZDliWXRqbWdDQkh6TjRmb2JITGx1LytIZ3ZKUERXR2UvUlAzaTUwOHVVRzhHMjBnajhOb1psd0RTc0k3N0d5blBwcXNGeUdyUWpQcjhEOHRVME1tN0lPOFRrSWdYdFU9Ojpeqry6kAJT4TrVQ0n79Tib&t=c668d7f9fea0ded194002f0c5322fc24&op=NzM1MTI=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=djNwWWhRdi9QY1lNVUoxOEEramE2SlZDb0VVaWRyTVhDcVJNQm00ZEtyQldTQmVBYkJGYVZDRW9ZazBOaVgrUGxrWDJZZzFSaTdyU3ZkQ0h6V2k1OUpNQXNySjlPMkhsTENkYlhlYlBRd0E9OjoqEPqgFDJof5q4A0CW8GVs&t=c668d7f9fea0ded194002f0c5322fc24",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/thzom58fc0fe",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/02ei5kfgaoa7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-12mxup2futsc.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/e\/oLrYp34GLjiJw1w\/teeennnseishitaraslimedatttaaken4seasonss-08.mp4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/nFkA2048Nrc6x\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/axhK2100Hd4Tb\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/5Mdz2025LdcsM\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/d\/b7uD2077cOFMJ\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E09",
+                    "episode_number": 9,
+                    "nombre": "Episodio 9",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/1hrPaiyrBjC9jpB5n43VOzZ8SFA.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=RmhnUDZoNzlHVmFwWTlMRmI0VzlJQitMQ0hoTG9DZGVQeGlVdHZOUk1jam5lakc0WHVFcW0wUUJJbFBWWG5YNGRFRTJ6dUt6NmJTTyt5b3pKcVcxYzRZRmFsWjBBZkc2SzNlc1pEYzZKM2pGSW1pR3ZaL1NxS053S01zNTFhZ2U6OgluuEGkRvNyBjVxBo5vKFQ-&t=fc38a63790662a0bb7c5bf952df90491&op=NzM5OTE=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=Y0JUSFpJSlIzdUlYcFlBMkV5bE1OOHBweUkzVEN2eDg1UmNBbHgyY2RKQWt6RmhsVWpVTFNQWitsTW5Wc2sybGJ4MHZEVTZQZkRqOXFXWVdKa0tUVHhTSnhUeW5KS1JzbFhDNU5sM2p2MmJRYzc1MytnK2o2enFqTXllY1A3Ni86OnclN3Zx6mybgqS32maeWxQ-&t=fc38a63790662a0bb7c5bf952df90491",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ax5r6vsnzf6a",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/lvzkawaq35x0",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-9kazdrf454b1.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/e\/BGwbVXZDePuyxmX\/tennnseiishitaraaaslimeedattaaken4thseasonsss-09.mp4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/Pu2B2704tDg0H\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/3Dhf2728Gnvgh\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/7knk2694uQ5zJ\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/d\/MvC22709jxycC\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E10",
+                    "episode_number": 10,
+                    "nombre": "Episodio 10",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/zv5JGGOQl9Rii3NrVip295TyVyE.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=WE5tMW9YeTNtN29DaW0yRnNCcEpndUdPWE5UQXFqdkZ0S2xYRE8yNWpsZ3U2bFg5SktkZHlCYTBNaENSZVJrNGlvVVVjQm1LR0FielFlK01JdTdza09OMDZGYU0rY2VnZnpxLzllMFVMQ0FMVkM1K1Zmb2lhVzNJVFFxZk9TUnY6OunsRrRTvD2ot2QE5MYmggI-&t=3ca48a24e73893ed98c6b3813f1f049b&op=NzQyOTU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=cEdwQ29hWWNpM0h4cVVVMjdtcmxBWVVvbW9ld3VRT3FNUWZiYld2Yzc1MTZqZGVGOHJtK0VDNEJ6VmpQSmo0Y3JGeXp3OEhJbkFUaDFndkc4UVUxYXpCMHRMNkNxQ2IvMlNuOXFxUDRFTFh4ZUl6NU5DVzFKcHJUMjFZMWhNaDM6Oi0fEMo.RdYk3SyYDAWdHkA-&t=3ca48a24e73893ed98c6b3813f1f049b",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ejn4uveh3nv3",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/skr36ets6dkd",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-hro57b45bqxz.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/e\/GGvW44pbYWs1X9k\/teeennnseiishitaraaaslimedattaken4tseasonsss-10.mp4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/vnbu84764RZ6e\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/R7RU8537dfhVH\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/Zvja8466ES4mX\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/d\/fkhg8516bmsnv\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E11",
+                    "episode_number": 11,
+                    "nombre": "Episodio 11",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/w5bBroiKoeCe69CHew0y6Q1edQ8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=c1VtUndmelBUYTkxNTI5MEZPbmJuZlZXMjZRakVBdndtMzV0em15TkVsL0ZxQTNRYkw0V2dQZDFNNjNvRHlCTDZQV3FXZFhVMS9PdTZBV2NuL05LTlhOS3VweE04R2pzY3lzQW5lWmlOL009OjosCBpohq4pW8bgg26PaRAw&t=e6063b8dad92500727f51409bc15b6fb&op=NzQ0NzQ=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=M0o5d3NqU0EvRDZDQUYxZ1pKSXRIN2FsUFVRbTl0a3hZUWFxdkh1ODJ2bWZMRUo1UDBTejQ1R2VIYnpOWGpRa0FMMEZoWU5CbUtaWC9ncUhwRjg2OWZEZXlTWXIyT0NVTXRQaUladnlBTXc9OjpRfMv4.3x3FOpfBJOydzJJ&t=e6063b8dad92500727f51409bc15b6fb",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/0ky0tsum7i06",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-hgu1jteh77lv.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/e\/WPdPzm104wFpDr\/teeennseiishitaraaslimedattaaken4thseasonss-11.mp4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/eaWT2241yWC7f\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/ZMN02228VcT2O\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/d\/k7Sw22964zmBX\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E12",
+                    "episode_number": 12,
+                    "nombre": "Episodio 12",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/xtucVEgiymwJ61iErgqom5WcYt.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=RzdHNjNrMzBYNDQvMWFFSEpwWC81Y29QeE9yUUxzbWU3QWhEM2JHOUFCWERKa0ppQmhpZ0FLZ0NONTA5N3lsRnJQdy8wU0VOaVBXOW1pd3JxU0xOcURnbmlBWEF4Z1RPaFBWS01uOTIvT2M9OjqW0InPftsNy4M.Aw7kpvdl&t=e3749ecf82e087aa40d57c98a6b0e4a9&op=NzQ2ODU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=WHFacTVvUjdVR3VhbnkxaDk2cHM2dlhNdUkvUlFBNW9rU2d0QVVmNVRiSjlLWERURDhjR2Z0RnN1bXR3UGQyTkphR2llbXdBWDdrR0EyOG1sWCt5cVFPd0xGdDQzZ20wNGdJVFZFbTNZK2c9OjqzpxohnXaLIw1BNQ3DEpAg&t=e3749ecf82e087aa40d57c98a6b0e4a9",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/9fr1bix07ptg",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/3aa2pj8m40hi",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-4c6t7wvivgi2.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/e\/arJlwy222kfxB1d\/teeennnseishitaraaslimedattassken4seasonss-12.mp4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/22mw6440sEqFV\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/gR1k6562NeVwF\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/yZMT6425SRHgs\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/d\/UnRq6687qhs05\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E13",
+                    "episode_number": 13,
+                    "nombre": "Episodio 13",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/uLRfCUw0ql6HKOezGv5HmsUMooo.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=Qm1xSHdaMG9Qa05Oa01kd0hoNEFUdzhvb3ZQanRpemw4aTR4MWlDUDRDNVp4WGdPNWExSzVidzdXTE8wRlpLUW9ZcFIwQ3NZVVBWcXp5MEV2MEF0SE5yUzJnRWxOR3B3QXQ1NFVickdmU1U9Ojru98jNX53Q78FmLB6CTsQb&t=ec50a90c2fbab6b82972243c47c5525b&op=NzQ3NzA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=VFRjUFF3RCtUSSszSGdtSi9FQTNTeHhlT2VqZ2p5ZGpYMkZsdmozYkNUUGJ0enlmUVpkWEp0dFJDeVROOFZJaVBIOE1HbFYrOGo5SXZFNGY3N3RpdGlzQzFraVhVbElRbHY3M0x0d3dEeFE9OjpA_wKmRYoDr_doJxEv79He&t=ec50a90c2fbab6b82972243c47c5525b",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/mcn0izp7c1vc",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/c80gc5zjpgck",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-m8wadfrmbcu3.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/e\/qx1LL0Klmxczp7a\/teeennnseiishitaraaslimedattaken4seasonsss-13.mp4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/MUZ15812aF26V\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/Mrvf5864xh3TF\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/0kCp5805tyWN3\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/d\/Zg9d5845IoRap\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E14",
+                    "episode_number": 14,
+                    "nombre": "Episodio 14",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/zDtZhnrOtUD1Ueglhn41sijiTFy.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=WlNEVjNTYkRta0N4M2NGUUpqOWdUZlBEVTYrRlFaMXJNY2NJVG1NckM4V0Y5WCs2T1Z6SC9SUVVTaFk2SUtvVytqMnlxMmE5N1dLTS9qSDFBQ2F2SlZ0ZmRPWFI3cW45SzBrSlZPZUZzc2xTaHpkdXZRUEpGSUdWSytPUGpZNmo6Oor6G85gqQHlSmyq_iFMXsU-&t=d82775c2c6a2b928acaf30a79fb642c8&op=NzQ5NjA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=dWtJMkdTdWV3dS8yZVFKYjlIRmltWHZpYVNERS84S2w0dGpCMHlqcmNIN3VkOG9tK1c3c3ZCM0ZQZ2lNdkFCQWtHczhFeXlBdUFnaStKMkpheG9kTzlEblA4d1FwZHdOeFRwRTNrZ2tBVXQ2MVF5SjJDcXAvaFdvMXFDN2F2WEs6OucBAXCHGrNsPrF2KFpcm4s-&t=d82775c2c6a2b928acaf30a79fb642c8",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/sbyhsvo4eahe",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/sg64nn33vdnj",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-ihcvk1t0b91m.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/e\/ggwaGwaQyKcJz4\/teeeennnseiishitaaaraaslimeedatttaakenn4seasonsss-14.mp4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/xqOG6482ec1Qj\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/RYAH6531LFXrb\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/IsG56467ZebZ7\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/d\/7eCA6511XwJbo\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E15",
+                    "episode_number": 15,
+                    "nombre": "Episodio 15",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/noOoh43MXQ0qxvddcoHVj7EQmp6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=bXBUUUszQlB4NngrOTZrbllDZzVVVEhnako2eUZuemxUbFp1Vkc1YjdtVkMzUHlWNjFjdXpPOURYbXdDQnE0V3lFZWZlaXZPN0NWUm8ra1k5T2ZxUGFiMmF3K2ZDcjdoNGM3RXlKS0tkdjJuNldhRTRLMy92T0gvM0Z4cXkxOFk6OoSnNdpsAxiMcQXhxCc0sJA-&t=3aca3588ec2a5e8aa3645d9113e371bd&op=NzUxMjU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=NXpRemZ0TXUwUURFZTNmMFp0UGY4U25vOXVQUVhXUHZ4UnozN0hHSHBycWVCdi9iUm14SHlTcDFtdC9FWm9OZk02aHQ1cUxWRENMYWRQL1kwcnFMVThweU9TanRPUTRjVnFWY05mUHIzTmU0N1JUZmg0emMvdFVwbkErVUQwdHg6OjQ9sjOxGMlCuZofUiHFegU-&t=3aca3588ec2a5e8aa3645d9113e371bd",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/otsvc47w73ht",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-a1dndofwkppf.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/e\/29rA4wgeLGcVqB\/teeennnseiishitaraaaslimeedattaaaken4seasonsss-15.mp4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/7RfR9458yNdBQ\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/3BlN9455rka5M\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/d\/kemO9503J8Lgg\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E16",
+                    "episode_number": 16,
+                    "nombre": "Episodio 16",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/3XrByRxQ9rbylMvIarBwTzoREWR.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=NmxPTDZjQVdOL3RVU2ZmU1RLaU5yWGo1YkgvcnlhNUJOa2ZkckczeE5YdWFkREs2cUEvL3pkT3dvblovd1djUStjMWoyMWFkVFh4eW9uR1hNTG1MM2RsT09vOGd1L1FIUGZhMHJJNHJtTXc9OjraqarvW0gGbbi2y_gG_dxl&t=24744c533eced82b543bd9625c126353&op=NzUzODI=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=MEoyTUYwNEtmNlc5cFlJS3lQSnMvUzMvWEFic0VrZmVrVUxiQzQ1N1U4M05RWGpzSk5OVFZUakNxT1pDM3RnWU5COENTR1ZnM1FqTWF1MXV1MFFDWjlNd2dRV2RjYllYT0ZCcmdvY24zS289OjpbtZ5ARMLMrazuwdAFUJRz&t=24744c533eced82b543bd9625c126353",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/finnv1fh7pl2",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/8kvpr6d3scnl",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-t8756xpolvol.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/e\/vKX8wJ20OXC4Xo4\/teeennseiishitaraaslimee4seasonsss-16.mp4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/GQVi8948q0peb\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/3WLR9003yJ5yC\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/e7tm8936jtsmI\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/d\/CZhm8984S51W2\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E17",
+                    "episode_number": 17,
+                    "nombre": "Episodio 17",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/eIZA3IG22NbzRvxgpnA4PlD4gZT.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=Y2laMkpJdjAvVVJmcm83UmlZUktVT2s2eHVab0s3SjRBb1dySGNlUHpLQlNQQlFOK2k4ekM0Myt0QXFzTTFWcWhuRWUvY1BWSjZJRCtMWDlSTEtrb1czVzZHLzM0MUhkY2NsUDhPbCtwK3FwdnpvTXExVDNBUFNQMTYvVUI0cmI6OoaYcgN7OyJyKwJx..TKF_M-&t=5247dc4d48eee4a3c4e5289884ddf520&op=NzYxMzU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=cnNVVlRBcjhNK2VYY2lPamZrOFUzaFZ3ZmJITmtRalVCSWZFOEd0WG1oT0loZW1HV3BZelJWQnF2M1RJejdyTmdNZDRyQzVtOFVhQ1pIK3AxWEx5ZHdSYkU5VW9zNTF1TS81RlIzcHB5c2lVa0VYSnlBOWZhWXV3Wk5MZmw0dys6OrC6J4hR4l3AdWZSLbBYKjw-&t=5247dc4d48eee4a3c4e5289884ddf520",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/bf3s2or45i1m",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/g6m0qhqgvyh4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-ry6x8zjpgyj3.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/e\/AM3OweAZ3GSBmY\/teeennnseiishitaraaslimeedatttaaken4seasonsss-17.mp4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/tuXQ0460R7hYd\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/hWJu0492jEzWM\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/oyPj0416p6C6g\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/d\/RnL00466D1xcu\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E18",
+                    "episode_number": 18,
+                    "nombre": "Episodio 18",
+                    "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/fzxTUT8WY5wEmDR19FHIu2d5oXE.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=eHdlc2FNaTBXTm9rajJTN01icXFaSUpBNGxwUlhNb240cHRTVXAxQzVCMmFhRUNSN253ajkxR29KWTZUVW05bmRSa3Zjc0h4V3hvV1Z2WWthM2RCUnB0UGVVZEgxNitGTUNSKzhKd1hPb3M9OjpswidCnGPOEzH8mGLWRh4v&t=e4d7dbd7b0d2b5bc29ecfc0325c95ca0&op=NzYzOTA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=R0Zoby9iZS9vQjRUamFCOVNuVGFmNzNVU2k2aXdhaHo1S3EwUnhyV0pjRGV5MjZPSUNkNW92Z3VUZnFQVmk4eWh6cXVLMzU3Z25VZ1F2Z3dZUzhqTjFLbGdGQ0lPd0JDL1dkNGgvR1o2UVU9OjqMIidwcGymTLU_r_yX_jtg&t=e4d7dbd7b0d2b5bc29ecfc0325c95ca0",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ddymqn0oj2cu",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/pgr74187yuw5",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-1ebcs2wgsyxl.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/e\/2DRGgYGGZltZD4L\/teeennnseishitaraaaslimedattaaken4seasonsss-18.mp4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Sfastwish",
+                            "url": "https:\/\/sfastwish.com\/d\/l3RZ2865moEpZ\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/vidhidevip.com\/d\/Ql2E2919kZbSd\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/d\/bIyx28566widB\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamtape",
+                            "url": "https:\/\/streamtape.com\/d\/Zh622896r0nCu\/",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
         }
     ],
     "added_date": "2026-08-18 19:36:13",
     "created_at": "2026-08-18 19:36:13",
-    "updated_at": "2026-08-18 20:18:35"
+    "updated_at": "2026-08-18 21:31:10"
 }
