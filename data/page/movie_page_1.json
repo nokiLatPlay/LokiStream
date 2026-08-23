@@ -1,5 +1,25 @@
 [
     {
+        "id": "1787500816266",
+        "tmdb_id": "25642",
+        "titulo": "Ben 10: Invasión Alienígena",
+        "imagen": "/bFB5Y184X41AgLiuNQRqvTqDEGQ.jpg",
+        "type": "movie",
+        "year": "2009",
+        "etiquetas": [
+            "Acción",
+            "Película de TV",
+            "Ciencia ficción"
+        ],
+        "rate": 6.20000000000000017763568394002504646778106689453125,
+        "added_date": "2026-08-23 12:00:16",
+        "created_at": "2026-08-23 12:00:16",
+        "updated_at": "2026-08-23 12:00:18",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1787500751252",
         "tmdb_id": "537681",
         "titulo": "Giant Little Ones",
