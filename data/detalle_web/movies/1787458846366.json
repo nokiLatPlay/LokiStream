@@ -1,0 +1,70 @@
+{
+    "id": "1787458846366",
+    "tmdb_id": "2652",
+    "titulo": "Niña mala",
+    "original_name": "Hard Candy",
+    "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/AucSpuuHj95IoOSxVNBIPSIXrwi.jpg",
+    "backdrop_path": "https:\/\/image.tmdb.org\/t\/p\/w780\/smkfmluUB2EhgpWAj27mbKlvYgQ.jpg",
+    "type": "movie",
+    "year": "2006",
+    "etiquetas": [
+        "Drama",
+        "Suspenso"
+    ],
+    "calidad": [],
+    "rate": 6.79999999999999982236431605997495353221893310546875,
+    "sinopsis": "Un fotógrafo de 32 años queda de verse con una chica adolescente a la que ha conocido a través de Internet. Después de tomar un café, la lleva a su casa con el propósito de hacerle unas fotos. Sin embargo, la joven no lo ha elegido por casualidad...",
+    "cast": [
+        {
+            "name": "Elliot Page",
+            "character": "Hayley Stark",
+            "profile_path": "\/nXO8DE4biVXY4UDYP0NdIY1zvXS.jpg"
+        },
+        {
+            "name": "Patrick Wilson",
+            "character": "Jeff Kohlver",
+            "profile_path": "\/oym6H2QD9esk4yABjCHaUoNAOa8.jpg"
+        },
+        {
+            "name": "Sandra Oh",
+            "character": "Judy Tokuda",
+            "profile_path": "\/zU8vjebHxcP60ESEL5Ok68KWZvj.jpg"
+        },
+        {
+            "name": "Odessa Rae",
+            "character": "Janelle Rogers",
+            "profile_path": "\/9Nsmcyl9SgccNSmoY8ARVSGjQOZ.jpg"
+        },
+        {
+            "name": "G.J. Echternkamp",
+            "character": "Nighthawks Clerk",
+            "profile_path": "\/5q2VyeAfvWwue6CvDb1kJ222I4P.jpg"
+        },
+        {
+            "name": "Cori Bright",
+            "character": "Girl in Nighthawks (uncredited)",
+            "profile_path": "\/l4ujKspAQXUjFUHMU9tKOj7CP4m.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 104,
+    "enlaces": [
+        {
+            "nombre": "Playmogo",
+            "url": "https:\/\/playmogo.com\/e\/79oj7x7ixvvc",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Playmogo",
+            "url": "https:\/\/playmogo.com\/e\/owqqb6o2jh5f",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-08-23 00:20:46",
+    "created_at": "2026-08-23 00:20:46",
+    "updated_at": "2026-08-23 00:20:46"
+}
