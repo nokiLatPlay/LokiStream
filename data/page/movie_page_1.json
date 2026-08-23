@@ -1,5 +1,25 @@
 [
     {
+        "id": "1787501067905",
+        "tmdb_id": "9827",
+        "titulo": "Fantasmas",
+        "imagen": "/fTAWG0i7XG6rswPZqYa686kp67M.jpg",
+        "type": "movie",
+        "year": "1998",
+        "etiquetas": [
+            "Terror",
+            "Ciencia ficción",
+            "Suspense"
+        ],
+        "rate": 5.5,
+        "added_date": "2026-08-23 12:04:27",
+        "created_at": "2026-08-23 12:04:27",
+        "updated_at": "2026-08-23 12:04:29",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1787500973310",
         "tmdb_id": "724089",
         "titulo": "Gabriel's Inferno: Part II",
