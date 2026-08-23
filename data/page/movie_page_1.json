@@ -1,5 +1,24 @@
 [
     {
+        "id": "1787458846366",
+        "tmdb_id": "2652",
+        "titulo": "Niña mala",
+        "imagen": "https://image.tmdb.org/t/p/w342/AucSpuuHj95IoOSxVNBIPSIXrwi.jpg",
+        "type": "movie",
+        "year": "2006",
+        "etiquetas": [
+            "Drama",
+            "Suspenso"
+        ],
+        "rate": 6.79999999999999982236431605997495353221893310546875,
+        "added_date": "2026-08-23 00:20:46",
+        "created_at": "2026-08-23 00:20:46",
+        "updated_at": "2026-08-23 00:20:47",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1787360105",
         "tmdb_id": "953735",
         "titulo": "Marinette",
