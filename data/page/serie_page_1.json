@@ -1,5 +1,27 @@
 [
     {
+        "id": "1787450226144",
+        "tmdb_id": "284581",
+        "titulo": "The Insipid Prince's Furtive Grab for the Throne",
+        "imagen": "https://image.tmdb.org/t/p/w342/1h0g4w6Vh0RenRga2bmtNXT08R0.jpg",
+        "type": "anime",
+        "year": "2026",
+        "etiquetas": [
+            "Animación",
+            "Comedia",
+            "Sci-Fi & Fantasy",
+            "Action & Adventure"
+        ],
+        "rate": 7,
+        "added_date": "2026-08-22 21:57:06",
+        "created_at": "2026-08-22 21:57:06",
+        "updated_at": "2026-08-22 21:57:07",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 7,
+        "status": "Returning Series"
+    },
+    {
         "id": "1787167989540",
         "tmdb_id": "284029",
         "titulo": "Neko to Ryuu",
