@@ -1,0 +1,108 @@
+{
+    "id": "1787500711417",
+    "tmdb_id": "2266",
+    "titulo": "Paris, je t'aime",
+    "original_name": "Paris, je t'aime",
+    "imagen": "\/w2ymaGlJqgNHjexYQ6h0ByoGzw8.jpg",
+    "backdrop_path": "\/3QZkFDe2GVQbOa8XZxK38BVsX1k.jpg",
+    "type": "movie",
+    "year": "2006",
+    "etiquetas": [
+        "Drama",
+        "Romance"
+    ],
+    "calidad": [],
+    "rate": 6.79999999999999982236431605997495353221893310546875,
+    "sinopsis": "En París, el amor está por todas partes: en sus bares y cafés, bajo la Torre Eiffel e incluso bajo tierra, en el metro. Algunos de los directores más prestigiosos del mundo fueron invitados a contar una historia ambientada en uno de los barrios de la ciudad. El resultado es un caleidoscopio de imágenes sobre la alegría de vivir, sobre extraños e inesperados encuentros y, especialmente, sobre el amor.",
+    "cast": [
+        {
+            "name": "Steve Buscemi",
+            "character": "Touriste (Tuileries)",
+            "profile_path": "\/n0pZumkrcZrAPMoPq684RhYnjPV.jpg"
+        },
+        {
+            "name": "Natalie Portman",
+            "character": "Francine (Faubourg Saint-Denis)",
+            "profile_path": "\/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
+        },
+        {
+            "name": "Willem Dafoe",
+            "character": "Le cow-boy (Place des Victoires)",
+            "profile_path": "\/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+        },
+        {
+            "name": "Maggie Gyllenhaal",
+            "character": "Liz (Quartier des Enfants Rouges)",
+            "profile_path": "\/vsfkWdYWmA9CpzMHTJzrFxlDnEZ.jpg"
+        },
+        {
+            "name": "Axel Kiener",
+            "character": "Axel (Tuileries)",
+            "profile_path": "\/r5eDmciwm6T4rl81lBa667eDSn4.jpg"
+        },
+        {
+            "name": "Julie Bataille",
+            "character": "Julie (Tuileries)",
+            "profile_path": "\/dEWYrEkaAmSjRKPmijRhNjr47Wl.jpg"
+        },
+        {
+            "name": "Bruno Podalydès",
+            "character": "L'automobiliste (Montmartre)",
+            "profile_path": "\/a8dEHSgIqIOjnl6YsAv6cSf1Nz.jpg"
+        },
+        {
+            "name": "Florence Muller",
+            "character": "Jeune Femme (Montmartre)",
+            "profile_path": "\/6DAKS8xAIgVOE831jyTbzhhpigV.jpg"
+        },
+        {
+            "name": "Fanny Ardant",
+            "character": "Fanny Forestier (Pigalle)",
+            "profile_path": "\/q8Hj88E3ME5z795haGMqVDwFDjp.jpg"
+        },
+        {
+            "name": "Leïla Bekhti",
+            "character": "Zarka (segment \"Quais de Seine\")",
+            "profile_path": "\/5ww2aTFrhAnQk3a0eb5VejtD7Xg.jpg"
+        },
+        {
+            "name": "Juliette Binoche",
+            "character": "Suzanne (Place des Victoires)",
+            "profile_path": "\/htdZZIroEyJaeHQAUTqokNfkPgl.jpg"
+        },
+        {
+            "name": "Seydou Boro",
+            "character": "Hassan (segment \"Place des Fetes\")",
+            "profile_path": "\/yHpsZNqQYk3qiMLhph383SjO8cE.jpg"
+        },
+        {
+            "name": "Javier Cámara",
+            "character": "Le docteur (Bastille)",
+            "profile_path": "\/pG2uOSwthuTXn8LAV2MTZbyOre9.jpg"
+        },
+        {
+            "name": "Sergio Castellitto",
+            "character": "Le mari (Bastille)",
+            "profile_path": "\/uq5xz7kinzgdclGOcechgfPBgYC.jpg"
+        },
+        {
+            "name": "Martin Combes",
+            "character": "Le garçon (Place des Victoires)",
+            "profile_path": "\/huWeMgp4Fvb4jhjqrU9jFmG4sII.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 120,
+    "enlaces": [
+        {
+            "nombre": "Playmogo",
+            "url": "https:\/\/playmogo.com\/e\/hsr7djrwk7s5",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-08-23 11:58:31",
+    "created_at": "2026-08-23 11:58:31",
+    "updated_at": "2026-08-23 11:58:31"
+}
