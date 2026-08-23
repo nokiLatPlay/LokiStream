@@ -1,5 +1,24 @@
 [
     {
+        "id": "1787501094865",
+        "tmdb_id": "512",
+        "titulo": "Scoop: La primicia",
+        "imagen": "/r6HRh0NRuLWLmY4nabJCPLkqRX6.jpg",
+        "type": "movie",
+        "year": "2006",
+        "etiquetas": [
+            "Comedia",
+            "Misterio"
+        ],
+        "rate": 6.5999999999999996447286321199499070644378662109375,
+        "added_date": "2026-08-23 12:04:54",
+        "created_at": "2026-08-23 12:04:54",
+        "updated_at": "2026-08-23 12:04:56",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1787501067905",
         "tmdb_id": "9827",
         "titulo": "Fantasmas",
