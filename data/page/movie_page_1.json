@@ -1,5 +1,24 @@
 [
     {
+        "id": "1787500620391",
+        "tmdb_id": "454033",
+        "titulo": "Swinging Safari",
+        "imagen": "/2PTUGJSAKCJPdstqbcHVq3y5Sgm.jpg",
+        "type": "movie",
+        "year": "2018",
+        "etiquetas": [
+            "Comedia",
+            "Drama"
+        ],
+        "rate": 5.29999999999999982236431605997495353221893310546875,
+        "added_date": "2026-08-23 11:57:00",
+        "created_at": "2026-08-23 11:57:00",
+        "updated_at": "2026-08-23 11:57:02",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1787500576168",
         "tmdb_id": "115223",
         "titulo": "Pokémon, la película: Negro - Victini y Reshiram",
