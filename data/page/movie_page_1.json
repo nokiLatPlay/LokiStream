@@ -1,5 +1,25 @@
 [
     {
+        "id": "1787500882806",
+        "tmdb_id": "98034",
+        "titulo": "Legend of Crystania: The Chaos Ring",
+        "imagen": "/AcsDb9guDf6Sp9JpqAwM6YTW2Oy.jpg",
+        "type": "movie",
+        "year": "1995",
+        "etiquetas": [
+            "Animación",
+            "Acción",
+            "Aventura"
+        ],
+        "rate": 5.9000000000000003552713678800500929355621337890625,
+        "added_date": "2026-08-23 12:01:22",
+        "created_at": "2026-08-23 12:01:22",
+        "updated_at": "2026-08-23 12:01:23",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1787500851137",
         "tmdb_id": "16000",
         "titulo": "Ben 10: Carrera contra el tiempo",
