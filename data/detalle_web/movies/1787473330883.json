@@ -1,0 +1,115 @@
+{
+    "id": "1787473330883",
+    "tmdb_id": "26269",
+    "titulo": "Crepúsculo (Twilight)",
+    "original_name": "Twilight",
+    "imagen": "\/a1s0QLG9RqDuNszCznBsCGrYgXe.jpg",
+    "backdrop_path": "\/x2vYqKNptvWH2jrKkX6FM0jpfKb.jpg",
+    "type": "movie",
+    "year": "1998",
+    "etiquetas": [
+        "Crimen",
+        "Suspense"
+    ],
+    "calidad": [],
+    "rate": 6.0999999999999996447286321199499070644378662109375,
+    "sinopsis": "Harry Ross, un detective privado ya retirado, se presta a ayudar a unos antiguos amigos, una famosa pareja de actores de Hollywood que están en apuros. Pronto Ross se verá envuelto en una peligrosa y complicada intriga criminal.",
+    "cast": [
+        {
+            "name": "Paul Newman",
+            "character": "Harry Ross",
+            "profile_path": "\/bP2fByqNR7BorsUNuD6nSm0u2vJ.jpg"
+        },
+        {
+            "name": "Susan Sarandon",
+            "character": "Catherine Ames",
+            "profile_path": "\/jR6l2EfvvGA8qCzZ7MB5FT9ZLkq.jpg"
+        },
+        {
+            "name": "Gene Hackman",
+            "character": "Jack Ames",
+            "profile_path": "\/kMy5BJYiBYuPuDtXD7smRP2rdpk.jpg"
+        },
+        {
+            "name": "Reese Witherspoon",
+            "character": "Mel Ames",
+            "profile_path": "\/mfjunuTHrd0wnh8UG1ImMN9FSws.jpg"
+        },
+        {
+            "name": "Stockard Channing",
+            "character": "Lt. Verna Hollander",
+            "profile_path": "\/wAHRDO4z8qUa8zAaOky1JgR7egm.jpg"
+        },
+        {
+            "name": "James Garner",
+            "character": "Raymond Hope",
+            "profile_path": "\/8186fvIAGrIGqnvb49CgULo34G4.jpg"
+        },
+        {
+            "name": "Giancarlo Esposito",
+            "character": "Reuben Escobar",
+            "profile_path": "\/rcXnr82TwDzU4ZGdBeNXfG0ZQnZ.jpg"
+        },
+        {
+            "name": "Liev Schreiber",
+            "character": "Jeff Willis",
+            "profile_path": "\/26G7QjSb5ZazgWb9XB2X6SwcILQ.jpg"
+        },
+        {
+            "name": "Margo Martindale",
+            "character": "Gloria Lamar",
+            "profile_path": "\/6ANuYnZZJTuQLL4bbt8vH1qDYje.jpg"
+        },
+        {
+            "name": "John Spencer",
+            "character": "Capt. Phil Egan",
+            "profile_path": "\/8AZRfw1vqdsw7tOIK03LSQlphW.jpg"
+        },
+        {
+            "name": "M. Emmet Walsh",
+            "character": "Lester Ivar",
+            "profile_path": "\/fVWvBxvwyk4aTA9vKZOV9qHRNNk.jpg"
+        },
+        {
+            "name": "Peter Gregory",
+            "character": "Verna's Partner",
+            "profile_path": "\/6F0bQ0TcFk60vcVLBfJ3dUwLpp.jpg"
+        },
+        {
+            "name": "Rene Mujica",
+            "character": "Mexican Bartender",
+            "profile_path": "\/oJmMW1jD3pgXEgwRH5H6QxF5EvJ.jpg"
+        },
+        {
+            "name": "Jason Clarke",
+            "character": "Young Cop",
+            "profile_path": "\/quH4y2dto3UAgZOfaM0QriyRLPN.jpg"
+        },
+        {
+            "name": "Patrick Malone",
+            "character": "Younger Cop",
+            "profile_path": "\/3h9w9I0echFDw7puqMhyavE1YEF.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 94,
+    "enlaces": [
+        {
+            "nombre": "Playmogo",
+            "url": "https:\/\/playmogo.com\/e\/7p1k96tnba78",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Playmogo",
+            "url": "https:\/\/playmogo.com\/d\/7p1k96tnba78",
+            "type": "descarga",
+            "language": "Latino",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-08-23 04:22:10",
+    "created_at": "2026-08-23 04:22:10",
+    "updated_at": "2026-08-23 04:22:10"
+}
