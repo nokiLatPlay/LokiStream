@@ -1,5 +1,24 @@
 [
     {
+        "id": "1787499450788",
+        "tmdb_id": "16337",
+        "titulo": "La masacre de Texas 2",
+        "imagen": "/l5LDUW8fYdDR5B1yJimZ1bAhqCl.jpg",
+        "type": "movie",
+        "year": "1986",
+        "etiquetas": [
+            "Terror",
+            "Comedia"
+        ],
+        "rate": 5.70000000000000017763568394002504646778106689453125,
+        "added_date": "2026-08-23 11:37:30",
+        "created_at": "2026-08-23 11:37:30",
+        "updated_at": "2026-08-23 11:37:31",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1787499425477",
         "tmdb_id": "25018",
         "titulo": "La masacre de Texas 3",
