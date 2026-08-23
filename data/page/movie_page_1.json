@@ -1,5 +1,24 @@
 [
     {
+        "id": "1787500512322",
+        "tmdb_id": "14635",
+        "titulo": "El novato",
+        "imagen": "/hi00HeC8qU8zNluwmT7KzZ8skbH.jpg",
+        "type": "movie",
+        "year": "2002",
+        "etiquetas": [
+            "Drama",
+            "Familia"
+        ],
+        "rate": 6.79999999999999982236431605997495353221893310546875,
+        "added_date": "2026-08-23 11:55:12",
+        "created_at": "2026-08-23 11:55:12",
+        "updated_at": "2026-08-23 11:55:14",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1787500438680",
         "tmdb_id": "38765",
         "titulo": "Chisum, el rey del oeste",
