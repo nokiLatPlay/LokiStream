@@ -1,5 +1,23 @@
 [
     {
+        "id": "1787500751252",
+        "tmdb_id": "537681",
+        "titulo": "Giant Little Ones",
+        "imagen": "/j4U3nFK1JcvfCm9SyBta2g0eTwU.jpg",
+        "type": "movie",
+        "year": "2019",
+        "etiquetas": [
+            "Drama"
+        ],
+        "rate": 7.0999999999999996447286321199499070644378662109375,
+        "added_date": "2026-08-23 11:59:11",
+        "created_at": "2026-08-23 11:59:11",
+        "updated_at": "2026-08-23 11:59:13",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1787500711417",
         "tmdb_id": "2266",
         "titulo": "Paris, je t'aime",
