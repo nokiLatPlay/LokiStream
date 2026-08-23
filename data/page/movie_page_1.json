@@ -1,5 +1,24 @@
 [
     {
+        "id": "1787473330883",
+        "tmdb_id": "26269",
+        "titulo": "Crepúsculo (Twilight)",
+        "imagen": "/a1s0QLG9RqDuNszCznBsCGrYgXe.jpg",
+        "type": "movie",
+        "year": "1998",
+        "etiquetas": [
+            "Crimen",
+            "Suspense"
+        ],
+        "rate": 6.0999999999999996447286321199499070644378662109375,
+        "added_date": "2026-08-23 04:22:10",
+        "created_at": "2026-08-23 04:22:10",
+        "updated_at": "2026-08-23 04:22:10",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1787458846366",
         "tmdb_id": "2652",
         "titulo": "Niña mala",
