@@ -1,5 +1,26 @@
 [
     {
+        "id": "1787500851137",
+        "tmdb_id": "16000",
+        "titulo": "Ben 10: Carrera contra el tiempo",
+        "imagen": "/dZUlsEhkilNtmGzD1xoe1ieMoaZ.jpg",
+        "type": "movie",
+        "year": "2008",
+        "etiquetas": [
+            "Acción",
+            "Familia",
+            "Ciencia ficción",
+            "Película de TV"
+        ],
+        "rate": 5.9000000000000003552713678800500929355621337890625,
+        "added_date": "2026-08-23 12:00:51",
+        "created_at": "2026-08-23 12:00:51",
+        "updated_at": "2026-08-23 12:00:53",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1787500816266",
         "tmdb_id": "25642",
         "titulo": "Ben 10: Invasión Alienígena",
