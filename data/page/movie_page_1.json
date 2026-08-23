@@ -1,5 +1,24 @@
 [
     {
+        "id": "1787498924277",
+        "tmdb_id": "33217",
+        "titulo": "El diario de un chico en apuros",
+        "imagen": "/za0ZCRRU0aDv6p4OZqQQ5KQP4bb.jpg",
+        "type": "movie",
+        "year": "2010",
+        "etiquetas": [
+            "Comedia",
+            "Familia"
+        ],
+        "rate": 6.29999999999999982236431605997495353221893310546875,
+        "added_date": "2026-08-23 11:28:44",
+        "created_at": "2026-08-23 11:28:44",
+        "updated_at": "2026-08-23 11:28:47",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1787498851756",
         "tmdb_id": "77027",
         "titulo": "Attenborough and the Empire of the Ants",
