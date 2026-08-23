@@ -1,5 +1,27 @@
 [
     {
+        "id": "1787501126935",
+        "tmdb_id": "9667",
+        "titulo": "Regresiones de un hombre muerto",
+        "imagen": "/eD7vYfV8IWlw5klRqK9Xg3KP5ic.jpg",
+        "type": "movie",
+        "year": "2005",
+        "etiquetas": [
+            "Drama",
+            "Misterio",
+            "Ciencia ficción",
+            "Suspense",
+            "Fantasía"
+        ],
+        "rate": 6.9000000000000003552713678800500929355621337890625,
+        "added_date": "2026-08-23 12:05:26",
+        "created_at": "2026-08-23 12:05:26",
+        "updated_at": "2026-08-23 12:05:27",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1787501094865",
         "tmdb_id": "512",
         "titulo": "Scoop: La primicia",
