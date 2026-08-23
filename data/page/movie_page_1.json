@@ -1,5 +1,24 @@
 [
     {
+        "id": "1787473852446",
+        "tmdb_id": "179",
+        "titulo": "La Intérprete",
+        "imagen": "/yxpmVqh6CNixZ48zVqJY2f8ZcHe.jpg",
+        "type": "movie",
+        "year": "2005",
+        "etiquetas": [
+            "Crimen",
+            "Suspense"
+        ],
+        "rate": 6.29999999999999982236431605997495353221893310546875,
+        "added_date": "2026-08-23 04:30:52",
+        "created_at": "2026-08-23 04:30:52",
+        "updated_at": "2026-08-23 04:30:54",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1787473330883",
         "tmdb_id": "26269",
         "titulo": "Crepúsculo (Twilight)",
