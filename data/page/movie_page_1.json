@@ -1,5 +1,28 @@
 [
     {
+        "id": "1787500943499",
+        "tmdb_id": "12924",
+        "titulo": "The Place Promised in Our Early Days",
+        "imagen": "/erOZrvbuTh8PEnyosDDEFKZRcz6.jpg",
+        "type": "movie",
+        "year": "2004",
+        "etiquetas": [
+            "Animación",
+            "Aventura",
+            "Drama",
+            "Romance",
+            "Bélica",
+            "Ciencia ficción"
+        ],
+        "rate": 6.5999999999999996447286321199499070644378662109375,
+        "added_date": "2026-08-23 12:02:23",
+        "created_at": "2026-08-23 12:02:23",
+        "updated_at": "2026-08-23 12:02:24",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1787500882806",
         "tmdb_id": "98034",
         "titulo": "Legend of Crystania: The Chaos Ring",
