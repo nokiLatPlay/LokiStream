@@ -1,5 +1,24 @@
 [
     {
+        "id": "1787475035505",
+        "tmdb_id": "4437",
+        "titulo": "2010: El año que hicimos contacto",
+        "imagen": "/nMA0Z5Vw05GwHyugYl5s72Lf0Z.jpg",
+        "type": "movie",
+        "year": "1984",
+        "etiquetas": [
+            "Suspense",
+            "Ciencia ficción"
+        ],
+        "rate": 6.70000000000000017763568394002504646778106689453125,
+        "added_date": "2026-08-23 04:50:35",
+        "created_at": "2026-08-23 04:50:35",
+        "updated_at": "2026-08-23 04:50:36",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1787474977544",
         "tmdb_id": "872263",
         "titulo": "El Guardián",
