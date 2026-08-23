@@ -1,5 +1,25 @@
 [
     {
+        "id": "1787499087637",
+        "tmdb_id": "470",
+        "titulo": "21 gramos",
+        "imagen": "/beMWVLE8ggT2DYNc4QUMsmcAKpG.jpg",
+        "type": "movie",
+        "year": "2003",
+        "etiquetas": [
+            "Drama",
+            "Crimen",
+            "Suspense"
+        ],
+        "rate": 7.29999999999999982236431605997495353221893310546875,
+        "added_date": "2026-08-23 11:31:27",
+        "created_at": "2026-08-23 11:31:27",
+        "updated_at": "2026-08-23 11:31:31",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1787499033179",
         "tmdb_id": "310558",
         "titulo": "Til Death Do Us Part",
