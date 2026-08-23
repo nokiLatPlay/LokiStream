@@ -1,5 +1,24 @@
 [
     {
+        "id": "1787500973310",
+        "tmdb_id": "724089",
+        "titulo": "Gabriel's Inferno: Part II",
+        "imagen": "/x5o8cLZfEXMoZczTYWLrUo1P7UJ.jpg",
+        "type": "movie",
+        "year": "2020",
+        "etiquetas": [
+            "Romance",
+            "Drama"
+        ],
+        "rate": 8.300000000000000710542735760100185871124267578125,
+        "added_date": "2026-08-23 12:02:53",
+        "created_at": "2026-08-23 12:02:53",
+        "updated_at": "2026-08-23 12:02:55",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1787500943499",
         "tmdb_id": "12924",
         "titulo": "The Place Promised in Our Early Days",
