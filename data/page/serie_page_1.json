@@ -1,5 +1,25 @@
 [
     {
+        "id": "1787462199466",
+        "tmdb_id": "271607",
+        "titulo": "La nobleza de las flores",
+        "imagen": "/khxkciCkPVG1c7R00vNZFxqgqFE.jpg",
+        "type": "anime",
+        "year": "2025",
+        "etiquetas": [
+            "Animación",
+            "Drama"
+        ],
+        "rate": 8.699999999999999289457264239899814128875732421875,
+        "added_date": "2026-08-23 01:16:39",
+        "created_at": "2026-08-23 01:16:39",
+        "updated_at": "2026-08-23 01:16:40",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 13,
+        "status": "Ended"
+    },
+    {
         "id": "1787453139554",
         "tmdb_id": "209867",
         "titulo": "Frieren: Tras finalizar el viaje",
