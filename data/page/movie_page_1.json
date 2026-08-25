@@ -1,5 +1,25 @@
 [
     {
+        "id": "1787627538491",
+        "tmdb_id": "64694",
+        "titulo": "No eres tú, soy yo",
+        "imagen": "/5vTTejFAV6EKjZsoFlPGTUyIsES.jpg",
+        "type": "movie",
+        "year": "2010",
+        "etiquetas": [
+            "Drama",
+            "Comedia",
+            "Romance"
+        ],
+        "rate": 7.4000000000000003552713678800500929355621337890625,
+        "added_date": "2026-08-24 23:12:18",
+        "created_at": "2026-08-24 23:12:18",
+        "updated_at": "2026-08-24 23:12:20",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1787501126935",
         "tmdb_id": "9667",
         "titulo": "Regresiones de un hombre muerto",
