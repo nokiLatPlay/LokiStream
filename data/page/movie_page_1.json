@@ -1,5 +1,24 @@
 [
     {
+        "id": "1787628866258",
+        "tmdb_id": "526811",
+        "titulo": "Passion simple",
+        "imagen": "/76NwvWc0sFqLpbxVRn3d56I31Uc.jpg",
+        "type": "movie",
+        "year": "2021",
+        "etiquetas": [
+            "Romance",
+            "Drama"
+        ],
+        "rate": 5.79999999999999982236431605997495353221893310546875,
+        "added_date": "2026-08-24 23:34:26",
+        "created_at": "2026-08-24 23:34:26",
+        "updated_at": "2026-08-24 23:34:27",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1787627538491",
         "tmdb_id": "64694",
         "titulo": "No eres tú, soy yo",
