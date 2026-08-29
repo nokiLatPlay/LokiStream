@@ -1,5 +1,26 @@
 [
     {
+        "id": "1788020102653",
+        "tmdb_id": "73223",
+        "titulo": "Black Clover",
+        "imagen": "/p3rUhlE81nWxPqpPR8F2u7a01Tl.jpg",
+        "type": "anime",
+        "year": "2017",
+        "etiquetas": [
+            "Animación",
+            "Action & Adventure",
+            "Sci-Fi & Fantasy"
+        ],
+        "rate": 8.5,
+        "added_date": "2026-08-29 12:15:02",
+        "created_at": "2026-08-29 12:15:02",
+        "updated_at": "2026-08-29 12:15:04",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 170,
+        "status": "Returning Series"
+    },
+    {
         "id": "1787462199466",
         "tmdb_id": "271607",
         "titulo": "La nobleza de las flores",
