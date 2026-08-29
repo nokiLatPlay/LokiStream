@@ -1,5 +1,23 @@
 [
     {
+        "id": "1787961890255",
+        "tmdb_id": "1243186",
+        "titulo": "Demise",
+        "imagen": "/ljYwJwHwJ2xOMidR52VrpbrN3vi.jpg",
+        "type": "movie",
+        "year": "2024",
+        "etiquetas": [
+            "Suspense"
+        ],
+        "rate": 4.9000000000000003552713678800500929355621337890625,
+        "added_date": "2026-08-28 20:04:50",
+        "created_at": "2026-08-28 20:04:50",
+        "updated_at": "2026-08-28 20:04:52",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1787640518889",
         "tmdb_id": "1243186",
         "titulo": "Demise",
