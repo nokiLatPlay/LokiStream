@@ -1,5 +1,27 @@
 [
     {
+        "id": "1787096173574",
+        "tmdb_id": "82684",
+        "titulo": "That Time I Got Reincarnated as a Slime",
+        "imagen": "https://image.tmdb.org/t/p/w500/rQJ8EHSyDtgdMb2JWdD9zOeZQUd.jpg",
+        "type": "anime",
+        "year": "2018",
+        "etiquetas": [
+            "Action & Adventure",
+            "Animación",
+            "Sci-Fi & Fantasy",
+            "Comedia"
+        ],
+        "rate": 8.4000000000000003552713678800500929355621337890625,
+        "added_date": "2026-08-18 19:36:13",
+        "created_at": "2026-08-18 19:36:13",
+        "updated_at": "2026-08-31 02:13:37",
+        "update_states": "No actualizado",
+        "temporadas": 4,
+        "episodios": 90,
+        "status": "Returning Series"
+    },
+    {
         "id": "1788020102653",
         "tmdb_id": "73223",
         "titulo": "Black Clover",
@@ -464,28 +486,6 @@
         "temporadas": 2,
         "episodios": 24,
         "status": "Ended"
-    },
-    {
-        "id": "1787096173574",
-        "tmdb_id": "82684",
-        "titulo": "That Time I Got Reincarnated as a Slime",
-        "imagen": "https://image.tmdb.org/t/p/w500/rQJ8EHSyDtgdMb2JWdD9zOeZQUd.jpg",
-        "type": "anime",
-        "year": "2018",
-        "etiquetas": [
-            "Action & Adventure",
-            "Animación",
-            "Sci-Fi & Fantasy",
-            "Comedia"
-        ],
-        "rate": 8.4000000000000003552713678800500929355621337890625,
-        "added_date": "2026-08-18 19:36:13",
-        "created_at": "2026-08-18 19:36:13",
-        "updated_at": "2026-08-18 21:31:13",
-        "update_states": "No actualizado",
-        "temporadas": 4,
-        "episodios": 90,
-        "status": "Returning Series"
     },
     {
         "id": "1787086438264",
