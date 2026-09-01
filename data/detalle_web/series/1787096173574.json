@@ -14,7 +14,7 @@
         "Comedia"
     ],
     "temporadas_count": 4,
-    "episodios": 93,
+    "episodios": 92,
     "status": "Returning Series",
     "rate": 8.4000000000000003552713678800500929355621337890625,
     "sinopsis": "Satoru Mikami es un hombre de 37 años que tiene un trabajo que no le gusta, sin salida y que no es feliz con la vida que lleva, pero cuando muere a manos de un ladrón y piensa que es su fin, se despierta descubriendo que se ha reencarnado en un mundo de magia y espada… ¡pero como un slime! Ahora tendrá que acostumbrarse a su nueva vida, aunque por suerte contará con dos habilidades únicas que le ayudarán a sobrevivir: una que le proporciona una gran comprensión de todo lo que le rodea, y otra que le permite copiar las habilidades de sus oponentes.",
@@ -77,7 +77,1124 @@
             "temporada": "Temporada 1",
             "season_number": 1,
             "poster_path": "https:\/\/image.tmdb.org\/t\/p\/w500\/ovExerXUMp9hG6NLdIQsvs6vHBR.jpg",
-            "capitulos": []
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Verudora, el Dragón de la Tormenta",
+                    "portada": "\/kn2O2A6yxvPNjyxJ2gJmW6l8qzs.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=SkJMbEQvSzlOQ1JYcXlRdEJkSjhBZE1zNHo1eUZnMXFJbDcwZk8zcXg5WTFSbnpTcjhqY3JEWWRMVXM3NDlobjNFcDFoNzlGdTFYRGcrdG9BOExac0lFVmVyazRrbWFuc0ZiNkplMUZVV3M9OjpjlneKkkA9UOSDQZ3JIpO4&t=b0686725511c0b7a877d97303dc036e1&op=MzgwMDM=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=M1hMbmh6cXJjZEEyQWFaQnAwMk52L1AwRU1SV1A2OUZqakJ5TFg4UGZmOTZ5UXo0NER0THNDU0lWcnNEVVV5MW9tZnRydW0wNG4zVEozN1k2Z3phdFE3NkE0RFJrT0J5cUZ3elI4WGpjbkk9OjoMPeIfbZ__tspsKPGhZdJh&t=b0686725511c0b7a877d97303dc036e1",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ho3c5ezscpxa",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/5r3cmh5iclsd",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/04erwd9zvrf2",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Conociendo a los duendes",
+                    "portada": "\/bl7NSSaMhVQFAUdVMyyzylfZ5Be.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=VEJtMW8zZDNyMlpxOWxuaTJDUFZwak1Ja3FXaGdtV0xhUnYyYVFpRHd4MlArek5UanVDMWloM1dMdzNBU3l1SVJEZHBCeGVORXM0OUNETGd1QndNMFVoWnJObGFXc2NQVUpwQm04WVFRcEU9Ojq2BbejgPfaw4ENYkXvwQ_B&t=3753867497001f8e1303362092706df1&op=MzgwNTI=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=R21QS3JFY21WaWU5WXB6Y0NOUEJSSFdXcE5GWDdnVU9BK0FURGdUUXd3Z0JYZmdzV09UenNDZ211eTFadi9BbngxNlVwbVdPRVhjamhwL21BQXBRL3dzZU43VU9FdkVuUFQvNDcrZCttYW89OjrNV_W6IcJdosfisvpdcSxH&t=3753867497001f8e1303362092706df1",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/aahio89lrrqd",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/ev36i25jwflz",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/icvroabba0yx",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Batalla en la aldea duende",
+                    "portada": "\/uB7iLDVu1DXXk8u4IOr3O4eWAY1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=SGlrMkJrUW14SDh6RHB4QTN0RnRoekFKTWVlTnhqa0FJdkdjOHZFOTFsaVBoV2Q2bTZlNjdPZVdHOFprWHpWRFJoVUV3SEk5K2xqY3NJaWNQc1hPeFNMSlVaNzlvRmpnTzQremVuT21ZeG89OjpgBJvbYjYVzvA6TcEytvXA&t=ce4a34de8a08d5b2a3fb5dff44d7a5d2&op=MzgwOTU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=YUJXMDFsUEF0WGRIUm5PWWp4cW83czkvZFBidVV3VVR6WG52VlAzaHBYVkJiZ3czdldIT0NPMXc3bG5kcTV3ZFdVdW1lcCtEbGQvU3VqVHo2eEtxb3gwQnhxdzN6MXE4T1pqeXJ2dXJIU3M9OjoiR85mRagoduVRs8UWWqBs&t=ce4a34de8a08d5b2a3fb5dff44d7a5d2",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/6cjl6fvlp4z7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/h4i3u4avhatv",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-87wsvtw1culr.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/ip9slwzdj4s7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "En el reino de los enanos",
+                    "portada": "\/4kAo0igLqN4ql5IjOXFM1x2qE40.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=RXhGTGphd3o1am1BY2dnalFJek9IQnR6TXhHcVJDUlVMdlc4MjcrWG80dEtaK29kWE9kYitYaWZ5RExBY3dsL1dQWmxnR0hleGpZMXE0WVp5b2hSQkEyUGFJQy81SFV4azZkWFFzZnppRU09Ojp4HkusQpjgSDjaXSjiKhAe&t=bbc226da5038f2ce2936a649806fe370&op=MzgxNDg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=NVhudXI3NnQ4NFZLUFBBVjF3UWJoWnp1dzdjYTNDK3h6Z0VDa3FPMzl6TS9NMndFcWp5MXBhOWhuY2tIbGtBeXIxWE5sK2k2K3RGMGJaWHJubGhlcHEzaGxaRUhqdWFBb0IrWkE2QnFwT3M9OjpfuyKXtje1x7eGG3Z6YFoV&t=bbc226da5038f2ce2936a649806fe370",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/z1w6cte61jhu",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/6x4vlqs8qv4e",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/f5chnvjklrzq",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "Gazel Dwargo, el Rey de los Héroes",
+                    "portada": "\/jZiQCe4EvUZMYUqdztgzmqgNYUH.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=aVFVazV1eXU2aGtkU2lzM1E2TUFtUkNWWWFsbEt3UXNiQlE4SmV0SGRuQ1pkWEI3WU9GUElka3FGbjJWU3hFVm9sR1dkczE2RTJ1OCtobmRFZUhqSGJsK1Urdm1tQjlRNHlmMm44cWkzeFU9OjoGhJ4E9BAtIwljquoDHQ4Z&t=20abd899ed40c87f30657e4369bb656b&op=MzgxODk=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=TURHSCtQTVZHczRTNXUyRzRZMnEwUTBuWVZ0aE5RWTB4RlVZUklyR1c4b0RQOEgzTzRyTzZXOVV0TjdPa3NsU1VLQTdvYyt2dkFTaWpYWWJnNTA5Z21zRHVnNCtod3kyREdsNU1uNEpoUjg9Ojp95cA8UpPRS_2oRwesb9UT&t=20abd899ed40c87f30657e4369bb656b",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/payeqkv0tk7i",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/ypx2pm754p1e",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-9fs1iq6glnmb.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/ivn3t9fd5uwi",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Shizu",
+                    "portada": "\/umRZpXoBQ6L1KbSm9g74ZSofJ9J.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=TC9FVmZUSDRBNEZ4S3BJRTRDdnIxdWE0SzFSOHViN0NzMENJVVB1WklnK2J4S1ltb1h3SXZ6TCtRaHlzV0Q5NHl5UXFUdEFuSzlrdnU3NS9aU3YrV2RFTzBhY0VZVDlaOUlsRHN0MkNNVnM9OjrwewEzLUgLvTErmsGaX0zO&t=8dcb04b68493df0fa955415dae5f80f4&op=MzgyMzY=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=MEJnUlZZdm5kWXRGTGNZTFN5SHVjMVlwRFIvdlErQytZb1NnSzRFdjJLMUpLeDhaWkl5c0VCc0ZLckxYZ3FjQ2h3SVpkZFRLaEZzbVdDYTI0eFZiZ0xkWGFvV2I2NjZxdkt3NFRJWUE1V1E9OjpgW2Px69cB72lOpwZ7IVjc&t=8dcb04b68493df0fa955415dae5f80f4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/tcbb8qzi5u9c",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/fzkysmaeukdj",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-1u04qt6nezdy.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/s61cs450xzpv",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "Conquistadora de llamas",
+                    "portada": "\/eCFR8aqyILnl6sUS3QgFNFkMH6r.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=ZndpeEl3YzVyK1FtZDltbXh1NEsxUDB6STROekNKejlKd1JyZ3F2MFk4R2VXVXZoYVlneXAwTjE5RnBzU09xZ0tZamd1YnZ4dlFpcU84NThmekMzOWU2L3hRaDk5RVhGelhBenJKT2YyQUk9OjpkOYyWxe7X_IgzSFgF7IKy&t=cfcb3e89376d2e9eebbbb5e643998d8c&op=MzgzMDI=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=Z3Y3L3RZYWphN3M2ajcwVjBxUndicGtkdmU5dllMejZ6dDhuOCtLL2Y3RVZ3cTNyT1BuQ0NDZWlYb2JvRFhudHRqN2Vhd0ZiT3R4VWhWNGUrdnVVME1VelByRGk4ZFI2QWtLRTJsZElHNUU9Ojq4h8OPv7HIWUgt9Qq79WV6&t=cfcb3e89376d2e9eebbbb5e643998d8c",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/0h6mg1f7gynq",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/s6kvec24tjqe",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-n17xzdet47tc.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/q5q4ww7m383n",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "Voluntad heredada",
+                    "portada": "\/2rLu3nl83nHbvqE435xAlyV40yw.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=dThWSE5QUzkwcHRiVlhlNXhUYWZ0cHZvYXVkcEpIL3hCNlA2SDBtVUNqdHFTMm9id2xMWFZCVm1ueDdhbXhSYW1SRGdUQ2FPUGd1WVhjMDQ1Kyt6bGJVcDQzd1JwS3VhaWRwRFkvNW9LTGc9Ojreb5kyUafc5td9MbE0tJQr&t=cf9ff750f6775185202feab86dce34c3&op=MzgzMzY=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=TDRCYTJ3TmJldklrSjJOL2g2UWhFZkx5R3hwWlFLZU1lR3R2dnpDTVZuNHZyMFY1bUdlT0RlL01aY05wRjZjRmFuT1NJTWJFN0l5cGR0M2E1R1RSM0N3TS9aZmQwTWQyN2IrbWphLzNacG89OjpkA6S8g_9josBP3dwkElHU&t=cf9ff750f6775185202feab86dce34c3",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/x8wo3x060ce9",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/stoq4llsex02",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/notlrjxe5c7e",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E09",
+                    "episode_number": 9,
+                    "nombre": "El ataque de los ogros",
+                    "portada": "\/c3XhKRZlM7HLkhHpmzi2z2aeiZD.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=clJacjRPUEJnZ1RCTnpGVDJBQ2RVK0V6djQrSUhyT0pKYTJXb2ROM0hxVFV5d1ovWkZTaDl2M0dUT0RFei9uMTRGdTlJZVhPSS9KeTU5QW1MR2JxMk1rZ3NhL1RTM0E1UnlMV1BZcVpiRFU9Ojo.BhXQQw2hr6xg7yWymSfi&t=f933d5c2b1cf9fd42ec839ef9648bf46&op=MzgzNzY=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=Sm1NbVNFTlV0eGVTN3JIa1Z0RXVMK1RxOFFmUnBjYXdHNTlQanBkaGxPNXovRHBPeXRmSjNxUFhtcDdYOFpOamNTNGpucmtXaVYwTWZsSXhIM3BlbzdoUHkxRVdTWDdoSkV6VVR1eDR1a009OjpSLj2E6VKTRtEzN_CytD5n&t=f933d5c2b1cf9fd42ec839ef9648bf46",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/frh0ingjnu5h",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/qny4631xsyxx",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/kbnwwh2uawqq",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E10",
+                    "episode_number": 10,
+                    "nombre": "El Señor Orco",
+                    "portada": "\/hMerUrDesUpiZyynGMsQjE5BgDq.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=Qm1kU1VobUV1aU1icEVHekxKcVZqUFV6T0ZYcC94RlR5SjNyQUdtSWhYMlBFcjM5bC80ZUdMaDFqbDhGVVZJYkQ4Vnkrcmc2MTg4QU5kb1Y4eEUwMXZsSEI2NFB0VmJHQ0N0YVE5M3FYdms9OjpbOnrNNcGsFvYs.G8WYmG0&t=4dfa8c1c082dc012ffd94c2baa621a41&op=Mzg0MzY=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=b0VucEhOOEl6TTRleDMvLzB6dHI3NXlQcWdRR2UxUUhvMVB5ZEY0SnJYSUtjZ3hUUEZPOGdDdmNiSUNjQUlKbkFhelNoc3hsWDVxTmhLMmZobU80Ym53TDlTSVdqQ2dxQVZpRU1Hczc5Rk09Ojp_1u6r3hRCSSFLT0Zkn78m&t=4dfa8c1c082dc012ffd94c2baa621a41",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/g87fmlnpm3aa",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/mpc7q36o0l58",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-e2yglnab02bi.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/w45x7zbx69l7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E11",
+                    "episode_number": 11,
+                    "nombre": "¡Gabiru ha llegado!",
+                    "portada": "\/8qmpYCQouyHFFC0iR77I6KBoF2u.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=RUo5NEhXRCtSNFRRU2JROURIV1hhSUUzc1N5K1I4ZlRReE1KdnZZUHFkZWNIcEIrcXUzbUNZSDNSY3FDcStnL2o2NGJYMDNicXArRm5QZVVZS3Z3STRCRTFPN1J6TmlkNm5IUjM1aXBkQXc9OjpaifuQuqZ0kIQv6O2J6Z1D&t=a40a236b4b73aa4df86721e02ef932e9&op=Mzg1MjU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=dC9iRjY5TEZIZURJUkFwVkFEVlFWbE1GWFBJWHBta2YybkkraVNuR2QvNitCNzNZbjJkajZuRXRXUjArRTM5WEV0cEFaTzlMNytwaWNNby9DZVU3TWUxR1Q0ZTBNeHRPZ21ZNDBBK2hXLzg9OjphYaeTSsqU1WEXuANbtuUW&t=a40a236b4b73aa4df86721e02ef932e9",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/btvxcsrf8rsa",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/89s9xit5h9vx",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/dunrmc7cm3u2",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E12",
+                    "episode_number": 12,
+                    "nombre": "Los engranajes pierden el control",
+                    "portada": "\/4sekRZzE4nat8VytAhTUVGEEpYK.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=QVdUblRHdzRpUUtMRnMvMDcrVkc3bjFUTHpvOFFDQUQ4WC9yV1Y4cWhmK2NnQU1UelFBYlQvWUViRXQ0TDF0S1BjQWV0ZlcxSDZzSVZDSXY2YmlmN3Y3ZWpVY0J4MzhFU2JVeXFSa2JHMHc9OjoN45s2cQBnjxhtTUByYNag&t=cc4f51979d86bc1a70658135d039817d&op=Mzg1MjY=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=eTFoNUVuY1poYXR2U3Q4OGdGRStEQURZQm1HcHFUK1YwTGp0S1UxYmZMbnAvSm1SRHBhNURQRXRBaldwdm8zYncrMFkrcERSNmxVSkJTZWk5aXQrbWZwZjY4andZbXNGNEFiWFd1K2FFaU09OjqlLYSDcjDKzdizYl82ioP2&t=cc4f51979d86bc1a70658135d039817d",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/9m4bkjio0cjb",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/1ek405x56jik",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-0ws140e6q491.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/7ovz6up51bow",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E13",
+                    "episode_number": 13,
+                    "nombre": "El gran combate",
+                    "portada": "\/9PcZM0qOxB5AnE6IPSGJFW9JG3V.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=UkVEbzZBdnFYbldRM1R3OUx4dFhiV2haK0xma3d2UEhvd0FZNW5ZTGhOZzIrTXpxdDFObXNWT3FXbXNnY294VnBCdkpHcmU1OWYzaW4zWWVTeWV1bEZQZ0ZXanQ5TXdwN0FSMFREL09Fa1E9OjqRzdFJRhX8AcbXt0Td8d93&t=d596114d5e75e82bacec0041e467dfd7&op=Mzg1NzA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=VkZHdERKQnpJYjEvS2ZhMFBQWERpdFh2RUVvRk90RWtSZEQweEFqeDZsYXBiTHRNY05taktsVCtvQThUVFBYV0J1T3Y2SFh1dmp2aGJPbzNyZVdQVE1UYXlBZlNPbVF1MG9CYlZJTWV4V1k9Ojo.IM1Ym6v2MvwmceWvcsNN&t=d596114d5e75e82bacec0041e467dfd7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/e9nr7zlkxbj7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/fc039776p3jm",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/in4e6vsqud76",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E14",
+                    "episode_number": 14,
+                    "nombre": "El que lo devora todo",
+                    "portada": "\/46oZhigxWtncWcTRtu60TWuXZiv.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=RXBqenRxOTRKWGNqa1JFaTdtd294cFNCWWFkZFZreEtvOW91R28wSmFjZ3BHWkJvMFJGMXJhRndMamd6VXZ4K1MzMFRCYVVoMzVldm5BcVRWVituNmhZbGlyRHdVcTAzbE1JY08yRk1lWDQ9OjptrTOwhwy0oWWpelYitbQF&t=17810cdd2172addfc62ec4b6e7bc343e&op=Mzg2MzE=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=a3RtUk1HMVJiS3drV2JCOEVFQXN5czYzR3Z1QmFPSE96SFQ4U0dCVVhLUkxBb0xkMTZmdXBoMnRyWXdFQzhobzV5dXltV2k5OWZveGhmb3dRa211WTlhMjBLZFFEdTRwT21WSVdJR0NCcHc9OjqwdYJvC_B2SNWbcI9MJjyW&t=17810cdd2172addfc62ec4b6e7bc343e",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/n5eeahiy09jg",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/jvkgku4c55ym",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-5x2kh706sq82.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/fyzuvnqp5ic3",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E15",
+                    "episode_number": 15,
+                    "nombre": "La Coalición del Gran Bosque de Jura",
+                    "portada": "\/iFStfGwmHg8XtloFhPlIBB3XMFn.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=QzJ4N1hmb1hrekVqNnN2ZDBObkxpSmQvZFlLSXFGRmtKNjlNQ1A5ZHNkOEEvRGQ1U2JiNG5Hc2gwVHhqR1dKUlczVThOQlg3dDAvL3dEZ2pQZ29GclBHdFppOEQ0dHB4S0g5UkF6b1c0dFE9OjrWK99mX804D_ol7lXa3d7Z&t=25fac99a7e76310b5286a9df9c3839a1&op=Mzg2Njk=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=WDZEdThnVlNqSThtWElzcGpWcGx3TjRGZ1YvYW95bENQSW5EcUlkeUFNeHY0Y0tyM2R4N2NzYXRNL1NCb0JnQnFmem9icHcvYVUraXBDQTc0SmxnVGJ1N0czVTdFOFA5Z3A0VHRCWkVyNUk9Ojq4.Ej42X26yArGXBk1_nvZ&t=25fac99a7e76310b5286a9df9c3839a1",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/1tydkpcfu53g",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/hapmt63mubfl",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/838qxpo99k37",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E16",
+                    "episode_number": 16,
+                    "nombre": "El Rey Demonio Milim ataca",
+                    "portada": "\/j7IZf3gTyvS8j5K1AWv8J9EpytK.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=bHloajNQS1A3UmNQeUl6U0ZKTFJtSmVaejVqV2V5SVFPNW9hNlFSbnRsd1JReGxwcjQxd3JBbzR0cEtCbDh2L2FHTnhNR3JLNWE1dWZGUnVpTk5ScStuUno2ZzVKNmxSUWdSeDBnc3F3aU09OjrzQaQSt9_eHX8lAthUyVyk&t=d82ced4d399f271c1f206b76f8e6a893&op=Mzg3MTk=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=cHRCYmFMcFRRbEtZYmx5Z3hBNUtxUGJDRjFIYXFabTBVaEhoSXpqRXZmWlRjVG0vMDc0bXAweGNMUnJja1l3NzJkUnRsellBRWlYejIrQ0UwVmZPSWN6U1JRYmlVVG9hSTVYL2dEN216Mms9OjqkGCi1oj5XTH1V1FwHeWhJ&t=d82ced4d399f271c1f206b76f8e6a893",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/7m2rqys5blod",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/q2gcr2gzwkty",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-wxe2oslskitz.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/hyv1nd9reeb7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E17",
+                    "episode_number": 17,
+                    "nombre": "La reunión",
+                    "portada": "\/isClSj96Vwlv1FgYpRYoNXWbejg.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=WjBhNVRzcCt2RlYranJRaXU5bnB2T1hzTjJ5dXUyY25BMExVN0pGYWJUb0t3UU9FanJhWkZ0ZE8xd2NtU2FPTGZZbXJ6eE5naW04bEFyRm9BbUpZN01RaHJZcmZrbFNYV0ZmaDdUd1ZrSFU9OjofGysplA0x_pp6Yrf.2189&t=cc0ec50248642a1df8306d37126a7241&op=Mzg3NDA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=Tlgrb2E3V0IxYklVYkwxZG8yaEExbW5GNVg5UTYzaFE4QmowakJyY3RSSHlUbno0d3pLZ2FhWmd0bTdBZ2lhcitWU3JucTRSRHZHSWhmTjFhTWg1aTdxalg1QUZnbk5CNmJwSkpMWHgzWmM9OjruEZZp8ojevkmBDAY0dVsq&t=cc0ec50248642a1df8306d37126a7241",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/pjsqsnudh1on",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/70l0nnedtkj1",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/oljc7cek96tv",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E18",
+                    "episode_number": 18,
+                    "nombre": "El mal se acerca",
+                    "portada": "\/7RVXfIQ1erRpRdWpaYOr5VbEuYz.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=TmVTNmxYUGJISklYYVhteXl2ZlhKSDl0ZGh3YjRQakxkMnlpRSs1d1BORWZTTFl5YzB0Zk5Db2JqdXp4Y2JONzFnd29WZERMeWZ2TGFyOFBJakRUK0pJekJyT0t5UHNGNkJvKzV1Q3liRUk9OjomzAbOnQtfg4.0vx5jv17m&t=1397d4cc66d68ce758c935d4314073b2&op=Mzg3OTY=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=TFViRlErRXpqcHNVZE96ZjRZZm9jSFRyNjdiUXJuU1ZzeFVVa2JJWXVkczVZRllNdC9TME5EUVRPNm5oUCtXanFWZEtwYzJQZmpReGwzUXdFRnpJV2IrVXRtZC85cEhURit2THJ6Ly9JaUk9Ojqk85R2WAr8rkemL8eLW0BW&t=1397d4cc66d68ce758c935d4314073b2",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/0lks03fywnu3",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/dbc13rc0kaap",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-64t9ht2fmr0b.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/gs6ry198kmia",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E19",
+                    "episode_number": 19,
+                    "nombre": "Charybdis",
+                    "portada": "\/ag2XMpv9gi3EFbjsUvHMKBRT7H8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=Z1JRZGJPeFZYcWZDUXJhNGUzYTBRRXVhUmhxTUpBbVBSYmNFM3BVZ0QrN1Y4QXZpRzJyZHVJRGNkV3N5SHFsREFNVm1rNGs3SXNLYVN3VlhYVFBvQS9vdXhyOGNacDIxb2xlS1FQeFd4T009OjqAtj76Wh8TyfULjDhTvR_w&t=52d4d7e63ba0b34da02046be3a5ab5d3&op=Mzg4NTY=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=clZ5VHkxUWZmbFAwTzB6U3M3dG9SaEpZZWRWMEttd3NkREhYdS9WbE9mRFhrNVh5Uk9Xd1VRS2I5RVpHYXlCOTBHRTdndWhQZkU1YjJPTzVWek5Bb2F1K09CaVZDUXZ2ZzJsRThiMFdydlE9OjoBurjzoJxBmw5AKKJkK7a7&t=52d4d7e63ba0b34da02046be3a5ab5d3",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/3ou4vmas589m",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/cl9pjymdos9u",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-xd6g5hstujf6.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/aptpg5w03nwn",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E20",
+                    "episode_number": 20,
+                    "nombre": "Yuuki Kagurazaka",
+                    "portada": "\/eddUGXrqpY99Y5RWpgNsy8TVorz.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=aStPSGVwWUlXUmlLNjA2U2l5Zm04QUZyTjlxMnZCRG9jMUVVcmNwSWl6aWd5NXpJR3drVWVDcCtYcmk0K216L2MrWjRTT0FtTTlCekR6RGZVaXhWbjJNWGRWMkEwR3FGb3d4K3VNM2p2KzA9OjrsdLTlmKrtUqfsFuloqblY&t=20a64966eecea0bb7c95d963fce387b3&op=Mzg5MTI=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=NjNCenhFZ0FJRkMxU2lHM2VrUWFCbkRaTUdYaElObjZRSk9TdjAvN28ycXhNb1BtWVNzL053TjAxQ21sUkdNRGEvMFQxK0ZKdjFQZExNV3lpWHQrTStldXJKdDZUaFBlRDhkNTdHNDhVQ3c9Ojom0ojHAYODaqIwwFyEOMEf&t=20a64966eecea0bb7c95d963fce387b3",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/cpv4rk1s9n6i",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/qja0ysy1pckx",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/fcctvyjlub0g",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E21",
+                    "episode_number": 21,
+                    "nombre": "Los estudiantes de Shizu",
+                    "portada": "\/waETiQ7NF5Dpcy7G853myOt9piH.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=NzVQRmVhaktCbVVGNUI3YmZTanVUTi9jZlhNd0l1R0lrY0Raa2lSVUpwSTZ1SUJPTlhSNTJucEppalNQUGh0cU9zcjBmb1RYM241TGlBcDdpZXl4TjlCYTRjR2J2M3dVZUs2VVppRnJaczQ9OjoVZop5twc.rW2zwwGT.Wsv&t=25efc250ba7103ebb3aad53283daf077&op=MzkwMjE=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=OU5xZ0VIOE1sRFpHMldJanJNOGtjRVl0UWZyL2lPdlYreitiaWFvZ1QvbjBGanJwZkh0RUlhN0RrZEVsV0p5VUowZ0E5TEZ5eHFKbkNJTndFejhlenNtd3VrQ1IrckJDd25CVlJweERubkk9OjoVbKQlzw7KtcAbGs5lQs57&t=25efc250ba7103ebb3aad53283daf077",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/o7krpnrgqwt4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/veasrz1qrivo",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-o2w4hbkuvchw.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/jkdw5j73yq8q",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E22",
+                    "episode_number": 22,
+                    "nombre": "Conquistando el laberinto",
+                    "portada": "\/p5o1dVBXSiy3Sn6krkuHNAxVVjS.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=TG9GVzc3YTdVV2ozY25DdE5xcEQ4Y2Q1SUZERi9kRjk0eno2bkt4RmMxdE1mRTQ4dTlFODk4NWRUVUhoMytIY3VNK2M5bjdMNk51RDlNRXdVekVZY2crSEU4RXlGd1F4aTc0N3BSaUVHRjg9OjpWz2Rlv4qzmmwZFSLtaZkC&t=20ea88ff2d4986dc61c779051ca98a10&op=MzkwOTA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=Z2xIRGdkd0RPWUU3dG5rY21FZHpRUm5nVUVCcmh6eVArZy9YZWNKWDRKc3JBN00vbUxLTWhIRkQ1c2ViRzRENlRHRTArWjZWNHJJTFVMS3JobTBFT08vRnA2SlhFVXVtNk95MVVpTU5JM0k9Ojq4QyA9oxjyFNMbbbhmUze7&t=20ea88ff2d4986dc61c779051ca98a10",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/35zo5oondpc7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/y0biyng16ck2",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-tyj6l4m920ce.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/if8pj3dwl9xx",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E23",
+                    "episode_number": 23,
+                    "nombre": "Almas salvadas",
+                    "portada": "\/53AyHp2PohkqITF2HMy49rMVpmP.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=UWhzT3h5dWYyVjJ2bkNQNFltZHovdkg2MXZvaEY0K3dlaVhCZWlqSDBqNDArRkQwUnM1cjVjdzRNWU9WRkw3QzdEOFZuSmJINFRsUW9OU1Y5Unc0aEU1M2xoQW40cXo0S2FOcEt2Rk1nZHM9OjoWlPEihAA6hh0geC_M6EUM&t=f4f2bdc71b9cb4bc59f2e15e910568a3&op=MzkyOTM=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=cU9WSTlDRy90b3BsTGxnNVlsSTF2blRFb2VRc1JwTzBTb21JWmUrR2FMMURTazBFTkl5M0JqVG5UUlQ4bjBCYSs0eTROb0FLbFYxaXNFY2RZTlhKdUZtejJLemgvUWViSDdmTTZTQVc0TWs9OjoXw6r6TBuwc3MvhqkYkfK4&t=f4f2bdc71b9cb4bc59f2e15e910568a3",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/niwcbmnvwa8p",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/2b9yharpwi6t",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/yw5cft0ad6le",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E24",
+                    "episode_number": 24,
+                    "nombre": "Extra: Negro y una máscara",
+                    "portada": "\/1dfhbX75RXgO0hAR08PpUR2Z3nL.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=Yk9hdUdzRlhhcElEZmFvckZ3c3dGU1dGR0JjZVlKU2cwdzJkZ1NhNWZKLzExdmVKdnVZWnRDVDUvM0M2ai96Sk1CM3pnUFFwbVNac3VyU0E5eEpVSzJDZWdPYzBqNDdGYTBPNTczQTdJb0U9Ojp.ujNA.0PZ9Uuyd7OrrbQF&t=bd8b4dc6f31f0c04377e23f09e764426&op=MzkzNDM=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=L09qUGgxVUszWWNkTUJEa29YY1UrZjRBVHRjZW9ETWphcVlBNzN0dy9NRnBTWU1UNXNHMGlNaXdQakF1ejRtbFJvaUR2d0pnWGZkVDJ0T1Evdy9aSVNvdGRhSVpVOW4zTGpGL2Z2Y0xsQm89OjomPS.DUGdcVfoRNmQjSi4r&t=bd8b4dc6f31f0c04377e23f09e764426",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/tffi4acd0d1v",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/iufkyiy7isac",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/huuc1b5uunoq",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
         },
         {
             "temporada": "Temporada 2",
@@ -5106,5 +6223,5 @@
     ],
     "added_date": "2026-08-18 19:36:13",
     "created_at": "2026-08-18 19:36:13",
-    "updated_at": "2026-08-31 02:43:50"
+    "updated_at": "2026-09-01 04:09:14"
 }
