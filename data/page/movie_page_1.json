@@ -1,5 +1,24 @@
 [
     {
+        "id": "1788251431895",
+        "tmdb_id": "10073",
+        "titulo": "No es Otra Película de Amor",
+        "imagen": "/82ce2k5OxwcLDGolf3HBl2JWyEC.jpg",
+        "type": "movie",
+        "year": "2006",
+        "etiquetas": [
+            "Comedia",
+            "Romance"
+        ],
+        "rate": 4.29999999999999982236431605997495353221893310546875,
+        "added_date": "2026-09-01 04:30:31",
+        "created_at": "2026-09-01 04:30:31",
+        "updated_at": "2026-09-01 04:30:33",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1788251403996",
         "tmdb_id": "244688",
         "titulo": "Los Juegos de la Resaca",
