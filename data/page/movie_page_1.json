@@ -1,5 +1,25 @@
 [
     {
+        "id": "1788251226116",
+        "tmdb_id": "82",
+        "titulo": "Miami Vice",
+        "imagen": "/iQF9F38wOiL5LKUpvxNDL3kqsux.jpg",
+        "type": "movie",
+        "year": "2006",
+        "etiquetas": [
+            "Acción",
+            "Crimen",
+            "Suspense"
+        ],
+        "rate": 6,
+        "added_date": "2026-09-01 04:27:06",
+        "created_at": "2026-09-01 04:27:06",
+        "updated_at": "2026-09-01 04:27:06",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1788251201720",
         "tmdb_id": "553600",
         "titulo": "Promare",
