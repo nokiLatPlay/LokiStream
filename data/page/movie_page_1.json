@@ -1,5 +1,25 @@
 [
     {
+        "id": "1788251096497",
+        "tmdb_id": "513324",
+        "titulo": "Higher Power",
+        "imagen": "/cplMeBlGdkpDzypHRKZ64BrpLoL.jpg",
+        "type": "movie",
+        "year": "2018",
+        "etiquetas": [
+            "Ciencia ficción",
+            "Acción",
+            "Suspense"
+        ],
+        "rate": 5.0999999999999996447286321199499070644378662109375,
+        "added_date": "2026-09-01 04:24:56",
+        "created_at": "2026-09-01 04:24:56",
+        "updated_at": "2026-09-01 04:24:58",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1788251066603",
         "tmdb_id": "292109",
         "titulo": "Tempestad",
