@@ -1,7 +1,7 @@
 {
     "id": "1788253565660",
     "tmdb_id": "298831",
-    "titulo": "ブチ切れ令嬢は報復を誓いました。～魔導書の力で祖国を叩き潰します～",
+    "titulo": "Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tatakitsubushimasu",
     "original_name": "ブチ切れ令嬢は報復を誓いました。～魔導書の力で祖国を叩き潰します～",
     "imagen": "\/61TfKgUhwJLpsEOsWQXu3ClKPNI.jpg",
     "backdrop_path": "\/pEv1seclJF9zSDbz0uVBkra1m1f.jpg",
@@ -79,7 +79,6 @@
             "capitulos": [
                 {
                     "episode_id": "S01E01",
-                    "episode_number": 1,
                     "nombre": "Episode 1",
                     "portada": "\/vFk5Sf0YAnvJrqLOVVTU1WzpnJO.jpg",
                     "enlaces": [
@@ -129,7 +128,6 @@
                 },
                 {
                     "episode_id": "S01E02",
-                    "episode_number": 2,
                     "nombre": "Episodio 2",
                     "portada": "\/qvtKku1ObJpgWG2Rlal8YQoLP2p.jpg",
                     "enlaces": [
@@ -186,7 +184,6 @@
                 },
                 {
                     "episode_id": "S01E03",
-                    "episode_number": 3,
                     "nombre": "Episodio 3",
                     "portada": "\/krW55C5EgeAfbihfvZqhgYHIeqi.jpg",
                     "enlaces": [
@@ -236,7 +233,6 @@
                 },
                 {
                     "episode_id": "S01E04",
-                    "episode_number": 4,
                     "nombre": "Episodio 4",
                     "portada": "\/2he7RRsyjZNGfYztIPpOS0qtr1t.jpg",
                     "enlaces": [
@@ -286,7 +282,6 @@
                 },
                 {
                     "episode_id": "S01E05",
-                    "episode_number": 5,
                     "nombre": "Episodio 5",
                     "portada": "\/8dN7TIv8AFEP5LoUn7NGkhraGCs.jpg",
                     "enlaces": [
@@ -322,7 +317,6 @@
                 },
                 {
                     "episode_id": "S01E06",
-                    "episode_number": 6,
                     "nombre": "Episodio 6",
                     "portada": "\/y1IkmAwGWBAsIJ7PO3mE4fMjeJS.jpg",
                     "enlaces": [
@@ -372,7 +366,6 @@
                 },
                 {
                     "episode_id": "S01E07",
-                    "episode_number": 7,
                     "nombre": "Episodio 7",
                     "portada": "\/xMFCBTCxoapjy6DYneH8z8EqumQ.jpg",
                     "enlaces": [
@@ -422,7 +415,6 @@
                 },
                 {
                     "episode_id": "S01E08",
-                    "episode_number": 8,
                     "nombre": "Episodio 8",
                     "portada": "\/z0or8eeXSZDVkaNaWXlw893hDnw.jpg",
                     "enlaces": [
@@ -472,7 +464,6 @@
                 },
                 {
                     "episode_id": "S01E09",
-                    "episode_number": 9,
                     "nombre": "Episodio 9",
                     "portada": "\/mKEumiZ4R6IprUI1kkeW4rhqNUh.jpg",
                     "enlaces": [
@@ -525,5 +516,6 @@
     ],
     "added_date": "2026-09-01 05:06:05",
     "created_at": "2026-09-01 05:06:05",
-    "updated_at": "2026-09-01 05:06:05"
+    "updated_at": "2026-09-01 05:07:55",
+    "update_states": "No actualizado"
 }
