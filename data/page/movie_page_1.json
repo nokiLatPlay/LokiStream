@@ -1,5 +1,25 @@
 [
     {
+        "id": "1788251364744",
+        "tmdb_id": "942118",
+        "titulo": "Irmão do Jorel - Especial Carnaval Bruttal",
+        "imagen": "/z5PaKPZ6UQUH4XMW4r1kt33m0KU.jpg",
+        "type": "movie",
+        "year": "2022",
+        "etiquetas": [
+            "Animación",
+            "Comedia",
+            "Familia"
+        ],
+        "rate": 6.79999999999999982236431605997495353221893310546875,
+        "added_date": "2026-09-01 04:29:24",
+        "created_at": "2026-09-01 04:29:24",
+        "updated_at": "2026-09-01 04:29:25",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1788251274783",
         "tmdb_id": "50348",
         "titulo": "El Defensor",
