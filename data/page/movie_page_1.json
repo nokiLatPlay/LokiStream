@@ -1,5 +1,23 @@
 [
     {
+        "id": "1788251403996",
+        "tmdb_id": "244688",
+        "titulo": "Los Juegos de la Resaca",
+        "imagen": "/8E3u1WmeX4JLgHDNGZBkN3LrlPR.jpg",
+        "type": "movie",
+        "year": "2014",
+        "etiquetas": [
+            "Comedia"
+        ],
+        "rate": 4.0999999999999996447286321199499070644378662109375,
+        "added_date": "2026-09-01 04:30:03",
+        "created_at": "2026-09-01 04:30:03",
+        "updated_at": "2026-09-01 04:30:04",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1788251364744",
         "tmdb_id": "942118",
         "titulo": "Irmão do Jorel - Especial Carnaval Bruttal",
