@@ -1,5 +1,25 @@
 [
     {
+        "id": "1788251166664",
+        "tmdb_id": "60132",
+        "titulo": "The Rebirth of Buddha",
+        "imagen": "/hfW73MekvyXmKJkPpOFeo2CSklh.jpg",
+        "type": "movie",
+        "year": "2009",
+        "etiquetas": [
+            "Romance",
+            "Fantasía",
+            "Animación"
+        ],
+        "rate": 3.70000000000000017763568394002504646778106689453125,
+        "added_date": "2026-09-01 04:26:06",
+        "created_at": "2026-09-01 04:26:06",
+        "updated_at": "2026-09-01 04:26:08",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1788251126457",
         "tmdb_id": "462677",
         "titulo": "Doraemon: Nobita's Great Adventure in the Antarctic Kachi Kochi",
