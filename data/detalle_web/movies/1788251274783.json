@@ -1,0 +1,123 @@
+{
+    "id": "1788251274783",
+    "tmdb_id": "50348",
+    "titulo": "El Defensor",
+    "original_name": "The Lincoln Lawyer",
+    "imagen": "\/hYnR7oDOYn8ZXHICPuo0ye7lwee.jpg",
+    "backdrop_path": "\/j9QaQVuyQIEwckUbjHpAgA7E4jJ.jpg",
+    "type": "movie",
+    "year": "2011",
+    "etiquetas": [
+        "Crimen",
+        "Drama",
+        "Suspense"
+    ],
+    "calidad": [],
+    "rate": 7.20000000000000017763568394002504646778106689453125,
+    "sinopsis": "La vida de un abogado especializado en criminales de poca monta cambia cuando un millonario acusado de violar e intentar matar a golpes a una prostituta le encomienda su defensa.",
+    "cast": [
+        {
+            "name": "Matthew McConaughey",
+            "character": "Mickey Haller",
+            "profile_path": "\/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
+        },
+        {
+            "name": "Ryan Phillippe",
+            "character": "Louis Roulet",
+            "profile_path": "\/fgneZFXn0fGG1o7tMzJvHqfHHF7.jpg"
+        },
+        {
+            "name": "William H. Macy",
+            "character": "Frank Levin",
+            "profile_path": "\/hdVEGSrP8qWlJnt0v5vSVcGOjy7.jpg"
+        },
+        {
+            "name": "Marisa Tomei",
+            "character": "Maggie McPherson",
+            "profile_path": "\/vAQ10fvGfVyuJdMNKVMA4ZkacWL.jpg"
+        },
+        {
+            "name": "Josh Lucas",
+            "character": "Ted Minton",
+            "profile_path": "\/ueR4CH32f22DGjFxuhnW1o3YKB3.jpg"
+        },
+        {
+            "name": "John Leguizamo",
+            "character": "Val Valenzuela",
+            "profile_path": "\/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+        },
+        {
+            "name": "Michael Peña",
+            "character": "Jesus Martinez",
+            "profile_path": "\/afs4PCiwn8LR93a10drULLVeVLo.jpg"
+        },
+        {
+            "name": "Bob Gunton",
+            "character": "Cecil Dobbs",
+            "profile_path": "\/ulbVvuBToBN3aCGcV028hwO0MOP.jpg"
+        },
+        {
+            "name": "Frances Fisher",
+            "character": "Mary Windsor",
+            "profile_path": "\/3iNDgd54IIj8g8hGqhhUjM6TeWd.jpg"
+        },
+        {
+            "name": "Trace Adkins",
+            "character": "Eddie Vogel",
+            "profile_path": "\/9MMbYFI0WL2rp5iQG9DeYL0Pgvl.jpg"
+        },
+        {
+            "name": "Bryan Cranston",
+            "character": "Detective Lankford",
+            "profile_path": "\/npIIZJGSrcJIJ6yHdmbqO6Jzo5I.jpg"
+        },
+        {
+            "name": "Michaela Conlin",
+            "character": "Detective Heidi Sobel",
+            "profile_path": "\/5Qv7KNTMDbdO7m5p1wIic5kVKr8.jpg"
+        },
+        {
+            "name": "Michael Paré",
+            "character": "Detective Kurlen",
+            "profile_path": "\/jxrXW8OL6hwJgtJgePdMO5yHuAM.jpg"
+        },
+        {
+            "name": "Laurence Mason",
+            "character": "Earl",
+            "profile_path": "\/9QCYSKak0Zw6G5yAgGQPOnlOc7I.jpg"
+        },
+        {
+            "name": "Margarita Levieva",
+            "character": "Regina 'Reggie' Campo",
+            "profile_path": "\/7rSf7C5oKuvjgEBfe2GVv064Le.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 120,
+    "enlaces": [
+        {
+            "nombre": "Playmogo",
+            "url": "https:\/\/playmogo.com\/e\/58prdkuah35v",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Playmogo",
+            "url": "https:\/\/playmogo.com\/e\/c26a1rk99j2w",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Playmogo",
+            "url": "https:\/\/playmogo.com\/e\/zzu0qn90tpf6",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-09-01 04:27:54",
+    "created_at": "2026-09-01 04:27:54",
+    "updated_at": "2026-09-01 04:27:54"
+}
