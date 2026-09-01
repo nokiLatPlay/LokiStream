@@ -1,5 +1,25 @@
 [
     {
+        "id": "1788251201720",
+        "tmdb_id": "553600",
+        "titulo": "Promare",
+        "imagen": "/uMb5gW9MuefIBZZAChMajsVT7c2.jpg",
+        "type": "movie",
+        "year": "2019",
+        "etiquetas": [
+            "Animación",
+            "Acción",
+            "Ciencia ficción"
+        ],
+        "rate": 7,
+        "added_date": "2026-09-01 04:26:41",
+        "created_at": "2026-09-01 04:26:41",
+        "updated_at": "2026-09-01 04:26:42",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1788251166664",
         "tmdb_id": "60132",
         "titulo": "The Rebirth of Buddha",
