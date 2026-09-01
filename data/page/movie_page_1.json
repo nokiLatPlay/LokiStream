@@ -1,5 +1,25 @@
 [
     {
+        "id": "1788251274783",
+        "tmdb_id": "50348",
+        "titulo": "El Defensor",
+        "imagen": "/hYnR7oDOYn8ZXHICPuo0ye7lwee.jpg",
+        "type": "movie",
+        "year": "2011",
+        "etiquetas": [
+            "Crimen",
+            "Drama",
+            "Suspense"
+        ],
+        "rate": 7.20000000000000017763568394002504646778106689453125,
+        "added_date": "2026-09-01 04:27:54",
+        "created_at": "2026-09-01 04:27:54",
+        "updated_at": "2026-09-01 04:27:56",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1788251226116",
         "tmdb_id": "82",
         "titulo": "Miami Vice",
