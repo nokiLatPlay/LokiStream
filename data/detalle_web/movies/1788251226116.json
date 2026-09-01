@@ -1,0 +1,109 @@
+{
+    "id": "1788251226116",
+    "tmdb_id": "82",
+    "titulo": "Miami Vice",
+    "original_name": "Miami Vice",
+    "imagen": "\/iQF9F38wOiL5LKUpvxNDL3kqsux.jpg",
+    "backdrop_path": "\/nogFh7eQFbBm0wTr9bb6YlnNoiI.jpg",
+    "type": "movie",
+    "year": "2006",
+    "etiquetas": [
+        "Acción",
+        "Crimen",
+        "Suspense"
+    ],
+    "calidad": [],
+    "rate": 6,
+    "sinopsis": "Adaptación al cine de la conocida serie de TV de los años ochenta. Sonny Crockett (Colin Farrell) y Ricardo Tubbs (Jamie Foxx) son una pareja de agentes de la Brigada Antivicio del Departamento de Policía de Miami. En medio de una operación menor, ambos se enteran de que un soplo en las altas esferas ha causado la muerte de dos agentes federales y la masacre de una familia por un asunto de drogas. Autorizada por el teniente Castillo (Barry Shabaka Henley), la DEA encarga a Sonny y Ricardo qu",
+    "cast": [
+        {
+            "name": "Colin Farrell",
+            "character": "Det. James 'Sonny' Crockett",
+            "profile_path": "\/5FdalJbrbZ5UCsED5rFrXpvbqJa.jpg"
+        },
+        {
+            "name": "Jamie Foxx",
+            "character": "Det. Ricardo 'Rico' Tubbs",
+            "profile_path": "\/zD8Nsy4Xrghp7WunwpCj5JKBPeU.jpg"
+        },
+        {
+            "name": "Naomie Harris",
+            "character": "Det. Trudy Joplin",
+            "profile_path": "\/41TVAcYqKKF7PGf3x7QfaLvkLSW.jpg"
+        },
+        {
+            "name": "巩俐",
+            "character": "Isabella",
+            "profile_path": "\/kMdN44dyjTRZvagI5nKwbZYwda9.jpg"
+        },
+        {
+            "name": "John Ortiz",
+            "character": "José Yero",
+            "profile_path": "\/o2SOFI53N6Gv5S3fDEBNbeimbzY.jpg"
+        },
+        {
+            "name": "Ciarán Hinds",
+            "character": "FBI Agent John Fujima",
+            "profile_path": "\/d8wLIX9VYgwXRGSp1gmUdUxmApv.jpg"
+        },
+        {
+            "name": "Justin Theroux",
+            "character": "Det. Larry Zito",
+            "profile_path": "\/vnI9L0rXBAw1HeC0Q8hJGeJMGAW.jpg"
+        },
+        {
+            "name": "Barry Shabaka Henley",
+            "character": "Lt. Martin Castillo",
+            "profile_path": "\/q0hI6T9OlmdUYdjYRX8K3pdRnYH.jpg"
+        },
+        {
+            "name": "Elizabeth Rodriguez",
+            "character": "Det. Gina Calabrese",
+            "profile_path": "\/9f851DP7NHAOKvvlZdXxYigDYbl.jpg"
+        },
+        {
+            "name": "John Hawkes",
+            "character": "Alonzo Stevens",
+            "profile_path": "\/c0mDB6TApVcJ3LLM1gicjyUeD5A.jpg"
+        },
+        {
+            "name": "Eddie Marsan",
+            "character": "Nicholas",
+            "profile_path": "\/9atfOgIxhfOKvv2be8HEp6SzOct.jpg"
+        },
+        {
+            "name": "Luis Tosar",
+            "character": "Arcángel de Jesús Montoya",
+            "profile_path": "\/7ZTdhzUCpG9jhsKJeTJbGn36v5F.jpg"
+        },
+        {
+            "name": "Domenick Lombardozzi",
+            "character": "Det. Stan Switek",
+            "profile_path": "\/ygbrVKqVQe2rog9CFhHhLcBElj8.jpg"
+        },
+        {
+            "name": "Isaach de Bankolé",
+            "character": "Neptune",
+            "profile_path": "\/aGjABQBgTA3tduuh54hzWx0aQ44.jpg"
+        },
+        {
+            "name": "Tom Towles",
+            "character": "Coleman",
+            "profile_path": "\/ekBEknY5CAjX8zXkSjGVkS3WcAN.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 132,
+    "enlaces": [
+        {
+            "nombre": "Playmogo",
+            "url": "https:\/\/playmogo.com\/e\/7fqowvsboyhs",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-09-01 04:27:06",
+    "created_at": "2026-09-01 04:27:06",
+    "updated_at": "2026-09-01 04:27:06"
+}
