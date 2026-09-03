@@ -1,5 +1,26 @@
 [
     {
+        "id": "1788421973145",
+        "tmdb_id": "239779",
+        "titulo": "Yeosin Gangnim",
+        "imagen": "/kpbI1RUrcZOQzo0TRO0XI4ywa3J.jpg",
+        "type": "donghua",
+        "year": "2024",
+        "etiquetas": [
+            "Animación",
+            "Comedia",
+            "Drama"
+        ],
+        "rate": 8.199999999999999289457264239899814128875732421875,
+        "added_date": "2026-09-03 03:52:53",
+        "created_at": "2026-09-03 03:52:53",
+        "updated_at": "2026-09-03 03:52:54",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 13,
+        "status": "Returning Series"
+    },
+    {
         "id": "1788420973453",
         "tmdb_id": "290193",
         "titulo": "Ratonera",
