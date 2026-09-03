@@ -1,0 +1,252 @@
+{
+    "id": "1788423893421",
+    "tmdb_id": "290234",
+    "titulo": "Mal de amores",
+    "original_name": "Mal de amores",
+    "imagen": "\/ee6yRTxGSsFKcynzvSJDziBmclz.jpg",
+    "backdrop_path": "\/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg",
+    "type": "serie",
+    "year": "2026",
+    "etiquetas": [
+        "Drama"
+    ],
+    "temporadas_count": 1,
+    "episodios": 7,
+    "status": "Returning Series",
+    "rate": 8,
+    "sinopsis": "En plena Revolución mexicana, Emilia Sauri desafía las convenciones sociales para cumplir su sueño de ejercer la medicina y encontrar el amor, su lugar y la libertad.",
+    "cast": [
+        {
+            "name": "Renata Vaca",
+            "character": "Emilia Sauri",
+            "profile_path": "\/f7EYerzrIPixpjuIZz7rv6Nz5YS.jpg"
+        },
+        {
+            "name": "Juan Pablo Fuentes",
+            "character": "Daniel Cuenca",
+            "profile_path": ""
+        },
+        {
+            "name": "Iván Amozurrutia",
+            "character": "Antonio Zavalza",
+            "profile_path": "\/aXZHYlKrgjs3dZDN19HtPTfB8rK.jpg"
+        }
+    ],
+    "first_air_date": "2026-09-02",
+    "last_air_date": "2026-09-02",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/3u5BrAfnwOaCugtD2Pl62r64QHU.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Dos bodas",
+                    "portada": "\/aSqEPe38V34zcsEMbkoXOgNdZGL.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/q0b9kslzymh9",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/g3o3cp45fu8h",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/ezqalxkd5zab",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Los adioses",
+                    "portada": "\/iq28YaNQs3gD8PpD8pKYDlWiBsD.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/saj16xquur0z",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/sly3ljsvfnja",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/jjpwcc87eon9",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "La guerra",
+                    "portada": "\/m3cayCEYbEcQjwjjvVlC5LJAR6c.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/cxpij1v9q5oy",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/s9h3kgy0i3o7",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/7nwfq9cs92fv",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "Luna de miel",
+                    "portada": "\/eIMbJTM40IUy199u7ZE0OnTtDdV.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/lmtuzubt35hi",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/6fi4kbp60yxy",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/uvte71n9k6ao",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "La muerte",
+                    "portada": "\/3xFvhKKOkvcfBtpx2zVcw4hzs2G.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/jy4denzrueis",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/7ig7pjjj61zv",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/uxsez6d3q784",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "El regreso",
+                    "portada": "\/gsV0VsvUcEC0ND1YeRVeAAW7k6j.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/t699lzsx98j4",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/67w70tecg3xt",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/uh4mz5as3pzr",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "La doctora Sauri",
+                    "portada": "\/t8HCsAE8c8RwF8grYB9TW3AXVbI.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/lss9k8v4357d",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/j4hb207wq0i4",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/tj890qkcvm8b",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-09-03 04:24:53",
+    "created_at": "2026-09-03 04:24:53",
+    "updated_at": "2026-09-03 04:24:53"
+}
