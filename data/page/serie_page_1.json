@@ -1,5 +1,24 @@
 [
     {
+        "id": "1788423893421",
+        "tmdb_id": "290234",
+        "titulo": "Mal de amores",
+        "imagen": "/ee6yRTxGSsFKcynzvSJDziBmclz.jpg",
+        "type": "serie",
+        "year": "2026",
+        "etiquetas": [
+            "Drama"
+        ],
+        "rate": 8,
+        "added_date": "2026-09-03 04:24:53",
+        "created_at": "2026-09-03 04:24:53",
+        "updated_at": "2026-09-03 04:24:54",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 7,
+        "status": "Returning Series"
+    },
+    {
         "id": "1788421973145",
         "tmdb_id": "239779",
         "titulo": "Yeosin Gangnim",
