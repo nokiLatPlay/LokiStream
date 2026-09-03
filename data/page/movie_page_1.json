@@ -1,5 +1,26 @@
 [
     {
+        "id": "1788438547777",
+        "tmdb_id": "75258",
+        "titulo": "Tinker Bell y el Secreto de las Hadas",
+        "imagen": "/soPOZlksVHcumHnhyRlI3XtAVyx.jpg",
+        "type": "movie",
+        "year": "2012",
+        "etiquetas": [
+            "Animación",
+            "Familia",
+            "Fantasía",
+            "Aventura"
+        ],
+        "rate": 7.29999999999999982236431605997495353221893310546875,
+        "added_date": "2026-09-03 08:29:07",
+        "created_at": "2026-09-03 08:29:07",
+        "updated_at": "2026-09-03 08:29:08",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1788251431895",
         "tmdb_id": "10073",
         "titulo": "No es Otra Película de Amor",
