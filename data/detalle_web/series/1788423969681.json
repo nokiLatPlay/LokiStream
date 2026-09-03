@@ -1,0 +1,199 @@
+{
+    "id": "1788423969681",
+    "tmdb_id": "305644",
+    "titulo": "Four Hands, Two Sonatas",
+    "original_name": "포핸즈",
+    "imagen": "\/hzr5KVD2DCASbK6lqa3v07wa0ri.jpg",
+    "backdrop_path": "\/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg",
+    "type": "dorama",
+    "year": "2026",
+    "etiquetas": [
+        "Drama"
+    ],
+    "temporadas_count": 1,
+    "episodios": 2,
+    "status": "Returning Series",
+    "rate": 9.5999999999999996447286321199499070644378662109375,
+    "sinopsis": "Cuando dos jóvenes pianistas de mundos completamente diferentes se conocen en una prestigiosa escuela de música, las melodías de sus vidas se entrelazan íntimamente.",
+    "cast": [
+        {
+            "name": "송강",
+            "character": "Kang Pi-o",
+            "profile_path": "\/83fLAMMb1LGT8YZ4dgRI0fti3az.jpg"
+        },
+        {
+            "name": "이준영",
+            "character": "Choi Jeong-yo",
+            "profile_path": "\/zH8kiGox6n3FD82MKEhUq79X6gj.jpg"
+        },
+        {
+            "name": "장규리",
+            "character": "Hong Jae-in",
+            "profile_path": "\/u232DZRv4WBpOT6HKPnUR7DLQMq.jpg"
+        },
+        {
+            "name": "윤세아",
+            "character": "Kang Ji-hye",
+            "profile_path": "\/wdytv8MZeNjulCR4nMmpreuDS6w.jpg"
+        },
+        {
+            "name": "정진영",
+            "character": "Kang Seung-woon",
+            "profile_path": "\/ipBYiyEfFrffCoTpoSiEChHDwz4.jpg"
+        },
+        {
+            "name": "서재희",
+            "character": "Yoon Sun-joo",
+            "profile_path": "\/sysUnij3kUyYXYjFR5Qsb0Oa0XC.jpg"
+        },
+        {
+            "name": "김주헌",
+            "character": "Do Hyeon-su",
+            "profile_path": "\/xkj3d7zNoHW2veJboV11WemxMbi.jpg"
+        },
+        {
+            "name": "이상준",
+            "character": "Yoon Han-rim",
+            "profile_path": "\/kmc1v6MRTtAshBIM55lcZtulAMt.jpg"
+        },
+        {
+            "name": "유태주",
+            "character": "Jang Seok-hwan",
+            "profile_path": "\/7cYBd2WYa1VJzE2O9eEo9lPkmM3.jpg"
+        },
+        {
+            "name": "김혜화",
+            "character": "Han Hyun-jung",
+            "profile_path": "\/pCwGRkimaHXcv7MOn20cgJrUCAU.jpg"
+        },
+        {
+            "name": "김민",
+            "character": "Boss Kim",
+            "profile_path": "\/pvNgh5koYxNG9NQcSa60XNzoFgE.jpg"
+        },
+        {
+            "name": "Lee Myeong-ro",
+            "character": "Cho Hyun-cheol",
+            "profile_path": "\/uZytd3dXQdBpOAiJNOl7S1eIn8u.jpg"
+        },
+        {
+            "name": "성노진",
+            "character": "Choi Ki-taek",
+            "profile_path": "\/rkrohGcR0V3q0HrniyHlf7pFDUo.jpg"
+        }
+    ],
+    "first_air_date": "2026-08-29",
+    "last_air_date": "2026-08-30",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/uGDfF7rfkMb7zj62bKHehtBHiJH.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "\/tMt8oJ0DditdZMKb4te7QVZe0j4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/jqubce7uui80",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/mpzx6ya80li3",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/3k36wqjt16vx",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/30x3zzh6pa8n",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/0alvwv5wwbrz",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/6aam9u9oj8u4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "\/kL6ny22Lx4R2ctQ6aNz1J28DPgb.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/4x017tfxp35s",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/rih08mp5a2rl",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/j5mjwd370k0x",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/eakfvwqziydi",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/d8pqt7168l06",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/cjus1xhi4asj",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-09-03 04:26:09",
+    "created_at": "2026-09-03 04:26:09",
+    "updated_at": "2026-09-03 04:26:09"
+}
