@@ -1,0 +1,126 @@
+{
+    "id": "1788420973453",
+    "tmdb_id": "290193",
+    "titulo": "Ratonera",
+    "original_name": "들쥐",
+    "imagen": "\/vLA4OPULuoycF64ugkNXGURvp08.jpg",
+    "backdrop_path": "\/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg",
+    "type": "dorama",
+    "year": "2026",
+    "etiquetas": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+    ],
+    "temporadas_count": 1,
+    "episodios": 10,
+    "status": "Ended",
+    "rate": 7.5,
+    "sinopsis": "Un escritor solitario despierta un día y descubre que le han robado la identidad, de modo que se alía con un despiadado usurero para recuperar su vida de las manos de «La Rata».",
+    "cast": [
+        {
+            "name": "류준열",
+            "character": "Je Moon-jae \/ The Rat",
+            "profile_path": "\/ayjkSbxGkeiyE2JvbLlyNPNFxkn.jpg"
+        },
+        {
+            "name": "설경구",
+            "character": "Noja",
+            "profile_path": "\/teD7AMzfNl4qhQO2b6MAWwLtPVn.jpg"
+        },
+        {
+            "name": "이규형",
+            "character": "Sun-yong",
+            "profile_path": "\/8F7s9MNKfks21VMTsW8iTc9VK09.jpg"
+        },
+        {
+            "name": "김성오",
+            "character": "Seung-gyu",
+            "profile_path": "\/bvwsF0l3f2qs19GCUyHtAqGDL5P.jpg"
+        },
+        {
+            "name": "Hyun Bong-sik",
+            "character": "Myung-su",
+            "profile_path": "\/aawP5E8gMwxs88qlvXux0vBBLYp.jpg"
+        },
+        {
+            "name": "무진성",
+            "character": "Son Su-hyun",
+            "profile_path": "\/4q6G7ols81nkXRuY5F2gebhFTfY.jpg"
+        }
+    ],
+    "first_air_date": "2026-08-28",
+    "last_air_date": "2026-08-28",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/rElcBzrO4URgjmDRAc9Rsbyczw3.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "nombre": "Episodio 1",
+                    "portada": "\/kpnprsZyBY8sn7yll5KORG3avj.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E02",
+                    "nombre": "Episodio 2",
+                    "portada": "\/wupPoMhcJnqPpA02uTHf845QEjF.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E03",
+                    "nombre": "Episodio 3",
+                    "portada": "\/g30bLftVJiLTIcB68aPj7v35NHL.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E04",
+                    "nombre": "Episodio 4",
+                    "portada": "\/pgLixVRVnH8eXRCfBNxg2FOyllR.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E05",
+                    "nombre": "Episodio 5",
+                    "portada": "\/zwfzPP9B8IdYTnwqsSgrIAVWE5R.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E06",
+                    "nombre": "Episodio 6",
+                    "portada": "\/pW5D3BTgrd50T9I4PRLeQbpBB9O.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E07",
+                    "nombre": "Episodio 7",
+                    "portada": "\/pWqzN79H2OSbA39Ws0bHM2YtrTr.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E08",
+                    "nombre": "Episodio 8",
+                    "portada": "\/oWdfceX1s2MBPMn6DFSVyqML7ZX.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E09",
+                    "nombre": "Episodio 9",
+                    "portada": "\/fEXkfzeunEhY8athkrM29mD0zN.jpg",
+                    "enlaces": []
+                },
+                {
+                    "episode_id": "S01E10",
+                    "nombre": "Episodio 10",
+                    "portada": "\/nLfjel4aVNBNbChbzBn4zyhI8x7.jpg",
+                    "enlaces": []
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-09-03 03:36:13",
+    "created_at": "2026-09-03 03:36:13",
+    "updated_at": "2026-09-03 03:36:13"
+}
