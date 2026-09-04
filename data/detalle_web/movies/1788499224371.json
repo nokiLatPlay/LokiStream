@@ -1,7 +1,7 @@
 {
     "id": "1788499224371",
     "tmdb_id": "277834",
-    "titulo": "Vaiana",
+    "titulo": "Moana",
     "original_name": "Moana",
     "imagen": "\/y6wkgEH1gTWAafH9Bc7cNNut0Kf.jpg",
     "backdrop_path": "\/qLVNZFHYUR6Li64He67SWl6BHQe.jpg",
@@ -83,6 +83,8 @@
             "profile_path": "\/tPzdVCV8LsWvgVm0EYonuuzgt0H.jpg"
         }
     ],
+    "first_air_date": null,
+    "last_air_date": null,
     "status": "Released",
     "runtime": 107,
     "enlaces": [
@@ -91,94 +93,95 @@
             "url": "https:\/\/hglamioz.com\/e\/233v0x3qimq5",
             "type": "streaming",
             "language": "Latino",
-            "quality": "HD"
+            "quality": ""
         },
         {
             "nombre": "Vidhide",
             "url": "https:\/\/callistanise.com\/embed\/ttcuhtwub65i",
             "type": "streaming",
             "language": "Latino",
-            "quality": "HD"
+            "quality": ""
         },
         {
             "nombre": "Streamwish",
             "url": "https:\/\/hglamioz.com\/e\/efa28tg1xoy2",
             "type": "streaming",
             "language": "Latino",
-            "quality": "HD"
+            "quality": ""
         },
         {
             "nombre": "Vidhide",
             "url": "https:\/\/callistanise.com\/v\/pyv5t735qf2a",
             "type": "streaming",
             "language": "Latino",
-            "quality": "HD"
+            "quality": ""
         },
         {
             "nombre": "Playmogo",
             "url": "https:\/\/playmogo.com\/e\/j6s3zaxq7zbf",
             "type": "streaming",
             "language": "Latino",
-            "quality": "HD"
+            "quality": ""
         },
         {
             "nombre": "Streamwish",
             "url": "https:\/\/hglamioz.com\/e\/sln76mnf2rrk",
             "type": "streaming",
             "language": "Castellano",
-            "quality": "HD"
+            "quality": ""
         },
         {
             "nombre": "Vidhide",
             "url": "https:\/\/callistanise.com\/embed\/z4g3gvgabq8c",
             "type": "streaming",
             "language": "Castellano",
-            "quality": "HD"
+            "quality": ""
         },
         {
             "nombre": "Streamwish",
             "url": "https:\/\/hglamioz.com\/e\/ig2xgpftor6i",
             "type": "streaming",
             "language": "Sub",
-            "quality": "HD"
+            "quality": ""
         },
         {
             "nombre": "Vidhide",
             "url": "https:\/\/callistanise.com\/embed\/cf8rr465549x",
             "type": "streaming",
             "language": "Sub",
-            "quality": "HD"
+            "quality": ""
         },
         {
             "nombre": "Streamwish",
             "url": "https:\/\/hglamioz.com\/e\/g6als9hqez90",
             "type": "streaming",
             "language": "Sub",
-            "quality": "HD"
+            "quality": ""
         },
         {
             "nombre": "Vidhide",
             "url": "https:\/\/callistanise.com\/v\/620qlvkl66vy",
             "type": "streaming",
             "language": "Sub",
-            "quality": "HD"
+            "quality": ""
         },
         {
             "nombre": "Playmogo",
             "url": "https:\/\/playmogo.com\/e\/4u2i5nibs6m0",
             "type": "streaming",
             "language": "Sub",
-            "quality": "HD"
+            "quality": ""
         },
         {
             "nombre": "Streamwish",
             "url": "https:\/\/hglamioz.com\/e\/fdn0s0793uf3",
             "type": "streaming",
             "language": "Sub",
-            "quality": "HD"
+            "quality": ""
         }
     ],
     "added_date": "2026-09-04 01:20:24",
     "created_at": "2026-09-04 01:20:24",
-    "updated_at": "2026-09-04 01:20:24"
+    "updated_at": "2026-09-04 07:42:56",
+    "update_states": "No actualizado"
 }
