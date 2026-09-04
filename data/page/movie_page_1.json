@@ -1,5 +1,25 @@
 [
     {
+        "id": "1788497276252",
+        "tmdb_id": "1621552",
+        "titulo": "La captura",
+        "imagen": "/iwCeOpuBtuTP1kLosqgniey5OvX.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Crimen",
+            "Acción",
+            "Suspense"
+        ],
+        "rate": 8.800000000000000710542735760100185871124267578125,
+        "added_date": "2026-09-04 00:47:56",
+        "created_at": "2026-09-04 00:47:56",
+        "updated_at": "2026-09-04 00:47:56",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1788497117586",
         "tmdb_id": "1339713",
         "titulo": "Obsesión",
