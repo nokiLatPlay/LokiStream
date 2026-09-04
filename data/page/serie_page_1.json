@@ -1,5 +1,25 @@
 [
     {
+        "id": "1788502484634",
+        "tmdb_id": "108978",
+        "titulo": "Reacher",
+        "imagen": "/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+        "type": "serie",
+        "year": "2022",
+        "etiquetas": [
+            "Action & Adventure",
+            "Crimen"
+        ],
+        "rate": 8.0999999999999996447286321199499070644378662109375,
+        "added_date": "2026-09-04 02:14:44",
+        "created_at": "2026-09-04 02:14:44",
+        "updated_at": "2026-09-04 02:14:45",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 8,
+        "status": "Returning Series"
+    },
+    {
         "id": "1788424124297",
         "tmdb_id": "298610",
         "titulo": "Muertos de amor",
