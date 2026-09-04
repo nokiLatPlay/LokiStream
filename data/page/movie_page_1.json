@@ -1,5 +1,24 @@
 [
     {
+        "id": "1788497117586",
+        "tmdb_id": "1339713",
+        "titulo": "Obsesión",
+        "imagen": "/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Terror",
+            "Suspense"
+        ],
+        "rate": 8.199999999999999289457264239899814128875732421875,
+        "added_date": "2026-09-04 00:45:17",
+        "created_at": "2026-09-04 00:45:17",
+        "updated_at": "2026-09-04 00:45:19",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1788438547777",
         "tmdb_id": "75258",
         "titulo": "Tinker Bell y el Secreto de las Hadas",
