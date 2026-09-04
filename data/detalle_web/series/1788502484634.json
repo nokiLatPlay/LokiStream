@@ -1,0 +1,290 @@
+{
+    "id": "1788502484634",
+    "tmdb_id": "108978",
+    "titulo": "Reacher",
+    "original_name": "Reacher",
+    "imagen": "\/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+    "backdrop_path": "\/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+    "type": "serie",
+    "year": "2022",
+    "etiquetas": [
+        "Action & Adventure",
+        "Crimen"
+    ],
+    "temporadas_count": 1,
+    "episodios": 8,
+    "status": "Returning Series",
+    "rate": 8.0999999999999996447286321199499070644378662109375,
+    "sinopsis": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
+    "cast": [
+        {
+            "name": "Alan Ritchson",
+            "character": "Jack Reacher",
+            "profile_path": "\/92YNEEpCyugkTzPprJwZpvVtvuK.jpg"
+        },
+        {
+            "name": "Agnez Mo",
+            "character": "Lila Hoth",
+            "profile_path": "\/7GuBJxf5szQRCKLk3iG2ztfCo39.jpg"
+        },
+        {
+            "name": "Sydelle Noel",
+            "character": "Tamara Green",
+            "profile_path": "\/fCOlRtkZVMOMDRPYhdRLeKqymVa.jpg"
+        },
+        {
+            "name": "Anggun",
+            "character": "Amisha Hoth",
+            "profile_path": "\/4WxHGTehDvZudrunxTZmnR66CBi.jpg"
+        },
+        {
+            "name": "Christopher Rodriguez Marquette",
+            "character": "Jacob Merrick",
+            "profile_path": "\/8AL7UPXM4sVkOMgTHIxNdRi2SXP.jpg"
+        },
+        {
+            "name": "Kevin Corrigan",
+            "character": "Shaun Docherty",
+            "profile_path": "\/obSUGc68mQDvFONalMg25Xw5GZM.jpg"
+        }
+    ],
+    "first_air_date": "2022-02-03",
+    "last_air_date": "2026-09-02",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/aylSycUpdCQzN7nRrPDL2EZwp5a.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Bienvenido a Margrave",
+                    "portada": "\/15xLLZN3LLAdvoiHnYL5DcXlsYu.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/7gurstclt0fw",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/r35xmj2c205f",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/87kbhhft4dbt",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "El primer baile",
+                    "portada": "\/4nfnpqWMX8dHI1bYZcdxLEvy2c9.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/gz9h92ckrrjp",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/toa7kvp3y67y",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Una cucharada",
+                    "portada": "\/6dgLq2bUlEBuXz5SPzr1Dn7UpML.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/231t8syv8074",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/hsh3dxgz8a82",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/gwaizzrein9u",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "En un árbol",
+                    "portada": "\/8AgfxcL0WxcDCiTtanrKG9vGyug.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/9nejldwlnvu9",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/pa0b3eqq4lkh",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/91bh2ky73ii8",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "Sin disculpas",
+                    "portada": "\/yvSWomTB7uiVOov0iQXrlmek81l.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ftweomy00pj6",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/72rw2znqm541",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/mml35o5c3ze9",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Papel",
+                    "portada": "\/3GT2msFS0C4KdEDeD9TR2NPOS1s.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/fp6toi8eqsy5",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/z34blagfacwr",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/5w8lrwigy1in",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "Reacher no dijo nada",
+                    "portada": "\/i9z3J0xwImiuFhu5DQyYqnBxVDC.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/f0zf1879hbtg",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/bl5q3v4cbhg3",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/rp43t4p7zowa",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "Tarta",
+                    "portada": "\/8Pzg1MpVAAbyBGdfAUmRmfSmAWQ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/3vjs1kqhpdj0",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/4lhf3ajeb5rr",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/dl6x59kuan9y",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-09-04 02:14:44",
+    "created_at": "2026-09-04 02:14:44",
+    "updated_at": "2026-09-04 02:14:44"
+}
