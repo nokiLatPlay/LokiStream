@@ -1,5 +1,25 @@
 [
     {
+        "id": "1788688835950",
+        "tmdb_id": "203744",
+        "titulo": "Sugar",
+        "imagen": "/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
+        "type": "serie",
+        "year": "2024",
+        "etiquetas": [
+            "Drama",
+            "Misterio"
+        ],
+        "rate": 7.0999999999999996447286321199499070644378662109375,
+        "added_date": "2026-09-06 06:00:35",
+        "created_at": "2026-09-06 06:00:35",
+        "updated_at": "2026-09-06 06:00:37",
+        "update_states": "No actualizado",
+        "temporadas": 2,
+        "episodios": 16,
+        "status": "Returning Series"
+    },
+    {
         "id": "1788685674127",
         "tmdb_id": "302074",
         "titulo": "R.J. Decker",
