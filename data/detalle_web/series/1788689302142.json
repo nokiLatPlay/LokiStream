@@ -1,0 +1,281 @@
+{
+    "id": "1788689302142",
+    "tmdb_id": "114461",
+    "titulo": "Ahsoka",
+    "original_name": "Ahsoka",
+    "imagen": "\/yTvWa3syCJSyDrVelsBThUxrpSN.jpg",
+    "backdrop_path": "\/loDy1LWCkPjECjVTRmyKtOoUpNN.jpg",
+    "type": "serie",
+    "year": "2023",
+    "etiquetas": [
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+    ],
+    "temporadas_count": 1,
+    "episodios": 8,
+    "status": "Returning Series",
+    "rate": 7.4000000000000003552713678800500929355621337890625,
+    "sinopsis": "Ambientada después de la caída del Imperio, la serie sigue al antiguo caballero Jedi mientras investiga una amenaza que se cierne sobre la galaxia.",
+    "cast": [
+        {
+            "name": "Rosario Dawson",
+            "character": "Ahsoka Tano",
+            "profile_path": "\/1mm7JGHIUX3GRRGXEV9QCzsI0ao.jpg"
+        },
+        {
+            "name": "Natasha Liu Bordizzo",
+            "character": "Sabine Wren",
+            "profile_path": "\/92hZjJ2f7HWATUEw4BbMMWlGXps.jpg"
+        },
+        {
+            "name": "Ivanna Sakhno",
+            "character": "Shin Hati",
+            "profile_path": "\/vYlE7CUEeIa99NYZZWnnwn95Jo1.jpg"
+        },
+        {
+            "name": "Ray Stevenson",
+            "character": "Baylan Skoll",
+            "profile_path": "\/9QCVNDgTgDEbGsa6w3JuECEPuQz.jpg"
+        },
+        {
+            "name": "Mary Elizabeth Winstead",
+            "character": "Hera Syndulla",
+            "profile_path": "\/vQn6IGsClpyhV6KTba9EDqSK7e2.jpg"
+        },
+        {
+            "name": "Diana Lee Inosanto",
+            "character": "Morgan Elsbeth",
+            "profile_path": "\/23AVuWIZXwE7SCcMLl0zydHwRbC.jpg"
+        },
+        {
+            "name": "David Tennant",
+            "character": "Huyang (voice)",
+            "profile_path": "\/mGfrEMbxjUWjek1WDSq1j4TULIR.jpg"
+        }
+    ],
+    "first_air_date": "2023-08-22",
+    "last_air_date": "2023-10-03",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/zcuJsJEhaORzxaz6aRxm66NWgt7.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Parte 1: Maestro y aprendiz",
+                    "portada": "\/i29R3K7YgLQvBFtTkMAI7zQ9bHi.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/wlv00v91rj43",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/qc3uo94hw4uj",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Parte 2: Penuria y zozobra",
+                    "portada": "\/ivjzCyi4XbW8FaVLj4uh3AyQBHb.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/dyhaoqj6k246",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/b2rhdsr37vr3",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Parte 3: Es hora de volar",
+                    "portada": "\/wF2TEqZpbL7YpU1XX3AtkoyYUwJ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/2h8xqmxu7bca",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/byjm8tnovm3q",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/bdg0jwsftc6o",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "Parte 4: Jedis caídos",
+                    "portada": "\/reXGkvmISzwpuhvxZ48XQsCHtVx.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/xx580x4cu8v0",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/r0o7culhlv8i",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "Parte 5: La guerrera de las sombras",
+                    "portada": "\/8ACqq31UyqxPoSR59dMi2vC4lh3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/jipsfn62ju5q",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/z9gxjg92hnpe",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/t3ye1o4778a2",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Parte 6: Un lugar muy, muy lejano",
+                    "portada": "\/napGNBJCKE8miNK44Ozr5kg3bu0.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/l8c207wsk0cm",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/tzbycl80fjtq",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/3a4n5fwkok68",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "Parte 7: Sueños y locura",
+                    "portada": "\/2nhanorTY7Izx7Hi31zZy0pzsIA.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/p6znlyzhgm4m",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/b4yx4a3dqa9n",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/o6jn5i07xvqu",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "Parte 8: El Jedi, la Bruja y el Caudillo",
+                    "portada": "\/hPB0S4T0TcpRoyWezDVd9dWUOa6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/cbmdqbu6n9qr",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/n0rrnln7iky6",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/g7n0eti8yn0d",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-09-06 06:08:22",
+    "created_at": "2026-09-06 06:08:22",
+    "updated_at": "2026-09-06 06:08:22"
+}
