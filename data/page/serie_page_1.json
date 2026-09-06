@@ -1,5 +1,25 @@
 [
     {
+        "id": "1788689302142",
+        "tmdb_id": "114461",
+        "titulo": "Ahsoka",
+        "imagen": "/yTvWa3syCJSyDrVelsBThUxrpSN.jpg",
+        "type": "serie",
+        "year": "2023",
+        "etiquetas": [
+            "Sci-Fi & Fantasy",
+            "Action & Adventure"
+        ],
+        "rate": 7.4000000000000003552713678800500929355621337890625,
+        "added_date": "2026-09-06 06:08:22",
+        "created_at": "2026-09-06 06:08:22",
+        "updated_at": "2026-09-06 06:08:24",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 8,
+        "status": "Returning Series"
+    },
+    {
         "id": "1788689119696",
         "tmdb_id": "100088",
         "titulo": "The Last of Us",
