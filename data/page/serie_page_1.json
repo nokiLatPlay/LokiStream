@@ -11,14 +11,14 @@
             "Sci-Fi & Fantasy",
             "Action & Adventure"
         ],
-        "temporadas": 1,
-        "episodios": 25,
-        "status": "Ended",
         "rate": 8.699999999999999289457264239899814128875732421875,
         "added_date": "2026-09-07 02:28:01",
         "created_at": "2026-09-07 02:28:01",
-        "updated_at": "2026-09-07 02:29:39",
-        "update_states": "No actualizado"
+        "updated_at": "2026-09-07 02:33:57",
+        "update_states": "No actualizado",
+        "temporadas": 2,
+        "episodios": 37,
+        "status": "Ended"
     },
     {
         "id": "1788689607959",
