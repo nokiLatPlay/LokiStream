@@ -1,5 +1,26 @@
 [
     {
+        "id": "1788762481805",
+        "tmdb_id": "1429",
+        "titulo": "Shingeki no Kyojin - anime Shingeki no Kyojin online JkAnime",
+        "imagen": "/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg",
+        "type": "anime",
+        "year": "2013",
+        "etiquetas": [
+            "Animación",
+            "Sci-Fi & Fantasy",
+            "Action & Adventure"
+        ],
+        "rate": 8.699999999999999289457264239899814128875732421875,
+        "added_date": "2026-09-07 02:28:01",
+        "created_at": "2026-09-07 02:28:01",
+        "updated_at": "2026-09-07 02:28:02",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 25,
+        "status": "Ended"
+    },
+    {
         "id": "1788689607959",
         "tmdb_id": "241882",
         "titulo": "Juntas o muertas",
