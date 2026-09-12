@@ -1,5 +1,25 @@
 [
     {
+        "id": "1789231351777",
+        "tmdb_id": "9408",
+        "titulo": "Locos por el surf",
+        "imagen": "/9pHrNZJFAGUxCWOzpqCz5nniUaa.jpg",
+        "type": "movie",
+        "year": "2007",
+        "etiquetas": [
+            "Animación",
+            "Comedia",
+            "Familia"
+        ],
+        "rate": 6.5,
+        "added_date": "2026-09-12 12:42:31",
+        "created_at": "2026-09-12 12:42:31",
+        "updated_at": "2026-09-12 12:42:33",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1789198058524",
         "tmdb_id": "1081003",
         "titulo": "Supergirl",
