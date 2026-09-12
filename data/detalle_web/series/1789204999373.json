@@ -1,0 +1,520 @@
+{
+    "id": "1789204999373",
+    "tmdb_id": "298168",
+    "titulo": "The Shards",
+    "original_name": "The Shards",
+    "imagen": "\/78AYtwPTxWL7Q4Oe9e2TKHxPZLZ.jpg",
+    "backdrop_path": "\/AhzF2bkYYybcCT4PnqpoagRGBWJ.jpg",
+    "type": "serie",
+    "year": "2026",
+    "etiquetas": [
+        "Drama",
+        "Misterio"
+    ],
+    "temporadas_count": 1,
+    "episodios": 9,
+    "status": "Returning Series",
+    "rate": 7.20000000000000017763568394002504646778106689453125,
+    "sinopsis": "Ambientada en un elitista instituto de Los Ángeles en los años 80, la historia gira alrededor de Bret, un joven aspirante a escritor, muy observador y perspicaz cuya realidad comienza a tambalearse con la llegada de un nuevo alumno misterioso, Robert Mallory. Su incorporación al instituto coincide con el creciente terror provocado por «The Trawler», un asesino en serie que tiene como objetivo a adolescentes en toda la ciudad...",
+    "cast": [
+        {
+            "name": "Igby Rigney",
+            "character": "Bret Easton Ellis",
+            "profile_path": "\/iWrTtze4lRQ3t6LQL7UzneguPTo.jpg"
+        },
+        {
+            "name": "Kaia Gerber",
+            "character": "Susan Reynolds",
+            "profile_path": "\/mUM9LGM3mtf6TEJXDpPou3KJhNR.jpg"
+        },
+        {
+            "name": "Homer Gere",
+            "character": "Robert Mallory",
+            "profile_path": "\/gdJospJLrqaTtt9M8WuMSc8XnNp.jpg"
+        },
+        {
+            "name": "Hayes Warner",
+            "character": "Debbie Schaffer",
+            "profile_path": "\/eXmaXyWCHe7ESdMHRNBilntvdxp.jpg"
+        },
+        {
+            "name": "Graham Campbell",
+            "character": "Thom Wright",
+            "profile_path": "\/km4WcqbKnh6kPZATLQ2D88uvMbx.jpg"
+        },
+        {
+            "name": "Evan Rachel Wood",
+            "character": "Liz Schaffer",
+            "profile_path": "\/ksXTb2bvqt60bCGRwBlWrNbZHnr.jpg"
+        },
+        {
+            "name": "Wes Bentley",
+            "character": "Terry Schaffer",
+            "profile_path": "\/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
+        }
+    ],
+    "first_air_date": "2026-08-05",
+    "last_air_date": "2026-09-09",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/78AYtwPTxWL7Q4Oe9e2TKHxPZLZ.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Piloto",
+                    "portada": "\/fhsYQZ0DRCQFd8m9AxmF6wwdXXW.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/qqou4hidh5g5",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/f6gkflfhckuo",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/nmhydsa4x8rd",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ukb58fnxwvvb",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/qlv2hzfqe04d",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/qfjsk9v3m6by",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Don't You Want Me",
+                    "portada": "\/rFxDhh64kvG0opvrJPOvqoofzia.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/qono9ohxkbny",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/p0t1z93qxb5x",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/zqmqqu8w0fjz",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/qd4r1g2mzind",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/5co2chd67ekz",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/b8tmkbug3g0h",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Help Me! Rhonda",
+                    "portada": "\/yVVoSxRhxeU0FLspxdRQjqh4QSd.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/qz5u6ax2jxk2",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/2fz1bl7nbtzo",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/xcfzjquodvb9",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/nynbw4dggppb",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/wpzfftdg38wj",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/fflvpbm5loc8",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "La fiesta de Robert",
+                    "portada": "\/uQKspEW1rQ6uXVhhO9v18eFeCaR.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/rh952lk3rkev",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/epvtof6u7v4z",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/lha3xp2ywjed",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ta8awfqx9yr8",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/iwevsoigqzl0",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/0szwkniugivg",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "Murder on the Dancefloor",
+                    "portada": "\/44mX9sUtEvwlNPNbiFI6A0oWLM8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/7jd28au4t86l",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/5gy7fxycae62",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/8cukjbciw7sf",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/fwhegogk621o",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/erwgm1ocsdx1",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/ojan3sd2gsf7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "El baile, parte uno",
+                    "portada": "\/bnppcNnvQJ6h5Qr0dNsEn2seqYk.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/a4t5jcf552d1",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/grh0rj6u9d32",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/9j60h49zucl7",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/6cerbyeoa15l",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/xuirw305y3sc",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/ek0g5obx957j",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "El baile, parte dos",
+                    "portada": "\/kU1s9PeSeFKrGUh4oXRysEkMdGQ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/xonnoy5y0niy",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/h424f36dmnhu",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/jtvnoqva5drm",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/pw2u40ub21sv",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/36segkw1cddi",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/srsyg0d1b6l5",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "Hamlet",
+                    "portada": "\/q6LaDnJGu1r7q5DFTslSNAKxQql.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/fgwougfn16wk",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/n16uxhtncks5",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/o4cv92gzkbia",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/b4zpg21tmlxb",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/h7yo08vjp4jm",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/5yranqugtu67",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E09",
+                    "episode_number": 9,
+                    "nombre": "Stairway to Heaven",
+                    "portada": "\/9qOFFNsIv3TuKNuVWWM9I0K9Stz.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/s4ga8acsjatg",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/ti70isnt1g10",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/2mau5u22xnu1",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/1c9lwyjit06u",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/iqhwq5fpnbb8",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/u5qq0dmq2zqg",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-09-12 05:23:19",
+    "created_at": "2026-09-12 05:23:19",
+    "updated_at": "2026-09-12 05:23:19"
+}
