@@ -1,5 +1,25 @@
 [
     {
+        "id": "1789198058524",
+        "tmdb_id": "1081003",
+        "titulo": "Supergirl",
+        "imagen": "/Ao9ucdnMaBhNt528Z5S4Wxovgnf.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Acción",
+            "Aventura",
+            "Ciencia ficción"
+        ],
+        "rate": 6.70000000000000017763568394002504646778106689453125,
+        "added_date": "2026-09-12 03:27:38",
+        "created_at": "2026-09-12 03:27:38",
+        "updated_at": "2026-09-12 03:27:40",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1788499224371",
         "tmdb_id": "277834",
         "titulo": "Moana",
