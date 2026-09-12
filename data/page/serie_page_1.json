@@ -1,5 +1,25 @@
 [
     {
+        "id": "1789206427544",
+        "tmdb_id": "291496",
+        "titulo": "Acaramelados",
+        "imagen": "/ny8zYj40mWGTgKJi1a8hjNFUj9n.jpg",
+        "type": "dorama",
+        "year": "2026",
+        "etiquetas": [
+            "Drama",
+            "Comedia"
+        ],
+        "rate": 8.699999999999999289457264239899814128875732421875,
+        "added_date": "2026-09-12 05:47:07",
+        "created_at": "2026-09-12 05:47:07",
+        "updated_at": "2026-09-12 05:47:09",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 12,
+        "status": "Ended"
+    },
+    {
         "id": "1789205919150",
         "tmdb_id": "138502",
         "titulo": "X-Men '97",
