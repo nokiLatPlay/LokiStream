@@ -1,5 +1,25 @@
 [
     {
+        "id": "1789204792526",
+        "tmdb_id": "320096",
+        "titulo": "Krypto Saves the Day!",
+        "imagen": "/g0mWNUELRT1Oa2Phqt0YrqJeXX1.jpg",
+        "type": "serie",
+        "year": "2025",
+        "etiquetas": [
+            "Animación",
+            "Kids"
+        ],
+        "rate": 8,
+        "added_date": "2026-09-12 05:19:52",
+        "created_at": "2026-09-12 05:19:52",
+        "updated_at": "2026-09-12 05:19:54",
+        "update_states": "No actualizado",
+        "temporadas": 2,
+        "episodios": 5,
+        "status": "Returning Series"
+    },
+    {
         "id": "1789204476311",
         "tmdb_id": "296756",
         "titulo": "Presidente Curtis",
