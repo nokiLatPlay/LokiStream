@@ -1,5 +1,26 @@
 [
     {
+        "id": "1788762481805",
+        "tmdb_id": "1429",
+        "titulo": "Shingeki no Kyojin",
+        "imagen": "/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg",
+        "type": "anime",
+        "year": "2013",
+        "etiquetas": [
+            "Animación",
+            "Sci-Fi & Fantasy",
+            "Action & Adventure"
+        ],
+        "rate": 8.699999999999999289457264239899814128875732421875,
+        "added_date": "2026-09-07 02:28:01",
+        "created_at": "2026-09-07 02:28:01",
+        "updated_at": "2026-09-12 12:35:43",
+        "update_states": "No actualizado",
+        "temporadas": 4,
+        "episodios": 87,
+        "status": "Ended"
+    },
+    {
         "id": "1789206427544",
         "tmdb_id": "291496",
         "titulo": "Acaramelados",
@@ -120,27 +141,6 @@
         "temporadas": 1,
         "episodios": 7,
         "status": "Returning Series"
-    },
-    {
-        "id": "1788762481805",
-        "tmdb_id": "1429",
-        "titulo": "Shingeki no Kyojin",
-        "imagen": "/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg",
-        "type": "anime",
-        "year": "2013",
-        "etiquetas": [
-            "Animación",
-            "Sci-Fi & Fantasy",
-            "Action & Adventure"
-        ],
-        "rate": 8.699999999999999289457264239899814128875732421875,
-        "added_date": "2026-09-07 02:28:01",
-        "created_at": "2026-09-07 02:28:01",
-        "updated_at": "2026-09-12 03:50:27",
-        "update_states": "No actualizado",
-        "temporadas": 3,
-        "episodios": 59,
-        "status": "Ended"
     },
     {
         "id": "1788689607959",
