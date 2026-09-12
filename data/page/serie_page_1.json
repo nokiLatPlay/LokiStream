@@ -1,5 +1,26 @@
 [
     {
+        "id": "1789205919150",
+        "tmdb_id": "138502",
+        "titulo": "X-Men '97",
+        "imagen": "/oudLzoZ9vqcH7BQAOAeHeC7bcjT.jpg",
+        "type": "serie",
+        "year": "2024",
+        "etiquetas": [
+            "Animación",
+            "Action & Adventure",
+            "Sci-Fi & Fantasy"
+        ],
+        "rate": 8.699999999999999289457264239899814128875732421875,
+        "added_date": "2026-09-12 05:38:39",
+        "created_at": "2026-09-12 05:38:39",
+        "updated_at": "2026-09-12 05:38:40",
+        "update_states": "No actualizado",
+        "temporadas": 2,
+        "episodios": 19,
+        "status": "Returning Series"
+    },
+    {
         "id": "1789205714678",
         "tmdb_id": "125928",
         "titulo": "Mis aventuras con Superman",
