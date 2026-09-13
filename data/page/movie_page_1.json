@@ -1,5 +1,25 @@
 [
     {
+        "id": "1789271542323",
+        "tmdb_id": "131631",
+        "titulo": "Los Juegos del Hambre: Sinsajo - Parte 1",
+        "imagen": "/wfLsciidZamFPeOb4FD8ywk1Q9c.jpg",
+        "type": "movie",
+        "year": "2014",
+        "etiquetas": [
+            "Ciencia ficción",
+            "Aventura",
+            "Suspense"
+        ],
+        "rate": 6.79999999999999982236431605997495353221893310546875,
+        "added_date": "2026-09-12 23:52:22",
+        "created_at": "2026-09-12 23:52:22",
+        "updated_at": "2026-09-12 23:52:23",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1789271481626",
         "tmdb_id": "101299",
         "titulo": "Los Juegos del Hambre: En llamas",
