@@ -1,5 +1,24 @@
 [
     {
+        "id": "1789260020",
+        "tmdb_id": "1396749",
+        "titulo": "Un comeback salvaje",
+        "imagen": "/p8ce6EJAdGiYsOQxVpIGXgbldks.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Comedia",
+            "Música"
+        ],
+        "calidad": [],
+        "rate": 6.29999999999999982236431605997495353221893310546875,
+        "status": "Released",
+        "added_date": "2026-09-12 20:40:20",
+        "created_at": "2026-09-12 20:40:20",
+        "updated_at": "2026-09-12 20:42:36",
+        "update_states": "No actualizado"
+    },
+    {
         "id": "1789259348",
         "tmdb_id": "1401542",
         "titulo": "Project Y",
