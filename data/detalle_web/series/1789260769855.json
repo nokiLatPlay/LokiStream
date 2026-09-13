@@ -1,0 +1,329 @@
+{
+    "id": "1789260769855",
+    "tmdb_id": "300259",
+    "titulo": "Bloody Smart",
+    "original_name": "聰明鎮",
+    "imagen": "\/pbLhglL1Mn4ooioGXD58MJKOgXA.jpg",
+    "backdrop_path": "\/gp01i35kvgpJLarGIGopnBWuzKE.jpg",
+    "type": "dorama",
+    "year": "2026",
+    "etiquetas": [
+        "Misterio"
+    ],
+    "temporadas_count": 1,
+    "episodios": 10,
+    "status": "Ended",
+    "rate": 7.5999999999999996447286321199499070644378662109375,
+    "sinopsis": "",
+    "cast": [
+        {
+            "name": "梁詠琪",
+            "character": "",
+            "profile_path": "\/oYNuZMZCsphyrjAmZQAAwXXTvVG.jpg"
+        },
+        {
+            "name": "陳姸霏",
+            "character": "",
+            "profile_path": "\/4f5VBRG7XLNO22UTZrBmCCkGqXj.jpg"
+        },
+        {
+            "name": "余杰恩",
+            "character": "",
+            "profile_path": "\/5de10kF2Bu5cLbRJcU4w707tvCP.jpg"
+        },
+        {
+            "name": "劉修甫",
+            "character": "",
+            "profile_path": "\/lgfCDCKIfGflHx2VJzDknrJUvSR.jpg"
+        },
+        {
+            "name": "鄭煒齡",
+            "character": "",
+            "profile_path": "\/m5pzwG1NglrX4CsDjPKSomDH2xS.jpg"
+        },
+        {
+            "name": "許曦文",
+            "character": "",
+            "profile_path": "\/bgeaWmgxn0zUMe8uGVw7jqEHjii.jpg"
+        },
+        {
+            "name": "喬湲媛",
+            "character": "",
+            "profile_path": "\/kjnRiqnNuHQUDoaMDDdqx7kune2.jpg"
+        },
+        {
+            "name": "潘綱大",
+            "character": "",
+            "profile_path": "\/nNDnHEELVrTRG3dKT1l1GCFd2jO.jpg"
+        },
+        {
+            "name": "唐從聖",
+            "character": "",
+            "profile_path": "\/cwqaEWTtdWBuun22aUk8Fhh0B32.jpg"
+        },
+        {
+            "name": "雷洪",
+            "character": "",
+            "profile_path": "\/7CjkB0c1IuulrVNm5eYfm1KyYBk.jpg"
+        },
+        {
+            "name": "Joe Chang Shu-Wei",
+            "character": "",
+            "profile_path": "\/yEC7S5m4DiVXZhvwO5ebxas3Pxm.jpg"
+        },
+        {
+            "name": "孫沁岳",
+            "character": "",
+            "profile_path": "\/wiRDxo1RgZNxy8qb8tfwuT7GUuo.jpg"
+        },
+        {
+            "name": "安原良",
+            "character": "",
+            "profile_path": "\/jqX3IaZDhy5hPDBpeBHpvtfVVYZ.jpg"
+        },
+        {
+            "name": "宋柏緯",
+            "character": "",
+            "profile_path": "\/izKmpDRsCg54cYjpgZMeht2lOe1.jpg"
+        },
+        {
+            "name": "趙文瑄",
+            "character": "",
+            "profile_path": "\/c5LTdq5lsDzIxfu2a6a4jZQe3nK.jpg"
+        }
+    ],
+    "first_air_date": "2026-07-28",
+    "last_air_date": "2026-07-28",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/zXXG4KS6c0tQs7LXUFpDx0u3ovu.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "\/wy5VskupizWU41F8MtrNZ9J9lyO.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/kgfm21fjrdp1",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/thjph3li7nyg",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "\/HWudRpx69s9Fc4iBUuuSFnyoE4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/xc053hvhu3bs",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/nvnj1wwiuonw",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "\/4Q0UluhN47VuCQpYLsu86JKRdrZ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/3xtecawt7w8z",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/svec3lykvhw0",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "\/6lBmTxkjZXqvC3jjoUKbc69vkmL.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/4j3c362p1uvt",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/cdjfjh5ztj3j",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "\/gMdYNxs9YOsfhCeDl1J6E7SS5m1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/8dnnwxnwjiuf",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/a0s6j8cldkc9",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Episodio 6",
+                    "portada": "\/lmfRXQp4UVIbQtqm70G35SzFs4I.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/056sgke37rhv",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/0ev2c8js7teh",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "Episodio 7",
+                    "portada": "\/c61JoBFK6dnGwH7q7qZh0sqzCxO.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/whgblide8ry3",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/58iuh0j35dgt",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "Episodio 8",
+                    "portada": "\/wDo7c1Ahj582ZL8ImXJjNhXVMli.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/c9odv53gtk0n",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/bl59ng4vs7ob",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E09",
+                    "episode_number": 9,
+                    "nombre": "Episodio 9",
+                    "portada": "\/qC1dTSBEUPUg4HvRG4BSSXpEGrh.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/pcla7rietr6o",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/m8e05ovfgegl",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E10",
+                    "episode_number": 10,
+                    "nombre": "Episodio 10",
+                    "portada": "\/t6Z5SVQRBkphu8M6uXRc1vFprRe.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/esbzbj6nffb8",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/pun10iaoycrm",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-09-12 20:52:49",
+    "created_at": "2026-09-12 20:52:49",
+    "updated_at": "2026-09-12 20:52:49"
+}
