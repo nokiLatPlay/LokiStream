@@ -1,5 +1,25 @@
 [
     {
+        "id": "1789260930408",
+        "tmdb_id": "299365",
+        "titulo": "Un nuevo comienzo",
+        "imagen": "/fncnCnQX2pcrAQSCiyLjaf7UQCB.jpg",
+        "type": "dorama",
+        "year": "2026",
+        "etiquetas": [
+            "Drama",
+            "Sci-Fi & Fantasy"
+        ],
+        "rate": 7.9000000000000003552713678800500929355621337890625,
+        "added_date": "2026-09-12 20:55:30",
+        "created_at": "2026-09-12 20:55:30",
+        "updated_at": "2026-09-12 20:55:32",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 12,
+        "status": "Ended"
+    },
+    {
         "id": "1789260769855",
         "tmdb_id": "300259",
         "titulo": "Bloody Smart",
