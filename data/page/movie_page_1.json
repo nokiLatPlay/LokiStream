@@ -1,5 +1,25 @@
 [
     {
+        "id": "1789271481626",
+        "tmdb_id": "101299",
+        "titulo": "Los Juegos del Hambre: En llamas",
+        "imagen": "/oxnKI1qiHz7xC0mNthC7dSqTcot.jpg",
+        "type": "movie",
+        "year": "2013",
+        "etiquetas": [
+            "Aventura",
+            "Acción",
+            "Ciencia ficción"
+        ],
+        "rate": 7.4000000000000003552713678800500929355621337890625,
+        "added_date": "2026-09-12 23:51:21",
+        "created_at": "2026-09-12 23:51:21",
+        "updated_at": "2026-09-12 23:51:23",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1789269903772",
         "tmdb_id": "70160",
         "titulo": "Los Juegos del Hambre",
