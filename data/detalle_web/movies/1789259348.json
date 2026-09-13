@@ -1,0 +1,118 @@
+{
+    "id": "1789259348",
+    "tmdb_id": "1401542",
+    "titulo": "Project Y",
+    "original_name": "프로젝트 Y",
+    "imagen": "\/s4z1ek0vRtIa5ZOcK4EpdU6qen9.jpg",
+    "backdrop_path": "\/8yzfrJQRt90oBjSnKoziXl0A42l.jpg",
+    "type": "movie",
+    "year": "2026",
+    "etiquetas": [
+        "Crimen",
+        "Drama"
+    ],
+    "calidad": [],
+    "rate": 6.20000000000000017763568394002504646778106689453125,
+    "sinopsis": "Dos amigas ambicionan robar lingotes de oro por valor de 8.000 millones de wones en Gangnam, Seúl.",
+    "cast": [
+        {
+            "name": "한소희",
+            "character": "Yoon Mi-sun",
+            "profile_path": "\/8IvEOnqMjqJWcci3z44haH38Ee8.jpg"
+        },
+        {
+            "name": "전종서",
+            "character": "Lee Do-kyung",
+            "profile_path": "\/13mReqKdJFy3NjbqAFzVBLiyF9d.jpg"
+        },
+        {
+            "name": "김신록",
+            "character": "Choi Ga-young",
+            "profile_path": "\/x4zo2mSbehnQY80PbuldAZ7ruGm.jpg"
+        },
+        {
+            "name": "김성철",
+            "character": "Mr. To",
+            "profile_path": "\/nR9r7iBvuLJJYvIxqbyzpWtsO6q.jpg"
+        },
+        {
+            "name": "정영주",
+            "character": "Bull",
+            "profile_path": "\/oPHCzElm0I0cR6sB1WTutvtKAtI.jpg"
+        },
+        {
+            "name": "이재균",
+            "character": "Seok-gu",
+            "profile_path": "\/gqIT1S8cRDZvPul9utZQMOgBtYI.jpg"
+        },
+        {
+            "name": "유아",
+            "character": "Ha-kyung",
+            "profile_path": "\/gshWMlQbnVEUwh9wiFqDusNEHNP.jpg"
+        },
+        {
+            "name": "박보인",
+            "character": "Hardcore Young",
+            "profile_path": "\/uNBZLZi55vz3yB910ZBbkhSSvxM.jpg"
+        },
+        {
+            "name": "한성민",
+            "character": "Hwa-jin",
+            "profile_path": "\/AvBjp8Jbb3G1wC8xKxdPx5H719S.jpg"
+        },
+        {
+            "name": "백현진",
+            "character": "Gi-jung",
+            "profile_path": "\/1wKuypLzAzaSDUd93cuCz1N75qx.jpg"
+        },
+        {
+            "name": "박환희",
+            "character": "Sang-ok",
+            "profile_path": "\/1zoz3V1KF25Qtr6WAlPkuYdzY6i.jpg"
+        },
+        {
+            "name": "송이현",
+            "character": "Su-hui",
+            "profile_path": "\/yI79gsBbtCtqDQAxoljewZBzg5l.jpg"
+        },
+        {
+            "name": "한현준",
+            "character": "Seung-won",
+            "profile_path": "\/681WwzUyxjMvYCF2MZujUo1vObR.jpg"
+        },
+        {
+            "name": "이세온",
+            "character": "Jae-pil",
+            "profile_path": "\/pTT8kac7DJ6KzOJv4h3soRmKC6D.jpg"
+        },
+        {
+            "name": "이홍내",
+            "character": "Han-wook",
+            "profile_path": "\/fZTSESUAmiyl6w5GutEhwtpwxv6.jpg"
+        }
+    ],
+    "first_air_date": null,
+    "last_air_date": null,
+    "status": "Released",
+    "runtime": 110,
+    "enlaces": [
+        {
+            "nombre": "Minochinos",
+            "url": "https:\/\/minochinos.com\/embed\/lfmxfb4vwtr4",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "720p"
+        },
+        {
+            "nombre": "Hanerix",
+            "url": "https:\/\/hanerix.com\/e\/8f0eljww1jdx",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "720p"
+        }
+    ],
+    "added_date": "2026-09-12 20:29:08",
+    "created_at": "2026-09-12 20:29:08",
+    "updated_at": "2026-09-12 20:31:37",
+    "update_states": "No actualizado"
+}
