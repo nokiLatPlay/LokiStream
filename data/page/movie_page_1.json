@@ -1,5 +1,25 @@
 [
     {
+        "id": "1789284257741",
+        "tmdb_id": "131634",
+        "titulo": "Los Juegos del Hambre: Sinsajo - Parte 2",
+        "imagen": "/3qQPBc7JVGXJGo0Av5jrqndcdTm.jpg",
+        "type": "movie",
+        "year": "2015",
+        "etiquetas": [
+            "Acción",
+            "Aventura",
+            "Ciencia ficción"
+        ],
+        "rate": 6.9000000000000003552713678800500929355621337890625,
+        "added_date": "2026-09-13 03:24:17",
+        "created_at": "2026-09-13 03:24:17",
+        "updated_at": "2026-09-13 03:24:19",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1789271542323",
         "tmdb_id": "131631",
         "titulo": "Los Juegos del Hambre: Sinsajo - Parte 1",
