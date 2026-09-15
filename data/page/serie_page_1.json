@@ -1,5 +1,28 @@
 [
     {
+        "id": "1789468188810",
+        "tmdb_id": "3570",
+        "titulo": "Sailor Moon",
+        "imagen": "/9Uz8Me0l0hNtMOlrdpH64wrYFa8.jpg",
+        "type": "serie",
+        "year": "1992",
+        "etiquetas": [
+            "Action & Adventure",
+            "Animación",
+            "Comedia",
+            "Sci-Fi & Fantasy",
+            "Kids"
+        ],
+        "rate": 8.4000000000000003552713678800500929355621337890625,
+        "added_date": "2026-09-15 06:29:48",
+        "created_at": "2026-09-15 06:29:48",
+        "updated_at": "2026-09-15 06:29:50",
+        "update_states": "No actualizado",
+        "temporadas": 5,
+        "episodios": 200,
+        "status": "Ended"
+    },
+    {
         "id": "1789261545202",
         "tmdb_id": "300727",
         "titulo": "El complejo de apartamentos",
