@@ -1,0 +1,3111 @@
+{
+    "id": "1789468188810",
+    "tmdb_id": "3570",
+    "titulo": "Sailor Moon",
+    "original_name": "美少女戦士セーラームーン",
+    "imagen": "\/9Uz8Me0l0hNtMOlrdpH64wrYFa8.jpg",
+    "backdrop_path": "\/sNCpbcCcRadDBMTh6An1dBMakqr.jpg",
+    "type": "serie",
+    "year": "1992",
+    "etiquetas": [
+        "Action & Adventure",
+        "Animación",
+        "Comedia",
+        "Sci-Fi & Fantasy",
+        "Kids"
+    ],
+    "temporadas_count": 5,
+    "episodios": 200,
+    "status": "Ended",
+    "rate": 8.4000000000000003552713678800500929355621337890625,
+    "sinopsis": "Narra la historia de Usagi Tsukino, una adolescente de 14 años muy distraída e imprudente cuya vida cambiará totalmente cuando un día por casualidad conoce a una gata llamada Luna, la cual le habla acerca de su misión como Sailor Scout y de salvar a la Tierra de futuros invasores malignos. Con el tiempo, surgen las demás sailors en su orden: Sailor Mercury (Ami Mizuno), Sailor Mars (Rei Hino), Sailor Jupiter (Makoto Kino) y Sailor Venus (Minako Aino).",
+    "cast": [
+        {
+            "name": "Kotono Mitsuishi",
+            "character": "Usagi Tsukino \/ Sailor Moon (voice)",
+            "profile_path": "\/mvKgkuAVVMmjkFWlwVQu8KCa80O.jpg"
+        },
+        {
+            "name": "Aya Hisakawa",
+            "character": "Ami Mizuno \/ Sailor Mercury (voice)",
+            "profile_path": "\/5asVy8H7VSDQKVdURubT0QHjsld.jpg"
+        },
+        {
+            "name": "富沢美智恵",
+            "character": "Rei Hino \/ Sailor Mars (voice)",
+            "profile_path": "\/42Au1FT7mGOghHcrlX8g44v6dTG.jpg"
+        },
+        {
+            "name": "篠原恵美",
+            "character": "Makoto Kino \/ Sailor Jupiter (voice)",
+            "profile_path": "\/ryGauSE9aoEh5DFMrlFw3H8sATC.jpg"
+        },
+        {
+            "name": "Rica Fukami",
+            "character": "Minako Aino \/ Sailor Venus (voice)",
+            "profile_path": "\/sVFWxaM89O540z0N1QOkXqCbqJo.jpg"
+        },
+        {
+            "name": "Toru Furuya",
+            "character": "Mamoru Chiba \/ Tuxedo Mask (voice)",
+            "profile_path": "\/2et31Lo8I0gRbyYFaOu3TBRby7U.jpg"
+        },
+        {
+            "name": "Keiko Han",
+            "character": "Luna (voice)",
+            "profile_path": "\/7fi4oxXVJJJnyZMwcud1Yzq8Re0.jpg"
+        },
+        {
+            "name": "荒木香衣",
+            "character": "Chibiusa\/Sailor Chibi Moon (voice)",
+            "profile_path": "\/cxTyiRskkgUpQfZrCw7zpkocV5I.jpg"
+        },
+        {
+            "name": "高戸靖広",
+            "character": "Artemis (voice)",
+            "profile_path": "\/njJHBtfhUYfhNpJeCh7wEsHaAiT.jpg"
+        }
+    ],
+    "first_air_date": "1992-03-07",
+    "last_air_date": "1997-02-08",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/pCeCsZmLaZKR2SdgctVlzGMJi6i.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "La niña llorona se convierte en guerrero",
+                    "portada": "\/cYmli9KoGBgKmTgcZbGAaRbXUox.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/13e66a73da38",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "La casa de la buenaventura",
+                    "portada": "\/sYxH4L8WUFUBXcTRmuXtGJ2ddAM.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/3e0c469a0210",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Salvad a las chicas enamoradas",
+                    "portada": "\/xFnwbg8ElwP3Feft553JiXJ7wQM.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/fa86d84ea56f",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "¿Queréis adelgazar?",
+                    "portada": "\/pxnOSOS1FAyeXFjN8Tjey8xZUM6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/d7de078fee7f",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "Pérfido aroma",
+                    "portada": "\/llvO5S86sastu36r1v3NMY5Ucig.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/544dfc98b3cb",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Nunca renuncies al amor",
+                    "portada": "\/cTBkKyMuSvONRWln43wzYwhukb.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/2400fa23e0f3",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "Camino hacia el estrellato",
+                    "portada": "\/Da3kpkh5ntbt90iXHNsjeWcT2a.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/45c4f7f05f78",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "Genios y superdotados",
+                    "portada": "\/os1RM9WN5Donjt36Czq52qQmjLX.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/4cd9aaa8372c",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E09",
+                    "episode_number": 9,
+                    "nombre": "Relojes en rebajas",
+                    "portada": "\/oEc303jHXMAGeMIlXcWHLhlksSl.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/595bd9e3bb50",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E10",
+                    "episode_number": 10,
+                    "nombre": "El autobús maldito",
+                    "portada": "\/vUlirjUx5j8NTPShTdjs9dD0Pg9.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/31b972c0d0bd",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E11",
+                    "episode_number": 11,
+                    "nombre": "Pesadilla en el mundo de los sueños",
+                    "portada": "\/8upfsOaDdwmIFyZ5JARLJQG62ze.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/231f63165837",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E12",
+                    "episode_number": 12,
+                    "nombre": "Crucero de lujo",
+                    "portada": "\/afZyaZdpedECL0hbyCfTyCGrgsG.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/2eb30dbab65b",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E13",
+                    "episode_number": 13,
+                    "nombre": "El fin de Daniel",
+                    "portada": "\/5xxo0hS1LPSIctVuiasTf5KztHc.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/47722818d96a",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E14",
+                    "episode_number": 14,
+                    "nombre": "Un nuevo enemigo muy poderoso",
+                    "portada": "\/3d3G4q2IWaK2yGv053AR9A4cKOV.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/a0913b417b87",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E15",
+                    "episode_number": 15,
+                    "nombre": "Ray tiene su primera cita",
+                    "portada": "\/6SBo9tvZfbhk1y3U2EFVYwzvXjH.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/084cd69b59d6",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E16",
+                    "episode_number": 16,
+                    "nombre": "El traje de novia",
+                    "portada": "\/6M2WgsTeioziVfmSZ1z5WkTcdmK.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/004c37982e6e",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E17",
+                    "episode_number": 17,
+                    "nombre": "Soy una modelo",
+                    "portada": "\/qGq4CyctxazSGKJwh1KDgFbUhSv.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/a9895fdb7dff",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E18",
+                    "episode_number": 18,
+                    "nombre": "Una muñeca de ojos azules",
+                    "portada": "\/fS2BzLNrwVLGFeQKjcSI5HLMwyH.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/4c8d375f3c14",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E19",
+                    "episode_number": 19,
+                    "nombre": "Cartas de amor del señor del antifaz",
+                    "portada": "\/2iAsD73bSiOVQ0u4dKZlUeEAsSC.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/1fabbd925d85",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E20",
+                    "episode_number": 20,
+                    "nombre": "Un verano en el mar",
+                    "portada": "\/rcExbE75O5Rp7ByS8MjtcLXTQa.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/0f9f3a759a4f",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E21",
+                    "episode_number": 21,
+                    "nombre": "Hay que salvar los sueños de los niños",
+                    "portada": "\/cozA0CBmGQPGKkAxTxck3XRRmyd.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/f23b08c91f94",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E22",
+                    "episode_number": 22,
+                    "nombre": "Mi primer beso",
+                    "portada": "\/o79FYL3yVYG6Lk6PmQJTtdspF5E.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/1971491ec5b8",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E23",
+                    "episode_number": 23,
+                    "nombre": "El gran amor de Kari",
+                    "portada": "\/wceKsr9HsKcXl630MASQI1CYI1J.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/9595e5844b74",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E24",
+                    "episode_number": 24,
+                    "nombre": "La muerte de Ramiro",
+                    "portada": "\/zV0JycA7W1QvjlHTV2Fd8Lpwkgq.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/3aa8814d9bce",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E25",
+                    "episode_number": 25,
+                    "nombre": "Guerrero Júpiter entra en acción",
+                    "portada": "\/40RqLcTjMDBAEJKFeLKLGaOq56Z.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/5bb7051c9e2b",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E26",
+                    "episode_number": 26,
+                    "nombre": "Kari sonríe de nuevo",
+                    "portada": "\/qLqQMr1ZdhOsuvh5DWyUaY6gXGV.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/5ec342e08d9a",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E27",
+                    "episode_number": 27,
+                    "nombre": "El amor de Amy",
+                    "portada": "\/8f5iG8ilg57XEPqYxYqcrJHTxkd.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/ffc90fa8fa0b",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E28",
+                    "episode_number": 28,
+                    "nombre": "La gran pintora",
+                    "portada": "\/g4nAc0smnHISGVE896VVLBgT6ku.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/32c30f2c6c7d",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E29",
+                    "episode_number": 29,
+                    "nombre": "Asuntos de amor",
+                    "portada": "\/qCemw36shBS0pgoLkwJntBUH0EW.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/5676bfc7f325",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E30",
+                    "episode_number": 30,
+                    "nombre": "El abuelo de Ray se vuelve loco",
+                    "portada": "\/1rbBOo6HuM0kMsFFBT6LHww9juV.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/8e22363386ac",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E31",
+                    "episode_number": 31,
+                    "nombre": "Luna tiene un día negro",
+                    "portada": "\/oPWpxgyzXdRL83fRN9USWA6VO5J.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/fe8ca1a4632b",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E32",
+                    "episode_number": 32,
+                    "nombre": "El protector de Kari",
+                    "portada": "\/ixc1rq98otzgrX8zjhjYOpLC2ze.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/7d4132545039",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E33",
+                    "episode_number": 33,
+                    "nombre": "La guerrero Venus",
+                    "portada": "\/t5uXR87MNhGa0GfJeNqBRhYbalz.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/f87a12328f51",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E34",
+                    "episode_number": 34,
+                    "nombre": "La princesa Luna",
+                    "portada": "\/45wxqoTcgpIvp1sj1aM4ngeC5S7.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/2b143add5ad5",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E35",
+                    "episode_number": 35,
+                    "nombre": "Recuerdos de Bunny y Armando",
+                    "portada": "\/9pucYZObpkkKFM8LHJoprTeN1la.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/a18d1423a37c",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E36",
+                    "episode_number": 36,
+                    "nombre": "El señor del antifaz es nuestro enemigo",
+                    "portada": "\/kQ3RuTnZfuuFFAo2lAdgZABpWFK.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/5b0cf96b9e08",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E37",
+                    "episode_number": 37,
+                    "nombre": "Cursillo para princesas",
+                    "portada": "\/lDBDEGMaBCjO5GDLsEI09drRsx1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/c11edcb17749",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E38",
+                    "episode_number": 38,
+                    "nombre": "Peligro en las montañas blancas",
+                    "portada": "\/jvqWcISQ3R3FaaHLFf7W82M9e6B.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/39cb463cd426",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E39",
+                    "episode_number": 39,
+                    "nombre": "La reina del hielo",
+                    "portada": "\/4hLwJ04mH7QMFP9BL1YPeE78qeo.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/1b9377849209",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E40",
+                    "episode_number": 40,
+                    "nombre": "Vacaciones familiares",
+                    "portada": "\/rg5JvbBKpJHdusJYCLW3BPLMo1w.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/29db151f2919",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E41",
+                    "episode_number": 41,
+                    "nombre": "Amy contra Armando",
+                    "portada": "\/79QFBL2DE9cBB6b3BJ9W7PTTtwy.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/5598b37e590b",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E42",
+                    "episode_number": 42,
+                    "nombre": "El trágico amor de Venus",
+                    "portada": "\/5S1PsUw80qx8yk3YKVM4HjmcTbL.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/11737ae0d9e1",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E43",
+                    "episode_number": 43,
+                    "nombre": "Guerrero Luna se enfrenta a sus compañeras",
+                    "portada": "\/ko3oe0f5XsErvJkVbMyVVQxfziT.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/f7f46a82dece",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E44",
+                    "episode_number": 44,
+                    "nombre": "La super estrella envía un mensaje",
+                    "portada": "\/iEnUHHECabQMcTgv58knJMM054n.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/621a36041a59",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E45",
+                    "episode_number": 45,
+                    "nombre": "La última batalla",
+                    "portada": "\/z1PhMTWrMc2k1wYw62HPXb7bIwQ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/0a3687ac4fe8",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E46",
+                    "episode_number": 46,
+                    "nombre": "Una nueva vida",
+                    "portada": "\/4iiMqDYvrKfww9qcBA2peDa6nS7.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/256cfaf08b2a",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 2",
+            "season_number": 2,
+            "poster_path": "\/jKw3f6qUnPUhNcmHliKNv3G7kLg.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S02E01",
+                    "episode_number": 1,
+                    "nombre": "Sailor Moon vuelve a la vida",
+                    "portada": "\/jprZESMuweRjjilcAiVuenS7lRk.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/f0b2841f6641",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E02",
+                    "episode_number": 2,
+                    "nombre": "Los guerreros se reúnen",
+                    "portada": "\/t7Xj1W6zC40gKazctxElZk55Z3z.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/9d4be78fca7e",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E03",
+                    "episode_number": 3,
+                    "nombre": "El caballero Luz de Luna",
+                    "portada": "\/uc5Q2vdboeS6EWRM39aH7KWr2Or.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/971d95fda248",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E04",
+                    "episode_number": 4,
+                    "nombre": "El teatro de la realidad virtual",
+                    "portada": "\/upWMmqGOcNnW8agl4M9Ty0omBzp.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/57078153d12b",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E05",
+                    "episode_number": 5,
+                    "nombre": "Guerrero Luna recupera el poder",
+                    "portada": "\/cZwI1QfuBDtjoThEryoXwwblsfE.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/ec261531cf90",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E06",
+                    "episode_number": 6,
+                    "nombre": "La guardería en peligro",
+                    "portada": "\/5PImFP3TNxtggE7TZmlq40lIyvp.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/10e13a97ce33",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E07",
+                    "episode_number": 7,
+                    "nombre": "Armando y Bunny se convierten en canguros",
+                    "portada": "\/mnZ31bMnKszbN0ij1z19yimWZTD.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/31780c3bdb8a",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E08",
+                    "episode_number": 8,
+                    "nombre": "La melodía de Ray",
+                    "portada": "\/m5eSYvgixOGj00LW0gFYLvkE9kc.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/c8c5236c2936",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E09",
+                    "episode_number": 9,
+                    "nombre": "El amor es... tantas cosas",
+                    "portada": "\/s7XGNWjiN0n1U7OcSe42CMjlghR.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/47c5b42b245a",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E10",
+                    "episode_number": 10,
+                    "nombre": "Annie y la operación blancanieves",
+                    "portada": "\/w0n8fUi3BJBjcHsnog5FHy1vq4z.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/094f4c308a12",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E11",
+                    "episode_number": 11,
+                    "nombre": "Peligro después del cole",
+                    "portada": "\/iAX6nY65VIU3zbpSTyf3HBEF4Rr.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/ec6f0f95b578",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E12",
+                    "episode_number": 12,
+                    "nombre": "Amor perdido",
+                    "portada": "\/2jEgIleTZRIM7XL5DZDpgtXZx9v.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/8c10fc7d97a3",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E13",
+                    "episode_number": 13,
+                    "nombre": "El secreto del árbol",
+                    "portada": "\/rkAbRYkcSGRXdll5PRLnXsiCFBv.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/65ffcda5026b",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E14",
+                    "episode_number": 14,
+                    "nombre": "La misteriosa chica del firmamento",
+                    "portada": "\/sK8Pa6qP1drXUrYQe9ZnJnOawCV.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/475857e27397",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E15",
+                    "episode_number": 15,
+                    "nombre": "Declaración interrumpida",
+                    "portada": "\/vCxtkItEtprckXKjIwmrlIH2p5P.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/c6ab71d99e3d",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E16",
+                    "episode_number": 16,
+                    "nombre": "La amistad de las guerreros",
+                    "portada": "\/24WbWJwyQSYKAPfKzeqOHx6uRpc.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/a4f4035a6960",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E17",
+                    "episode_number": 17,
+                    "nombre": "Fuerza y belleza para las chicas",
+                    "portada": "\/64mZOfYuuv18g3HTkY2DgeZaFLP.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/c3c8cc3f0e8a",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E18",
+                    "episode_number": 18,
+                    "nombre": "El secreto de ChibiUsa",
+                    "portada": "\/k9apqRyjSfS1E5FGBZheTFVuk8g.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/ab9d802ceb2c",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E19",
+                    "episode_number": 19,
+                    "nombre": "Luchando por el amor",
+                    "portada": "\/brEpQ4i9ds54cMxieBSwTqP0ec8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/9a603f2a2a34",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E20",
+                    "episode_number": 20,
+                    "nombre": "El festival del curry",
+                    "portada": "\/yJSTQDoWrWiCMI37VPGhC1e5ZWS.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/a435adca6dee",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E21",
+                    "episode_number": 21,
+                    "nombre": "Vacaciones en una isla",
+                    "portada": "\/iYnEFh1hRA0PEnOJrfL51G9hg8j.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/1660d6840e99",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E22",
+                    "episode_number": 22,
+                    "nombre": "Proteger a la chica",
+                    "portada": "\/59cnlJguK0km0W0lAy3ZGLmQFQH.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/9115a54b9fa7",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E23",
+                    "episode_number": 23,
+                    "nombre": "Una horrible pesadilla",
+                    "portada": "\/5zvgL6DbRjVQSUaaMwV6vVQDvwo.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/94691cac883b",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E24",
+                    "episode_number": 24,
+                    "nombre": "Guerrero Marte contra Karmesite",
+                    "portada": "\/9Ifjn8P15bF3aKg5f9w4UK72jez.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/93a033865b2f",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E25",
+                    "episode_number": 25,
+                    "nombre": "Amy contra Bertierite",
+                    "portada": "\/aROCguCwmdQYy4gCnaXhKWjdfEZ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/df6838d28c30",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E26",
+                    "episode_number": 26,
+                    "nombre": "El dolor de las cuatro hermanas",
+                    "portada": "\/zwSwVrnuot97NU0XA4DUUdlkcnh.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/d237132ba3c9",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E27",
+                    "episode_number": 27,
+                    "nombre": "La amenaza del OVNI",
+                    "portada": "\/ucXVs58L3Z12n7lu3utkuPX7N9a.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/d5a0de3e1590",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E28",
+                    "episode_number": 28,
+                    "nombre": "Lucha en el espacio",
+                    "portada": "\/pxYspU4zcxv2veVwHGspebYkUQJ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/b5545baaf1de",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E29",
+                    "episode_number": 29,
+                    "nombre": "El nuevo guerrero Plutón",
+                    "portada": "\/lYh8IhtaFYDrikJZXZOzpZoth0p.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/d8412e80234b",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E30",
+                    "episode_number": 30,
+                    "nombre": "La invasión de Esmeralda",
+                    "portada": "\/40X3P3yJ3niKgvkIo4uaCWeYfkC.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/58ae03ccda79",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E31",
+                    "episode_number": 31,
+                    "nombre": "El amor revive",
+                    "portada": "\/pCNhWNJVWXXlN3DTWjqOG4ofTJL.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/7a1bfb6ff0f9",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E32",
+                    "episode_number": 32,
+                    "nombre": "Pánico por la gripe",
+                    "portada": "\/6ZNW8w3y2f5uKJp8ADWMhadwKQM.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/d5f72d2de354",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E33",
+                    "episode_number": 33,
+                    "nombre": "La aventura de Artemís",
+                    "portada": "\/3qTUjiJo8GNhxXR7WfzklqNMObN.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/9eb90c8c6c64",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E35",
+                    "episode_number": 35,
+                    "nombre": "¿Se abrirá la puerta negra?",
+                    "portada": "\/gJe8l9MgOMKL8JSoFNEHo61oX00.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/78d336ca5588",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E36",
+                    "episode_number": 36,
+                    "nombre": "Hacia el futuro",
+                    "portada": "\/jkjGWSPPrHtcLccMWrjn3el7qLd.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/971b83a0b68c",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E37",
+                    "episode_number": 37,
+                    "nombre": "Historia de la Luna Negra",
+                    "portada": "\/1qihjXiHYa16L3lm39rGMJQYwFY.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/02a0ec3365bb",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E38",
+                    "episode_number": 38,
+                    "nombre": "El secreto de la Pequeña Dama",
+                    "portada": "\/9h2hzozjoQCV7wOY691ZXlTC93v.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/8bd9ed369b83",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E39",
+                    "episode_number": 39,
+                    "nombre": "El nacimiento de la Dama Negra",
+                    "portada": "\/qHX8Ch0h5FtmjiOGh4xj5Jq93Rk.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/4b233653b520",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E40",
+                    "episode_number": 40,
+                    "nombre": "El fín de Zafiro",
+                    "portada": "\/17fr2P6luW1HpN0u07ErYeE4Tzz.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/071455f72c26",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E41",
+                    "episode_number": 41,
+                    "nombre": "La rebelión del Hombre Sabio",
+                    "portada": "\/m4dNqgziETC9ZBgtiEe3xbiYCyW.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/5cb47329365e",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E42",
+                    "episode_number": 42,
+                    "nombre": "La última batalla",
+                    "portada": "\/pccx3nBpms6iRhOeyImQjHqnf4l.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/4714f810b48c",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E43",
+                    "episode_number": 43,
+                    "nombre": "Especial: Epílogo, Prólogo",
+                    "portada": "\/cDk9DxAkOyhI05r9z2UUaSyf2aG.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/9e12b035bd28",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E44",
+                    "episode_number": 44,
+                    "nombre": "Episodio 44",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/2665c4787e8f",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 3",
+            "season_number": 3,
+            "poster_path": "\/isevGUj0qHBDnXs0s0uGa6NNcv7.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S03E01",
+                    "episode_number": 1,
+                    "nombre": "El comienzo de otra batalla",
+                    "portada": "\/bAXHawvnG5bHKj8MIucXXo7plOD.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/ab9e3b6a61be",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E02",
+                    "episode_number": 2,
+                    "nombre": "El nacimiento de un nuevo cetro",
+                    "portada": "\/wzuUpDRqaG7dgM9V9PcHUyfBNJ7.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/add805934c49",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E03",
+                    "episode_number": 3,
+                    "nombre": "¿Él o ella?",
+                    "portada": "\/qYKfhmmakacTKaOhNlHQFN0Z1ma.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/43a3f3ee5792",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E04",
+                    "episode_number": 4,
+                    "nombre": "El ídolo",
+                    "portada": "\/tCKFOJkWyYLXV9iJyQcOMXML5f0.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/9ed94be10dbd",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E05",
+                    "episode_number": 5,
+                    "nombre": "Primer beso",
+                    "portada": "\/lRlSstsro5D7ZIjDJ0wZk82xEdf.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/531ef08b7ce1",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E06",
+                    "episode_number": 6,
+                    "nombre": "Un profundo afecto",
+                    "portada": "\/c6nHIHgQ1G9GvIDHVVYbkMxZ4YH.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/a2c9522baec4",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E07",
+                    "episode_number": 7,
+                    "nombre": "Patricia está en peligro",
+                    "portada": "\/7LEPqnR4wqiCsJaiUvtaEaItN0v.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/83c471090f75",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E08",
+                    "episode_number": 8,
+                    "nombre": "El dilema de Amy",
+                    "portada": "\/5ejTdwN9GCGwfJxT64PB6gsekYK.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/267fd0721d8f",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E09",
+                    "episode_number": 9,
+                    "nombre": "Lazos de unión",
+                    "portada": "\/dUDCLTuyYem7r65DWhjXAtsiO9B.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/a6a364c32adc",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E10",
+                    "episode_number": 10,
+                    "nombre": "Enamorada",
+                    "portada": "\/31AG51TsrLpAD5wOgFXQUodT3l.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/2b2f8ca7557f",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E11",
+                    "episode_number": 11,
+                    "nombre": "Felicidad individual",
+                    "portada": "\/qj2qjhDk9u9nn3E6MIk5xj15dZJ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/f14166ee1443",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E12",
+                    "episode_number": 12,
+                    "nombre": "Zapatos de cristal (1)",
+                    "portada": "\/jZczG7CtAnlhuX7CYEMAo1MrmcO.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/1342a75ed58e",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E13",
+                    "episode_number": 13,
+                    "nombre": "Zapatos de cristal (2)",
+                    "portada": "\/xoir0dqBYF07GzWO5hRfczGYzoy.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/5ce87a19a66c",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E14",
+                    "episode_number": 14,
+                    "nombre": "La pequeña Guerrero ChibiUsa",
+                    "portada": "\/4Zod1UCm6N9ZLtHgBphwqIff4tH.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/e6d244cbdd30",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E15",
+                    "episode_number": 15,
+                    "nombre": "En busca de amigos",
+                    "portada": "\/x0ckoOoMCx4R7kMUvmCXUDcIcKz.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/960d60a485d9",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E16",
+                    "episode_number": 16,
+                    "nombre": "No está sola",
+                    "portada": "\/zKOVkwhaCno4fBodyUcaA4LGh6S.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/6d1dedea6ac4",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E17",
+                    "episode_number": 17,
+                    "nombre": "Lazos fatales",
+                    "portada": "\/gGnOQDgKVfB1tZ164cPmFWpdfQe.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/5e231215df20",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E18",
+                    "episode_number": 18,
+                    "nombre": "La pequeña artista",
+                    "portada": "\/dJDk5gwlv63N57nvKdYaF6WFaO.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/324bbb9ec280",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E19",
+                    "episode_number": 19,
+                    "nombre": "Danzad, danzad, danzad",
+                    "portada": "\/g51p85wQoGYAaEvve3leYLiSAqX.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/21c1ce24959d",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E20",
+                    "episode_number": 20,
+                    "nombre": "La revelación",
+                    "portada": "\/22grCigIzZd977DjZiO0hdZrN9v.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/229b076efc70",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E21",
+                    "episode_number": 21,
+                    "nombre": "Condenadas",
+                    "portada": "\/FE8NNvFVwNuVYwSbhAmfwBlass.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/5e2c4d5e0ee4",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E22",
+                    "episode_number": 22,
+                    "nombre": "El Grial",
+                    "portada": "\/l2Ihhwy18uKMkOBiWglbGJP1drH.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/7a6bc7119443",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E23",
+                    "episode_number": 23,
+                    "nombre": "Luces y sombras",
+                    "portada": "\/gPh1mBBN7T3NRzNQ50eh4iYX53L.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/9c9f7a154ed0",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E24",
+                    "episode_number": 24,
+                    "nombre": "El secreto de Andrea",
+                    "portada": "\/mzKRM4lBo16OOQyoJrsqGoWLZmX.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/16bb22df4046",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E25",
+                    "episode_number": 25,
+                    "nombre": "Mala suerte para Mimet",
+                    "portada": "\/inAqFuT2lmXwy5rlgdK7fOlJPtg.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/e2bc62221f44",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E26",
+                    "episode_number": 26,
+                    "nombre": "La sombra del silencio",
+                    "portada": "\/GtkhWGVUhipb7lLnbcPliBh9FI.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/28ab6f4b4b72",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E27",
+                    "episode_number": 27,
+                    "nombre": "Después de la tormenta",
+                    "portada": "\/CyfTBV6N8EG4E0F7mnlwAFhqis.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/1cf23d360b29",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E28",
+                    "episode_number": 28,
+                    "nombre": "Bravo Andrea",
+                    "portada": "\/7W6KD0pyJe2mhTk7W5Ipg4Bz9XC.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/c28007ebffbc",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E29",
+                    "episode_number": 29,
+                    "nombre": "Espacio alterado",
+                    "portada": "\/aKLyoMJs9cHuvn7fKVFXYAtn9ho.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/1bb7944320a3",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E30",
+                    "episode_number": 30,
+                    "nombre": "El destino de las estrellas",
+                    "portada": "\/tNQLNtbcqOKllwLW1tWPq6SlIZ1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/34fb568aa162",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E31",
+                    "episode_number": 31,
+                    "nombre": "Misterio en la Escuela Mugen",
+                    "portada": "\/7qEFvpoMqryuKD8wXB202AbWCIw.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/d53d455ba6f7",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E32",
+                    "episode_number": 32,
+                    "nombre": "Planeta mortal",
+                    "portada": "\/vWqrGmhkHdDYfxmHqdvC1nZgfpD.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/b7c3c2dce47c",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E33",
+                    "episode_number": 33,
+                    "nombre": "Creo en el amor",
+                    "portada": "\/ulQ50kHpRLlHMJ80BOC0v5vSZL9.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/63c6ae887b48",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E34",
+                    "episode_number": 34,
+                    "nombre": "El despertar",
+                    "portada": "\/eQeZ334MOzSm2lDiYymYfO6Q8Rk.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/5b626646b156",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E35",
+                    "episode_number": 35,
+                    "nombre": "El terror del silencio",
+                    "portada": "\/4P2XSbEQc9FQqAfJRN87hH38jfY.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/ead603cd37ab",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E36",
+                    "episode_number": 36,
+                    "nombre": "El Mesías",
+                    "portada": "\/9D5usrBqUIqjHaFsV625MiQfCtk.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/eec9a62e2980",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E37",
+                    "episode_number": 37,
+                    "nombre": "Nueva vida",
+                    "portada": "\/A3cHDwGKulYHG0GWQMX9EmDvZYv.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/817d87ae389c",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E38",
+                    "episode_number": 38,
+                    "nombre": "El secreto de la tenacidad",
+                    "portada": "\/nKaKo6izqADWTodFANtHQGLnwZq.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/fe9b5a8f247f",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 4",
+            "season_number": 4,
+            "poster_path": "\/dLPCz8ha3TF5xdwrzyQOzhKXEVy.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S04E01",
+                    "episode_number": 1,
+                    "nombre": "Encuentro con el destino",
+                    "portada": "\/kg2WYI5eBhNZ4AI98zttgu9pGr8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/2689ee9ca086",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E02",
+                    "episode_number": 2,
+                    "nombre": "El poder del Pegaso",
+                    "portada": "\/ndkFHZxfDg8x1CNb2u80AUQnGO0.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/488bde898af1",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E03",
+                    "episode_number": 3,
+                    "nombre": "El sueño de mamá",
+                    "portada": "\/mIV5qIDOSFIVVEvRgaUmqDPJQFJ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/2749f69fefb9",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E04",
+                    "episode_number": 4,
+                    "nombre": "La trampa del Trío Amazonas",
+                    "portada": "\/8JLltbJDz8OWJU7BRnvhoLdToz1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/15d501faadc1",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E05",
+                    "episode_number": 5,
+                    "nombre": "La pareja ideal",
+                    "portada": "\/oGgShNXJNsFPZAGMHXj4MJHPQSz.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/04b2eab80a24",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E06",
+                    "episode_number": 6,
+                    "nombre": "Menudo jaleo por un gatito",
+                    "portada": "\/ypVDTRTYfDUlD7hMkMS7CYrHfXp.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/48e26a020a5a",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E07",
+                    "episode_number": 7,
+                    "nombre": "El libro",
+                    "portada": "\/50MHDoa2E77PbSWh7pX6Cur8Whz.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/8a68b3b9a5ee",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E08",
+                    "episode_number": 8,
+                    "nombre": "De corazón a corazón",
+                    "portada": "\/jLsDoCJVeWd7Dm7aLJVZcoGixwp.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/992a4e158a98",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E09",
+                    "episode_number": 9,
+                    "nombre": "El pasado de Ray",
+                    "portada": "\/zdleoQoCQnksC7ozSuRmCSskyjH.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/65a07747ceab",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E10",
+                    "episode_number": 10,
+                    "nombre": "El hada falsa",
+                    "portada": "\/1QVg7Iv0tu3alITBTx46sweH4I.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/7fd5756e133c",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E11",
+                    "episode_number": 11,
+                    "nombre": "Corre hasta el cielo",
+                    "portada": "\/pvZiF68JhAtBx4PvjXyjCDMWnaS.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/444390b47f04",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E12",
+                    "episode_number": 12,
+                    "nombre": "El sueño de una hermosa espadachín",
+                    "portada": "\/zIsMvbmR3F9ugTSHzmHe1Qy2xoh.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/62fb5b3428c7",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E13",
+                    "episode_number": 13,
+                    "nombre": "Moda soñadora",
+                    "portada": "\/ufQku5lghuDkgkiowst1H1fYoaE.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/24ec4457d1bf",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E14",
+                    "episode_number": 14,
+                    "nombre": "Tormenta de amor",
+                    "portada": "\/hl2gvxi5sNtDuTXYbpzEoK914GJ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/0aff11a8a58a",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E15",
+                    "episode_number": 15,
+                    "nombre": "La mejor receta",
+                    "portada": "\/piND4sfpe1UfZ1CeYDRQ2pSX3tP.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/05a175e9a4fb",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E16",
+                    "episode_number": 16,
+                    "nombre": "Confiad en mí",
+                    "portada": "\/eFhgNw3oFn3Gc3unJwwsG3BNS3f.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/aea570603641",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E17",
+                    "episode_number": 17,
+                    "nombre": "Sueño de verano",
+                    "portada": "\/t5CvjUfDPqreOAgA6Sj2pHbz3f7.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/08b149074ef3",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E18",
+                    "episode_number": 18,
+                    "nombre": "El gran ballet",
+                    "portada": "\/8st436ISIc7sQTBpzg6aw1Q7mwu.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/d6369b9e4e05",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E19",
+                    "episode_number": 19,
+                    "nombre": "El sueño de una princesa",
+                    "portada": "\/ukqRwDkSVVvWXq8sdfTdxNVW9Bn.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/5881958a1cfd",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E20",
+                    "episode_number": 20,
+                    "nombre": "El baile de Patricia",
+                    "portada": "\/bjOWD7E4ywJgVCJbnFvJZWsjfHf.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/9189a74c8f8b",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E21",
+                    "episode_number": 21,
+                    "nombre": "Sombra de maldad",
+                    "portada": "\/9fXMvqgsAd3wQhryeAwzIJkIbpo.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/2f8020dbcde3",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E22",
+                    "episode_number": 22,
+                    "nombre": "La fase final para el trío amazón",
+                    "portada": "\/3bTy3KSCsZUYlFKjgkYzSPvk5qf.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/2bb79cf848bf",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E23",
+                    "episode_number": 23,
+                    "nombre": "Pesadilla en el espejo",
+                    "portada": "\/6LG3K6mRfyaFqjmHY8Ug22yGcAa.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/77dabef9518b",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E24",
+                    "episode_number": 24,
+                    "nombre": "La melodía de Amy",
+                    "portada": "\/bXSpDZfi5l3wAXq5SWb3KkNFsKJ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/75de0189eb3f",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E25",
+                    "episode_number": 25,
+                    "nombre": "Ardiente pasión por los sueños",
+                    "portada": "\/kuP6sfNzVv5CNtC2SduC3aa6V3H.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/bb31d0bdfc46",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E26",
+                    "episode_number": 26,
+                    "nombre": "La clínica dental de los horrores",
+                    "portada": "\/xtU4aTK1T2X441ZRPROKhqzEoMI.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/74d2cfe4fcb8",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E27",
+                    "episode_number": 27,
+                    "nombre": "Guerrero Venus contra Guerrero Júpiter",
+                    "portada": "\/rjumgvMaTqPLYXzTvJjajG0Xu58.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/e7f0d6e55f00",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E28",
+                    "episode_number": 28,
+                    "nombre": "Salto a la libertad",
+                    "portada": "\/iVeuvJSSUlzOfaUNLYKCDsleAIr.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/70e8c986920d",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E29",
+                    "episode_number": 29,
+                    "nombre": "El espejo de la verdad",
+                    "portada": "\/6MGM6phgtVBGSgGE7st7zPi4z9Y.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/b481c555e8e9",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E30",
+                    "episode_number": 30,
+                    "nombre": "Amistad en peligro",
+                    "portada": "\/rTBjzQpcJpZ9zDKqpY0pjOIeSwE.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/a081791b0c59",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E31",
+                    "episode_number": 31,
+                    "nombre": "El secreto de Pegaso",
+                    "portada": "\/y0R0U30hYMpCtI6IGDp2cY2vhDv.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/d80c85147008",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E32",
+                    "episode_number": 32,
+                    "nombre": "Pequeña melodía",
+                    "portada": "\/jxgYXzw5ls63dcna0Kacl5C71HF.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/40b0cf2e73ca",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E33",
+                    "episode_number": 33,
+                    "nombre": "Cuando sea mayor",
+                    "portada": "\/ftDquAA9HsAYkI5tXNWrUNA4ELr.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/94ef5a2da06a",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E34",
+                    "episode_number": 34,
+                    "nombre": "Las manos del enemigo",
+                    "portada": "\/apH0fefG1zDU8AELCHF0OYyJmPm.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/911fc6e9cd63",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E35",
+                    "episode_number": 35,
+                    "nombre": "El secreto de la carpa del circo",
+                    "portada": "\/irD2JE7AyZtZv6ejqCQb3RVgoD5.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/d3f6a2073a9e",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E36",
+                    "episode_number": 36,
+                    "nombre": "El laberinto del espejo",
+                    "portada": "\/3KF4UoDSnsivVqFgCDxooG50VvL.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/f95aa2e5d600",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E37",
+                    "episode_number": 37,
+                    "nombre": "El cristal de oro",
+                    "portada": "\/5vsXyaCdHqRH59q987epS5QZ83p.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/2594eb749a78",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E38",
+                    "episode_number": 38,
+                    "nombre": "El poder del cristal",
+                    "portada": "\/gjSK1TqFyL8tZFAgpH3e2ktbZ6L.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/1236b3516e3e",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E39",
+                    "episode_number": 39,
+                    "nombre": "Sueños para siempre",
+                    "portada": "\/jsfpLi34mWimEXXRUwekf2CVOtd.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/8b05a527a625",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 5",
+            "season_number": 5,
+            "poster_path": "\/fjkJcNqL7VEskD0H8qRFOzSn2OL.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S05E01",
+                    "episode_number": 1,
+                    "nombre": "Guerreros Estelares. ¡Cuando la pesadilla expande las flores!",
+                    "portada": "\/gznx5vCPqGfh0s2e7wEnwFd5cH0.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/4da313059c86",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E02",
+                    "episode_number": 2,
+                    "nombre": "¡El despertar de Saturno! Las 10 Guerreros al completo",
+                    "portada": "\/4NnVMFYpZnV5N9aoQWM5jAn37f6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/3d3aab89e377",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E03",
+                    "episode_number": 3,
+                    "nombre": "¡La maldición de un espejo! Armando, prisionero de una pesadilla",
+                    "portada": "\/lJkMRHLpYHHQW10tst8kQItsqad.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/903fcf3fa445",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E04",
+                    "episode_number": 4,
+                    "nombre": "¡El destino se decide en una noche! El sufrimiento de las Guerrero",
+                    "portada": "\/ty0uhcrZas1FaNWbWRExfBkFETE.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/eb5c56d18280",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E05",
+                    "episode_number": 5,
+                    "nombre": "¡Por el amor! La última batalla en el malvado mundo",
+                    "portada": "\/oHtsEIWFL1IuKod3f5otoitv4WV.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/432463a38b2d",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E06",
+                    "episode_number": 6,
+                    "nombre": "¡El poder lunar del amor! Se acabó la pesadilla",
+                    "portada": "\/bt5oVm9oitjNlWiGKoKJVRmEARB.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/0273d3329900",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E07",
+                    "episode_number": 7,
+                    "nombre": "¡Una separación y un encuentro! El destino de las estrellas fugaces",
+                    "portada": "\/2Ccg6JoPfCtqGwUqvOCJ8s6mirg.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/30067cb4e791",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E08",
+                    "episode_number": 8,
+                    "nombre": "¡Un remolino llega al instituto! Los nuevos estudiantes son ídolos",
+                    "portada": "\/rX4ihAcIWjRUcr1JgeJ00FPAqKG.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/e0940d0e393c",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E09",
+                    "episode_number": 9,
+                    "nombre": "¡A por el estrellato! La ambición de Carola",
+                    "portada": "\/o57saTEWi550mAG5h1SZhR1n7jE.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/d3c8af7c53d9",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E10",
+                    "episode_number": 10,
+                    "nombre": "¡La verdadera identidad de una Guerrero! Una transformación impactante",
+                    "portada": "\/90x0HwRWK7pW0vzUblTyWcyDyLH.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/edd75498b815",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E11",
+                    "episode_number": 11,
+                    "nombre": "¡Sueños y romances en una estrella! la transformación de Taiki",
+                    "portada": "\/klUQEafXrUzdor78syg74m7f2kd.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/91e73e4e641f",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E12",
+                    "episode_number": 12,
+                    "nombre": "¡¿Luna lo ha visto?! La verdadera personalidad de Yaten",
+                    "portada": "\/ufFmAFRafVBmlMszy2jwJKWPBLW.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/8d8d31cd20f5",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E13",
+                    "episode_number": 13,
+                    "nombre": "¿Enemigos? ¿Aliados? Las Guerrero y las Star Lights",
+                    "portada": "\/u4EZ0WxnhfLLJwD9aTaS8s5A4j7.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/1a44757f11a4",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E14",
+                    "episode_number": 14,
+                    "nombre": "¡El brillo de las estrellas que te llaman! La entrada de Timmy en la guerra",
+                    "portada": "\/fRe0mcoJJHjPxgb1FR7SS3nydXM.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/471920530c28",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E15",
+                    "episode_number": 15,
+                    "nombre": "La cita emocionante de Seiya y Bunny",
+                    "portada": "\/r6ssgKRGnAIDgUe1nk8txrmsND9.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/a3d54ac59535",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E16",
+                    "episode_number": 16,
+                    "nombre": "¡Invasión desde el espacio! Sirena llega volando",
+                    "portada": "\/9UL590UlHr8yvG8RZ6miPX4td7o.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/cb2b075b9791",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E17",
+                    "episode_number": 17,
+                    "nombre": "¡¿El aullido de las almas muertas?! Terror de un monstruo en el campamento",
+                    "portada": "\/i6MqRBSbSXwnYttwRfxDQzDx1LT.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/01d22c4ec9ea",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E18",
+                    "episode_number": 18,
+                    "nombre": "Una noche para nosotros. Bunny en apuros",
+                    "portada": "\/wTBqShfx5ugtbsfgt1oOD1eaH0c.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/7ad900ab7033",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E19",
+                    "episode_number": 19,
+                    "nombre": "¡Taiki canta muy bien! La canción trae buenos deseos de un corazón creyente",
+                    "portada": "\/xXeBzQwMK3Vo9c6EAXxNlAo2zY2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/68beb14e22d8",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E20",
+                    "episode_number": 20,
+                    "nombre": "¡¿El misterio de Chibi Chibi?! Un gran ruido",
+                    "portada": "\/wJE2ofc4r3k46pxwlMXcxHF5ON7.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/8610222ffdaf",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E21",
+                    "episode_number": 21,
+                    "nombre": "¡El poder del brillo de una estrella! La transformación de Chibi Chibi",
+                    "portada": "\/3X9363QEcG7YCd3vSyyUZoPNKC7.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/3fc52d3e70f0",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E22",
+                    "episode_number": 22,
+                    "nombre": "¡Invitación al terror! El vuelo nocturno de Bunny",
+                    "portada": "\/hPmaFI4F5FSxlTPYFZpXZYg2bF4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/77622c4e1463",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E23",
+                    "episode_number": 23,
+                    "nombre": "¡Misión o amistad! Enfrentamiento entre guerreros",
+                    "portada": "\/fsbchM5cnMQnRXMbRW03QFMQgzq.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/de4af80ddc2f",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E24",
+                    "episode_number": 24,
+                    "nombre": "¡Se revela la verdad! El pasado de los Three Lights",
+                    "portada": "\/rIyObKHUf380VfYgwx87GjfqKcx.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/775b07019993",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E25",
+                    "episode_number": 25,
+                    "nombre": "¡Cuando la mariposa de la luz baila! La premonición de una nueva ola",
+                    "portada": "\/4B9h0BTA1UFfvTVSJL067PU2kJl.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/4741f774887a",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E26",
+                    "episode_number": 26,
+                    "nombre": "¡Lucha por tus sueños!",
+                    "portada": "\/sW9Odg4or7BUbMwRrQLOzd1FErN.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/569050c92a53",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E27",
+                    "episode_number": 27,
+                    "nombre": "Me quitan la semilla estelar. Aparece la princesa Kakiuh",
+                    "portada": "\/ktjcRgx9Qjpq1xkO0FMXRgrRckx.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/269dc8857045",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E28",
+                    "episode_number": 28,
+                    "nombre": "Las Guerreros sagradas de la Vía Láctea. La leyenda de la batalla de las Guerreros",
+                    "portada": "\/wzJX577KLaF6DU8p31D9RD2DhhW.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/964f3175fd9a",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E29",
+                    "episode_number": 29,
+                    "nombre": "¡La muerte de la princesa Kakiuh! Aparece Galaxia",
+                    "portada": "\/mrepuwnt4t56P3ZYmcx1UA4Q6OU.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/43f8ba9cabd3",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E30",
+                    "episode_number": 30,
+                    "nombre": "¡Cuando la Galaxia aparece! La última batalla de las Guerreros",
+                    "portada": "\/99AQwb7r2pgtFigRkGR9d9DHsfg.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/68023dd87333",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E31",
+                    "episode_number": 31,
+                    "nombre": "¡La soberana de la Vía Láctea! La amenaza de Galaxia",
+                    "portada": "\/grQc1Z6RqGQVTP43CR94tzm1aAS.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/b26ade34c39e",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E32",
+                    "episode_number": 32,
+                    "nombre": "¡Las estrellas que desaparecen! La última actuación de Urano y Neptuno",
+                    "portada": "\/i3KlGzjuJCjVhDHIcU17bRaWoVP.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/fc9bd4b9ad30",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E33",
+                    "episode_number": 33,
+                    "nombre": "¡La luz de la esperanza! La última batalla para dominar la Vía Láctea",
+                    "portada": "\/6nuUfPyCd4v5Bqt31p4aIVO1n6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/2257e644f7f2",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E34",
+                    "episode_number": 34,
+                    "nombre": "¡El amor de Bunny! La luz de la Luna de Galaxia se ilumina",
+                    "portada": "\/19uoQtfAXus2rO2a2HyTfdRGAIu.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gupload",
+                            "url": "https:\/\/gupload.xyz\/data\/e\/2f79ae17508d",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "HD"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-09-15 06:29:48",
+    "created_at": "2026-09-15 06:29:48",
+    "updated_at": "2026-09-15 06:29:48"
+}
