@@ -4,7 +4,7 @@
         "tmdb_id": "3570",
         "titulo": "Sailor Moon",
         "imagen": "/9Uz8Me0l0hNtMOlrdpH64wrYFa8.jpg",
-        "type": "serie",
+        "type": "anime",
         "year": "1992",
         "etiquetas": [
             "Action & Adventure",
@@ -13,14 +13,14 @@
             "Sci-Fi & Fantasy",
             "Kids"
         ],
+        "temporadas": 5,
+        "episodios": 200,
+        "status": "Ended",
         "rate": 8.4000000000000003552713678800500929355621337890625,
         "added_date": "2026-09-15 06:29:48",
         "created_at": "2026-09-15 06:29:48",
-        "updated_at": "2026-09-15 06:29:50",
-        "update_states": "No actualizado",
-        "temporadas": 5,
-        "episodios": 200,
-        "status": "Ended"
+        "updated_at": "2026-09-17 04:43:21",
+        "update_states": "No actualizado"
     },
     {
         "id": "1789261545202",
