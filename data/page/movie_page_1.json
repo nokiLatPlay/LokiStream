@@ -1,5 +1,27 @@
 [
     {
+        "id": "1789812872954",
+        "tmdb_id": "968868",
+        "titulo": "Sailor Moon Cosmos: La Película - Parte 1",
+        "imagen": "/uBEIVq31JEuw2mrdupPxUNGbY5e.jpg",
+        "type": "movie",
+        "year": "2023",
+        "etiquetas": [
+            "Animación",
+            "Acción",
+            "Aventura",
+            "Fantasía",
+            "Romance"
+        ],
+        "rate": 7.4000000000000003552713678800500929355621337890625,
+        "added_date": "2026-09-19 06:14:32",
+        "created_at": "2026-09-19 06:14:32",
+        "updated_at": "2026-09-19 06:14:34",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1789812665679",
         "tmdb_id": "784500",
         "titulo": "Pretty Guardian Sailor Moon Eternal: La película - 2.ª parte",
