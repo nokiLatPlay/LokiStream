@@ -1,5 +1,25 @@
 [
     {
+        "id": "1789811199846",
+        "tmdb_id": "61339",
+        "titulo": "Sailor Moon Crystal",
+        "imagen": "/8S1SnYrQ5wLV7yH3Nmg6VKpkVRH.jpg",
+        "type": "anime",
+        "year": "2014",
+        "etiquetas": [
+            "Animación",
+            "Sci-Fi & Fantasy"
+        ],
+        "rate": 8.0999999999999996447286321199499070644378662109375,
+        "added_date": "2026-09-19 05:46:39",
+        "created_at": "2026-09-19 05:46:39",
+        "updated_at": "2026-09-19 05:46:41",
+        "update_states": "No actualizado",
+        "temporadas": 3,
+        "episodios": 39,
+        "status": "Ended"
+    },
+    {
         "id": "1789468188810",
         "tmdb_id": "3570",
         "titulo": "Sailor Moon",
