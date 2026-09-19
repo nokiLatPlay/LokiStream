@@ -1,5 +1,25 @@
 [
     {
+        "id": "1789831700816",
+        "tmdb_id": "12477",
+        "titulo": "La tumba de las luciérnagas",
+        "imagen": "/xTPa9c7Bgdq1BlZee24QeIx0jyR.jpg",
+        "type": "movie",
+        "year": "1988",
+        "etiquetas": [
+            "Animación",
+            "Drama",
+            "Bélica"
+        ],
+        "rate": 8.5,
+        "added_date": "2026-09-19 11:28:20",
+        "created_at": "2026-09-19 11:28:20",
+        "updated_at": "2026-09-19 11:28:21",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1789831633947",
         "tmdb_id": "496243",
         "titulo": "Parásitos",
