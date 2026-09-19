@@ -1,5 +1,25 @@
 [
     {
+        "id": "1789831633947",
+        "tmdb_id": "496243",
+        "titulo": "Parásitos",
+        "imagen": "/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
+        "type": "movie",
+        "year": "2019",
+        "etiquetas": [
+            "Comedia",
+            "Suspense",
+            "Drama"
+        ],
+        "rate": 8.5,
+        "added_date": "2026-09-19 11:27:13",
+        "created_at": "2026-09-19 11:27:13",
+        "updated_at": "2026-09-19 11:27:15",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1789831553896",
         "tmdb_id": "278",
         "titulo": "Cadena perpetua",
