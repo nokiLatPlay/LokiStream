@@ -3,7 +3,7 @@
         "id": "1789812888237",
         "tmdb_id": "968870",
         "titulo": "Sailor Moon Cosmos: La Película - Parte 2",
-        "imagen": "/17dqFvDJyIr6S4QXuEYx6UxUeFO.jpg",
+        "imagen": "/sHmtdPMhnVtZWHro6f8CuDQuusz.jpg",
         "type": "movie",
         "year": "2023",
         "etiquetas": [
@@ -12,13 +12,13 @@
             "Fantasía",
             "Romance"
         ],
+        "calidad": [],
         "rate": 8,
+        "status": "Released",
         "added_date": "2026-09-19 06:14:48",
         "created_at": "2026-09-19 06:14:48",
-        "updated_at": "2026-09-19 06:14:50",
-        "update_states": "No actualizado",
-        "calidad": [],
-        "status": "Released"
+        "updated_at": "2026-09-19 06:17:26",
+        "update_states": "No actualizado"
     },
     {
         "id": "1789812872954",
