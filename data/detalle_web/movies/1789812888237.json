@@ -3,8 +3,8 @@
     "tmdb_id": "968870",
     "titulo": "Sailor Moon Cosmos: La Película - Parte 2",
     "original_name": "劇場版 美少女戦士セーラームーンCosmos 後編",
-    "imagen": "\/17dqFvDJyIr6S4QXuEYx6UxUeFO.jpg",
-    "backdrop_path": "\/fXuFJB4UJ2HmEi42aF23S7OvSoH.jpg",
+    "imagen": "\/sHmtdPMhnVtZWHro6f8CuDQuusz.jpg",
+    "backdrop_path": "\/fXuFJB4UJ2HmEi42aF23S7OvSoH.jpg ",
     "type": "movie",
     "year": "2023",
     "etiquetas": [
@@ -93,6 +93,8 @@
             "profile_path": "\/rQBo7HyjTIqeB7hIofb7uJFhiVs.jpg"
         }
     ],
+    "first_air_date": null,
+    "last_air_date": null,
     "status": "Released",
     "runtime": 80,
     "enlaces": [
@@ -101,24 +103,25 @@
             "url": "https:\/\/jkanime.net\/jkplayer\/um?e=YzJCNzBKUE5PU3paV2kvZzdBd2g5U3pYbGU5WVFuQWxmSFdha2RoeTBKTFJxc2M0Ti81UnVzTi94NlFEMGhyWXdTaHpUa3F4ZjdqRkE1bENwd0JGNExwb1NpRElLUk0zWndKaEl3ai9IU2c9OjoBWMlxdPrIxHgXqv8bSUWb&t=5b82d226174290251e1ce0ded44a0f2e&op=NTU5MDg=",
             "type": "streaming",
             "language": "Sub",
-            "quality": "HD"
+            "quality": ""
         },
         {
             "nombre": "Jkanime",
             "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=b0t0NHVaNUR3L1IxWWRudElLVi9FWmdxcVNrWGtFU1hxQjRGYXI5NllzT29kVnQ5Z2xUSWNzSG1FY2NidlZaSEY1OWg4c3JWR3ZJZXFhdXducFpqM2FMZHNTMXBocVNJMzFVVzc5dnl1V289Ojo4vArMZJvHSIyUIDB31LB7&t=5b82d226174290251e1ce0ded44a0f2e",
             "type": "streaming",
             "language": "Sub",
-            "quality": "HD"
+            "quality": ""
         },
         {
             "nombre": "Streamwish",
             "url": "https:\/\/hglamioz.com\/e\/5b8w66qyf8on",
             "type": "streaming",
             "language": "Sub",
-            "quality": "HD"
+            "quality": ""
         }
     ],
     "added_date": "2026-09-19 06:14:48",
     "created_at": "2026-09-19 06:14:48",
-    "updated_at": "2026-09-19 06:14:48"
+    "updated_at": "2026-09-19 06:17:24",
+    "update_states": "No actualizado"
 }
