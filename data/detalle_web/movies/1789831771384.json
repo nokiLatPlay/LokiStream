@@ -1,0 +1,130 @@
+{
+    "id": "1789831771384",
+    "tmdb_id": "120",
+    "titulo": "El señor de los anillos: La comunidad del anillo",
+    "original_name": "The Lord of the Rings: The Fellowship of the Ring",
+    "imagen": "\/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",
+    "backdrop_path": "\/oiwc338EoBgS4sEI2ixAny4KQKg.jpg",
+    "type": "movie",
+    "year": "2001",
+    "etiquetas": [
+        "Aventura",
+        "Fantasía",
+        "Acción"
+    ],
+    "calidad": [],
+    "rate": 8.4000000000000003552713678800500929355621337890625,
+    "sinopsis": "En la Tierra Media, el Señor Oscuro Saurón creó los Grandes Anillos de Poder, forjados por los herreros Elfos. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Secretamente, Saurón también forjó un anillo maestro, el Anillo Único, que contiene en sí el poder para esclavizar a toda la Tierra Media. Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el Señor Oscuro Sauron, quien creara el Anillo, envía a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, sería el final de la Tierra Media.",
+    "cast": [
+        {
+            "name": "Elijah Wood",
+            "character": "Frodo",
+            "profile_path": "\/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg"
+        },
+        {
+            "name": "Ian McKellen",
+            "character": "Gandalf",
+            "profile_path": "\/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg"
+        },
+        {
+            "name": "Viggo Mortensen",
+            "character": "Aragorn",
+            "profile_path": "\/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
+        },
+        {
+            "name": "Sean Astin",
+            "character": "Sam",
+            "profile_path": "\/As3ctGUtBYmG4zj4Ifyrcqd71HP.jpg"
+        },
+        {
+            "name": "Ian Holm",
+            "character": "Bilbo",
+            "profile_path": "\/cOJDgvgj4nMec6Inzj1H5nugTO5.jpg"
+        },
+        {
+            "name": "Liv Tyler",
+            "character": "Arwen",
+            "profile_path": "\/rC6f9NoDN9l2tMgiEocIvnJi2tW.jpg"
+        },
+        {
+            "name": "Christopher Lee",
+            "character": "Saruman",
+            "profile_path": "\/dA26fBr3t7mKqjn3OYW6kbD1LXM.jpg"
+        },
+        {
+            "name": "Sean Bean",
+            "character": "Boromir",
+            "profile_path": "\/kTjiABk3TJ3yI0Cto5RsvyT6V3o.jpg"
+        },
+        {
+            "name": "Billy Boyd",
+            "character": "Pippin",
+            "profile_path": "\/jluumxuDr7rm2f97NFf9LydBdaZ.jpg"
+        },
+        {
+            "name": "Dominic Monaghan",
+            "character": "Merry",
+            "profile_path": "\/h3VEhi6cMaEdmmvoH3keWTv4vEb.jpg"
+        },
+        {
+            "name": "John Rhys-Davies",
+            "character": "Gimli",
+            "profile_path": "\/qpXl1YnqQsUKYEDm3BB2zK5wbhe.jpg"
+        },
+        {
+            "name": "Orlando Bloom",
+            "character": "Legolas",
+            "profile_path": "\/lwQoA0qJTCZ6l2FH6PjmhRQjiaB.jpg"
+        },
+        {
+            "name": "Cate Blanchett",
+            "character": "Galadriel",
+            "profile_path": "\/vUuEHiAR0eD3XEJhg2DWIjymUAA.jpg"
+        },
+        {
+            "name": "Hugo Weaving",
+            "character": "Elrond",
+            "profile_path": "\/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg"
+        },
+        {
+            "name": "Andy Serkis",
+            "character": "Gollum",
+            "profile_path": "\/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 179,
+    "enlaces": [
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/uq9sbse9nwlb",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/a03rb0jhpcsk",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/uqpvni87v8ac",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/li8pqf6w67bs",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": "HD"
+        }
+    ],
+    "added_date": "2026-09-19 11:29:31",
+    "created_at": "2026-09-19 11:29:31",
+    "updated_at": "2026-09-19 11:29:31"
+}
