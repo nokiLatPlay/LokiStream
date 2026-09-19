@@ -1,5 +1,25 @@
 [
     {
+        "id": "1789812469842",
+        "tmdb_id": "618851",
+        "titulo": "Pretty Guardian Sailor Moon Eternal: La película - 1.ª parte",
+        "imagen": "/4ULCVKQEC6Lq61ILKByNRcffKu.jpg",
+        "type": "movie",
+        "year": "2021",
+        "etiquetas": [
+            "Animación",
+            "Acción",
+            "Fantasía"
+        ],
+        "rate": 7.9000000000000003552713678800500929355621337890625,
+        "added_date": "2026-09-19 06:07:49",
+        "created_at": "2026-09-19 06:07:49",
+        "updated_at": "2026-09-19 06:07:51",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1789811435275",
         "tmdb_id": "37100",
         "titulo": "Sailor Moon R: La promesa de la rosa",
