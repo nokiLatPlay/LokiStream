@@ -1,0 +1,1306 @@
+{
+    "id": "1789811199846",
+    "tmdb_id": "61339",
+    "titulo": "Sailor Moon Crystal",
+    "original_name": "美少女戦士セーラームーンCrystal",
+    "imagen": "\/8S1SnYrQ5wLV7yH3Nmg6VKpkVRH.jpg",
+    "backdrop_path": "\/ECOqfXXo4gfeqwOr3y2uJ5Up6g.jpg",
+    "type": "anime",
+    "year": "2014",
+    "etiquetas": [
+        "Animación",
+        "Sci-Fi & Fantasy"
+    ],
+    "temporadas_count": 3,
+    "episodios": 39,
+    "status": "Ended",
+    "rate": 8.0999999999999996447286321199499070644378662109375,
+    "sinopsis": "Usagi Tsukino es una estudiante de segundo curso un poco torpe y llorica, pero que siempre está llena de energía. Un día se encuentra con Luna, un gato negro con una luna creciente en la frente, y se transforma en “Sailor Moon”, una guerra del amor y la justicia que luce un traje especial. Elegida como la guardiana de la justicia, a Usagi se le encomienda la misión de encontrar el “Cristal de plata ilusorio” junto a otras Sailor y de proteger a la Princesa. Mientras tanto, la Reina Beryl, realeza del Reino Oscuro, envía secuaces a la ciudad en la que vive Usagi para arrebatarle el Cristal, que resulta ser un objeto con un poder inmenso. Y entonces, extraños sucesos comienzan a darse… ¡¿Podrá Sailor Moon, acompañada del resto de Sailor, encontrar el Cristal y proteger a la Princesa?!",
+    "cast": [
+        {
+            "name": "Kotono Mitsuishi",
+            "character": "Usagi Tsukino \/ Sailor Moon (voice)",
+            "profile_path": "\/mvKgkuAVVMmjkFWlwVQu8KCa80O.jpg"
+        },
+        {
+            "name": "Hisako Kanemoto",
+            "character": "Ami Mizuno \/ Sailor Mercury (voice)",
+            "profile_path": "\/qyJPQaehMc4Sy5jaTfIJLdrll2v.jpg"
+        },
+        {
+            "name": "Rina Sato",
+            "character": "Rei Hino \/ Sailor Mars (voice)",
+            "profile_path": "\/kk0Tir25lDqdqYHHnYCpknGgZCa.jpg"
+        },
+        {
+            "name": "Ami Koshimizu",
+            "character": "Makoto Kino \/ Sailor Jupiter (voice)",
+            "profile_path": "\/e5sU0stGjTMtFoj0jjHH7OFUqYC.jpg"
+        },
+        {
+            "name": "Shizuka Itoh",
+            "character": "Minako Aino \/ Sailor Venus (voice)",
+            "profile_path": "\/n47YvFPlJzl8HnsoDBtM8SUqG8q.jpg"
+        },
+        {
+            "name": "野島健児",
+            "character": "Mamoru Chiba \/ Tuxedo Mask (voice)",
+            "profile_path": "\/nRSPVjDkdpnrQabnK5mENH118zN.jpg"
+        },
+        {
+            "name": "広橋涼",
+            "character": "Luna (voice)",
+            "profile_path": "\/6CIsUKnB9DLjjMdbcPch3kmuf85.jpg"
+        }
+    ],
+    "first_air_date": "2014-07-05",
+    "last_air_date": "2016-06-27",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/ulwhwt5yf21QUJHDrdb1qjKiQ6d.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Usagi -Sailor Moon",
+                    "portada": "\/bCMLz6asLTFu1IgZKPMsEQmaBTx.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=dUJwWlQ4czh5VmpjaEMxYmVUdTBqeEw5bW0vK3pkRXI4TGRSenNMeVUzdndiTHpZK090eXRsSStTUEZHSDY0N0lxRXBzWlE3SEppcFFmUG00MG1LeitLTFU5cVlxbzFiUGNFVDJLL3QwRkk9OjqiS8cYoMFuRksrQj6AtOLI&t=81a5659cadae764d2cea250c130164a2&op=MjM4ODE=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=a1pGZVU0aFpveUw1SGo5ZmRqTnJuYXNSZlp2K1JHWnZaMWhnMGpHSmt0VWFJQmxtanVEcWIvRzhaTEhYYklPWk1Iblh3NkppTTUzVSs2MVFxNVlVM0Q3dUh5RnZoRWYxNFQ1U21wTUlOaVU9OjoEfQ76.H29YTiEnexilaKq&t=81a5659cadae764d2cea250c130164a2",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/8i29tgbfmu6w",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/wbhrugc6y0rs",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Ami -Sailor Mercury",
+                    "portada": "\/iRqfhL6UQVUk07XgMwWbnxAVaKG.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=M25OS2o3dlRHTC9ZQ0pzMjVQSnhDR3VjYUFUR3kvSkpXZ2o1Z0FhdVZIUmNkUWJucVdiZHRTWWlkakhZQ1R1aC9IOEtSbGFsMHdqbnRrNjRlaUJOVlZzQ0p2NHk0cGNYSlZ1MEhhZS9YZE09Ojr3yKG1HUXtqpc0m9OYHBju&t=5de6755473dc988fe6c7db81f26a53ac&op=MjQwMzA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=SGQyY0VxQ0VPYVJjSmZ6V0VXRnZCbTZpNHJ3dXl1TUtKWmRjTUszb1o1bUZLckZTeGtJSXJROVB2cGFacHpBTWtIVXFlSE1BN3FFZVdib2F1ZVNXbS9JSHp2Mm1IN1JQTlhTZGUrcVhzR3M9OjpyZ1EUGdQm8tbCD0v7vOmP&t=5de6755473dc988fe6c7db81f26a53ac",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/x7on51mjsov6",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/bhsrkq9v1vru",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Rei -Sailor Mars",
+                    "portada": "\/sVmunJ6baGGvEzWVjeUd4sH43tR.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=N052ZWpFdUFGbm13a0NQKytpdkdNeExxcG90WE9CMVRYVE5iODdXSENCWlZhZlFwZTd3ZzBLMmdGeFREVzJ3TnBjMFVsa0FORDBwSGJGMFduVGQ2RGxYQUZVVHN6M0YwOUpUZmgrMjREMWM9OjqPg79iHfzMK.eetRJdm6_V&t=c45a49d5ee861cba663d92e76d5036c9&op=MjQxNTk=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=NU5memhWMlZWQjlmRjk3ZENOeGdUVkJYOVFpYjA1cXhuZUxvVFY0UmZLWDdhaVJKQU5lMnNkNXVIa3dxWmpsQWZ3ZGJYNm5WYTNpenl1Ym1vVEs2c3UvbEtadkhPT1dMcW5RRUZWZmZqbVE9Ojp8VQ5uzZHOB0VNZ6iqosGn&t=c45a49d5ee861cba663d92e76d5036c9",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/i2spb5s7opae",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/vlcb6uzat82x",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "Baile de Máscaras",
+                    "portada": "\/6IZwlXs0yZQRtwNnOyYyhgxZfhd.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=dFc0ZlpjTmRFSUVlemFTbFBpdzgyaUtwUzlENGxHVFNINmdYOW1sOEZ4WnJYT0Z6YmJHdTJDMThKT1ltaThwSE8vSGppczhiWnZTWnZ5UG9Ec1pDeHpLMjdMdkN1RWdvSStDVnRkQnhtOHc9OjpJ.dJz0yj710IHitoYMnO2&t=7d37e3cbff8e2f569ee74d9393c5a4a1&op=MjQ0NDQ=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=SjNENlMwU09oZzdhaWdiUmZMN1dzWE4xa0VRdUVOTTdieU5CSi9xeFVWSTBGREdFY09HMWJoZWtsd2kwMElhZUMvU29MOTA3dUUrL0FRRVByZVVGYTN3clF0VWcyNU04ZDFwc3dxT1dLd0E9OjonjaSdbUvRHukNkY6OLzpy&t=7d37e3cbff8e2f569ee74d9393c5a4a1",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ez72ojby1tjs",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/va2m4q2457i9",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "Makoto -Sailor Jupiter",
+                    "portada": "\/ipnAYsGNEAJpQIL5oZiRA1KNojL.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=S3B5Z3pRTmhleXN3NjRBbExCWFpxbFdzRkZPZkJIekIzc3hrbkFSYkVITHdJclI1eFRxWWQ2WjZSL0dOTDNtTjNlVzVxRGRkUThtc1BRR2Q3d1FRenBJdUR0ZUxwcTV0SFpZTWsrUjlwYVE9Ojr2DIefj5lDsq_gl6qoFCzq&t=514f065de590aaab05e86e442bb0cd47&op=MjQ2NTU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=NWpYQjZvZEt3VFd1V2hFMEV6Z0VLVEk4M1hKL283U1g1eEFNUHFkT2U5ZXdTcUd0RUozUVc4MnJ3Nm9ET3phM0JlSEw3V0ZuNGFkUVhTMU9tcDFydHM3aVp3M3NRcThWOE9JYnFUMnpMems9Ojo8Ynr5RyYm5NeQnwN48s5w&t=514f065de590aaab05e86e442bb0cd47",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/xp8ke52yzcoa",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Tuxedo Mask",
+                    "portada": "\/zUO2PsdX7oAnsVpAtM7CAlFGbWD.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=V1JEMGdxZktiQ3J3Y250MHhkQk5idjVaV3F1MHV6TUpyZDdNRXU5OTdBeFQvaFNVY2JsamRpUHQzOFQ1NVArS3RzOWdHWGs1RnYvOEdKUEZoQnNOMWREc055TnJHYm4rNlNRbE43YWpjUDA9OjqQw06mw7I6k5c_1HPX72xh&t=0ba6900c12ea9aa7c874f4546a29fd90&op=MjQ4MDg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=Rytwb2NyeWdMMERkZUpXOCtQOS9lSno0M05nZi9oUGVIek5RY1NGMjNJZDIzOUoycC9BOGREYlhMWUZXNDM1VlI5K2JFNGVvVHhFWXdQRVRBSVU3MDR3SFdvcVdNOENsZzhEZ3R2SnRLZzQ9OjroyIIwN6MootpR7x3R_HZ0&t=0ba6900c12ea9aa7c874f4546a29fd90",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "Mamoru Chiba -Tuxedo Mask",
+                    "portada": "\/lXALgsjBOcFcQawHpGkEqx9gLM9.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=R0t6RmJIbVpJWVI3dzB5K1ltbVFZRzlTZi9SMWRNbHlKS0I0VTBoa1p1S3VQdDdrcEFxOEt6dUFGcUNLeTFMOU5RTU9iOFpqc1lnNGtBdkNDczhId3J1bnFJQ3dsZmNvaUNYR0QyM1NvT0U9OjpKuTQdzNS5Oagg2XG0jRhf&t=614794dbe82384e43122cc92e6a66f6f&op=MjQ5ODM=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=NmRQQ0ZMTHA0UDFLN0JZeW55dVRMc1RKMFZpTEU3dWkwM2NqNFd6VWlQSkJSQTdLZnFJU0VFYTBsNGJMSFk0WGRhb1VadnZqbFF3R05mL0JBaVkvRDNpa2R5RU83M0g0bDAvdldrRTI0SVE9OjpkZi.H0UmTlV96GPlWRwFt&t=614794dbe82384e43122cc92e6a66f6f",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/eso9briodjn6",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/2bcjdmi7yp6o",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "Minako -Sailor V",
+                    "portada": "\/rPUSk3oDh3PLTG9FyxXsuUkiQI0.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=OVZkaHhNN3ZXNXZSRWlrT240OVpENTVrZFFuN2txRjgvOXNkYWFRdFhkYWpzazNNbkxLMkRmK2ZMNENGci82eTFOK2tyT2c4ZDZYUm1IU3kzNXJmQWo5SUMrSHVpZDBEQzVRWHpvYlEwZjQ9OjpMaNx79BbkHNxm2PJTHN3B&t=26c75f7aebf955cd1fccdb191f479623&op=MjUxMTg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=QTJiYlhlMjhqS1RJKzByeERveWdUdFkzTUNvRDJLKzlGTHgzMUZsK255ZDlDVzBIeUpWdklueUE5bWZjeFM1cHMrWldrRTFqdVVLeUNsNkFqVHEvWWhzM3JmOEFMdXE0aGc1SWtGWHRJdFE9OjqZRMbE3qkOT7T4_I6DpgqL&t=26c75f7aebf955cd1fccdb191f479623",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/inytp2ed72ml",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E09",
+                    "episode_number": 9,
+                    "nombre": "Serenity -Princesa",
+                    "portada": "\/fdHdLONrNj296hV7mr7kH0r9Bpj.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=alM2UHFqaDlWT1dhaWhSTTlJRldCdTdsWCtBZU5NbjFmM3NsTDZTQlMxVVk2b0N4NEkzcHlUSFVyV1JrUTRISlRWUk82SXlVVnJoTjU1c0ttVHJjQ1JoTS9kRVBvS2twWCtVQWFpN1lwK1k9Ojptj5sbUG4XOCai68GWIZNO&t=8d189ff5977605432446d89c584d2464&op=MjUyNTk=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=RGxPR09VK25GTUxjK09sVFZnbGtGald1QWp2S0xYdG1PNzhrU1VFUjg5VFNZOGlST0JMRng1ZEZ0eml1OXJDcFJVTG04QS9hY1F6OTRVeEFKLytEVVE0ejd3Z2svZTNCSEhCN0N1M0p4amM9OjqvR9GAGhjcmtTyXc55g68j&t=8d189ff5977605432446d89c584d2464",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/fgeiqf7jcqx2",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/yfpl7utojahf",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E10",
+                    "episode_number": 10,
+                    "nombre": "Moon -Luna",
+                    "portada": "\/AjVuvqLvHjQTUHOQF8eYYCB14ou.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=LzJFejdXa1FUMSsyK1R2Z1d5b1dYZ0YvdXJWM2xvS0hkOGgzU0pQTml2Nkx1U1ZIVGlPSEN4aHNPc0ZYaUFpWEJsK0hkSXcwN0VhVld0V1h4MTliVEd3dUJQb2oxWXp0eDRrM0Evc3dONUE9OjrvwvpMBQYVxEnR8c4_jRkv&t=5988319f8fdeb1b2d254a9a38518f52e&op=MjU0Mzc=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=R1hPcXJVb2w5aFBzREpweGRvYzBEeVZabTA4STJOMFk3NGd3Q0hCdXlUY0QxdnVSa2UxdmZRTDc1eFpVUnlETHJYK0NSaWJTamlERG00czYxdGNqemxYcGdOaUwrbE10WVVxZTZxMnYrTm89OjpW1.6tHe9Av.zmUxy2OyUB&t=5988319f8fdeb1b2d254a9a38518f52e",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/jouuk3rgdf93",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/sfo0dm4ogm7t",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E11",
+                    "episode_number": 11,
+                    "nombre": "El reencuentro -Endymion",
+                    "portada": "\/iKZ20Ze0WD40DZCfjrnxS03TEKO.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=UUJhMUlYWDRvQy9ocTZrZE1IUHByRExNOXpvMThEajVKL3hHbTdFRHhEdDBQTUxQYzJtT3o3MzNtYTZNSVpSa1g4QUdSbzRTcTVubVdUbUVSeWVPVkZicDg4MnRiTUtwOE5DUTRNd2ErUTQ9OjrcJcOgtyPBNkcnW0d8BBOD&t=0ab3906a724cfe5ba8b36e7c25d33491&op=MjU2ODc=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=cS9SUGt5aDUyQ2UxbmFCM3l4QURDVEdvUmx3TWp4anl2UDd4Q28rN1N4QmVPcitCOTBmWnhwZk5VY3MrdDZpZ3JjS2d5S3N4Q3VXanIvcEJDajArakdpSUJDeGRpcHdxVlBxSFAreWdKb009OjqhgBWBmGI7R2ra50FRt.Km&t=0ab3906a724cfe5ba8b36e7c25d33491",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/2ciy4qd80q9u",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E12",
+                    "episode_number": 12,
+                    "nombre": "El enemigo -Reina Metalia",
+                    "portada": "\/yLd6yszFoGritxs6ghGen9EsX75.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=WVJEYmt3NkVVcjlqSkpSSzd5RjNoQzFDeDY3ZE5DRHdML2J2WFZjUlV1OEphYlgyK1VJY0VIOGpxUitVY3hWb2c3U3htcEUweDQxVDNYaktaR2ZkVkxLNEYwMWVkM2RHSnRtcWJCWHdsNjg9OjrTXzZ7IqcpMbTl4_5RX4rC&t=fd268d6fb813bbdb142908d7c23e4a88&op=MjU4OTU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=Q25IakVqYWdHajBFUy92SkJOamxNMG1iblZrdUw3YVFZTkNjNVdkaXhqWGRBZjVyV3dMbmkvc1N2WWRMOFpJclpYeHBjTUJIbG9ZeVlIWWlLcm9VZjRtMUFiaUVWSGFMb005dzhKbk9KaTg9OjrJb1PWtS6oBriYYIYz9OP.&t=fd268d6fb813bbdb142908d7c23e4a88",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/snap38wf0h83",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E13",
+                    "episode_number": 13,
+                    "nombre": "La batalla final -La reencarnación",
+                    "portada": "\/rdPCaBg31i7q6hQbAa3CbQgz5vD.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=K3E5Q0hFbjh2aXVNYkFWVW9CU2Npd1BKUDBPcFR5Vk9iS3ViMXJWR0l0Ri9MTlhNeDRJS2J2VjUrT3NRb2EvbVpLT2gxeklvMUttbk9lcmx0ZmdGeDRzL2Y1eCsrS3czcjYvSHNLbzFxU2c9Ojr6g_7mfV0FChBeh6vbgKr9&t=9c781c3c488249b999f88747ce8e5737&op=MjYzMDA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=MzRMRGhtTXloNTZBRUtSQjNSeDRhTXE5WGpoNHJpVXg4d0NJWmx3Vy9VUWFJbktUb0tFK3NWR2xjSEg4d1FKMjI1WC96ZmJKRG5zdEtNYTl5MTVUTncvbzl5NmQ2WVE5Ry8zOUNlMmhzNVU9OjoX_Su_8R3lqQ0jTPxyfcDS&t=9c781c3c488249b999f88747ce8e5737",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/9cpw1onvh31d",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-gnpmubw5pres.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E14",
+                    "episode_number": 14,
+                    "nombre": "El final y el comienzo -Petite Étrangère",
+                    "portada": "\/18FehEWyZ9P727A8D7mlTjPqKWr.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=c2FxNXhYaXppMjN2eUtYYytLYkMvQVdkQTZ3b0l5bUhPWTJ2SUR0ZmFhek84cU1iamtYTDI0V0Z6eFZrSlFxdHMxSG9XSDNmYTFRUWFNbWk4Qnhlbk9Uc3Qwc2RQeEV3QzRKVzZGVDFvcGc9OjrCLPplvu_esX92BdPxSo6z&t=165cbe7ba268f8d7901f5edbc896084e&op=MjY0MDY=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=akJzcSsyc2dndExWaDNzZE54cndrOG1TTTRrcm8wa1Q4K1J1TG01UnBNS3VxdDJYTmduUVNEaEF5MGZaNU5rZ0JUakV6RVQ0aVNheUgzQk5selkza1Vxb1ZhVWVreCtZdlorelJRblovQVk9OjrbOvVoJcvf3ekB5Y6S4Go0&t=165cbe7ba268f8d7901f5edbc896084e",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 2",
+            "season_number": 2,
+            "poster_path": "\/skTC1rUIBdRczRCYK98mGZZSk8x.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S02E01",
+                    "episode_number": 1,
+                    "nombre": "Intrusión -Sailor Mars",
+                    "portada": "\/sRQZhnYqB6WwVOkbFwh3bvCRGVN.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=K05pTThHQ3JibHRiU0p3ZURSb2FLRm1YdDNZU3lSZUo5QkNhV0k0RU8yYVZwQmxJbjA4YlMxSWxhNkNuTk9Ka3MrTUVXbTU5YWtVclZaL1dKaEdoOFJ3WlJka2EwNEhjV1AvZmVBR09xczQ9OjrtIurVEHVt2d51RJSLzzyH&t=df320a984cfb79b17d721a870665cdba&op=MjY2MTA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=OE9YdkNpS21WTkhDbHdhKzEvcDVBVDlHWmRkaDZlamlMS3RCeElVajFxR0FLZmJpTW5CSWtOd3N5U29hZ0k3TnJzVGFjYUQzcUlpd2d4SWVMVDNvVmgremZSK3krYkxWeHo0aHlKakdPdkU9OjpOJwRkhcElZyF7ZMIC0Q5U&t=df320a984cfb79b17d721a870665cdba",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/vaew5oidimtd",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E02",
+                    "episode_number": 2,
+                    "nombre": "Secuestro -Sailor Mercury",
+                    "portada": "\/m3eIJwoRHijrUXwUxabBL5apiqh.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=Mi90QW5DTFgzWFhncVA2dTUyaFBmQUViRFp5bGRHcVZ3Z1lZdlp4NUM5SnhrYXlGV1Bqclhzdi9Fd3d3bytTOTZYUmdsRzZhSHpiaVpWTjlkU1ByMDRzMDRUS3U2aExrT1pueExXY1ZEdGc9OjpNbXSzZN8GmPsae96iUZpE&t=1c3ef503ecadc5b8674be1540c609009&op=MjY3OTc=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=TlY0a1NKK3VUblNqZ1R3UEdhTi9jMG9ubnl6cExacWZKS1gxWU84RDdLSFdZb2E0cUJPQUs4SjBXNWRaNUw1Q3RZZFJ6T3ZjM0Z0ZEViWVRTOVlSbUlmVExoVTViQ21uSVYyNWgxTzFHWTQ9Ojop4EtNJ0eKJ_6B9c8JIqWP&t=1c3ef503ecadc5b8674be1540c609009",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/w2ena6kcftcm",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E03",
+                    "episode_number": 3,
+                    "nombre": "Secreto -Sailor Jupiter",
+                    "portada": "\/96bh5BLQ3zj31k321mGIcOPldQC.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=d3ErOVZoQnNSOWd6N1ZQUXFxdFpaR0FqQlBmUzdwdGdTMmV4a0NaQjlmNEZRSkdCZi9qTzM3ZVRsR0FWVGtSZzBGejFhM0dvem8wbmVPdHFydGw3QU85RWFvcTJScTdHc3UycUNuVEhZaUk9OjrZ6kljYtET.bbF6c_jGa5E&t=b2ebf93cb2667a995c12787e51e6ec0b&op=MjY5Nzk=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=b0NuS3ZSNDR5b1U5Z205VE1pcW1PWmh4UWVRaVM4SkZjVHJ1UWlnUnZQbC9xSUUydHY4UzZyZm93MFd4TVhJeUF4VUVkcjlYcnV2TEpKMjljNEtnTmlDVm1OYWlySFRSVVcrWHBJWEhHSVU9OjoigmnBn6xZ0dF1qVzN3rbQ&t=b2ebf93cb2667a995c12787e51e6ec0b",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/pqic17zupnvb",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/ufj0y6cdbn9u",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E04",
+                    "episode_number": 4,
+                    "nombre": "Invasión -Sailor Venus",
+                    "portada": "\/tN8LSibWrXWVfqdkRPPjAJGqFcm.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=dGpWVmhhYW1uZmtSUnV6SEFER0lZNk9Ha01XUGUyUFQreXVrSTdrMXFhU0JPUkF2UzIzMVZTb0FzdlB5QkphN3RIdm8yUGd3ckxaNHVYUXdvZFM5YmkyMTZ2RkZrSGF1V2NWdmMrUjVhOVk9OjpXhu93MOWiJxDChQFUGDV7&t=4638da5e5f541d1341861db9cad08366&op=MjcxODY=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=cFFHcVNYWmJTR2J3cWU3UGV6ZzUyMUZGMGtHQVAvbUY5TWZJdDA0OUlRQVFyd0FjWDErZVloWnpvQ0toTmttdk1Nbnh0cDVNVzN2YVZNMmErRGdEcDZkbnBUcXE1alY0cXdMZDdISG5COUU9OjrLbLBw4XJUfxE8uYoR3EjQ&t=4638da5e5f541d1341861db9cad08366",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ec7veosk5hef",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/zh0t0uc2zpt3",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E05",
+                    "episode_number": 5,
+                    "nombre": "El túnel del Tiempo -Sailor Pluto",
+                    "portada": "\/hVfHIINoBXp4Mh6qGFKwvlb9vPr.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=emNtdExOMWNiNzZkVlFvalZtYzZyVXFNanFCYzhaK1N0dFNFclV1dWRPaDhZUlMrV3FDOEdyQ2lXWVVySlRRZ1ZYUUlhVVMzcTNXbkZsMFlXTGlJQWZLeERIUU9EUEprVE1iQVRBc3NEMFE9OjoxC78xvoxjP286MkXrnKKe&t=9ca407bdbd66079103cb4ac128614422&op=MjczNzQ=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=THQ2QjhzQU5kQTBXOTZveE90NEFEYmJJbDVtWDdKN2JyMHo2cXlQbklRM3NRZUVSVDZ6c1hONDFuU1h2VHR2S3BzampCQ3g2Um9CajZsaUFQc25Kb2lZMWF0bzYrN2pxK3ViaXRyR2JzOU09Ojr3MEsP20ZrFDvw5FmcjTTa&t=9ca407bdbd66079103cb4ac128614422",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ayjl1hb694u5",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/vpwryk19rb19",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E06",
+                    "episode_number": 6,
+                    "nombre": "Tokio de Cristal -Rey Endymion",
+                    "portada": "\/urnCfccZDc97Gnu0eWYZd1EnU5s.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=TkczaXVYWmRGaEFwRmxCbEVoVlRYWDhuTnRidDJ3TUNHUVA2VUFpcERua2NZM1E4NjMrTnQ3dWxrb2tWUW5XMU9CK0RuT3pmYTJkdXl6K3lFSSthOFFiaGlnT0RKa3NVM0ZNSmpFOGRPUVk9Ojoz8eGUKALrIo8FOPpIWV_X&t=a256147c9ed7998d36a10038d1eaa7ea&op=Mjc1MTc=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=NHg1TWpsVzhsVkFmZUlzVlZvZUNHNitPOEc2ZEtQUlBHR0FxM2VFOXJlZ3k4emMxT3JEWExuN09UYnBKU21zeC9YZVlySWxXazNtcHZJTDkxWHJxTHVpeVdDenMvcXlYNWVWdUxObGNKMGs9OjojJCCYC1uA6UNb2U78dhUs&t=a256147c9ed7998d36a10038d1eaa7ea",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/66gu7fssk9mn",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E07",
+                    "episode_number": 7,
+                    "nombre": "Plexo -Némesis",
+                    "portada": "\/r7EZZnvfzHufl7iTGlpJbUKNQ3V.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=cEd0VXVzWDBYVEZ3V1NLbEhvZHRqMGR0V3RoMERyclo2ZWplVEEzbXdObE1pdUJublRuQUFlb2V2M3F1cnBMMkNtRDh3clZkT2trUHdHY3k2Sktyb3VGSnhSTy9rWDdsVDVTVktsdkR6dms9OjpSp.ucuweH3TzvDcz3inka&t=614702957b7f03d0e9e4bcd2370c3a6d&op=Mjc2NDY=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=aXErQnVzWHJmZm13aHpYR3hNenE3cy84TkxvR2dDUjB6bHRPeUtON2p4R2M4OWVXdHI0NFBoMjNUNEYxdjR6Vk5DVzZrSmZYS29uNmJqY0I0d2hXbktyaDZBTkhDTVVQQjczSWlDaHQrMTQ9OjrKvGA68U6gp0DA8DkzrlBu&t=614702957b7f03d0e9e4bcd2370c3a6d",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/mmptkmn6kbdb",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E08",
+                    "episode_number": 8,
+                    "nombre": "Especulación -Némesis",
+                    "portada": "\/f4CkAu0dLGIxS02voOvCwxMMrCV.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=OFZRVkVLYmpvNHdaZWtSSi91Uk9rZEYwSG43UzBoODd0dGdXdEt1elA3Rm5LMHFVZVJObzZ2emJxVmRLUG9qOWF0TEpvUS9FMUVKS3JNQnRBdlZOaVlPb3R3OWVvZFN2TlMvb0hvRjQwMVk9OjoJef3ogfKZZQo65NLB2cZR&t=91139f12ae3f102e07a6c8c7333b685d&op=Mjc3NzA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=T1B4Y0Fja0c3akZLa0IyTHk5Y3lpZnpuYUYvOFdRRk1IYWFTWmRoU2xISXJPMmIwT0gyclBlSlV5ZHZpalpCSG1ReHNBT0lZTk9CNHNqSW5ybGZrQzJBMEFXN0I1T1RxMTVsb29BcHJ0ZW89OjprtN4uYjhii80vwPnSWpik&t=91139f12ae3f102e07a6c8c7333b685d",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/9q327tsiw05a",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E09",
+                    "episode_number": 9,
+                    "nombre": "Maniobras secretas -Wiseman",
+                    "portada": "\/b3qcHikLcufIr0vAF6VKf6LS1YN.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=OW5LRGVxVFhYT3drVHVmTEZuNGhxR2kvTk0wOFA0VTIrUmNmLy9oVzRqRGJ0bW1NYVhydFlpR1ROQ1FwZ00wY2dheFJmK2RoZHhNZGlYTmZrTWdUOUF2S2dWekd5Y3ZVM2VuNGlrSjFKaDA9OjrpLwuSQy5QMaQqkVIP2nMV&t=42b1394bf884c117a3acd38d2d91d13a&op=Mjc5NjE=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=Q0RRRnZlSndoVE9YaTJHaG5XWjBCb3luRnZYMUs2VjBkM2F1ek9MZHBETHp0NDBRcUtvR015bkpSZU10c00rZTN5Um41bnd1TUZxL2VaWjRDTTl5aUNmaUEzaEgzbjBjSlJxd2ZtaXo0K009Ojo1FfPsanKqpSiI_Xskkhlr&t=42b1394bf884c117a3acd38d2d91d13a",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/6rdxnk7soptn",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E10",
+                    "episode_number": 10,
+                    "nombre": "Ataque -Black Lady",
+                    "portada": "\/3RGQeLMBBnmdcxaWOsqotCwC6QM.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=RWQ0cmt3d0NyYmd1WXVZUGpEUk1wT1R4VHFUL1ZySmZPL0VDTUw4UW1CTzMwSVJVVEJmZ0F0VDg1ZVdITVlUclNZNFpLKzdEcXFsTkZlTU1IS1dXY0xPSndhRnpNcXVuMk9kWktHVnRSNW89OjpbUSQzWOapFMIJmPrvngP5&t=4b777618f85e4ce92de27c69a6cc104c&op=Mjg1MDY=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=RXp6MzFuemRUSGZ5NHlXQjZRRzN6MlIwYUZFM3NQY1Z2NnlPc2pZSE05UU1DY0dWL2htRVEydUtPT0RkZWQrQ2pVWVdCejFud0pxZFh4VjV3d0dYKzMyUWloU3R4cGgxclhIbkVSZzZxZ0U9Ojrccc3QiMYJFIISa2opZjE8&t=4b777618f85e4ce92de27c69a6cc104c",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/6r49gv9zl19p",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-25vrxxjaxqcc.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E11",
+                    "episode_number": 11,
+                    "nombre": "La hora de la verdad -Death Phantom",
+                    "portada": "\/70sMaK9BkDQ5bWnW8dRMySDVlW4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=MzUrck4wZE5xSTRnWjREYkZackFkQWxKVXpTbEF6Q2FWcEdFaVZ6b3k3ZCtWaXVuTmxTZ1FMNUFDay9WSTZGanZJdXBxUWFTL1NIQmhrd0V6aFdhczdidDVKRUlQZ0NsM2NqbWRDa3phOUk9Ojr6RdjofHdT4iZuRPeoNK84&t=22b91e866a98674f898cc7add8841a39&op=Mjg2MjA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=YzJCdFpjNjMvUml1UVE3WmUzV1l5c2t3ZnZwS1JWMVFqQWpGbjBMeTNvNjFqWS9RQWphYllDVzUxeWVla1hldkVlWnVaaEs1cXY3ZU1iQUVmVDU4TFk1R0NTcVZsR0F6YlZWM3cxMFpvNjA9OjrLWYbITXM7ozHlj.ktYHFx&t=22b91e866a98674f898cc7add8841a39",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/kldj8pf29xrz",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/k0m6ermn908c",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E12",
+                    "episode_number": 12,
+                    "nombre": "Renacimiento -Eternidad",
+                    "portada": "\/jm7RworqxviqBDpuQNrDvBpsL4s.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=RzNHUExTZXg5ZHJHdThEeUlLWmtyRTlMY3FrZ0FOcURObEFlUnloRExwb1RWQzM4YytHMjNrU1RwOVhJRVRqdEVaMWt0S1VSOWpDd1ptMHY2K3ExdG5UZEplOEphTnF0cnpZVWNXaldOQVU9Ojo8NntBRiE5b3QzBSV0tUNW&t=92f57807d7a38f80a3b0f7fd4b639da9&op=Mjg3NTA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=dFc3WGZSb2ZzS0hZSWZYQXZoQ295eXlKSU5UYmtsVU1ORkhla09wVlk1b3lPWE9pQkJuTWplYXY5b0J3MnhLaTFEQ1RFbG85a1hOd3BxRDMyVUZpQW5UbGVFNk9KYlBtN1dKa3NpTnVQd0k9OjrPWRkj..y.zpbk4_3snM.f&t=92f57807d7a38f80a3b0f7fd4b639da9",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 3",
+            "season_number": 3,
+            "poster_path": "\/cOXQXb6D4Cre8nGTNpWCQwmcp2K.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S03E01",
+                    "episode_number": 1,
+                    "nombre": "Infinidad 1 Premonición - Primera parte",
+                    "portada": "\/zfv50dkKrcK3lguncAvjvz5a8sO.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=VWR1cHZlZ1huZjBHS2IxSUs2NTBvdVhuSW40QWFZcjJBcXZpUVc2QlBiK0dwL3J1OSs4ejQ2M1M3Q0oycDk5Z3pxM3IyZzVIUlZhbnJlaHVjK2toQzlzMTFTUkRwWENEVlJUajdPRG5CenZOL0dOdHN6QUlyTHpYNStFM2p6VDA6OvrX3RhJ7Ofdd5D6xiNwimE-&t=53787d42c3aacb84dd97baa865a42eab&op=MzEyNzk=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=VDdWS2NKZllrN09nd2F4WGFqZzJhMldnV0o0ZFJQREozZWtYbEE2L2ZITkpvSGExRHhDLzUwV1p6b2tZNFhYSWw3aEErOGcrT25HUkRSYm5OM2Jjb3poNlE3bTVrQXh2MlE5SVRSRUFLMUN3SVVFMThEMXc4QzFtKzVvVjhuUnA6OqeA7uWKyI_I0NoMODLl.aY-&t=53787d42c3aacb84dd97baa865a42eab",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/w48le24pzf2q",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/f9ndc766p6dh",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E02",
+                    "episode_number": 2,
+                    "nombre": "Infinidad 1 Premonición - Segunda parte",
+                    "portada": "\/it4fAe9MukC8zgCEnjGhvbI1ES8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=THlGMDExMC9zUWhScGIyOVhDcmlEYWl5bEVIZDhWS1lyRGIrcS9zaERYUnRFbEFkRDN5akRQZkpzYkx6Tk4wU25MTGlsRXlNbmNTcTl6VC9JOXJwYlNKZWRGdlJSNk1SeU9sWGhWSThQUm9vZ01xRkZZT1k3dXN0b3RhVDh5TVg6OuJ.iagbm.8OR_.0z5X_3BM-&t=1a95a20ee480d3c53bd76874aaf30773&op=MzEzMzA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=bU90UXQ0WU9BdW1HMHMvTnFucDAwNFc3RXVvSmJRMmRnaGFZMDRYZHVzMW41RXVFaDE2Z0tYTTBvVUUvRUxpNlZ2UGI0Z29MMndFSWlTM1lzUzBiVng4bEhZOWFYT3NEa3pjYjlHcElLcnY5eWxDdGZISnZyRjJacXArZGhsbFg6OjX5.4dTeRfqSqRNxGev.D4-&t=1a95a20ee480d3c53bd76874aaf30773",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/wv22dig49mym",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E03",
+                    "episode_number": 3,
+                    "nombre": "Infinidad 2 Olas",
+                    "portada": "\/bqRYLgc6qznaF3SUqX02YAwtHoh.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=Yks4Q25RRWxRUUpEZnYvQWtVb1J2Q1hjdm8zK3c0WlhxMUZ3blhrdDMzTDN5bEN3VXFVczdzdGVkVkpwQ2l6KzZoSXgxdS9FSHNyS3B5L1prOTFQZDlUL2RIcjRnL2VtYUpDWlVJMHQwZVBJVjRTS2lxMUpFL0VpYWZsT0RsSFk6OrbDZCUBckfyVsfoFQlLoPc-&t=28906041af66e9058de9fde01d54540d&op=MzEzODA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=bFdsc3Z3dW15cWJyVHJzVHQ1NjJvMXZwTmxMSTdPWjRJWkdaNm5jY2Rybk9FYXNiRzNTZ3BsUFl4RkN0ZVl4UE9kd29pZzNRVk5GNHlVRitscitXMXEzdzB2VFZyZEV1MDJVYy9nVUtTTTB6OVFwZG1UcHF3TEppbFZrR2tkc2o6Oif.PweRhWivvbPzbvfCu0A-&t=28906041af66e9058de9fde01d54540d",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E04",
+                    "episode_number": 4,
+                    "nombre": "Infinidad 3 Dos nuevas soldados",
+                    "portada": "\/i369xdiosgPYBqMowV4xvDUoOX3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=Y3QwcWpkR0lHa2RvbklUTU1uTWROYVBWcjFoM1FxN3N6eWpTVGNCZ3c0MW4xWTh6eWhyaW1yOC9EbHluejlDeTBORU9PUTJmQTJZRVNTZjFtTzR0WXBvWjliMHc2M0dSY0pObURUdW8zUnBpbmRDbG5odkdTQXJ1WEFRQXhsUjc6OmXsFhAgJcKYVGpvEdgkPh0-&t=757be053baa902a28fef53520783d4c0&op=MzE0MzM=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=UlJSLzVvMUNiaVJuYWc5LzB3RnpjYThZZUlPZW1SQjNEczgrbWdBcDZMVHhFVnk4Q3c3K3RVc2RheFAyaGZQN1Iwb0FxNjkwd01LZzF5US9HM2pXWTZvT2x5dnBMck5BRXNVcGNQSWJaZ0g1c0gvKzNISVV5ZVZKaTE1R0YzQ0w6OiFrbPjeiGkpC9g.f.nZ4Ko-&t=757be053baa902a28fef53520783d4c0",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/55jd5qp8llct",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-7vz8blpj3y9s.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E05",
+                    "episode_number": 5,
+                    "nombre": "Infinidad 4 Sailor Uranus, Haruka Tenoh; Sailor Neptune, Michiru Kaioh",
+                    "portada": "\/sDgoiWjOQNwbS0jjV1wjEo0oAYb.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=cFVaR1FtZGMySjQ5T1g0czdhZEdsMDluTWVMZERORXpIWmtqUTlneldiVWwrZFBHd1dUVEJOU0lSRlZJZ0pYUDNuemRUWDZ3b0JWblFLa3Rib3J5YWc4QVB1S2JrcWhaeFJvRCtBYXgrZEZRQUxVOUlBdytvejE5d0E2Q3R6UGs6OmpQUJYTX5gnVKGNZ20_Gn4-&t=8d9fd5db21fef20298b0a1b76ca29334&op=MzE0ODY=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=NzJsRE84VDRvR1hsbW4zZTU4d0pEenI0SitFd2llMXNCc2JhYm05Q0FBa0NQWWZBMzlUV0NsWkxQRktVL2JnWUxCdVRsbEF0b3BpbUROaDdBUDhUUWFqS1JOTlBFTDZCM1FubzRrbnZMeE9FZWFDaHdwZkdYZVhFVlFjV1hvZnk6Ogs6Pzxj.sLIRDcegQdpgec-&t=8d9fd5db21fef20298b0a1b76ca29334",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/gnp670r6iur6",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E06",
+                    "episode_number": 6,
+                    "nombre": "Infinidad 5 Sailor Pluto, Setsuna Meioh",
+                    "portada": "\/73LIDqh6lwbMSOJ5e0Lxu3UJVCv.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=YzkxUmQwSzNPNS93MXdFTGNsYWNmWDlkQ1pRMTQ5YWhMaGVTV201ZE9aNW9nNC94QmNEbWMzeGZabkRpUXkyNU9DV3o0L0x3TmxWVDFqOE5yM1BNSmIxUzVHZnpIeG5qUW5XMUxDWTBOK3dIeEhMdWhjRjNTUWFZQS9QNHdLT0w6OvoAahSUcC.MyNDaapdsDS8-&t=5cfcbafd768519bce51371aae5cac8fb&op=MzE1NDM=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=TEQ0d3BkUUloQVA1L2RNWGZGbkF2dDN6MlNEejNDdkkzRkVidmZmVmozS1FBVjBBbC85QUQyOW9kaUVDTjZpT3dTZTVOSnV0dHZEN1VKMTN0SnRHdm5hSGVXbFpiWktVUWNlMmlJczJKcmRlNytpZ1Frb3FXMk9wNkgwM05xWlo6OsDQACUIfsKIe43rMq2bNzc-&t=5cfcbafd768519bce51371aae5cac8fb",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/umus3t2n80zo",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E07",
+                    "episode_number": 7,
+                    "nombre": "Infinidad 6 Las tres Guardianas",
+                    "portada": "\/jf9SSDI2UR06IDgzGjomGttThbY.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=QjY4MUxmS2ptTXZVTlVteG5na2JaV0U0QjFSRDd5S2lpdzBxenNFTGY1dG1KMkVyWVdVZUU1K0I0Zk4wenN4aXpMUm95aDdVYXRkNkd3S1J6amxNOEp1dm5iNTBuTGE4ZXBtUDY4dnEweG9xSjFSVlpwVW1ab21ML2JGM3RZWEk6OsdMdk1J_MdXBcIaszCoinc-&t=63fe372a44401791d215daa2eedb8b7c&op=MzE1OTc=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=OUgwUzZEUGRtZUZiRkFzaVJQTkxKMzFSdGRlbVNnemliZUpqT0R4WWh4OEZ4a1BoZXZRY0RQK0J1MzE4MFd4WWdwOVZKVUFpSmxJUjFUdnVUNmJvWGlaRHlIN0dURmlHT3R1dVBnUVpFRlh3Zjd2eFVnanI4cERMeHJRWTZSUVI6OjLnZObhK_jsp.23tMsPwVo-&t=63fe372a44401791d215daa2eedb8b7c",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/91fuin0cm6c4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E08",
+                    "episode_number": 8,
+                    "nombre": "Infinidad 7 Transformación. Super Sailor Moon",
+                    "portada": "\/lXbTLaWEwWdKDpDQeFqZZ0h88XJ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=dTZvd29sa1BiN1dibG02NE5rWk5PZ2hHYTlxWVY2R2FZOTNCKzJ0WDVWeXdXNStJNHVjR1oyU1FwMXJqaEhUR1pFZEZ0NGR2OVFnUXhTUUhEdXBmRktyYXplOEJuUGtJa04rdFN3Y2d1RWlxaFhtc2JpTEZPanUvUFhTZkNLYmY6OpdixTlLw4sGc_fJ6F6ot38-&t=05205552655b321c2b5eb6c76daeea63&op=MzE2NTA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=bDZBOUxkVy8vREQyQ0g2ZFlSdTVvZVBkbW9ONWF6ZHUrcVlIWWJWWDlyell4RldoUTgrcTJGeE1zMjJxWHRjd1ZGT3lFZFVQM3pYYVBiTURvay9zY3JkTUVVWTR5TENGN3FJOERneHVOL294SDRITGVUeGlCdVhTU2lHNWJyQkU6OrzbFNmZ45LzZ2FFppOIaoE-&t=05205552655b321c2b5eb6c76daeea63",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/60asltdykspt",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/1nwnsjz423l0",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E09",
+                    "episode_number": 9,
+                    "nombre": "Infinidad 8 Laberinto Infinito 1",
+                    "portada": "\/bJhN81e7ulFLqVWVLdXRpiPtr2A.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=Y0pHb2Z1L1liME5ObUZuZGMrWU9ZdHdLUnN1akdldG5ERnVVayt0Qy9hZ2JRdlpTR2RBNFZiQy9UWDlZQnFtbUtMT0xJZ2pmdkZ6STNHVE9ybEJZbmdPMEFNaDhiLysvcDVYQ2FqU2JzU2NDYkFFamNkeXhjQmFQQ2NWeFphRFY6Om83neiG7WpWfg4l9OYTXY0-&t=0fe75661398d80efa6fc1640ce09d971&op=MzE3MDQ=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=RWN6V3BwRkMxV09DK00wbk9NRjZKSytlYkJWUm9Qa240bmtmNjVaS1k1dFkyZ2NKczNsQjFwendENVozaTJxdlp2U0c1WCtZb3d1TmNmbEhDNk5tZzdzUUtLLzFjaThORDVKNmtUMEdhK2U2Z0ZkLzdNZW5sc0ZKamhGWFJzazE6OpIPldeOhoKYrqhGP58twso-&t=0fe75661398d80efa6fc1640ce09d971",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/15wz768kb9x5",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/qkfptuktqnyi",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E10",
+                    "episode_number": 10,
+                    "nombre": "Infinidad 9 Laberinto Infinito 2",
+                    "portada": "\/AmYzbJBhrYhr72HiLmRBp64Pdef.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=a3dyTUZpOGxlekkyVXI3SGliS2l2MnBGOEVoc1dDL08vcUUrdWliU2ttcUlDUGUrUGR1NmhPSSs2L3NNRjhrZjhQeVRaTXJNZEsrZmNYQzZmS1NoczZvbFlHTlROZTZGRWFBTUJNVGJKaGpmQXZHOUZ2dGl3NGVOSGpSblljais6Oj13D5gHxQNznBSCGwUhAsw-&t=decff3a1f694fccd108d4ce07b2587b5&op=MzE3NTg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=dGFkOWRKZkhVdndvN2kvUU5QNDJ4SGM1UWFxT0ZuNlR1TVN5YkFEVHlMZ1FnRTEzcFNoKzhjeU83VGRTSm94S3NnSWtxeHNiVzhzTVRBRVdGOEM3VGpYU2hYUEtKM3ZGNUxqZkdNN3N0c2NBZ1BWK2x1dWs3Z0V6RlVOSVJPVnY6OmkNp8NqTUoe.B.YnzN1U.8-&t=decff3a1f694fccd108d4ce07b2587b5",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/d493fgsubl7q",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E11",
+                    "episode_number": 11,
+                    "nombre": "Infinidad 10 Infinito. Atmósfera Superior",
+                    "portada": "\/qhs7j4vJ7X2ggrBgBf6JXYGOFiw.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=emc4cU9DbU02UUluZisxdXdYaGVabjZydVc5RDNOdG5FVm4wWUxMWForOERIUEgzMHdta3A3OFIzOUJjQk1jYmJRak1DZXgxLzZNbWZyUWkrZXVnOWhRNkdOL1ZIcVIyTVZ1bWFJQWExS0dXY1l0ZHV6VWxHMlFDU2o5N2ZYbmU6Oph0tdLe09268BxouH30gLQ-&t=a7d3154ed40d4dbebf306630991b11a7&op=MzE4MTA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=aVVmTzluekR6S3Q4Zm1kT3FiR3FJaTBNOEwwcnVyNTJYMEp2VlAxaTRoQUtXeFpLTWZyTStlbERzN3VlRmNtNEVWM3dqZGdRUTZkd1Q4clpTUUpTVGN0djlWblJvdHRHcVlHc2kvb2JqYkpra0Y1K1RLWFkyRnlrajQ4U0xHVlQ6Ohrio1PBDd1aR6dmDejh7w0-&t=a7d3154ed40d4dbebf306630991b11a7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E12",
+                    "episode_number": 12,
+                    "nombre": "Infinidad 11 Infinito. Juicio",
+                    "portada": "\/oR6RXIvb06Dxl5SflUkL4ZxzlMX.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=cHZQQ1g0VkhtdzJxa01HN0ZLclhDSENxaDU5TnltLzJuV3UwTjJVZWgyYlZZSGx2M2NySEtuRVVTRTV0SS9YM1BIRXYrZEMrd3hZQityMzlHN2V0YXhqNERwa3FzaEg2ME5meGdUQ0tCalVNQldqY3hNT3RNeHhINEhubmZEV086OlwIkcV3So1k_LYve3wsuFk-&t=b96c50b7b132bacf5adba4adca9a4f10&op=MzE4NjE=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=cXN1QkFiMFZIN0pheVhLYkNuWmI4OU1BVWFmTFlxV3p2T0JqclNjaU5oVFp5L0JVUm5SOFRrUkZYeWpXdVRGNGNFaStnNUx3NXpZTHhQVjRmUDBGcUM2RkJjV2pWa3k1K2wzeHBpcEJtc29aMVVZK016WmQ1QTFBQmJja0QySHg6OkmEIYrSI0NPS7l2_rmKErw-&t=b96c50b7b132bacf5adba4adca9a4f10",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/cunj9cqs9j3y",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/1ct81ebrdc76",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E13",
+                    "episode_number": 13,
+                    "nombre": "Infinidad 12 Infinito. Viaje",
+                    "portada": "\/qfO5mHgVspQMmpZxrniqsr09dW1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=YWlEQ3dSdWZuVXhEcks0amF6TVFSaVcrbWFuWXA0OEttZm9QbnJCZ1M4cFNUYkFzazl2MnA0OGtxdjh2YXg2akFOeWRtVER5MGJwWnczYngzK2RjdDIyUFpzSUFYOHgrRFlObFA3SG0rTCtjRzdvS0NKck9WOVU5S1RISjNuLzE6OvEptgQj_HfgtppRwGYrqKk-&t=36686212b9b05b73736f0d77f98377bb&op=MzE5MTE=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=Ylo1bXlvODkvY2tEQVBDUDAyMkg1dld3Q3Z3aTEvNmlZbmdhb3JxaWhuUjJzdWFZc0l1ZG80cFYyMlNlSkdBTWU2aEhxalJLTk8zVEQ4enJuNnVzQ0k3UGUvZmR2L3VEM3VKbThyQTJtaDVCckRjZVc0L0p1NGV1cS9QdCt4bkY6Oipk6ATpYeBeAC5RxEDfouQ-&t=36686212b9b05b73736f0d77f98377bb",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/owdm5gkgast9",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "HD"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-09-19 05:46:39",
+    "created_at": "2026-09-19 05:46:39",
+    "updated_at": "2026-09-19 05:46:39"
+}
