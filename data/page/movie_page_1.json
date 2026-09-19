@@ -1,5 +1,25 @@
 [
     {
+        "id": "1789831771384",
+        "tmdb_id": "120",
+        "titulo": "El señor de los anillos: La comunidad del anillo",
+        "imagen": "/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",
+        "type": "movie",
+        "year": "2001",
+        "etiquetas": [
+            "Aventura",
+            "Fantasía",
+            "Acción"
+        ],
+        "rate": 8.4000000000000003552713678800500929355621337890625,
+        "added_date": "2026-09-19 11:29:31",
+        "created_at": "2026-09-19 11:29:31",
+        "updated_at": "2026-09-19 11:29:32",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1789831700816",
         "tmdb_id": "12477",
         "titulo": "La tumba de las luciérnagas",
