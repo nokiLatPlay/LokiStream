@@ -92,8 +92,6 @@
             "profile_path": "\/fuIS7KD0vmWcE5ckzC7SbiPkHVU.jpg"
         }
     ],
-    "first_air_date": null,
-    "last_air_date": null,
     "status": "Released",
     "runtime": 81,
     "enlaces": [
@@ -110,10 +108,59 @@
             "type": "streaming",
             "language": "Sub",
             "quality": "1080p"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/i90q9fommmob",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/xxq2xfhjbh7n",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/69hgqlsrv7qs",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/dqf21vtntwu3",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/71l0tp71p9x9",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/okjkkt8ushg3",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/c9g24ondjc1m",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "HD"
         }
     ],
     "added_date": "2026-09-19 06:07:49",
     "created_at": "2026-09-19 06:07:49",
-    "updated_at": "2026-09-20 07:12:54",
+    "updated_at": "2026-09-20 07:14:27",
     "update_states": "No actualizado"
 }
