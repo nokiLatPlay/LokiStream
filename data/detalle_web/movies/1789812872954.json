@@ -94,6 +94,8 @@
             "profile_path": "\/rQBo7HyjTIqeB7hIofb7uJFhiVs.jpg"
         }
     ],
+    "first_air_date": null,
+    "last_air_date": null,
     "status": "Released",
     "runtime": 80,
     "enlaces": [
@@ -102,24 +104,18 @@
             "url": "https:\/\/jkanime.net\/jkplayer\/um?e=TkswU2hSSG01L3pmTEVJd2Y3UHU0cWR3WnNWOWtKeUhQU3pkdWprK1lXVy8zWkJhWDBzTnB6SEhuV0tIMFhMWWZFWW04TE5JNzdqWnl0UzN2YjZhRFBIMEMvbmZ3VGRSYmdvd1NpdjBnMEU9Ojq7ZKat.tWl73AHy6nEWw5x&t=52c512cf6d6fc00c6e9c20ba877699f8&op=NTU5MDc=",
             "type": "streaming",
             "language": "Sub",
-            "quality": "HD"
+            "quality": "1080p"
         },
         {
             "nombre": "Jkanime",
             "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=bnpzWlRjNjNiVmFoSTljUXV0cXZtS2lRZ1V4NFlCeGFnZEtKRVdqWFpET3ZKNkVubHNnSFBqRmtFNGtUUTRYT2RlM2JPTmpBeml2SFFyYW1qRTZ5TENOZVAvRTRneklLdzZrQ2J5bU1SR0E9OjrCbFMT0fPZi248p_Y_0gwR&t=52c512cf6d6fc00c6e9c20ba877699f8",
             "type": "streaming",
             "language": "Sub",
-            "quality": "HD"
-        },
-        {
-            "nombre": "Streamwish",
-            "url": "https:\/\/hglamioz.com\/e\/t0bf34kkrnvf",
-            "type": "streaming",
-            "language": "Sub",
-            "quality": "HD"
+            "quality": "1080p"
         }
     ],
     "added_date": "2026-09-19 06:14:32",
     "created_at": "2026-09-19 06:14:32",
-    "updated_at": "2026-09-19 06:14:32"
+    "updated_at": "2026-09-20 07:03:53",
+    "update_states": "No actualizado"
 }
