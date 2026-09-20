@@ -93,8 +93,6 @@
             "profile_path": "\/rQBo7HyjTIqeB7hIofb7uJFhiVs.jpg"
         }
     ],
-    "first_air_date": null,
-    "last_air_date": null,
     "status": "Released",
     "runtime": 80,
     "enlaces": [
@@ -111,10 +109,31 @@
             "type": "streaming",
             "language": "Sub",
             "quality": "1080p"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/5ddy8w3y1yxh",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/cnyrspfmpuva",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/4o8swgptgg45",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "HD"
         }
     ],
     "added_date": "2026-09-19 06:14:48",
     "created_at": "2026-09-19 06:14:48",
-    "updated_at": "2026-09-20 07:08:17",
+    "updated_at": "2026-09-20 07:09:27",
     "update_states": "No actualizado"
 }
