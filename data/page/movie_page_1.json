@@ -1,5 +1,26 @@
 [
     {
+        "id": "1789812665679",
+        "tmdb_id": "784500",
+        "titulo": "Pretty Guardian Sailor Moon Eternal: La película - 2.ª parte",
+        "imagen": "/tdoAhbEZrK6ntsor0CRHy3IGmzN.jpg",
+        "type": "movie",
+        "year": "2021",
+        "etiquetas": [
+            "Animación",
+            "Acción",
+            "Fantasía",
+            "Drama"
+        ],
+        "rate": 8.199999999999999289457264239899814128875732421875,
+        "added_date": "2026-09-19 06:11:05",
+        "created_at": "2026-09-19 06:11:05",
+        "updated_at": "2026-09-20 07:19:08",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1789812888237",
         "tmdb_id": "968870",
         "titulo": "Sailor Moon Cosmos: La Película - Parte 2",
@@ -18,27 +39,6 @@
         "added_date": "2026-09-19 06:14:48",
         "created_at": "2026-09-19 06:14:48",
         "updated_at": "2026-09-20 07:18:31",
-        "update_states": "No actualizado"
-    },
-    {
-        "id": "1789812665679",
-        "tmdb_id": "784500",
-        "titulo": "Pretty Guardian Sailor Moon Eternal: La película - 2.ª parte",
-        "imagen": "/tdoAhbEZrK6ntsor0CRHy3IGmzN.jpg",
-        "type": "movie",
-        "year": "2021",
-        "etiquetas": [
-            "Animación",
-            "Acción",
-            "Fantasía",
-            "Drama"
-        ],
-        "calidad": [],
-        "rate": 8.199999999999999289457264239899814128875732421875,
-        "status": "Released",
-        "added_date": "2026-09-19 06:11:05",
-        "created_at": "2026-09-19 06:11:05",
-        "updated_at": "2026-09-20 07:17:04",
         "update_states": "No actualizado"
     },
     {
