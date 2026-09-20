@@ -1,0 +1,131 @@
+{
+    "id": "1789903562878",
+    "tmdb_id": "553839",
+    "titulo": "Youjo Senki Movie",
+    "original_name": "劇場版 幼女戦記",
+    "imagen": "\/2eOcRIcnQty8B9Wp40UUNOj58UM.jpg",
+    "backdrop_path": "\/dMcaQp4XfPK11bDeUyj2JOqEY8I.jpg",
+    "type": "movie",
+    "year": "2019",
+    "etiquetas": [
+        "Animación",
+        "Acción",
+        "Bélica",
+        "Fantasía"
+    ],
+    "calidad": [],
+    "rate": 8.0999999999999996447286321199499070644378662109375,
+    "sinopsis": "Año 1926. El 203º Batallón de Magos Aéreos del Ejército Imperial dirigido por la Mayor Tanya Degurechaff ha ganado la batalla hacia el sur contra los rezagados de la República. Esperaban que se les dieran vacaciones después de regresar victoriosos, pero en cambio reciben órdenes especiales de la sede del personal tan pronto como llegan a casa. Se les dice que hubo signos de un despliegue a gran escala cerca de la frontera entre el Imperio y la Federación.",
+    "cast": [
+        {
+            "name": "Aoi Yuki",
+            "character": "Tanya von Degurechaff (voice)",
+            "profile_path": "\/a5Mkd66GV1l3c9bZZtnvjUf33T2.jpg"
+        },
+        {
+            "name": "Saori Hayami",
+            "character": "Viktoriya Ivanovna Serebryakov (voice)",
+            "profile_path": "\/gLv9lO7dlUbIsmyJUvgegqAAXki.jpg"
+        },
+        {
+            "name": "Shin-ichiro Miki",
+            "character": "Erich von Rerugen (voice)",
+            "profile_path": "\/49Mg6xn69XlVDPPBDwxtNxes5zJ.jpg"
+        },
+        {
+            "name": "Tessyo Genda",
+            "character": "Kurt von Rudersdorf (voice)",
+            "profile_path": "\/7eJeYv2OCHKAadeFVdabVkpWldo.jpg"
+        },
+        {
+            "name": "Hochu Otsuka",
+            "character": "Hans von Zettour (voice)",
+            "profile_path": "\/3RHQcrsWnAFK6AifSis1lMq08cR.jpg"
+        },
+        {
+            "name": "Daiki Hamano",
+            "character": "Johann Matteus Weiss (voice)",
+            "profile_path": "\/bykeH3Rhmx9PPFegYNi6s310cNa.jpg"
+        },
+        {
+            "name": "Yusuke Kobayashi",
+            "character": "Vooren Glanz (voice)",
+            "profile_path": "\/y4ukKDSobZJNuB4H3k89hkrKCDC.jpg"
+        },
+        {
+            "name": "Jun Kasama",
+            "character": "Willibald Koenig (voice)",
+            "profile_path": "\/x9H1klv1RrXaqyXAECx1rb56LFH.jpg"
+        },
+        {
+            "name": "Daichi Hayashi",
+            "character": "Reiner Neumann (voice)",
+            "profile_path": "\/7GdPAXrPYupDS2l8cLwJfy6KQI5.jpg"
+        },
+        {
+            "name": "Takaya Hashi",
+            "character": "Pierre Michel de Lugo (voice)",
+            "profile_path": "\/qHt0Q7755oez1yvtShBalcXDv2h.jpg"
+        },
+        {
+            "name": "Haruka Tomatsu",
+            "character": "Mary Sue (voice)",
+            "profile_path": "\/geVvuA2zMGE5xzfc20aDelJSelu.jpg"
+        },
+        {
+            "name": "Nobuo Tobita",
+            "character": "Adelheid von Schugel (voice)",
+            "profile_path": "\/8p47dHvcEvr7CPYIHpxlQcpZmtm.jpg"
+        },
+        {
+            "name": "Cho",
+            "character": "Loriya (voice)",
+            "profile_path": "\/70OZtKOHEGvbuMQAbQ01cGxrUDO.jpg"
+        },
+        {
+            "name": "Toshiyuki Morikawa",
+            "character": "William Douglas Drake (voice)",
+            "profile_path": "\/hrzGBe4nokgkBNFekNo5hlXB2Bv.jpg"
+        },
+        {
+            "name": "Jun Fukushima",
+            "character": "Edgar (voice)",
+            "profile_path": "\/xo2A4cr8TnhC9rLFxSQvhwCbIOw.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 98,
+    "enlaces": [
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/t58rav5a0s1y",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/29apulom6djt",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/otvygufvloci",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/4lyuoh8ndc61",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        }
+    ],
+    "added_date": "2026-09-20 07:26:02",
+    "created_at": "2026-09-20 07:26:02",
+    "updated_at": "2026-09-20 07:26:02"
+}
