@@ -93,8 +93,6 @@
             "profile_path": "\/rQBo7HyjTIqeB7hIofb7uJFhiVs.jpg"
         }
     ],
-    "first_air_date": null,
-    "last_air_date": null,
     "status": "Released",
     "runtime": 80,
     "enlaces": [
@@ -104,10 +102,73 @@
             "type": "streaming",
             "language": "Sub",
             "quality": "1080p"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/skt0mblslojh",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/03g0gx6isd90",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/1kockb1bllqj",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/aawxwf14mxe2",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/n08sa66c603e",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/v74wf0sesbru",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/1ya0719catvn",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/ic08wprtpe5o",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/xtgs7ui9gvug",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "HD"
         }
     ],
     "added_date": "2026-09-19 06:14:48",
     "created_at": "2026-09-19 06:14:48",
-    "updated_at": "2026-09-20 07:18:28",
+    "updated_at": "2026-09-20 07:21:15",
     "update_states": "No actualizado"
 }
