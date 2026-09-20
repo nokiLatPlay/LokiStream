@@ -93,6 +93,8 @@
             "profile_path": "\/2WV61uVU7y6XGYqNHLMpP0sApdu.jpg"
         }
     ],
+    "first_air_date": null,
+    "last_air_date": null,
     "status": "Released",
     "runtime": 81,
     "enlaces": [
@@ -101,31 +103,18 @@
             "url": "https:\/\/jkanime.net\/jkplayer\/um?e=UXNIRFhaSnVaLzF4OFBoN3Y2d3gvNnFGMXp0UnVvL0VNKytpdkNLOXQrcGpYelBwb2VZbWo5Q1M2bkVhT3dvcDo6Vs7Qb5GtYueiv4KX1A2Ifg--&t=0b61d62bd1c04acd7bb33a5cdc80fb87&op=NDU2NzU=",
             "type": "streaming",
             "language": "Sub",
-            "quality": "HD"
+            "quality": "1080p"
         },
         {
             "nombre": "Jkanime",
             "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=L1ZzUGNoUGMybVlwQVhaQnlPQ3krZ3lPZUN2VmlOeEZDZ1FmNUtITkpLSkZ4ZXZrNGk2NzM5WjFhY0pXcDR5ODo6S.Iuyr5kyBnbFJ3j5CRQSQ--&t=0b61d62bd1c04acd7bb33a5cdc80fb87",
             "type": "streaming",
             "language": "Sub",
-            "quality": "HD"
-        },
-        {
-            "nombre": "Streamwish",
-            "url": "https:\/\/hglamioz.com\/e\/aborg1jk8tnm",
-            "type": "streaming",
-            "language": "Sub",
-            "quality": "HD"
-        },
-        {
-            "nombre": "Vidhide",
-            "url": "https:\/\/callistanise.com\/embed\/lfrrp4x7cayd",
-            "type": "streaming",
-            "language": "Sub",
-            "quality": "HD"
+            "quality": "1080p"
         }
     ],
     "added_date": "2026-09-19 06:11:05",
     "created_at": "2026-09-19 06:11:05",
-    "updated_at": "2026-09-19 06:11:05"
+    "updated_at": "2026-09-20 07:17:01",
+    "update_states": "No actualizado"
 }
