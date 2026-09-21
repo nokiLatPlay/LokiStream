@@ -1,5 +1,26 @@
 [
     {
+        "id": "1790021472942",
+        "tmdb_id": "308874",
+        "titulo": "KAIJU GIRL CARAMELISE",
+        "imagen": "/tG2yE7HILQdH32RzYajSgXYSrRV.jpg",
+        "type": "anime",
+        "year": "2026",
+        "etiquetas": [
+            "Animación",
+            "Sci-Fi & Fantasy",
+            "Comedia"
+        ],
+        "rate": 7.9000000000000003552713678800500929355621337890625,
+        "added_date": "2026-09-21 16:11:12",
+        "created_at": "2026-09-21 16:11:12",
+        "updated_at": "2026-09-21 16:11:15",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 12,
+        "status": "Ended"
+    },
+    {
         "id": "1789811199846",
         "tmdb_id": "61339",
         "titulo": "Sailor Moon Crystal",
