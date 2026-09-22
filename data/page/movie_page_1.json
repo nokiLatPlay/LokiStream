@@ -1,5 +1,24 @@
 [
     {
+        "id": "1790097029537",
+        "tmdb_id": "10780",
+        "titulo": "Un mar de líos",
+        "imagen": "/yEfTuYAwYwX6ajLNBW6ok3YZnDt.jpg",
+        "type": "movie",
+        "year": "1987",
+        "etiquetas": [
+            "Comedia",
+            "Romance"
+        ],
+        "rate": 6.79999999999999982236431605997495353221893310546875,
+        "added_date": "2026-09-22 13:10:29",
+        "created_at": "2026-09-22 13:10:29",
+        "updated_at": "2026-09-22 13:10:31",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1789903562878",
         "tmdb_id": "553839",
         "titulo": "Youjo Senki Movie",
