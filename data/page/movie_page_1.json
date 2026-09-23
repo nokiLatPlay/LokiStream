@@ -1,5 +1,25 @@
 [
     {
+        "id": "1790200130568",
+        "tmdb_id": "1240889",
+        "titulo": "Adolescencia, sexo y muerte en campamento Miasma",
+        "imagen": "/8UTCpwvHxWPllCJ7YnaCbffmYyD.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Comedia",
+            "Terror",
+            "Romance"
+        ],
+        "rate": 6.4000000000000003552713678800500929355621337890625,
+        "added_date": "2026-09-23 17:48:50",
+        "created_at": "2026-09-23 17:48:50",
+        "updated_at": "2026-09-23 17:48:52",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790097029537",
         "tmdb_id": "10780",
         "titulo": "Un mar de líos",
