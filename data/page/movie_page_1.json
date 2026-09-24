@@ -1,5 +1,24 @@
 [
     {
+        "id": "1790245214334",
+        "tmdb_id": "16538",
+        "titulo": "Te quiero, tío",
+        "imagen": "/nzY0DlZYlZuBQGy8nyQeKRy0wVo.jpg",
+        "type": "movie",
+        "year": "2009",
+        "etiquetas": [
+            "Comedia",
+            "Romance"
+        ],
+        "rate": 6.5999999999999996447286321199499070644378662109375,
+        "added_date": "2026-09-24 06:20:14",
+        "created_at": "2026-09-24 06:20:14",
+        "updated_at": "2026-09-24 06:20:16",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790244956593",
         "tmdb_id": "170687",
         "titulo": "Los Boxtrolls",
