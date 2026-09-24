@@ -1,5 +1,24 @@
 [
     {
+        "id": "1790245344590",
+        "tmdb_id": "9029",
+        "titulo": "Algo pasa en Las Vegas",
+        "imagen": "/asQQdmkKQ2Jz5RlQX3a1hfcuS3G.jpg",
+        "type": "movie",
+        "year": "2008",
+        "etiquetas": [
+            "Comedia",
+            "Romance"
+        ],
+        "rate": 6.0999999999999996447286321199499070644378662109375,
+        "added_date": "2026-09-24 06:22:24",
+        "created_at": "2026-09-24 06:22:24",
+        "updated_at": "2026-09-24 06:22:26",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790245214334",
         "tmdb_id": "16538",
         "titulo": "Te quiero, tío",
