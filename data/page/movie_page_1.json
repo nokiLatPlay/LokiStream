@@ -1,5 +1,26 @@
 [
     {
+        "id": "1790244956593",
+        "tmdb_id": "170687",
+        "titulo": "Los Boxtrolls",
+        "imagen": "/tFElyskZdLHcFaIhesNEPtqKSBd.jpg",
+        "type": "movie",
+        "year": "2014",
+        "etiquetas": [
+            "Animación",
+            "Comedia",
+            "Familia",
+            "Fantasía"
+        ],
+        "rate": 6.70000000000000017763568394002504646778106689453125,
+        "added_date": "2026-09-24 06:15:56",
+        "created_at": "2026-09-24 06:15:56",
+        "updated_at": "2026-09-24 06:15:57",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790200130568",
         "tmdb_id": "1240889",
         "titulo": "Adolescencia, sexo y muerte en campamento Miasma",
