@@ -1,5 +1,26 @@
 [
     {
+        "id": "1790323282264",
+        "tmdb_id": "1560520",
+        "titulo": "Batman: Knightfall Part 1: Knightfall",
+        "imagen": "/fXvnylD29aoKx4ai3wBlHRXMSVp.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Animación",
+            "Acción",
+            "Aventura",
+            "Ciencia ficción"
+        ],
+        "rate": 9.199999999999999289457264239899814128875732421875,
+        "added_date": "2026-09-25 04:01:22",
+        "created_at": "2026-09-25 04:01:22",
+        "updated_at": "2026-09-25 04:01:23",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790323231785",
         "tmdb_id": "1284016",
         "titulo": "Letras Robadas",
