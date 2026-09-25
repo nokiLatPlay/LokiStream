@@ -1,5 +1,25 @@
 [
     {
+        "id": "1790323577993",
+        "tmdb_id": "1325734",
+        "titulo": "El Drama",
+        "imagen": "/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Romance",
+            "Comedia",
+            "Drama"
+        ],
+        "rate": 6.9000000000000003552713678800500929355621337890625,
+        "added_date": "2026-09-25 04:06:17",
+        "created_at": "2026-09-25 04:06:17",
+        "updated_at": "2026-09-25 04:06:19",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790323557528",
         "tmdb_id": "1284186",
         "titulo": "Sacrificio: Los elegidos",
