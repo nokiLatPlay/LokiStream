@@ -1,5 +1,26 @@
 [
     {
+        "id": "1790304219622",
+        "tmdb_id": "1108427",
+        "titulo": "Moana",
+        "imagen": "/xUUksaUc30wX5orsYytApurKbX.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Familia",
+            "Fantasía",
+            "Comedia",
+            "Aventura"
+        ],
+        "rate": 7.4000000000000003552713678800500929355621337890625,
+        "added_date": "2026-09-24 22:43:39",
+        "created_at": "2026-09-24 22:43:39",
+        "updated_at": "2026-09-24 22:43:41",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790303998725",
         "tmdb_id": "1284465",
         "titulo": "La muerte de Robin Hood",
