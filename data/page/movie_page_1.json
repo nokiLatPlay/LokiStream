@@ -1,5 +1,25 @@
 [
     {
+        "id": "1790323608307",
+        "tmdb_id": "1232569",
+        "titulo": "Pinocho: Sin cuerdas",
+        "imagen": "/kuPRjis9YN1V9m4ud0hePtREUCo.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Terror",
+            "Fantasía",
+            "Misterio"
+        ],
+        "rate": 6.5999999999999996447286321199499070644378662109375,
+        "added_date": "2026-09-25 04:06:48",
+        "created_at": "2026-09-25 04:06:48",
+        "updated_at": "2026-09-25 04:06:50",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790323577993",
         "tmdb_id": "1325734",
         "titulo": "El Drama",
