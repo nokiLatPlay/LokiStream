@@ -1,5 +1,24 @@
 [
     {
+        "id": "1790305748595",
+        "tmdb_id": "1228834",
+        "titulo": "The Fix",
+        "imagen": "/5uB1PWP3QHEcgMXKChsaYmtTUkQ.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Acción",
+            "Suspense"
+        ],
+        "rate": 7.20000000000000017763568394002504646778106689453125,
+        "added_date": "2026-09-24 23:09:08",
+        "created_at": "2026-09-24 23:09:08",
+        "updated_at": "2026-09-24 23:09:10",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790305720378",
         "tmdb_id": "1377237",
         "titulo": "Entrega al límite",
