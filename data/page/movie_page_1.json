@@ -1,5 +1,26 @@
 [
     {
+        "id": "1790325134583",
+        "tmdb_id": "1292695",
+        "titulo": "Te Van A Matar",
+        "imagen": "/9dEn8a12dqkQw48zxQhPcpQ7D5W.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Acción",
+            "Comedia",
+            "Terror",
+            "Suspense"
+        ],
+        "rate": 6.9000000000000003552713678800500929355621337890625,
+        "added_date": "2026-09-25 04:32:14",
+        "created_at": "2026-09-25 04:32:14",
+        "updated_at": "2026-09-25 04:32:16",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790325118260",
         "tmdb_id": "467905",
         "titulo": "Jugada Maestra",
