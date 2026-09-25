@@ -1,5 +1,25 @@
 [
     {
+        "id": "1790304284829",
+        "tmdb_id": "1101383",
+        "titulo": "El final de Oak Street",
+        "imagen": "/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Ciencia ficción",
+            "Misterio",
+            "Suspense"
+        ],
+        "rate": 7,
+        "added_date": "2026-09-24 22:44:44",
+        "created_at": "2026-09-24 22:44:44",
+        "updated_at": "2026-09-24 22:44:45",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790304219622",
         "tmdb_id": "1108427",
         "titulo": "Moana",
