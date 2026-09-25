@@ -1,5 +1,24 @@
 [
     {
+        "id": "1790325100970",
+        "tmdb_id": "1288341",
+        "titulo": "Seven Snipers",
+        "imagen": "/1VypkhG0LlvIzt26K4nYDEJr1qq.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Acción",
+            "Suspense"
+        ],
+        "rate": 6,
+        "added_date": "2026-09-25 04:31:40",
+        "created_at": "2026-09-25 04:31:40",
+        "updated_at": "2026-09-25 04:31:42",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790325071765",
         "tmdb_id": "1469342",
         "titulo": "Su propio infierno",
