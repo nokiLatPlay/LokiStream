@@ -1,5 +1,25 @@
 [
     {
+        "id": "1790323002326",
+        "tmdb_id": "1302904",
+        "titulo": "Hechizo de amor: La magia continúa",
+        "imagen": "/cQjtzBXcTMzHqvo7zmpJvcBFRdC.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Romance",
+            "Fantasía",
+            "Comedia"
+        ],
+        "rate": 6.29999999999999982236431605997495353221893310546875,
+        "added_date": "2026-09-25 03:56:42",
+        "created_at": "2026-09-25 03:56:42",
+        "updated_at": "2026-09-25 03:56:44",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790322965979",
         "tmdb_id": "1137844",
         "titulo": "Mayday",
