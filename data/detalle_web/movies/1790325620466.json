@@ -1,0 +1,130 @@
+{
+    "id": "1790325620466",
+    "tmdb_id": "1436219",
+    "titulo": "Pizza Movies",
+    "original_name": "Pizza Movies",
+    "imagen": "\/9mM5O5wWuBlD47y0lAqnPX28U0S.jpg",
+    "backdrop_path": "\/eVLXHFU2lLhvcFu2ulfY58RdcQj.jpg",
+    "type": "movie",
+    "year": "2026",
+    "etiquetas": [
+        "Comedia",
+        "Romance",
+        "Drama"
+    ],
+    "calidad": [],
+    "rate": 5.29999999999999982236431605997495353221893310546875,
+    "sinopsis": "Una periodista cultural y crítica de cine en crisis convence a su marido de dejarlo todo y montar un negocio, pero no un uno cualquiera: una pizzería con temática de cine.",
+    "cast": [
+        {
+            "name": "Judit Martín",
+            "character": "Thais",
+            "profile_path": "\/txawjKqqfyJwu8EzuU0eXzzjZMy.jpg"
+        },
+        {
+            "name": "Berto Romero",
+            "character": "Alan",
+            "profile_path": "\/7HEPcRtF8G77K4zepmSdPuNy9CP.jpg"
+        },
+        {
+            "name": "Raúl Arévalo",
+            "character": "Edu",
+            "profile_path": "\/npWhiRnqlbqku6mNnk5RTgGvnj2.jpg"
+        },
+        {
+            "name": "Joaquín Reyes",
+            "character": "Joaquín Reyes",
+            "profile_path": "\/nmYj32Pgnt60N99nI503K63QMK5.jpg"
+        },
+        {
+            "name": "Bruna Cusí",
+            "character": "Psicologa",
+            "profile_path": "\/gxPL7q1Ooi2LljSrZsnm6YnsEIT.jpg"
+        },
+        {
+            "name": "Melina Matthews",
+            "character": "",
+            "profile_path": "\/bPwRAyD6DrAEj3DIzTibVDdJ51M.jpg"
+        },
+        {
+            "name": "Javier Botet",
+            "character": "Max Morbo",
+            "profile_path": "\/nuVbt1oreUUPPR0MhKKL7y6i9Dt.jpg"
+        },
+        {
+            "name": "Tamar Novas",
+            "character": "",
+            "profile_path": "\/3MpjB6lxeTUA9EunaV4kAyvOvIG.jpg"
+        },
+        {
+            "name": "Belén Barenys",
+            "character": "Repartidora \/ Crítica",
+            "profile_path": "\/jDcFVOlrBSI58tMtzwpYdapWP6H.jpg"
+        },
+        {
+            "name": "Miguel Noguera",
+            "character": "Abogado Bassas",
+            "profile_path": "\/5eO7428vvSPmBZv2Y87pfiq3Bhk.jpg"
+        },
+        {
+            "name": "Llimoo",
+            "character": "Repartidor \/ Crítico",
+            "profile_path": "\/R1LU1HobtYVUxwyaTlOl8wjTxu.jpg"
+        },
+        {
+            "name": "Carles Gras",
+            "character": "Repartidor \/ Crítico",
+            "profile_path": ""
+        },
+        {
+            "name": "Carlos de Diego",
+            "character": "Repartidor \/ Crítico",
+            "profile_path": "\/wj1VY3FyCKnh6n3q4MRLkj6mCi0.jpg"
+        },
+        {
+            "name": "Fausto Fernández",
+            "character": "Crítico invitado a la inauguración",
+            "profile_path": ""
+        },
+        {
+            "name": "Rubén Jiménez",
+            "character": "Cuidador",
+            "profile_path": "\/wb91Z0yMrNHXUfuxGnnHYDMeHb1.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 95,
+    "enlaces": [
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/497mbv8hor5s",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/339zevaldh5d",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/n40qfj7cxa12",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/usb550s05yba",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": "HD"
+        }
+    ],
+    "added_date": "2026-09-25 04:40:20",
+    "created_at": "2026-09-25 04:40:20",
+    "updated_at": "2026-09-25 04:40:20"
+}
