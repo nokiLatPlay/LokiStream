@@ -1,0 +1,173 @@
+{
+    "id": "1790326234468",
+    "tmdb_id": "118",
+    "titulo": "Charlie y la fábrica de chocolate",
+    "original_name": "Charlie and the Chocolate Factory",
+    "imagen": "\/voJEk0WNtrcawz2hN9AwdNbvhrp.jpg",
+    "backdrop_path": "\/atoIgfAk2Ig2HFJLD0VUnjiPWEz.jpg",
+    "type": "movie",
+    "year": "2005",
+    "etiquetas": [
+        "Aventura",
+        "Comedia",
+        "Familia",
+        "Fantasía"
+    ],
+    "calidad": [],
+    "rate": 7,
+    "sinopsis": "Charlie Bucket (Freddie Highmore), un niño muy bueno de una familia muy pobre, gana un concurso, junto a otros cuatro niños de diferentes partes del mundo, para disfrutar de una visita durante todo un día a la gigantesca fábrica de chocolate dirigida por el excéntrico Willy Wonka (Johnny Depp) y su equipo de Oompa-Loompas. La fábrica se parece a un mundo fantástico y mágico lleno de diferentes sabores, todos muy dulces.",
+    "cast": [
+        {
+            "name": "Johnny Depp",
+            "character": "Willy Wonka",
+            "profile_path": "\/k2xt6EUxQDwYRKIyI4IBdZxfs8n.jpg"
+        },
+        {
+            "name": "Freddie Highmore",
+            "character": "Charlie Bucket",
+            "profile_path": "\/9larfGVg8ALIVFkr7cZzv4Emh1F.jpg"
+        },
+        {
+            "name": "David Kelly",
+            "character": "Grandpa Joe",
+            "profile_path": "\/4NzqVwHlbaGO3rjW0ozRL8J9SxG.jpg"
+        },
+        {
+            "name": "Helena Bonham Carter",
+            "character": "Mrs. Bucket",
+            "profile_path": "\/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
+        },
+        {
+            "name": "Noah Taylor",
+            "character": "Mr. Bucket",
+            "profile_path": "\/a9VuohmpqbvcYflOpi0F3ck8L2j.jpg"
+        },
+        {
+            "name": "Missi Pyle",
+            "character": "Mrs. Beauregarde",
+            "profile_path": "\/lKMPTI0PbPv6kGQiublwHOp73Ff.jpg"
+        },
+        {
+            "name": "James Fox",
+            "character": "Mr. Salt",
+            "profile_path": "\/fO11c8zUNNgNhYu4aLxgYiBoo6R.jpg"
+        },
+        {
+            "name": "Deep Roy",
+            "character": "Oompa Loompa",
+            "profile_path": "\/hXq63dj4WjwcKann7h9Wy7z7Ac7.jpg"
+        },
+        {
+            "name": "Christopher Lee",
+            "character": "Dr. Wonka",
+            "profile_path": "\/dA26fBr3t7mKqjn3OYW6kbD1LXM.jpg"
+        },
+        {
+            "name": "Adam Godley",
+            "character": "Mr. Teavee",
+            "profile_path": "\/5a7c36DeI6GA73D5XC7rNX2VIvv.jpg"
+        },
+        {
+            "name": "Franziska Troegner",
+            "character": "Mrs. Gloop",
+            "profile_path": "\/s8MkmfwX9gXIGRpPiAYjmS1G7cS.jpg"
+        },
+        {
+            "name": "AnnaSophia Robb",
+            "character": "Violet Beauregarde",
+            "profile_path": "\/mJawWikGXsSLA79mZ9xqhn0B9gI.jpg"
+        },
+        {
+            "name": "Julia Winter",
+            "character": "Veruca Salt",
+            "profile_path": "\/3HKwgDkcPIVipD7PV1WaJtrUxzu.jpg"
+        },
+        {
+            "name": "Jordan Fry",
+            "character": "Mike Teavee",
+            "profile_path": "\/sYOwt75vhzZsVOJr44myYj0fpyW.jpg"
+        },
+        {
+            "name": "Philip Wiegratz",
+            "character": "Augustus Gloop",
+            "profile_path": "\/jVGKw04FoBN8QX0PNfP32xh8dgA.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 116,
+    "enlaces": [
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/7ev0lb1z6nug",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/vy3duklae7q6",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/if9fvfna5ex0",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/udk74ujwf77f",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/a2byp9f27v7e",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/is9rc0hwzo7u",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/vtu4ygshkzeg",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/sx3pfs353l1v",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/j42jw7ck9x6d",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/ncw0ideo770h",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "HD"
+        }
+    ],
+    "added_date": "2026-09-25 04:50:34",
+    "created_at": "2026-09-25 04:50:34",
+    "updated_at": "2026-09-25 04:50:34"
+}
