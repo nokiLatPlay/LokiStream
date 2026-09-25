@@ -1,5 +1,24 @@
 [
     {
+        "id": "1790325013107",
+        "tmdb_id": "680493",
+        "titulo": "Terror en Silent Hill: Regreso al infierno",
+        "imagen": "/5d55Yl0JL1zlOHX021VL36unOlY.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Terror",
+            "Misterio"
+        ],
+        "rate": 5.4000000000000003552713678800500929355621337890625,
+        "added_date": "2026-09-25 04:30:13",
+        "created_at": "2026-09-25 04:30:13",
+        "updated_at": "2026-09-25 04:30:15",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790324996157",
         "tmdb_id": "1297842",
         "titulo": "GOAT: La cabra que cambió el juego",
