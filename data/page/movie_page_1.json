@@ -1,5 +1,27 @@
 [
     {
+        "id": "1790303126732",
+        "tmdb_id": "939338",
+        "titulo": "Patti y la furia de Poseidón",
+        "imagen": "/f3QemFwJ21q7N25qJXiB96sWQ5s.jpg",
+        "type": "movie",
+        "year": "2023",
+        "etiquetas": [
+            "Animación",
+            "Aventura",
+            "Fantasía",
+            "Familia",
+            "Comedia"
+        ],
+        "rate": 6.79999999999999982236431605997495353221893310546875,
+        "added_date": "2026-09-24 22:25:26",
+        "created_at": "2026-09-24 22:25:26",
+        "updated_at": "2026-09-24 22:25:28",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790303108255",
         "tmdb_id": "1679730",
         "titulo": "La heroína del lazo",
