@@ -1,5 +1,25 @@
 [
     {
+        "id": "1790326144111",
+        "tmdb_id": "10193",
+        "titulo": "Toy Story 3",
+        "imagen": "/yBSISwqix2z0JiwIrM3r6fiI6Cm.jpg",
+        "type": "movie",
+        "year": "2010",
+        "etiquetas": [
+            "Animación",
+            "Familia",
+            "Comedia"
+        ],
+        "rate": 7.79999999999999982236431605997495353221893310546875,
+        "added_date": "2026-09-25 04:49:04",
+        "created_at": "2026-09-25 04:49:04",
+        "updated_at": "2026-09-25 04:49:06",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790326084295",
         "tmdb_id": "863",
         "titulo": "Toy Story 2: Los juguetes vuelven a la carga",
