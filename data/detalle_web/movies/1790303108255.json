@@ -1,0 +1,85 @@
+{
+    "id": "1790303108255",
+    "tmdb_id": "1679730",
+    "titulo": "La heroína del lazo",
+    "original_name": "THE RIBBON HERO リボンヒーロー",
+    "imagen": "\/s1O0nlq5JqwLbbCXpNEFzT2sxQh.jpg",
+    "backdrop_path": "\/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg",
+    "type": "movie",
+    "year": "2026",
+    "etiquetas": [
+        "Animación",
+        "Fantasía",
+        "Drama",
+        "Acción"
+    ],
+    "calidad": [],
+    "rate": 6.4000000000000003552713678800500929355621337890625,
+    "sinopsis": "Cuando el monstruoso Nergal arrasa su reino, la princesa Zafiro despierta de nuevo como la heroína del lazo y lucha para evitar que su nuevo hogar corra la misma suerte.",
+    "cast": [
+        {
+            "name": "サーヤ",
+            "character": "Sapphire \/ Princess Knight (voice)",
+            "profile_path": "\/3BvLdTNYd0isItVeL55pabcWP4R.jpg"
+        },
+        {
+            "name": "小林星蘭",
+            "character": "Pine (voice)",
+            "profile_path": "\/yc8Q1ZbkQhgl9hEm9n1MtQaBv7s.jpg"
+        },
+        {
+            "name": "Koki Uchiyama",
+            "character": "Velvet (voice)",
+            "profile_path": "\/sllSm3iZZWVLTBrDZQRtWrZUfEj.jpg"
+        },
+        {
+            "name": "Mayumi Shintani",
+            "character": "Zirco (voice)",
+            "profile_path": "\/s3aH3ZIFf03YqjVLHIHXG9RJuRl.jpg"
+        },
+        {
+            "name": "壤晴彦",
+            "character": "Pope (voice)",
+            "profile_path": "\/sLf2Z4xYdBtzNsIZV0Xg9rRAyct.jpg"
+        },
+        {
+            "name": "Yoshimasa Hosoya",
+            "character": "Rock (voice)",
+            "profile_path": "\/lUR5oN1LrqGgp25IOcI1qOH1Ud5.jpg"
+        },
+        {
+            "name": "月ノ美兎",
+            "character": "Hecate (voice)",
+            "profile_path": ""
+        },
+        {
+            "name": "Yusuke Tezuka",
+            "character": "Chorogy (voice)",
+            "profile_path": "\/nmB2f8vFbj857LL6oR4dsCG43rS.jpg"
+        },
+        {
+            "name": "ルンルン",
+            "character": "Chick (voice)",
+            "profile_path": ""
+        },
+        {
+            "name": "Debidebi Debiru",
+            "character": "Tack (voice)",
+            "profile_path": ""
+        }
+    ],
+    "status": "Released",
+    "runtime": 112,
+    "enlaces": [
+        {
+            "nombre": "Vidara",
+            "url": "https:\/\/vidara.to\/e\/1WQ3ru5wEGVSF",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        }
+    ],
+    "added_date": "2026-09-24 22:25:08",
+    "created_at": "2026-09-24 22:25:08",
+    "updated_at": "2026-09-24 22:25:08"
+}
