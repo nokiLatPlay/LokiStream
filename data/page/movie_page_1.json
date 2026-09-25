@@ -1,5 +1,26 @@
 [
     {
+        "id": "1790303108255",
+        "tmdb_id": "1679730",
+        "titulo": "La heroína del lazo",
+        "imagen": "/s1O0nlq5JqwLbbCXpNEFzT2sxQh.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Animación",
+            "Fantasía",
+            "Drama",
+            "Acción"
+        ],
+        "rate": 6.4000000000000003552713678800500929355621337890625,
+        "added_date": "2026-09-24 22:25:08",
+        "created_at": "2026-09-24 22:25:08",
+        "updated_at": "2026-09-24 22:25:09",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790303088311",
         "tmdb_id": "485942",
         "titulo": "Batman Ninja",
