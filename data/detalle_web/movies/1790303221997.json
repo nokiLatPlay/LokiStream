@@ -1,0 +1,87 @@
+{
+    "id": "1790303221997",
+    "tmdb_id": "1319977",
+    "titulo": "A la cara",
+    "original_name": "A la cara",
+    "imagen": "\/fzRQIB2FCCevWyBmcjwHVfvDPBl.jpg",
+    "backdrop_path": "\/5Ha46FCDKfJMnVjHsOR1QSA1zdE.jpg",
+    "type": "movie",
+    "year": "2026",
+    "etiquetas": [
+        "Drama"
+    ],
+    "calidad": [],
+    "rate": 5.70000000000000017763568394002504646778106689453125,
+    "sinopsis": "Una famosa periodista acude a la casa de uno de sus haters para que le diga a la cara lo que escribió sobre ella en sus redes sociales. Pronto descubren que no son tan diferentes entre sí.",
+    "cast": [
+        {
+            "name": "Sonia Almarcha",
+            "character": "Lina",
+            "profile_path": "\/3dCeLMVuexRKeCIzjwv3c0JCpm6.jpg"
+        },
+        {
+            "name": "Manolo Solo",
+            "character": "Pedro",
+            "profile_path": "\/hp422wUkCWW2lsitzJrANv4N92u.jpg"
+        },
+        {
+            "name": "Daniel Pérez Prada",
+            "character": "",
+            "profile_path": "\/xjxu8rfAhHFZjeeiyPGsz3O8Fjp.jpg"
+        },
+        {
+            "name": "Roberto Álamo",
+            "character": "Alberto",
+            "profile_path": "\/hy9hZnQxGjs2svlgEXqhdSbQlAR.jpg"
+        },
+        {
+            "name": "Helena Zumel",
+            "character": "",
+            "profile_path": "\/iVtWMwVXULXbVws9PaWnHZkbr2G.jpg"
+        },
+        {
+            "name": "Mario Zorrilla",
+            "character": "Emilio",
+            "profile_path": "\/n44dMmfIRr2qICaKvCXFxo1J57g.jpg"
+        },
+        {
+            "name": "Rulo Pardo",
+            "character": "Invitado",
+            "profile_path": "\/6PpSQP1sWBblf26RKPnAKzdEOQy.jpg"
+        },
+        {
+            "name": "Arantxa Zambrano",
+            "character": "Susana",
+            "profile_path": "\/8Y8j9utwD1Jy2e8Zl3etT3Rk6Fa.jpg"
+        },
+        {
+            "name": "Celia Castro",
+            "character": "Marga",
+            "profile_path": "\/eDh9VwQdr80UequDR2rw3CnWnBZ.jpg"
+        },
+        {
+            "name": "Luis Jaspe",
+            "character": "Gonzalo",
+            "profile_path": "\/wBXYXUUMe30FlVEDd6rqEkbMC5Y.jpg"
+        },
+        {
+            "name": "Mara Caballero",
+            "character": "Mónica",
+            "profile_path": ""
+        }
+    ],
+    "status": "Released",
+    "runtime": 100,
+    "enlaces": [
+        {
+            "nombre": "Vidara",
+            "url": "https:\/\/vidara.to\/e\/egNbgelqq2vQx",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        }
+    ],
+    "added_date": "2026-09-24 22:27:01",
+    "created_at": "2026-09-24 22:27:01",
+    "updated_at": "2026-09-24 22:27:01"
+}
