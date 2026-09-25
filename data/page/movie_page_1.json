@@ -1,5 +1,25 @@
 [
     {
+        "id": "1790305720378",
+        "tmdb_id": "1377237",
+        "titulo": "Entrega al límite",
+        "imagen": "/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Acción",
+            "Comedia",
+            "Suspense"
+        ],
+        "rate": 7.5999999999999996447286321199499070644378662109375,
+        "added_date": "2026-09-24 23:08:40",
+        "created_at": "2026-09-24 23:08:40",
+        "updated_at": "2026-09-24 23:08:41",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790305694837",
         "tmdb_id": "1212763",
         "titulo": "Evil Dead: En llamas",
