@@ -1,5 +1,25 @@
 [
     {
+        "id": "1790303088311",
+        "tmdb_id": "485942",
+        "titulo": "Batman Ninja",
+        "imagen": "/zaw7PQ7GvTliBVmfg2o8OJfhWjU.jpg",
+        "type": "movie",
+        "year": "2018",
+        "etiquetas": [
+            "Animación",
+            "Acción",
+            "Ciencia ficción"
+        ],
+        "rate": 5.9000000000000003552713678800500929355621337890625,
+        "added_date": "2026-09-24 22:24:48",
+        "created_at": "2026-09-24 22:24:48",
+        "updated_at": "2026-09-24 22:24:50",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790303071136",
         "tmdb_id": "760298",
         "titulo": "Les Simpson Classics - La dernière tentation d'Homer",
