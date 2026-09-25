@@ -1,5 +1,25 @@
 [
     {
+        "id": "1790325071765",
+        "tmdb_id": "1469342",
+        "titulo": "Su propio infierno",
+        "imagen": "/xFXoPwN8zRtC0ayA6UKmCK11Isy.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Ciencia ficción",
+            "Terror",
+            "Suspense"
+        ],
+        "rate": 5.0999999999999996447286321199499070644378662109375,
+        "added_date": "2026-09-25 04:31:11",
+        "created_at": "2026-09-25 04:31:11",
+        "updated_at": "2026-09-25 04:31:13",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790325056381",
         "tmdb_id": "1669841",
         "titulo": "Bleach: Thousand-Year Blood War - The Calamity",
