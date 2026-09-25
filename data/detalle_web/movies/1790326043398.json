@@ -1,0 +1,173 @@
+{
+    "id": "1790326043398",
+    "tmdb_id": "862",
+    "titulo": "Toy Story",
+    "original_name": "Toy Story",
+    "imagen": "\/jvn7wy3RSNEXnFSXLpH2of2LcV6.jpg",
+    "backdrop_path": "\/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+    "type": "movie",
+    "year": "1995",
+    "etiquetas": [
+        "Familia",
+        "Comedia",
+        "Animación",
+        "Aventura"
+    ],
+    "calidad": [],
+    "rate": 8,
+    "sinopsis": "Los juguetes de Andy, un niño de seis años, temen que haya llegado su hora y que un nuevo regalo de cumpleaños les sustituya en el corazón de su dueño. Woody, un vaquero que ha sido hasta ahora el juguete favorito de Andy, trata de tranquilizarlos hasta que aparece Buzz Lightyear, un héroe espacial dotado de todo tipo de avances tecnológicos. Woody es relegado a un segundo plano, pero su constante rivalidad se transformará en una gran amistad cuando ambos se pierden en la ciudad sin saber cómo volver a casa.",
+    "cast": [
+        {
+            "name": "Tom Hanks",
+            "character": "Woody (voice)",
+            "profile_path": "\/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+        },
+        {
+            "name": "Tim Allen",
+            "character": "Buzz Lightyear (voice)",
+            "profile_path": "\/k8XPNHBO459FaqkqqM4tfX5GMKk.jpg"
+        },
+        {
+            "name": "Don Rickles",
+            "character": "Mr. Potato Head (voice)",
+            "profile_path": "\/iGMOVxIQoTPepRvqSCtRulfpx7u.jpg"
+        },
+        {
+            "name": "Jim Varney",
+            "character": "Slinky Dog (voice)",
+            "profile_path": "\/zvBFmvKUrPvE6FW35O3RP4i1ZPp.jpg"
+        },
+        {
+            "name": "Wallace Shawn",
+            "character": "Rex (voice)",
+            "profile_path": "\/tiiz0t7fFiaeoujUyejzIiLRYpu.jpg"
+        },
+        {
+            "name": "John Ratzenberger",
+            "character": "Hamm (voice)",
+            "profile_path": "\/oRtDEOuIO1yDhTz5dORBdxXuLMO.jpg"
+        },
+        {
+            "name": "Annie Potts",
+            "character": "Bo Peep (voice)",
+            "profile_path": "\/nugPVN28qOhOIoHawrDJ6fIfrxR.jpg"
+        },
+        {
+            "name": "John Morris",
+            "character": "Andy (voice)",
+            "profile_path": "\/lSdNMhN3DoXEQJ37IeOD5mTMUQK.jpg"
+        },
+        {
+            "name": "Erik von Detten",
+            "character": "Sid (voice)",
+            "profile_path": "\/v0ruIqUUZqXRWTsuui5irfsHMJe.jpg"
+        },
+        {
+            "name": "Laurie Metcalf",
+            "character": "Mrs. Davis (voice)",
+            "profile_path": "\/ypAppMZ1Q99cBjtX4BAnZmWjVXe.jpg"
+        },
+        {
+            "name": "R. Lee Ermey",
+            "character": "Sergeant (voice)",
+            "profile_path": "\/aXFJlEGHlQT7bwxkKwq6Sx7PeEp.jpg"
+        },
+        {
+            "name": "Sarah Rayne",
+            "character": "Hannah (voice)",
+            "profile_path": ""
+        },
+        {
+            "name": "Penn Jillette",
+            "character": "TV Announcer (voice)",
+            "profile_path": "\/lxMpWaVKyeqZCxENRo1wu13iSTS.jpg"
+        },
+        {
+            "name": "Jack Angel",
+            "character": "Shark \/ Rocky Gibraltar (voice)",
+            "profile_path": "\/5MsVwIULYJotUSbDs61uSJff7ei.jpg"
+        },
+        {
+            "name": "Spencer Aste",
+            "character": "Wounded Soldier (voice)",
+            "profile_path": ""
+        }
+    ],
+    "status": "Released",
+    "runtime": 77,
+    "enlaces": [
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/xnqppl3dslc9",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/qanu69pw8sq3",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/96rza2gcnx61",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/fm80p6s4o1ps",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/fojw8s0uf9jf",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/933ed8gisuni",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/iro9kuszvvn0",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/tn8kf43ro61o",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/wnf7ntiisn9r",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/dqs2dg8eotkn",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "HD"
+        }
+    ],
+    "added_date": "2026-09-25 04:47:23",
+    "created_at": "2026-09-25 04:47:23",
+    "updated_at": "2026-09-25 04:47:23"
+}
