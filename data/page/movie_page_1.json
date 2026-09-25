@@ -1,5 +1,26 @@
 [
     {
+        "id": "1790324779608",
+        "tmdb_id": "980431",
+        "titulo": "Avatar: Aang, El último Maestro Aire",
+        "imagen": "/gXyICsxc1amVyziopCT4yhnelNv.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Animación",
+            "Aventura",
+            "Fantasía",
+            "Acción"
+        ],
+        "rate": 9.199999999999999289457264239899814128875732421875,
+        "added_date": "2026-09-25 04:26:19",
+        "created_at": "2026-09-25 04:26:19",
+        "updated_at": "2026-09-25 04:26:21",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790324758760",
         "tmdb_id": "1078605",
         "titulo": "La hora de la desaparición",
