@@ -1,5 +1,24 @@
 [
     {
+        "id": "1790323883272",
+        "tmdb_id": "1314481",
+        "titulo": "El diablo viste a la moda 2",
+        "imagen": "/sz687EF7yJMS4VNEdHKT9ebkhA9.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Comedia",
+            "Drama"
+        ],
+        "rate": 7,
+        "added_date": "2026-09-25 04:11:23",
+        "created_at": "2026-09-25 04:11:23",
+        "updated_at": "2026-09-25 04:11:25",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790323842155",
         "tmdb_id": "860508",
         "titulo": "Susurran tu nombre",
