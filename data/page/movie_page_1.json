@@ -1,5 +1,23 @@
 [
     {
+        "id": "1790324729403",
+        "tmdb_id": "1401459",
+        "titulo": "Fjord",
+        "imagen": "/9L7ND90Rl6RANG5l0Z5ZfsI3RET.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Drama"
+        ],
+        "rate": 7.20000000000000017763568394002504646778106689453125,
+        "added_date": "2026-09-25 04:25:29",
+        "created_at": "2026-09-25 04:25:29",
+        "updated_at": "2026-09-25 04:25:31",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790324707985",
         "tmdb_id": "986056",
         "titulo": "Thunderbolts*",
