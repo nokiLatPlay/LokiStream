@@ -1,5 +1,24 @@
 [
     {
+        "id": "1790304668699",
+        "tmdb_id": "1288445",
+        "titulo": "El motín",
+        "imagen": "/5zmLk7K4wHWG68OlniFzrNrZjJE.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Acción",
+            "Suspense"
+        ],
+        "rate": 6.5999999999999996447286321199499070644378662109375,
+        "added_date": "2026-09-24 22:51:08",
+        "created_at": "2026-09-24 22:51:08",
+        "updated_at": "2026-09-24 22:51:12",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790304636867",
         "tmdb_id": "1363387",
         "titulo": "Insaciable",
