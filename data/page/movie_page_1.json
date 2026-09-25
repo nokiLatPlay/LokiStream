@@ -1,5 +1,24 @@
 [
     {
+        "id": "1790321553548",
+        "tmdb_id": "1382832",
+        "titulo": "La Bestia Del Pantano",
+        "imagen": "/t4X5HtZBtwNzbg9K5prABkC0nDJ.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Suspense",
+            "Terror"
+        ],
+        "rate": 7,
+        "added_date": "2026-09-25 03:32:33",
+        "created_at": "2026-09-25 03:32:33",
+        "updated_at": "2026-09-25 03:32:34",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790321529928",
         "tmdb_id": "687163",
         "titulo": "Proyecto Fin del Mundo",
