@@ -1,5 +1,25 @@
 [
     {
+        "id": "1790324707985",
+        "tmdb_id": "986056",
+        "titulo": "Thunderbolts*",
+        "imagen": "/yDWU8YyFkPnlVY627QXPvct8bz9.jpg",
+        "type": "movie",
+        "year": "2025",
+        "etiquetas": [
+            "Acción",
+            "Ciencia ficción",
+            "Aventura"
+        ],
+        "rate": 7.29999999999999982236431605997495353221893310546875,
+        "added_date": "2026-09-25 04:25:07",
+        "created_at": "2026-09-25 04:25:07",
+        "updated_at": "2026-09-25 04:25:09",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790324670798",
         "tmdb_id": "1430077",
         "titulo": "Hokum: La maldición de la bruja",
