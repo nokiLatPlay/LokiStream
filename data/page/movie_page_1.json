@@ -1,5 +1,25 @@
 [
     {
+        "id": "1790324742832",
+        "tmdb_id": "1227877",
+        "titulo": "I Love Boosters",
+        "imagen": "/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Comedia",
+            "Ciencia ficción",
+            "Crimen"
+        ],
+        "rate": 6.20000000000000017763568394002504646778106689453125,
+        "added_date": "2026-09-25 04:25:42",
+        "created_at": "2026-09-25 04:25:42",
+        "updated_at": "2026-09-25 04:25:43",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790324729403",
         "tmdb_id": "1401459",
         "titulo": "Fjord",
