@@ -1,5 +1,25 @@
 [
     {
+        "id": "1790326296790",
+        "tmdb_id": "252",
+        "titulo": "Un mundo de fantasía",
+        "imagen": "/liuz3OF2Vu2C3u2xPKlArlVkLzX.jpg",
+        "type": "movie",
+        "year": "1971",
+        "etiquetas": [
+            "Familia",
+            "Fantasía",
+            "Comedia"
+        ],
+        "rate": 7.5,
+        "added_date": "2026-09-25 04:51:36",
+        "created_at": "2026-09-25 04:51:36",
+        "updated_at": "2026-09-25 04:51:38",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790326234468",
         "tmdb_id": "118",
         "titulo": "Charlie y la fábrica de chocolate",
