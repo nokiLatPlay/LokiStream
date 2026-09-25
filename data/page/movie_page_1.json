@@ -1,5 +1,24 @@
 [
     {
+        "id": "1790321529928",
+        "tmdb_id": "687163",
+        "titulo": "Proyecto Fin del Mundo",
+        "imagen": "/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Ciencia ficción",
+            "Aventura"
+        ],
+        "rate": 8.5999999999999996447286321199499070644378662109375,
+        "added_date": "2026-09-25 03:32:09",
+        "created_at": "2026-09-25 03:32:09",
+        "updated_at": "2026-09-25 03:32:13",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790321502800",
         "tmdb_id": "1228710",
         "titulo": "Star Wars: The Mandalorian and Grogu",
