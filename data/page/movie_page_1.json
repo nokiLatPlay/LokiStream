@@ -1,5 +1,25 @@
 [
     {
+        "id": "1790323200646",
+        "tmdb_id": "1318413",
+        "titulo": "El Día D: Bajo presión",
+        "imagen": "/byKFPj2xvKkqMKQ4i0Ayq6N7Z9E.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Suspense",
+            "Historia",
+            "Bélica"
+        ],
+        "rate": 7.70000000000000017763568394002504646778106689453125,
+        "added_date": "2026-09-25 04:00:00",
+        "created_at": "2026-09-25 04:00:00",
+        "updated_at": "2026-09-25 04:00:02",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790323178822",
         "tmdb_id": "1564614",
         "titulo": "Leviticus: Ritual de sangre",
