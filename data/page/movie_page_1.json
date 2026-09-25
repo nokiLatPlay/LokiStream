@@ -1,5 +1,24 @@
 [
     {
+        "id": "1790323692217",
+        "tmdb_id": "1122573",
+        "titulo": "En la zona gris",
+        "imagen": "/kQik7Yfcs3O8dCBpIUGSdXOMOnQ.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Acción",
+            "Suspense"
+        ],
+        "rate": 7.5999999999999996447286321199499070644378662109375,
+        "added_date": "2026-09-25 04:08:12",
+        "created_at": "2026-09-25 04:08:12",
+        "updated_at": "2026-09-25 04:08:14",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790323677748",
         "tmdb_id": "1061474",
         "titulo": "Superman",
