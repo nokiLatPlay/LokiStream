@@ -1,5 +1,24 @@
 [
     {
+        "id": "1790303071136",
+        "tmdb_id": "760298",
+        "titulo": "Les Simpson Classics - La dernière tentation d'Homer",
+        "imagen": "/lK8yJ7DRh8iWqCTqV4YyVTjOcGs.jpg",
+        "type": "movie",
+        "year": "2005",
+        "etiquetas": [
+            "Comedia",
+            "Animación"
+        ],
+        "rate": 8.5,
+        "added_date": "2026-09-24 22:24:31",
+        "created_at": "2026-09-24 22:24:31",
+        "updated_at": "2026-09-24 22:24:32",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790303050215",
         "tmdb_id": "1357633",
         "titulo": "Solo Leveling: ReAwakening",
