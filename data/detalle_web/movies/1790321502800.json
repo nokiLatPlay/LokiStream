@@ -1,0 +1,130 @@
+{
+    "id": "1790321502800",
+    "tmdb_id": "1228710",
+    "titulo": "Star Wars: The Mandalorian and Grogu",
+    "original_name": "The Mandalorian and Grogu",
+    "imagen": "\/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
+    "backdrop_path": "\/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg",
+    "type": "movie",
+    "year": "2026",
+    "etiquetas": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+    ],
+    "calidad": [],
+    "rate": 7.5,
+    "sinopsis": "El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República trabaja para proteger todo por lo que luchó la Rebelión, ha reclutado la ayuda del legendario cazarrecompensas mandaloriano Din Djarin y su joven aprendiz Grogu.",
+    "cast": [
+        {
+            "name": "Pedro Pascal",
+            "character": "The Mandalorian",
+            "profile_path": "\/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
+        },
+        {
+            "name": "Jeremy Allen White",
+            "character": "Rotta (voice)",
+            "profile_path": "\/pXRADDRhprgaQ4Bri44NH3bYeu6.jpg"
+        },
+        {
+            "name": "Sigourney Weaver",
+            "character": "Colonel Ward",
+            "profile_path": "\/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+        },
+        {
+            "name": "Brendan Wayne",
+            "character": "The Mandalorian Suit Performer",
+            "profile_path": "\/klsNR0ld4NjURhhn3PYZetFkaCK.jpg"
+        },
+        {
+            "name": "Lateef Crowder",
+            "character": "The Mandalorian Stunt Performer",
+            "profile_path": "\/mhGArPyh3N97t3PU4YnvLZTzHjl.jpg"
+        },
+        {
+            "name": "Steve Blum",
+            "character": "Zeb Orrelios (voice)",
+            "profile_path": "\/cpO0muunoigq1WHegeOEI1AIQAo.jpg"
+        },
+        {
+            "name": "Jonny Coyne",
+            "character": "Lord Janu",
+            "profile_path": "\/6PSW0qaoY3KSnWUUv6f54NOuPC0.jpg"
+        },
+        {
+            "name": "Matthew Willig",
+            "character": "Hogsbreth",
+            "profile_path": "\/46nLaoxRvXpx8ohmG7hx2Qq00Sr.jpg"
+        },
+        {
+            "name": "Martin Scorsese",
+            "character": "Hugo Durant (voice)",
+            "profile_path": "\/g3DjfKsgZQWZiw30I20hZVk1oMX.jpg"
+        },
+        {
+            "name": "Hemky Madera",
+            "character": "Commander Baro",
+            "profile_path": "\/net1kEEpSrr9QC9be6YRhLGuM0k.jpg"
+        },
+        {
+            "name": "Stephen McKinley Henderson",
+            "character": "Gatori (voice)",
+            "profile_path": "\/z2weSPo4sdMNj47tP5o0me41r2z.jpg"
+        },
+        {
+            "name": "Shirley Henderson",
+            "character": "The Anzellans (voice)",
+            "profile_path": "\/ufyhBJUrG3h4BrLNN8gMuYGhJd6.jpg"
+        },
+        {
+            "name": "Cullen Douglas",
+            "character": "Prefect Nobah",
+            "profile_path": "\/kvLrnUvvSvEqe71GJaknrNvqIGc.jpg"
+        },
+        {
+            "name": "Nigel Gibbs",
+            "character": "Local Leader",
+            "profile_path": "\/eqDPaZWlBOriugBzUoy9ES4HKdA.jpg"
+        },
+        {
+            "name": "Bahia Haifi",
+            "character": "Local Leader",
+            "profile_path": "\/g0uaVCnG3nDQztqU8ukOi6qW8yI.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 132,
+    "enlaces": [
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/3mjy03h1mki1",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/qxzah7dx4pmj",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/vbqo9k26y7ml",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/mqnzi8m7s5wf",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "HD"
+        }
+    ],
+    "added_date": "2026-09-25 03:31:42",
+    "created_at": "2026-09-25 03:31:42",
+    "updated_at": "2026-09-25 03:31:42"
+}
