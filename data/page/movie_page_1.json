@@ -1,5 +1,24 @@
 [
     {
+        "id": "1790322965979",
+        "tmdb_id": "1137844",
+        "titulo": "Mayday",
+        "imagen": "/naKQcM3HRuaISCtsSx5ibVMTbDu.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Acción",
+            "Comedia"
+        ],
+        "rate": 8.0999999999999996447286321199499070644378662109375,
+        "added_date": "2026-09-25 03:56:05",
+        "created_at": "2026-09-25 03:56:05",
+        "updated_at": "2026-09-25 03:56:07",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790322914450",
         "tmdb_id": "1329016",
         "titulo": "Tony",
