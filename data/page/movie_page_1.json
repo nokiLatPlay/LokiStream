@@ -1,5 +1,25 @@
 [
     {
+        "id": "1790305664683",
+        "tmdb_id": "1204680",
+        "titulo": "Coyote vs. Acme",
+        "imagen": "/vWFz9spZFBkJvForuYrKK2ntOLB.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Comedia",
+            "Aventura",
+            "Familia"
+        ],
+        "rate": 7.5,
+        "added_date": "2026-09-24 23:07:44",
+        "created_at": "2026-09-24 23:07:44",
+        "updated_at": "2026-09-24 23:07:46",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790305637865",
         "tmdb_id": "950028",
         "titulo": "La invitación",
