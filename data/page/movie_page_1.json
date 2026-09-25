@@ -1,5 +1,25 @@
 [
     {
+        "id": "1790323632754",
+        "tmdb_id": "1375646",
+        "titulo": "Zona Cero",
+        "imagen": "/bWzwORubAQ40nvzsTZidle19Dbm.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Acción",
+            "Terror",
+            "Ciencia ficción"
+        ],
+        "rate": 8.0999999999999996447286321199499070644378662109375,
+        "added_date": "2026-09-25 04:07:12",
+        "created_at": "2026-09-25 04:07:12",
+        "updated_at": "2026-09-25 04:07:14",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790323608307",
         "tmdb_id": "1232569",
         "titulo": "Pinocho: Sin cuerdas",
