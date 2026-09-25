@@ -1,0 +1,130 @@
+{
+    "id": "1790325577293",
+    "tmdb_id": "1423191",
+    "titulo": "Resident Evil: Noche cero",
+    "original_name": "Resident Evil",
+    "imagen": "\/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
+    "backdrop_path": "\/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+    "type": "movie",
+    "year": "2026",
+    "etiquetas": [
+        "Terror",
+        "Ciencia ficción",
+        "Aventura"
+    ],
+    "calidad": [],
+    "rate": 7.29999999999999982236431605997495353221893310546875,
+    "sinopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+    "cast": [
+        {
+            "name": "Austin Abrams",
+            "character": "Bryan",
+            "profile_path": "\/nvbJNwyhIICUFcS4lhxj9mGvL5z.jpg"
+        },
+        {
+            "name": "Paul Walter Hauser",
+            "character": "Paul",
+            "profile_path": "\/hXjjbYg1Ah8mFf5ZcaakyXzDKMx.jpg"
+        },
+        {
+            "name": "Kali Reis",
+            "character": "Maxine",
+            "profile_path": "\/ruLDXHnKA4aHEQCcFGDAJ7bLTdt.jpg"
+        },
+        {
+            "name": "Zach Cherry",
+            "character": "Carl",
+            "profile_path": "\/fT3Wv8ef0Vn0daHWAObCp2Bd4Y.jpg"
+        },
+        {
+            "name": "Johnno Wilson",
+            "character": "Officer Wilson",
+            "profile_path": "\/eZtBoBE0F7Qb9ZyNpacMOQtmWnM.jpg"
+        },
+        {
+            "name": "Shaun W. Loeser",
+            "character": "Puker",
+            "profile_path": "\/pMV7kzy7OHk4X93uRGbrdvuFgQB.jpg"
+        },
+        {
+            "name": "Zach Cregger",
+            "character": "Intercom (voice)",
+            "profile_path": "\/bpFGFfWYIrZVK7WjwkVLwIoMKEb.jpg"
+        },
+        {
+            "name": "Emily Piggford",
+            "character": "Dr. Maria Stokes",
+            "profile_path": "\/ruijvaNNXzGXqGphQXsoHts1Ovc.jpg"
+        },
+        {
+            "name": "Will Merrick",
+            "character": "Dave",
+            "profile_path": "\/zqyH01TJ9WW6TaAULCG2ChSbNwI.jpg"
+        },
+        {
+            "name": "Zoé Bellas",
+            "character": "Birdie",
+            "profile_path": "\/3nw4EhStA4IcJQxz4Yevm25u5ov.jpg"
+        },
+        {
+            "name": "Chris Lew Kum Hoi",
+            "character": "Stanley",
+            "profile_path": "\/7kHYxjhnRErXDRNYaSRemLCx9J7.jpg"
+        },
+        {
+            "name": "Griffin Newman",
+            "character": "Wade",
+            "profile_path": "\/vRnjx2UGdMhvFn5coYZJLKHVWbq.jpg"
+        },
+        {
+            "name": "Magdalena Šittová",
+            "character": "Agatha",
+            "profile_path": "\/6QDtKNoL6DXwJHpzDrvWG3rKSwa.jpg"
+        },
+        {
+            "name": "Andrea Miltner",
+            "character": "Pedestrian",
+            "profile_path": "\/oBdyio9RROvtUgauXJH6kE2dWEY.jpg"
+        },
+        {
+            "name": "Sara Paxton",
+            "character": "Michelle (voice)",
+            "profile_path": "\/DWrjFhjSLY4EFanCMKNPrUmP2p.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 93,
+    "enlaces": [
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/yco1a4gez8k9",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "CAM"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/auj5qlx58xzz",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "CAM"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/4nq7w0uy9tag",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "CAM"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/zr9kpas958kc",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "CAM"
+        }
+    ],
+    "added_date": "2026-09-25 04:39:37",
+    "created_at": "2026-09-25 04:39:37",
+    "updated_at": "2026-09-25 04:39:37"
+}
