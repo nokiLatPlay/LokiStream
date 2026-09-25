@@ -1,0 +1,144 @@
+{
+    "id": "1790324059313",
+    "tmdb_id": "299534",
+    "titulo": "Avengers: Endgame",
+    "original_name": "Avengers: Endgame",
+    "imagen": "\/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
+    "backdrop_path": "\/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+    "type": "movie",
+    "year": "2019",
+    "etiquetas": [
+        "Aventura",
+        "Ciencia ficción",
+        "Acción"
+    ],
+    "calidad": [],
+    "rate": 8.199999999999999289457264239899814128875732421875,
+    "sinopsis": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
+    "cast": [
+        {
+            "name": "Robert Downey Jr.",
+            "character": "Tony Stark \/ Iron Man",
+            "profile_path": "\/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+        },
+        {
+            "name": "Chris Evans",
+            "character": "Steve Rogers \/ Captain America",
+            "profile_path": "\/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+        },
+        {
+            "name": "Mark Ruffalo",
+            "character": "Bruce Banner \/ Hulk",
+            "profile_path": "\/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+        },
+        {
+            "name": "Chris Hemsworth",
+            "character": "Thor",
+            "profile_path": "\/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+        },
+        {
+            "name": "Scarlett Johansson",
+            "character": "Natasha Romanoff \/ Black Widow",
+            "profile_path": "\/tgxYh3jMs5bY2Ub4d2dcp9iaz1R.jpg"
+        },
+        {
+            "name": "Jeremy Renner",
+            "character": "Clint Barton \/ Hawkeye",
+            "profile_path": "\/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"
+        },
+        {
+            "name": "Josh Brolin",
+            "character": "Thanos",
+            "profile_path": "\/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+        },
+        {
+            "name": "Don Cheadle",
+            "character": "James Rhodes \/ War Machine",
+            "profile_path": "\/umhTmcVF26qZKEpSfG1ZNpcbs9D.jpg"
+        },
+        {
+            "name": "Paul Rudd",
+            "character": "Scott Lang \/ Ant-Man",
+            "profile_path": "\/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
+        },
+        {
+            "name": "Benedict Cumberbatch",
+            "character": "Doctor Strange",
+            "profile_path": "\/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+        },
+        {
+            "name": "Chadwick Boseman",
+            "character": "T'Challa \/ Black Panther",
+            "profile_path": "\/nL16SKfyP1b7Hk6LsuWiqMfbdb8.jpg"
+        },
+        {
+            "name": "Brie Larson",
+            "character": "Carol Danvers \/ Captain Marvel",
+            "profile_path": "\/iqZ5uKJWbwSITCK4CqdlUHZTnXD.jpg"
+        },
+        {
+            "name": "Tom Holland",
+            "character": "Peter Parker \/ Spider-Man",
+            "profile_path": "\/5OK84Wn1bIEIThFKcVoaN087mLj.jpg"
+        },
+        {
+            "name": "Karen Gillan",
+            "character": "Nebula",
+            "profile_path": "\/qYx8CflXVq48nGKX1IJsDrAj0sT.jpg"
+        },
+        {
+            "name": "Zoe Saldaña",
+            "character": "Gamora",
+            "profile_path": "\/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 181,
+    "enlaces": [
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/0po03ee0c52k",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/5rcmxqtbxklu",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/d87udyxhiq47",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/e96q7dwjkozn",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/ddtdiyrthdcp",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/asdztr9i4d5d",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "HD"
+        }
+    ],
+    "added_date": "2026-09-25 04:14:19",
+    "created_at": "2026-09-25 04:14:19",
+    "updated_at": "2026-09-25 04:14:19"
+}
