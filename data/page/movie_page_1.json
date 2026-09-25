@@ -1,5 +1,21 @@
 [
     {
+        "id": "1790302715656",
+        "tmdb_id": "59970",
+        "titulo": "Sin título",
+        "imagen": "",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [],
+        "rate": 0,
+        "added_date": "2026-09-24 22:18:35",
+        "created_at": "2026-09-24 22:18:35",
+        "updated_at": "2026-09-24 22:18:36",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790245344590",
         "tmdb_id": "9029",
         "titulo": "Algo pasa en Las Vegas",
