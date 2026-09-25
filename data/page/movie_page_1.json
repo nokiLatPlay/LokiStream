@@ -1,5 +1,26 @@
 [
     {
+        "id": "1790303166719",
+        "tmdb_id": "676685",
+        "titulo": "Misión Panda en África",
+        "imagen": "/as0XCcMj7ECygru2xS88PWc6C6W.jpg",
+        "type": "movie",
+        "year": "2024",
+        "etiquetas": [
+            "Animación",
+            "Aventura",
+            "Comedia",
+            "Familia"
+        ],
+        "rate": 7.20000000000000017763568394002504646778106689453125,
+        "added_date": "2026-09-24 22:26:06",
+        "created_at": "2026-09-24 22:26:06",
+        "updated_at": "2026-09-24 22:26:08",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790303126732",
         "tmdb_id": "939338",
         "titulo": "Patti y la furia de Poseidón",
