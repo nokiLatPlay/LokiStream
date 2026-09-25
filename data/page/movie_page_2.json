@@ -1,5 +1,25 @@
 [
     {
+        "id": "1790325603234",
+        "tmdb_id": "1131759",
+        "titulo": "Lector omnisciente: La profecía",
+        "imagen": "/tithUTyMVsBZwqIEw4BU9YppeCr.jpg",
+        "type": "movie",
+        "year": "2025",
+        "etiquetas": [
+            "Acción",
+            "Aventura",
+            "Fantasía"
+        ],
+        "rate": 7.0999999999999996447286321199499070644378662109375,
+        "added_date": "2026-09-25 04:40:03",
+        "created_at": "2026-09-25 04:40:03",
+        "updated_at": "2026-09-25 04:40:05",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790325577293",
         "tmdb_id": "1423191",
         "titulo": "Resident Evil: Noche cero",
