@@ -1,5 +1,25 @@
 [
     {
+        "id": "1790324996157",
+        "tmdb_id": "1297842",
+        "titulo": "GOAT: La cabra que cambió el juego",
+        "imagen": "/l8Y8o3RpFg54gmQQ8GVaxVroFmY.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Animación",
+            "Comedia",
+            "Familia"
+        ],
+        "rate": 8.0999999999999996447286321199499070644378662109375,
+        "added_date": "2026-09-25 04:29:56",
+        "created_at": "2026-09-25 04:29:56",
+        "updated_at": "2026-09-25 04:29:58",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790324979408",
         "tmdb_id": "1368314",
         "titulo": "El Pasajero Del Diablo",
