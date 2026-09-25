@@ -1,5 +1,25 @@
 [
     {
+        "id": "1790323726481",
+        "tmdb_id": "1340206",
+        "titulo": "El afinador",
+        "imagen": "/9cKbuFsddhNR6C8ZshNWqqVj3di.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Crimen",
+            "Drama",
+            "Suspense"
+        ],
+        "rate": 7.5999999999999996447286321199499070644378662109375,
+        "added_date": "2026-09-25 04:08:46",
+        "created_at": "2026-09-25 04:08:46",
+        "updated_at": "2026-09-25 04:08:48",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790323713876",
         "tmdb_id": "1291595",
         "titulo": "La noche del demonio: Están entre nosotros",
