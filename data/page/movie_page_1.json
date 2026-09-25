@@ -1,5 +1,23 @@
 [
     {
+        "id": "1790304636867",
+        "tmdb_id": "1363387",
+        "titulo": "Insaciable",
+        "imagen": "/v9st6lwP4K2i6YCa7kLQVQEuvNZ.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Terror"
+        ],
+        "rate": 6.9000000000000003552713678800500929355621337890625,
+        "added_date": "2026-09-24 22:50:36",
+        "created_at": "2026-09-24 22:50:36",
+        "updated_at": "2026-09-24 22:50:37",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790304284829",
         "tmdb_id": "1101383",
         "titulo": "El final de Oak Street",
