@@ -1,5 +1,25 @@
 [
     {
+        "id": "1790303887688",
+        "tmdb_id": "1083381",
+        "titulo": "Backrooms",
+        "imagen": "/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Terror",
+            "Misterio",
+            "Ciencia ficción"
+        ],
+        "rate": 7,
+        "added_date": "2026-09-24 22:38:07",
+        "created_at": "2026-09-24 22:38:07",
+        "updated_at": "2026-09-24 22:38:08",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790303221997",
         "tmdb_id": "1319977",
         "titulo": "A la cara",
