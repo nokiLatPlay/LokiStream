@@ -1,5 +1,24 @@
 [
     {
+        "id": "1790323178822",
+        "tmdb_id": "1564614",
+        "titulo": "Leviticus: Ritual de sangre",
+        "imagen": "/gS8Z2lepduus8x6Crwzb85F6Gli.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Terror",
+            "Romance"
+        ],
+        "rate": 6.79999999999999982236431605997495353221893310546875,
+        "added_date": "2026-09-25 03:59:38",
+        "created_at": "2026-09-25 03:59:38",
+        "updated_at": "2026-09-25 03:59:39",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790323146361",
         "tmdb_id": "1386315",
         "titulo": "Carrera contra el tiempo",
