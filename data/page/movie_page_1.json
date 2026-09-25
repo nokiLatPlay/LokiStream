@@ -1,5 +1,25 @@
 [
     {
+        "id": "1790303970939",
+        "tmdb_id": "1368337",
+        "titulo": "La Odisea",
+        "imagen": "/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Aventura",
+            "Acción",
+            "Fantasía"
+        ],
+        "rate": 8,
+        "added_date": "2026-09-24 22:39:30",
+        "created_at": "2026-09-24 22:39:30",
+        "updated_at": "2026-09-24 22:39:30",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790303938871",
         "tmdb_id": "1477712",
         "titulo": "Dulce sabor a muerte",
