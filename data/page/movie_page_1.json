@@ -1,5 +1,25 @@
 [
     {
+        "id": "1790323067348",
+        "tmdb_id": "1323244",
+        "titulo": "La señal del apocalipsis",
+        "imagen": "/vK9tTyWlVKlBGPTFp1e4WPGMJ7w.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Acción",
+            "Ciencia ficción",
+            "Suspense"
+        ],
+        "rate": 6.70000000000000017763568394002504646778106689453125,
+        "added_date": "2026-09-25 03:57:47",
+        "created_at": "2026-09-25 03:57:47",
+        "updated_at": "2026-09-25 03:57:48",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790323040489",
         "tmdb_id": "1275779",
         "titulo": "El día de la revelación",
