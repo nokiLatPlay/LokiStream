@@ -1,0 +1,109 @@
+{
+    "id": "1790303021790",
+    "tmdb_id": "845",
+    "titulo": "Extraños en un tren",
+    "original_name": "Strangers on a Train",
+    "imagen": "\/4o0mXvFkVBr7lzH5sOsHGKmsNI5.jpg",
+    "backdrop_path": "\/8Tnn2UOlecCKNLKG8ZK5Mu6bK94.jpg",
+    "type": "movie",
+    "year": "1951",
+    "etiquetas": [
+        "Crimen",
+        "Suspense",
+        "Drama"
+    ],
+    "calidad": [],
+    "rate": 7.70000000000000017763568394002504646778106689453125,
+    "sinopsis": "Inspirada en la novela homónima de Patricia Higsmith. Durante un viaje en tren, Guy, un joven campeón de tenis (Farley Granger), es abordado por Bruno (Walker), un joven que conoce su vida y milagros a través de la prensa y que, inesperadamente, le propone un doble asesinato, pero intercambiando las víctimas con el fin de garantizarse recíprocamente la impunidad. Así podrían resolver sus respectivos problemas: él suprimiría a la mujer de Guy (que no quiere concederle el divorcio) y, a cambio, Guy debería asesinar al padre de Bruno para que éste pudiera heredar una gran fortuna y vivir a su aire.",
+    "cast": [
+        {
+            "name": "Farley Granger",
+            "character": "Guy Haines",
+            "profile_path": "\/4Tqi22qSxBdeWGDAOVvfa8pDX8E.jpg"
+        },
+        {
+            "name": "Ruth Roman",
+            "character": "Anne Morton",
+            "profile_path": "\/ukEJhllnfHQQRyIELk2NHFS28rr.jpg"
+        },
+        {
+            "name": "Robert Walker",
+            "character": "Bruno Antony",
+            "profile_path": "\/c4vtXpzvEXs7xzpiSTaBi0UIPIn.jpg"
+        },
+        {
+            "name": "Leo G. Carroll",
+            "character": "Senator Morton",
+            "profile_path": "\/56ND35pQZetw5xpagHDKFZjMeuE.jpg"
+        },
+        {
+            "name": "Patricia Hitchcock",
+            "character": "Barbara Morton",
+            "profile_path": "\/bgMYy4SJLFcFex91an1D593pBY9.jpg"
+        },
+        {
+            "name": "Kasey Rogers",
+            "character": "Miriam Haines",
+            "profile_path": "\/qWZnZoFHBUaMLNKnlDaNYrb7xQV.jpg"
+        },
+        {
+            "name": "Marion Lorne",
+            "character": "Mrs. Antony",
+            "profile_path": "\/vnKNE0UIQhnzbgpde9ByQ7cG8PB.jpg"
+        },
+        {
+            "name": "Jonathan Hale",
+            "character": "Mr. Antony",
+            "profile_path": "\/6slWYX9NChUonIPcybOaFLDKjl9.jpg"
+        },
+        {
+            "name": "Howard St. John",
+            "character": "Captain Turley",
+            "profile_path": "\/5HkEPH9C4JTzR0mQjDKzqbmrpQe.jpg"
+        },
+        {
+            "name": "John Brown",
+            "character": "Prof. Collins",
+            "profile_path": "\/mPLK5zlyMQdDpzZPb8vknDuEYsP.jpg"
+        },
+        {
+            "name": "Norma Varden",
+            "character": "Mrs. Cunningham",
+            "profile_path": "\/6f52jKhHnQRscajyhIoGNMNo4N7.jpg"
+        },
+        {
+            "name": "Robert Gist",
+            "character": "Leslie Hennessey",
+            "profile_path": "\/6AO1jw6rxAXicGk3Pi7FnJjRC7y.jpg"
+        },
+        {
+            "name": "Brooks Benedict",
+            "character": "Tennis Umpire (uncredited)",
+            "profile_path": "\/l3Bw5oBij94yG0QSO45inFnySRZ.jpg"
+        },
+        {
+            "name": "John Doucette",
+            "character": "Detective Hammond (uncredited)",
+            "profile_path": "\/xwSggqoVJTnipwaMsbIGz1J37sp.jpg"
+        },
+        {
+            "name": "Harry Hines",
+            "character": "Man Under Merry-Go-Round (uncredited)",
+            "profile_path": "\/5GiGVMIi2eti2MMJ1tYlC8yYHAy.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 101,
+    "enlaces": [
+        {
+            "nombre": "Vidara",
+            "url": "https:\/\/vidara.to\/e\/LYsqMEFcb6fBt",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        }
+    ],
+    "added_date": "2026-09-24 22:23:41",
+    "created_at": "2026-09-24 22:23:41",
+    "updated_at": "2026-09-24 22:23:41"
+}
