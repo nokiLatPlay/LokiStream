@@ -1,5 +1,25 @@
 [
     {
+        "id": "1790324059313",
+        "tmdb_id": "299534",
+        "titulo": "Avengers: Endgame",
+        "imagen": "/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
+        "type": "movie",
+        "year": "2019",
+        "etiquetas": [
+            "Aventura",
+            "Ciencia ficción",
+            "Acción"
+        ],
+        "rate": 8.199999999999999289457264239899814128875732421875,
+        "added_date": "2026-09-25 04:14:19",
+        "created_at": "2026-09-25 04:14:19",
+        "updated_at": "2026-09-25 04:14:20",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790324036565",
         "tmdb_id": "1391021",
         "titulo": "Once Upon a Time in the Middle East",
