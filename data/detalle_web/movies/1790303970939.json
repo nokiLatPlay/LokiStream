@@ -1,0 +1,130 @@
+{
+    "id": "1790303970939",
+    "tmdb_id": "1368337",
+    "titulo": "La Odisea",
+    "original_name": "The Odyssey",
+    "imagen": "\/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
+    "backdrop_path": "\/iuylzRSllrGn7YB322kwKoOVMcq.jpg",
+    "type": "movie",
+    "year": "2026",
+    "etiquetas": [
+        "Aventura",
+        "Acción",
+        "Fantasía"
+    ],
+    "calidad": [],
+    "rate": 8,
+    "sinopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+    "cast": [
+        {
+            "name": "Matt Damon",
+            "character": "Odysseus",
+            "profile_path": "\/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
+        },
+        {
+            "name": "Tom Holland",
+            "character": "Telemachus",
+            "profile_path": "\/5OK84Wn1bIEIThFKcVoaN087mLj.jpg"
+        },
+        {
+            "name": "Anne Hathaway",
+            "character": "Penelope",
+            "profile_path": "\/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg"
+        },
+        {
+            "name": "Robert Pattinson",
+            "character": "Antinous",
+            "profile_path": "\/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+        },
+        {
+            "name": "Himesh Patel",
+            "character": "Eurylochus",
+            "profile_path": "\/icqsXLmU0FxBGTv63kkA0GcrecO.jpg"
+        },
+        {
+            "name": "Charlize Theron",
+            "character": "Calypso",
+            "profile_path": "\/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg"
+        },
+        {
+            "name": "John Leguizamo",
+            "character": "Eumaeus",
+            "profile_path": "\/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+        },
+        {
+            "name": "Travis Scott",
+            "character": "Bard",
+            "profile_path": "\/eBdm7HQS6lLGg4BocgfoJ5qB9yp.jpg"
+        },
+        {
+            "name": "Corey Hawkins",
+            "character": "Polybus",
+            "profile_path": "\/wRt0Bc0chN5BSjvYzmg2evgqNzp.jpg"
+        },
+        {
+            "name": "Jarreth J. Merz",
+            "character": "Leodes",
+            "profile_path": "\/ze8WDEujZmTXdCLcUy0IaymwlcS.jpg"
+        },
+        {
+            "name": "Niko Nicotera",
+            "character": "Peisander",
+            "profile_path": "\/ffSAiwXMmvQP1vJuPguLznNpPOI.jpg"
+        },
+        {
+            "name": "Elliot Page",
+            "character": "Sinon",
+            "profile_path": "\/wSdlM4Qyoi5AGj5eIIp8Bm0Sfkz.jpg"
+        },
+        {
+            "name": "Shiloh Fernandez",
+            "character": "First Trojan",
+            "profile_path": "\/ug0p4QtE1Am7JySNClm7u8iISOB.jpg"
+        },
+        {
+            "name": "Rafi Gavron",
+            "character": "Second Trojan",
+            "profile_path": "\/avCWoO9fLwEhbT6cvu0TJcSj49g.jpg"
+        },
+        {
+            "name": "Elyes Gabel",
+            "character": "Elatus",
+            "profile_path": "\/z9IqYTYxhVR9ADxaksbPQwiYQns.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 173,
+    "enlaces": [
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/6gn4z3ii5rxp",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "CAM"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/ti4lm11d6nlf",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "CAM"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/aqn2iiyi5m7h",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "CAM"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/p7y3hgzkjmcc",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "CAM"
+        }
+    ],
+    "added_date": "2026-09-24 22:39:30",
+    "created_at": "2026-09-24 22:39:30",
+    "updated_at": "2026-09-24 22:39:30"
+}
