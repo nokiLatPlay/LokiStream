@@ -1,5 +1,25 @@
 [
     {
+        "id": "1790323976212",
+        "tmdb_id": "1280738",
+        "titulo": "The Furious",
+        "imagen": "/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Acción",
+            "Crimen",
+            "Suspense"
+        ],
+        "rate": 8.199999999999999289457264239899814128875732421875,
+        "added_date": "2026-09-25 04:12:56",
+        "created_at": "2026-09-25 04:12:56",
+        "updated_at": "2026-09-25 04:12:58",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790323957973",
         "tmdb_id": "454639",
         "titulo": "Amos del Universo",
