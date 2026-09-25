@@ -1,5 +1,23 @@
 [
     {
+        "id": "1790326376685",
+        "tmdb_id": "377",
+        "titulo": "Pesadilla en Elm Street",
+        "imagen": "/qDmeYxsfNA68Bn7aW8HSkAuVmWf.jpg",
+        "type": "movie",
+        "year": "1984",
+        "etiquetas": [
+            "Terror"
+        ],
+        "rate": 7.4000000000000003552713678800500929355621337890625,
+        "added_date": "2026-09-25 04:52:56",
+        "created_at": "2026-09-25 04:52:56",
+        "updated_at": "2026-09-25 04:52:58",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790326296790",
         "tmdb_id": "252",
         "titulo": "Un mundo de fantasía",
