@@ -1,0 +1,109 @@
+{
+    "id": "1790303088311",
+    "tmdb_id": "485942",
+    "titulo": "Batman Ninja",
+    "original_name": "ニンジャバットマン",
+    "imagen": "\/zaw7PQ7GvTliBVmfg2o8OJfhWjU.jpg",
+    "backdrop_path": "\/silcq0dj3Scf1LtpBjjVKXMQXS2.jpg",
+    "type": "movie",
+    "year": "2018",
+    "etiquetas": [
+        "Animación",
+        "Acción",
+        "Ciencia ficción"
+    ],
+    "calidad": [],
+    "rate": 5.9000000000000003552713678800500929355621337890625,
+    "sinopsis": "Batman, junto a sus aliados y enemigos, se ve transportado desde la moderna Gotham hasta el Japón feudal. Film animado coproducido entre Japón y EEUU que cuenta con guión de Kazuki Nakashima (Kill La Kill) y diseño de personajes de Takashi Okazaki (Afro Samurai).",
+    "cast": [
+        {
+            "name": "Koichi Yamadera",
+            "character": "Batman \/ Bruce Wayne (voice)",
+            "profile_path": "\/biov5jENp2XYfehkcdnRvi796Wi.jpg"
+        },
+        {
+            "name": "Wataru Takagi",
+            "character": "The Joker  (voice)",
+            "profile_path": "\/amccLvyTl5JP7T9F05BojgQedNw.jpg"
+        },
+        {
+            "name": "Rie Kugimiya",
+            "character": "Harley Quinn \/ Harleen Quinzel (voice)",
+            "profile_path": "\/xHonhNFpTpz9zCVXLAF7D4OuHLv.jpg"
+        },
+        {
+            "name": "Ai Kakuma",
+            "character": "Catwoman \/ Selina Kyle (voice)",
+            "profile_path": "\/o3tQSeeJAeafJNvQs2IKvpKY7av.jpg"
+        },
+        {
+            "name": "Hochu Otsuka",
+            "character": "Alfred Pennyworth (voice)",
+            "profile_path": "\/3RHQcrsWnAFK6AifSis1lMq08cR.jpg"
+        },
+        {
+            "name": "Daisuke Ono",
+            "character": "Nightwing \/ Dick Grayson (voice)",
+            "profile_path": "\/5rjl28lx84JjRS0hzq3Ajvx2dhp.jpg"
+        },
+        {
+            "name": "Akira Ishida",
+            "character": "Red Hood \/ Jason Todd (voice)",
+            "profile_path": "\/jnW2Gn2NlR2uwOCeyOuzypnTmkH.jpg"
+        },
+        {
+            "name": "Kengo Kawanishi",
+            "character": "Red Robin \/ Tim Drake (voice)",
+            "profile_path": "\/s0CxrO6LixJBgqiHEUjKelAh8ei.jpg"
+        },
+        {
+            "name": "Yuki Kaji",
+            "character": "Robin \/ Damian Wayne (voice)",
+            "profile_path": "\/8wKdPV11IwowfwoqGqMMNt9hmp6.jpg"
+        },
+        {
+            "name": "Junichi Suwabe",
+            "character": "Deathstroke \/ Slade Wilson (voice)",
+            "profile_path": "\/4S7c3n3r07A83HvkLrnWZGVhiHg.jpg"
+        },
+        {
+            "name": "Cho",
+            "character": "The Penguin \/ Oswald Cobblepot (voice)",
+            "profile_path": "\/70OZtKOHEGvbuMQAbQ01cGxrUDO.jpg"
+        },
+        {
+            "name": "Takehito Koyasu",
+            "character": "Gorilla Grodd (voice)",
+            "profile_path": "\/8uBkNDKPNmp9JWgMUI02NVyfhi1.jpg"
+        },
+        {
+            "name": "Toshiyuki Morikawa",
+            "character": "Two-Face \/ Harvey Dent (voice)",
+            "profile_path": "\/hrzGBe4nokgkBNFekNo5hlXB2Bv.jpg"
+        },
+        {
+            "name": "Atsuko Tanaka",
+            "character": "Poison Ivy \/ Pamela Isley (voice)",
+            "profile_path": "\/pacuup8TMK9SFsSJOY8jlbyzkFt.jpg"
+        },
+        {
+            "name": "Kenta Miyake",
+            "character": "Bane (voice)",
+            "profile_path": "\/7YL8vM2KYzPMeQqTpHWmNj6s1AP.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 85,
+    "enlaces": [
+        {
+            "nombre": "Vidara",
+            "url": "https:\/\/vidara.to\/e\/73su6qd9WhJkZ",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        }
+    ],
+    "added_date": "2026-09-24 22:24:48",
+    "created_at": "2026-09-24 22:24:48",
+    "updated_at": "2026-09-24 22:24:48"
+}
