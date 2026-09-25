@@ -1,0 +1,163 @@
+{
+    "id": "1790326376685",
+    "tmdb_id": "377",
+    "titulo": "Pesadilla en Elm Street",
+    "original_name": "A Nightmare on Elm Street",
+    "imagen": "\/qDmeYxsfNA68Bn7aW8HSkAuVmWf.jpg",
+    "backdrop_path": "\/nzSjTiecdosBfwMGAdpt9CxltCI.jpg",
+    "type": "movie",
+    "year": "1984",
+    "etiquetas": [
+        "Terror"
+    ],
+    "calidad": [],
+    "rate": 7.4000000000000003552713678800500929355621337890625,
+    "sinopsis": "Varios jóvenes de una pequeña localidad tienen habitualmente pesadillas en las que son perseguidos por un hombre deformado por el fuego y que usa un guante terminado en afiladas cuchillas. Algunos de ellos comienzan a ser asesinados mientras duermen por este ser, que resulta ser un asesino al que los padres de estos jóvenes quemaron vivo hace varios años tras descubrir que había asesinado a varios niños.",
+    "cast": [
+        {
+            "name": "Heather Langenkamp",
+            "character": "Nancy Thompson",
+            "profile_path": "\/1v3qxca6jvgTAo0T1CqC64DDpbK.jpg"
+        },
+        {
+            "name": "Johnny Depp",
+            "character": "Glen Lantz",
+            "profile_path": "\/k2xt6EUxQDwYRKIyI4IBdZxfs8n.jpg"
+        },
+        {
+            "name": "Robert Englund",
+            "character": "Fred Krueger",
+            "profile_path": "\/cjGEkiavinHa1dnetDvnEhlD2Wm.jpg"
+        },
+        {
+            "name": "Amanda Wyss",
+            "character": "Tina Gray",
+            "profile_path": "\/9vSHplyPkPVyBo7OjdWTOVgYumn.jpg"
+        },
+        {
+            "name": "Jsu Garcia",
+            "character": "Rod Lane",
+            "profile_path": "\/fXbhpqgxV5a2mnZykuwxc6ecGyF.jpg"
+        },
+        {
+            "name": "John Saxon",
+            "character": "Lt. Donald Thompson",
+            "profile_path": "\/rQh2ddJYtP3x2g1mnlFBQz547FO.jpg"
+        },
+        {
+            "name": "Ronee Blakley",
+            "character": "Marge Thompson",
+            "profile_path": "\/fLdnGFUv9bpT0Tk1iqKBV1k1TH0.jpg"
+        },
+        {
+            "name": "Charles Fleischer",
+            "character": "Dr. King",
+            "profile_path": "\/go7hUIC6mE2Tc0oy1pHeEqjlO3U.jpg"
+        },
+        {
+            "name": "Joseph Whipp",
+            "character": "Sergeant Parker",
+            "profile_path": "\/1ZRu1apOXYDvNjhci0wzXdtlOlW.jpg"
+        },
+        {
+            "name": "Lin Shaye",
+            "character": "Teacher",
+            "profile_path": "\/aL87Za52elH81zMiXQn5C7AXAeg.jpg"
+        },
+        {
+            "name": "Joe Unger",
+            "character": "Sergeant Garcia",
+            "profile_path": "\/wfNEYe7fmeb2nTjEvIvsN2up5aE.jpg"
+        },
+        {
+            "name": "Mimi Craven",
+            "character": "Nurse",
+            "profile_path": "\/9qvNLp2CB1wMLV14yay96BNa6qI.jpg"
+        },
+        {
+            "name": "Jack Shea",
+            "character": "Minister",
+            "profile_path": "\/cTpCWgGljL5livNuMB9MnanZRQH.jpg"
+        },
+        {
+            "name": "Ed Call",
+            "character": "Mr. Lantz",
+            "profile_path": ""
+        },
+        {
+            "name": "Sandy Lipton",
+            "character": "Mrs. Lantz",
+            "profile_path": ""
+        }
+    ],
+    "status": "Released",
+    "runtime": 91,
+    "enlaces": [
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/j70vzhaii2w3",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/ddlyogyubn19",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/9cltxwflls6b",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/tmbjw8p1a4ae",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/geb2yh1mr3a4",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/5v8oy4z1w11x",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/9nudlp84a5af",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/vblfq492pact",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/gvrmebvwgx7a",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "HD"
+        }
+    ],
+    "added_date": "2026-09-25 04:52:56",
+    "created_at": "2026-09-25 04:52:56",
+    "updated_at": "2026-09-25 04:52:56"
+}
