@@ -1,0 +1,48 @@
+{
+    "id": "1790302970362",
+    "tmdb_id": "1263337",
+    "titulo": "En el corazón de la bestia",
+    "original_name": "Heart of the Beast",
+    "imagen": "\/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
+    "backdrop_path": "\/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+    "type": "movie",
+    "year": "2026",
+    "etiquetas": [
+        "Aventura",
+        "Suspense"
+    ],
+    "calidad": [],
+    "rate": 7.70000000000000017763568394002504646778106689453125,
+    "sinopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
+    "cast": [
+        {
+            "name": "Brad Pitt",
+            "character": "James Belmont",
+            "profile_path": "\/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+        },
+        {
+            "name": "J.K. Simmons",
+            "character": "Walter Boone",
+            "profile_path": "\/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+        },
+        {
+            "name": "Anna Lambe",
+            "character": "Amber",
+            "profile_path": "\/cKm5ZnAOVc6nD8KAgSDMJdZclYH.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 101,
+    "enlaces": [
+        {
+            "nombre": "Vidara",
+            "url": "https:\/\/vidara.to\/e\/LHXyXvkYvL3dz",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "HD"
+        }
+    ],
+    "added_date": "2026-09-24 22:22:50",
+    "created_at": "2026-09-24 22:22:50",
+    "updated_at": "2026-09-24 22:22:50"
+}
