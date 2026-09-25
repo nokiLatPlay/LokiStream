@@ -1,5 +1,25 @@
 [
     {
+        "id": "1790325620466",
+        "tmdb_id": "1436219",
+        "titulo": "Pizza Movies",
+        "imagen": "/9mM5O5wWuBlD47y0lAqnPX28U0S.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Comedia",
+            "Romance",
+            "Drama"
+        ],
+        "rate": 5.29999999999999982236431605997495353221893310546875,
+        "added_date": "2026-09-25 04:40:20",
+        "created_at": "2026-09-25 04:40:20",
+        "updated_at": "2026-09-25 04:40:20",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790325603234",
         "tmdb_id": "1131759",
         "titulo": "Lector omnisciente: La profecía",
