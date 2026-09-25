@@ -1,5 +1,25 @@
 [
     {
+        "id": "1790324797344",
+        "tmdb_id": "541671",
+        "titulo": "Bailarina",
+        "imagen": "/gQCrYmvCK7JCLXjCGTMRF5Lzr5c.jpg",
+        "type": "movie",
+        "year": "2025",
+        "etiquetas": [
+            "Acción",
+            "Suspense",
+            "Crimen"
+        ],
+        "rate": 7.29999999999999982236431605997495353221893310546875,
+        "added_date": "2026-09-25 04:26:37",
+        "created_at": "2026-09-25 04:26:37",
+        "updated_at": "2026-09-25 04:26:39",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790324779608",
         "tmdb_id": "980431",
         "titulo": "Avatar: Aang, El último Maestro Aire",
