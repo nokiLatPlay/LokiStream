@@ -1,5 +1,25 @@
 [
     {
+        "id": "1790305637865",
+        "tmdb_id": "950028",
+        "titulo": "La invitación",
+        "imagen": "/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Comedia",
+            "Drama",
+            "Romance"
+        ],
+        "rate": 7.29999999999999982236431605997495353221893310546875,
+        "added_date": "2026-09-24 23:07:17",
+        "created_at": "2026-09-24 23:07:17",
+        "updated_at": "2026-09-24 23:07:18",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790304668699",
         "tmdb_id": "1288445",
         "titulo": "El motín",
