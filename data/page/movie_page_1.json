@@ -1,5 +1,25 @@
 [
     {
+        "id": "1790303021790",
+        "tmdb_id": "845",
+        "titulo": "Extraños en un tren",
+        "imagen": "/4o0mXvFkVBr7lzH5sOsHGKmsNI5.jpg",
+        "type": "movie",
+        "year": "1951",
+        "etiquetas": [
+            "Crimen",
+            "Suspense",
+            "Drama"
+        ],
+        "rate": 7.70000000000000017763568394002504646778106689453125,
+        "added_date": "2026-09-24 22:23:41",
+        "created_at": "2026-09-24 22:23:41",
+        "updated_at": "2026-09-24 22:23:43",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790302997551",
         "tmdb_id": "903",
         "titulo": "La leyenda del indomable",
