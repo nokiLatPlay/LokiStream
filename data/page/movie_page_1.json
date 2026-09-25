@@ -1,5 +1,23 @@
 [
     {
+        "id": "1790305779987",
+        "tmdb_id": "1273221",
+        "titulo": "Scary Movie: Terroríficamente incorrecta",
+        "imagen": "/qhGf7btEU9hcGz3A0lneNptJKL7.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Comedia"
+        ],
+        "rate": 6.4000000000000003552713678800500929355621337890625,
+        "added_date": "2026-09-24 23:09:39",
+        "created_at": "2026-09-24 23:09:39",
+        "updated_at": "2026-09-24 23:09:41",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790305748595",
         "tmdb_id": "1228834",
         "titulo": "The Fix",
