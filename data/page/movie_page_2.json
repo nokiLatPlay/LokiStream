@@ -1,5 +1,25 @@
 [
     {
+        "id": "1790325961211",
+        "tmdb_id": "9645",
+        "titulo": "Ghost Ship (Barco fantasma)",
+        "imagen": "/nEZutJiSDuzvvPlCTJ3HtuTJJFc.jpg",
+        "type": "movie",
+        "year": "2002",
+        "etiquetas": [
+            "Terror",
+            "Misterio",
+            "Suspense"
+        ],
+        "rate": 6,
+        "added_date": "2026-09-25 04:46:01",
+        "created_at": "2026-09-25 04:46:01",
+        "updated_at": "2026-09-25 04:46:03",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790325753558",
         "tmdb_id": "1374907",
         "titulo": "Como si fuéramos solo amigos",
