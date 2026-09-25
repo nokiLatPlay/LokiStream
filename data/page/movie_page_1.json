@@ -1,5 +1,24 @@
 [
     {
+        "id": "1790323713876",
+        "tmdb_id": "1291595",
+        "titulo": "La noche del demonio: Están entre nosotros",
+        "imagen": "/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Terror",
+            "Suspense"
+        ],
+        "rate": 6.5,
+        "added_date": "2026-09-25 04:08:33",
+        "created_at": "2026-09-25 04:08:33",
+        "updated_at": "2026-09-25 04:08:35",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790323692217",
         "tmdb_id": "1122573",
         "titulo": "En la zona gris",
