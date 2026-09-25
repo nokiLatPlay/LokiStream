@@ -1,5 +1,25 @@
 [
     {
+        "id": "1790321502800",
+        "tmdb_id": "1228710",
+        "titulo": "Star Wars: The Mandalorian and Grogu",
+        "imagen": "/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Acción",
+            "Aventura",
+            "Ciencia ficción"
+        ],
+        "rate": 7.5,
+        "added_date": "2026-09-25 03:31:42",
+        "created_at": "2026-09-25 03:31:42",
+        "updated_at": "2026-09-25 03:31:44",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790321462826",
         "tmdb_id": "1315772",
         "titulo": "Minions & Monstruos",
