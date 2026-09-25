@@ -1,5 +1,24 @@
 [
     {
+        "id": "1790303209248",
+        "tmdb_id": "1607127",
+        "titulo": "Un último disparo",
+        "imagen": "/opmrLPrV2GPSazjWbX2PhkLjxBe.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Acción",
+            "Suspense"
+        ],
+        "rate": 7.79999999999999982236431605997495353221893310546875,
+        "added_date": "2026-09-24 22:26:49",
+        "created_at": "2026-09-24 22:26:49",
+        "updated_at": "2026-09-24 22:26:50",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790303166719",
         "tmdb_id": "676685",
         "titulo": "Misión Panda en África",
