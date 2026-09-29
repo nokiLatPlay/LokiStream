@@ -80,7 +80,6 @@
             "capitulos": [
                 {
                     "episode_id": "S01E01",
-                    "episode_number": 1,
                     "nombre": "Verudora, el Dragón de la Tormenta",
                     "portada": "\/kn2O2A6yxvPNjyxJ2gJmW6l8qzs.jpg",
                     "enlaces": [
@@ -123,7 +122,6 @@
                 },
                 {
                     "episode_id": "S01E02",
-                    "episode_number": 2,
                     "nombre": "Conociendo a los duendes",
                     "portada": "\/bl7NSSaMhVQFAUdVMyyzylfZ5Be.jpg",
                     "enlaces": [
@@ -166,7 +164,6 @@
                 },
                 {
                     "episode_id": "S01E03",
-                    "episode_number": 3,
                     "nombre": "Batalla en la aldea duende",
                     "portada": "\/uB7iLDVu1DXXk8u4IOr3O4eWAY1.jpg",
                     "enlaces": [
@@ -216,7 +213,6 @@
                 },
                 {
                     "episode_id": "S01E04",
-                    "episode_number": 4,
                     "nombre": "En el reino de los enanos",
                     "portada": "\/4kAo0igLqN4ql5IjOXFM1x2qE40.jpg",
                     "enlaces": [
@@ -259,7 +255,6 @@
                 },
                 {
                     "episode_id": "S01E05",
-                    "episode_number": 5,
                     "nombre": "Gazel Dwargo, el Rey de los Héroes",
                     "portada": "\/jZiQCe4EvUZMYUqdztgzmqgNYUH.jpg",
                     "enlaces": [
@@ -309,7 +304,6 @@
                 },
                 {
                     "episode_id": "S01E06",
-                    "episode_number": 6,
                     "nombre": "Shizu",
                     "portada": "\/umRZpXoBQ6L1KbSm9g74ZSofJ9J.jpg",
                     "enlaces": [
@@ -359,7 +353,6 @@
                 },
                 {
                     "episode_id": "S01E07",
-                    "episode_number": 7,
                     "nombre": "Conquistadora de llamas",
                     "portada": "\/eCFR8aqyILnl6sUS3QgFNFkMH6r.jpg",
                     "enlaces": [
@@ -409,7 +402,6 @@
                 },
                 {
                     "episode_id": "S01E08",
-                    "episode_number": 8,
                     "nombre": "Voluntad heredada",
                     "portada": "\/2rLu3nl83nHbvqE435xAlyV40yw.jpg",
                     "enlaces": [
@@ -452,7 +444,6 @@
                 },
                 {
                     "episode_id": "S01E09",
-                    "episode_number": 9,
                     "nombre": "El ataque de los ogros",
                     "portada": "\/c3XhKRZlM7HLkhHpmzi2z2aeiZD.jpg",
                     "enlaces": [
@@ -495,7 +486,6 @@
                 },
                 {
                     "episode_id": "S01E10",
-                    "episode_number": 10,
                     "nombre": "El Señor Orco",
                     "portada": "\/hMerUrDesUpiZyynGMsQjE5BgDq.jpg",
                     "enlaces": [
@@ -545,7 +535,6 @@
                 },
                 {
                     "episode_id": "S01E11",
-                    "episode_number": 11,
                     "nombre": "¡Gabiru ha llegado!",
                     "portada": "\/8qmpYCQouyHFFC0iR77I6KBoF2u.jpg",
                     "enlaces": [
@@ -588,7 +577,6 @@
                 },
                 {
                     "episode_id": "S01E12",
-                    "episode_number": 12,
                     "nombre": "Los engranajes pierden el control",
                     "portada": "\/4sekRZzE4nat8VytAhTUVGEEpYK.jpg",
                     "enlaces": [
@@ -638,7 +626,6 @@
                 },
                 {
                     "episode_id": "S01E13",
-                    "episode_number": 13,
                     "nombre": "El gran combate",
                     "portada": "\/9PcZM0qOxB5AnE6IPSGJFW9JG3V.jpg",
                     "enlaces": [
@@ -681,7 +668,6 @@
                 },
                 {
                     "episode_id": "S01E14",
-                    "episode_number": 14,
                     "nombre": "El que lo devora todo",
                     "portada": "\/46oZhigxWtncWcTRtu60TWuXZiv.jpg",
                     "enlaces": [
@@ -731,7 +717,6 @@
                 },
                 {
                     "episode_id": "S01E15",
-                    "episode_number": 15,
                     "nombre": "La Coalición del Gran Bosque de Jura",
                     "portada": "\/iFStfGwmHg8XtloFhPlIBB3XMFn.jpg",
                     "enlaces": [
@@ -774,7 +759,6 @@
                 },
                 {
                     "episode_id": "S01E16",
-                    "episode_number": 16,
                     "nombre": "El Rey Demonio Milim ataca",
                     "portada": "\/j7IZf3gTyvS8j5K1AWv8J9EpytK.jpg",
                     "enlaces": [
@@ -824,7 +808,6 @@
                 },
                 {
                     "episode_id": "S01E17",
-                    "episode_number": 17,
                     "nombre": "La reunión",
                     "portada": "\/isClSj96Vwlv1FgYpRYoNXWbejg.jpg",
                     "enlaces": [
@@ -867,7 +850,6 @@
                 },
                 {
                     "episode_id": "S01E18",
-                    "episode_number": 18,
                     "nombre": "El mal se acerca",
                     "portada": "\/7RVXfIQ1erRpRdWpaYOr5VbEuYz.jpg",
                     "enlaces": [
@@ -917,7 +899,6 @@
                 },
                 {
                     "episode_id": "S01E19",
-                    "episode_number": 19,
                     "nombre": "Charybdis",
                     "portada": "\/ag2XMpv9gi3EFbjsUvHMKBRT7H8.jpg",
                     "enlaces": [
@@ -967,7 +948,6 @@
                 },
                 {
                     "episode_id": "S01E20",
-                    "episode_number": 20,
                     "nombre": "Yuuki Kagurazaka",
                     "portada": "\/eddUGXrqpY99Y5RWpgNsy8TVorz.jpg",
                     "enlaces": [
@@ -1010,7 +990,6 @@
                 },
                 {
                     "episode_id": "S01E21",
-                    "episode_number": 21,
                     "nombre": "Los estudiantes de Shizu",
                     "portada": "\/waETiQ7NF5Dpcy7G853myOt9piH.jpg",
                     "enlaces": [
@@ -1060,7 +1039,6 @@
                 },
                 {
                     "episode_id": "S01E22",
-                    "episode_number": 22,
                     "nombre": "Conquistando el laberinto",
                     "portada": "\/p5o1dVBXSiy3Sn6krkuHNAxVVjS.jpg",
                     "enlaces": [
@@ -1110,7 +1088,6 @@
                 },
                 {
                     "episode_id": "S01E23",
-                    "episode_number": 23,
                     "nombre": "Almas salvadas",
                     "portada": "\/53AyHp2PohkqITF2HMy49rMVpmP.jpg",
                     "enlaces": [
@@ -1153,7 +1130,6 @@
                 },
                 {
                     "episode_id": "S01E24",
-                    "episode_number": 24,
                     "nombre": "Extra: Negro y una máscara",
                     "portada": "\/1dfhbX75RXgO0hAR08PpUR2Z3nL.jpg",
                     "enlaces": [
@@ -1203,7 +1179,6 @@
             "capitulos": [
                 {
                     "episode_id": "S02E01",
-                    "episode_number": 1,
                     "nombre": "La ajetreada vida de Rimuru",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/3sD1UQsaRqmbQCKiNZAuyRV4s1h.jpg",
                     "enlaces": [
@@ -1267,7 +1242,6 @@
                 },
                 {
                     "episode_id": "S02E02",
-                    "episode_number": 2,
                     "nombre": "Comercio con el Reino Animal",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/x5nhiCBBmI69PAEbttRN66nTL6d.jpg",
                     "enlaces": [
@@ -1317,7 +1291,6 @@
                 },
                 {
                     "episode_id": "S02E03",
-                    "episode_number": 3,
                     "nombre": "El paraíso, de nuevo",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/tDu3AlVFeqQYaW4cNe5VpdRHn7f.jpg",
                     "enlaces": [
@@ -1381,7 +1354,6 @@
                 },
                 {
                     "episode_id": "S02E04",
-                    "episode_number": 4,
                     "nombre": "Las estratagemas del reino de Falmuth",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/rDgVd7RALIs5AddXvPxhCX3epc8.jpg",
                     "enlaces": [
@@ -1445,7 +1417,6 @@
                 },
                 {
                     "episode_id": "S02E05",
-                    "episode_number": 5,
                     "nombre": "Preludio al desastre",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/gxIH2VyiJii33RI01YKuyWlC5OS.jpg",
                     "enlaces": [
@@ -1495,7 +1466,6 @@
                 },
                 {
                     "episode_id": "S02E06",
-                    "episode_number": 6,
                     "nombre": "La belleza entra en acción",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/t0pVgAn54d8hEM8jlXKR6mo78d8.jpg",
                     "enlaces": [
@@ -1545,7 +1515,6 @@
                 },
                 {
                     "episode_id": "S02E07",
-                    "episode_number": 7,
                     "nombre": "Desesperación",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/9USrLwMcUYAsEf23FsUhkA9MXuu.jpg",
                     "enlaces": [
@@ -1595,7 +1564,6 @@
                 },
                 {
                     "episode_id": "S02E08",
-                    "episode_number": 8,
                     "nombre": "Esperanza",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/oevQGAJLWW1pSCnrWIzz1WQu3hw.jpg",
                     "enlaces": [
@@ -1645,7 +1613,6 @@
                 },
                 {
                     "episode_id": "S02E09",
-                    "episode_number": 9,
                     "nombre": "Arriesgándolo todo",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/oSSUuI7fI1GtHX9eBhIdNprsgsV.jpg",
                     "enlaces": [
@@ -1709,7 +1676,6 @@
                 },
                 {
                     "episode_id": "S02E10",
-                    "episode_number": 10,
                     "nombre": "Megiddo",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/llymxkqLyxv7G7SJUB8Kp3HQsw6.jpg",
                     "enlaces": [
@@ -1759,7 +1725,6 @@
                 },
                 {
                     "episode_id": "S02E11",
-                    "episode_number": 11,
                     "nombre": "Nace un Rey Demonio",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/mJJZ9fQ2kCZtEooOYaDteLBbVg6.jpg",
                     "enlaces": [
@@ -1823,7 +1788,6 @@
                 },
                 {
                     "episode_id": "S02E12",
-                    "episode_number": 12,
                     "nombre": "Desatado",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/oJNmEBZbQbYJ23CKs4ez6F4X1NU.jpg",
                     "enlaces": [
@@ -1873,7 +1837,6 @@
                 },
                 {
                     "episode_id": "S02E13",
-                    "episode_number": 13,
                     "nombre": "Los visitantes",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/jBI5jxywljEpn2rRJ4Za638l94U.jpg",
                     "enlaces": [
@@ -1909,7 +1872,6 @@
                 },
                 {
                     "episode_id": "S02E14",
-                    "episode_number": 14,
                     "nombre": "Debate entre humanos y monstruos",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/2Bhta8n31W6N5BYyWZGioHwcf2r.jpg",
                     "enlaces": [
@@ -1959,7 +1921,6 @@
                 },
                 {
                     "episode_id": "S02E15",
-                    "episode_number": 15,
                     "nombre": "Las noticias de Ramiris",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/rV0yfsBqoCbRZf93h1MbfEImGqW.jpg",
                     "enlaces": [
@@ -2009,7 +1970,6 @@
                 },
                 {
                     "episode_id": "S02E16",
-                    "episode_number": 16,
                     "nombre": "Desorden en la reunión",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/zVYNjYBsrBVZZaVz8x3uO1TSx5Z.jpg",
                     "enlaces": [
@@ -2059,7 +2019,6 @@
                 },
                 {
                     "episode_id": "S02E17",
-                    "episode_number": 17,
                     "nombre": "La víspera de la batalla",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/5Q9Y5d5V8xSJ9hyhWEOkSviNPS8.jpg",
                     "enlaces": [
@@ -2109,7 +2068,6 @@
                 },
                 {
                     "episode_id": "S02E18",
-                    "episode_number": 18,
                     "nombre": "Los Reyes Demonio",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/36fEVDsd90B2nmMOvjxgmMrooG8.jpg",
                     "enlaces": [
@@ -2173,7 +2131,6 @@
                 },
                 {
                     "episode_id": "S02E19",
-                    "episode_number": 19,
                     "nombre": "Empieza el banquete",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/myX4iY2MSXFqzQwDdZ9NY5WnEWu.jpg",
                     "enlaces": [
@@ -2223,7 +2180,6 @@
                 },
                 {
                     "episode_id": "S02E20",
-                    "episode_number": 20,
                     "nombre": "En el lugar predestinado",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/grvpiSfzWRVsjKm7T9g0eGjZDeJ.jpg",
                     "enlaces": [
@@ -2273,7 +2229,6 @@
                 },
                 {
                     "episode_id": "S02E21",
-                    "episode_number": 21,
                     "nombre": "Adalman, el Índice",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/uOfZ4vpjzLmrxwQLD0xNtc752lQ.jpg",
                     "enlaces": [
@@ -2323,7 +2278,6 @@
                 },
                 {
                     "episode_id": "S02E22",
-                    "episode_number": 22,
                     "nombre": "Walpurgis",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/8qorHFrntCGKcb5VEMKTek9tAbW.jpg",
                     "enlaces": [
@@ -2373,7 +2327,6 @@
                 },
                 {
                     "episode_id": "S02E23",
-                    "episode_number": 23,
                     "nombre": "Recuperación",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/xagCdFgh27KPDG6myv3uG3BrZpD.jpg",
                     "enlaces": [
@@ -2423,7 +2376,6 @@
                 },
                 {
                     "episode_id": "S02E24",
-                    "episode_number": 24,
                     "nombre": "Octagram",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/zZmkBDXs1qgTgL9ajzcRTnEZM6p.jpg",
                     "enlaces": [
@@ -2480,7 +2432,6 @@
             "capitulos": [
                 {
                     "episode_id": "S03E01",
-                    "episode_number": 1,
                     "nombre": "Demonios e intrigas",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/qGdvJCuZLL3XTlaVcokjmjOYwVT.jpg",
                     "enlaces": [
@@ -2544,7 +2495,6 @@
                 },
                 {
                     "episode_id": "S03E02",
-                    "episode_number": 2,
                     "nombre": "Los planes de los santos",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/gnkxMRfTMvM4MINia242eUwC2BC.jpg",
                     "enlaces": [
@@ -2608,7 +2558,6 @@
                 },
                 {
                     "episode_id": "S03E03",
-                    "episode_number": 3,
                     "nombre": "Días de paz",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/oX5lgWyfgFytnF4CMd54iiSZk4z.jpg",
                     "enlaces": [
@@ -2672,7 +2621,6 @@
                 },
                 {
                     "episode_id": "S03E04",
-                    "episode_number": 4,
                     "nombre": "El papel de cada uno",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/jxataJe0pYR1TsO6XdmALL9ANxw.jpg",
                     "enlaces": [
@@ -2736,7 +2684,6 @@
                 },
                 {
                     "episode_id": "S03E05",
-                    "episode_number": 5,
                     "nombre": "Reunión de las dos alas",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/kzmSrgouF94DQPtUDh4Kz5TKWD8.jpg",
                     "enlaces": [
@@ -2800,7 +2747,6 @@
                 },
                 {
                     "episode_id": "S03E06",
-                    "episode_number": 6,
                     "nombre": "Los que se aproximan",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/b8A5oHCMXL1jjuO2M03JscJdzuS.jpg",
                     "enlaces": [
@@ -2864,7 +2810,6 @@
                 },
                 {
                     "episode_id": "S03E07",
-                    "episode_number": 7,
                     "nombre": "Santos y monstruos",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/6mNV55ohN64U7aJwEmJjjp4hGKi.jpg",
                     "enlaces": [
@@ -2942,7 +2887,6 @@
                 },
                 {
                     "episode_id": "S03E08",
-                    "episode_number": 8,
                     "nombre": "Empezando con mal pie",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/c3Jj3Xb99fSvJJpvddxZnq3dy0c.jpg",
                     "enlaces": [
@@ -3006,7 +2950,6 @@
                 },
                 {
                     "episode_id": "S03E09",
-                    "episode_number": 9,
                     "nombre": "La conspiración de las Siete Eminencias",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/bGT0jO2TjNWLg3OiDkGdaSJP6g9.jpg",
                     "enlaces": [
@@ -3070,7 +3013,6 @@
                 },
                 {
                     "episode_id": "S03E10",
-                    "episode_number": 10,
                     "nombre": "Dios y Rey Demonio",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/9jYxy649Hdhsq8h5TvuLHiAAv7B.jpg",
                     "enlaces": [
@@ -3134,7 +3076,6 @@
                 },
                 {
                     "episode_id": "S03E11",
-                    "episode_number": 11,
                     "nombre": "Reconciliación y acuerdo",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/wwHzXThhY1lXcMWSRbVStjdpLEw.jpg",
                     "enlaces": [
@@ -3198,7 +3139,6 @@
                 },
                 {
                     "episode_id": "S03E12",
-                    "episode_number": 12,
                     "nombre": "Preparando el evento",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/hPGZS4IGBxTQVZJmhgUwIIFXslH.jpg",
                     "enlaces": [
@@ -3262,7 +3202,6 @@
                 },
                 {
                     "episode_id": "S03E13",
-                    "episode_number": 13,
                     "nombre": "Invitaciones para los reinos",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/3zBjNDMUpcRVjgFjZocBEGqAT9F.jpg",
                     "enlaces": [
@@ -3326,7 +3265,6 @@
                 },
                 {
                     "episode_id": "S03E14",
-                    "episode_number": 14,
                     "nombre": "El laberinto y el Dragón de la Tormenta",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/r2etwUKAEWtBwpS1IxawnFGUXDL.jpg",
                     "enlaces": [
@@ -3390,7 +3328,6 @@
                 },
                 {
                     "episode_id": "S03E15",
-                    "episode_number": 15,
                     "nombre": "Audiencia",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/3sNFkBcw2Voe9B7vNj2EZw9f5KM.jpg",
                     "enlaces": [
@@ -3454,7 +3391,6 @@
                 },
                 {
                     "episode_id": "S03E16",
-                    "episode_number": 16,
                     "nombre": "El sufrmiento de Benimaru",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/pimVG6E4gDUEpttY4OZCXDLZmbb.jpg",
                     "enlaces": [
@@ -3518,7 +3454,6 @@
                 },
                 {
                     "episode_id": "S03E17",
-                    "episode_number": 17,
                     "nombre": "El héroe destello",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/7xUiEXbNU4yWw4r8XWmBrrC6wsB.jpg",
                     "enlaces": [
@@ -3582,7 +3517,6 @@
                 },
                 {
                     "episode_id": "S03E18",
-                    "episode_number": 18,
                     "nombre": "Marea de visitantes",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/er7j1Py01CRLM8ZOtzv5yBVREjX.jpg",
                     "enlaces": [
@@ -3646,7 +3580,6 @@
                 },
                 {
                     "episode_id": "S03E19",
-                    "episode_number": 19,
                     "nombre": "Víspera del festival",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/sDHYySPS447hY31ukvDRAar0ODo.jpg",
                     "enlaces": [
@@ -3710,7 +3643,6 @@
                 },
                 {
                     "episode_id": "S03E20",
-                    "episode_number": 20,
                     "nombre": "Festival de Apertura",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/ibk5z7Byfgqi1J9Fv2iZ0iMqizh.jpg",
                     "enlaces": [
@@ -3774,7 +3706,6 @@
                 },
                 {
                     "episode_id": "S03E21",
-                    "episode_number": 21,
                     "nombre": "Torneo marcial",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/eeBoOXCFaClxOoZYkVjxQejtRVe.jpg",
                     "enlaces": [
@@ -3838,7 +3769,6 @@
                 },
                 {
                     "episode_id": "S03E22",
-                    "episode_number": 22,
                     "nombre": "Zanjar la disputa con el héroe",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/cvHGEtq9GNlCw881vxQGdiMKVSh.jpg",
                     "enlaces": [
@@ -3902,7 +3832,6 @@
                 },
                 {
                     "episode_id": "S03E23",
-                    "episode_number": 23,
                     "nombre": "Se abre el laberinto",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/W2cb5PfYVUTZyxskYTnTWw93Ps.jpg",
                     "enlaces": [
@@ -3966,7 +3895,6 @@
                 },
                 {
                     "episode_id": "1787096173574",
-                    "episode_number": 24,
                     "nombre": "Después del festival",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/uP8ocjWcFCWazhPpP8wVpGfezYM.jpg",
                     "enlaces": [
@@ -4037,7 +3965,6 @@
             "capitulos": [
                 {
                     "episode_id": "S04E01",
-                    "episode_number": 1,
                     "nombre": "Una nueva rutina",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/gb4p6xHYwN3c4gYlnVzvpFtlOB8.jpg",
                     "enlaces": [
@@ -4122,7 +4049,6 @@
                 },
                 {
                     "episode_id": "S04E02",
-                    "episode_number": 2,
                     "nombre": "La evolución de la mazmorra",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/nRLCpzRP359dz7u475PlzOuT9zW.jpg",
                     "enlaces": [
@@ -4207,7 +4133,6 @@
                 },
                 {
                     "episode_id": "S04E03",
-                    "episode_number": 3,
                     "nombre": "El nacimiento del equipo Avatar",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/tm0pmQIOdzW5choXRITpHgYGGSC.jpg",
                     "enlaces": [
@@ -4292,7 +4217,6 @@
                 },
                 {
                     "episode_id": "S04E04",
-                    "episode_number": 4,
                     "nombre": "Invitación",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/wzYc59SeMxQUIrb01D3BwIAj90c.jpg",
                     "enlaces": [
@@ -4377,7 +4301,6 @@
                 },
                 {
                     "episode_id": "S04E05",
-                    "episode_number": 5,
                     "nombre": "El primer paso",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/ztpuWTZbiM0aXFlUSGdhk1Q17zk.jpg",
                     "enlaces": [
@@ -4448,7 +4371,6 @@
                 },
                 {
                     "episode_id": "S04E06",
-                    "episode_number": 6,
                     "nombre": "Consejo del Oeste",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/27GSNADh5MnmkTwHC8pmi3SOW7G.jpg",
                     "enlaces": [
@@ -4533,7 +4455,6 @@
                 },
                 {
                     "episode_id": "S04E07",
-                    "episode_number": 7,
                     "nombre": "La identidad de la mente maestra",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/edUKB10nnw9BBK0dyoJNiAlSR56.jpg",
                     "enlaces": [
@@ -4618,7 +4539,6 @@
                 },
                 {
                     "episode_id": "S04E08",
-                    "episode_number": 8,
                     "nombre": "Los preparativos de la avaricia",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/bs2vK9WUOQKvwj8KEC3Ra3WXDQV.jpg",
                     "enlaces": [
@@ -4738,7 +4658,6 @@
                 },
                 {
                     "episode_id": "S04E09",
-                    "episode_number": 9,
                     "nombre": "Episodio 9",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/1hrPaiyrBjC9jpB5n43VOzZ8SFA.jpg",
                     "enlaces": [
@@ -4858,7 +4777,6 @@
                 },
                 {
                     "episode_id": "S04E10",
-                    "episode_number": 10,
                     "nombre": "Episodio 10",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/zv5JGGOQl9Rii3NrVip295TyVyE.jpg",
                     "enlaces": [
@@ -5013,7 +4931,6 @@
                 },
                 {
                     "episode_id": "S04E11",
-                    "episode_number": 11,
                     "nombre": "Episodio 11",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/w5bBroiKoeCe69CHew0y6Q1edQ8.jpg",
                     "enlaces": [
@@ -5154,7 +5071,6 @@
                 },
                 {
                     "episode_id": "S04E12",
-                    "episode_number": 12,
                     "nombre": "Episodio 12",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/xtucVEgiymwJ61iErgqom5WcYt.jpg",
                     "enlaces": [
@@ -5274,7 +5190,6 @@
                 },
                 {
                     "episode_id": "S04E13",
-                    "episode_number": 13,
                     "nombre": "Episodio 13",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/uLRfCUw0ql6HKOezGv5HmsUMooo.jpg",
                     "enlaces": [
@@ -5436,7 +5351,6 @@
                 },
                 {
                     "episode_id": "S04E14",
-                    "episode_number": 14,
                     "nombre": "Episodio 14",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/zDtZhnrOtUD1Ueglhn41sijiTFy.jpg",
                     "enlaces": [
@@ -5612,7 +5526,6 @@
                 },
                 {
                     "episode_id": "S04E15",
-                    "episode_number": 15,
                     "nombre": "Episodio 15",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/noOoh43MXQ0qxvddcoHVj7EQmp6.jpg",
                     "enlaces": [
@@ -5767,7 +5680,6 @@
                 },
                 {
                     "episode_id": "S04E16",
-                    "episode_number": 16,
                     "nombre": "Episodio 16",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/3XrByRxQ9rbylMvIarBwTzoREWR.jpg",
                     "enlaces": [
@@ -5943,7 +5855,6 @@
                 },
                 {
                     "episode_id": "S04E17",
-                    "episode_number": 17,
                     "nombre": "Episodio 17",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/eIZA3IG22NbzRvxgpnA4PlD4gZT.jpg",
                     "enlaces": [
@@ -6028,7 +5939,6 @@
                 },
                 {
                     "episode_id": "S04E18",
-                    "episode_number": 18,
                     "nombre": "Episodio 18",
                     "portada": "https:\/\/image.tmdb.org\/t\/p\/w500\/fzxTUT8WY5wEmDR19FHIu2d5oXE.jpg",
                     "enlaces": [
@@ -6106,8 +6016,7 @@
                 },
                 {
                     "episode_id": "S04E19",
-                    "episode_number": 19,
-                    "nombre": "Episodio 19",
+                    "nombre": "Chronoa la heroína (1)",
                     "portada": "\/xqCDprdbOHfH9CRS2Ane9yshg3A.jpg",
                     "enlaces": [
                         {
@@ -6163,7 +6072,6 @@
                 },
                 {
                     "episode_id": "S04E20",
-                    "episode_number": 20,
                     "nombre": "Episodio 20",
                     "portada": "\/hn5HRmks2ou12NCRKNgJ3lC4HJB.jpg",
                     "enlaces": [
@@ -6217,11 +6125,180 @@
                             "quality": ""
                         }
                     ]
+                },
+                {
+                    "episode_id": "S04E21",
+                    "nombre": "Chronoa la heroína (2)",
+                    "portada": "\/m6pzBUdcEfVzv0qS2SMm4QWNATV.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/2hsah1rzjklp",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "720p"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/filelions.top\/v\/ia74nn7o4ueq",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "720p"
+                        },
+                        {
+                            "nombre": "Uqload",
+                            "url": "https:\/\/uqload.is\/embed-1mpt5ie6010u.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "720p"
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/mp4upload.com\/embed-6j3ryekao6cf.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "720p"
+                        },
+                        {
+                            "nombre": "Doodstream",
+                            "url": "https:\/\/playmogo.com\/e\/irwgn82bhzb3",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "720p"
+                        },
+                        {
+                            "nombre": "Luluvdo",
+                            "url": "https:\/\/luluvdo.com\/e\/wbruz7qppvzx",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "720p"
+                        },
+                        {
+                            "nombre": "Bysesukior",
+                            "url": "https:\/\/bysesukior.com\/e\/hqzbmkayu1bw",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "720p"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E22",
+                    "nombre": "Donde reside el alma",
+                    "portada": "\/zolzvsVRHj2Y5toRZdWAOdLlCb5.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ytg2nrfup34z",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "720p"
+                        },
+                        {
+                            "nombre": "Uqload",
+                            "url": "https:\/\/uqload.is\/embed-wgk5tsbcy6ag.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "720p"
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/mp4upload.com\/embed-nx56z52hs0st.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "720p"
+                        },
+                        {
+                            "nombre": "Doodstream",
+                            "url": "https:\/\/playmogo.com\/e\/d1oscq1tnq71",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "720p"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E23",
+                    "nombre": "La esperanza de Granville",
+                    "portada": "\/hjk4atAZnudp5oCFe1R8RvMwoAW.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/hztzlgzdoed8",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "720p"
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/filelions.top\/v\/w247se42xwum",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "720p"
+                        },
+                        {
+                            "nombre": "Uqload",
+                            "url": "https:\/\/uqload.is\/embed-az4txgtd7d4b.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "720p"
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/mp4upload.com\/embed-dltpd1a6h0tf.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "720p"
+                        },
+                        {
+                            "nombre": "Doodstream",
+                            "url": "https:\/\/playmogo.com\/e\/2chcjchubwd7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "720p"
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E24",
+                    "nombre": "El héroe despierta",
+                    "portada": "\/Ag3tp12uy0nhSJuAe6lI6oNxyK7.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/fwgtae7ewc92",
+                            "type": "descarga",
+                            "language": "Sub",
+                            "quality": "720p"
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-mtps1043ggsc.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "720p"
+                        },
+                        {
+                            "nombre": "Uqload",
+                            "url": "https:\/\/uqload.is\/embed-0bf0bb0zmo3d.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "720p"
+                        },
+                        {
+                            "nombre": "Doodstream",
+                            "url": "https:\/\/playmogo.com\/d\/vugrwz0der6x",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": "720p"
+                        }
+                    ]
                 }
             ]
         }
     ],
     "added_date": "2026-08-18 19:36:13",
     "created_at": "2026-08-18 19:36:13",
-    "updated_at": "2026-09-01 04:09:14"
+    "updated_at": "2026-09-29 18:52:52",
+    "update_states": "No actualizado"
 }
