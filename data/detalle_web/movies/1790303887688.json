@@ -115,6 +115,20 @@
             "type": "streaming",
             "language": "Sub",
             "quality": "HD"
+        },
+        {
+            "nombre": "Vimeos",
+            "url": "https://vimeos.net/embed-bv19oh01kdb9.html",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Goodstream",
+            "url": "https://goodstream.one/embed-utvlq2o9eivq.html",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "HD"
         }
     ],
     "added_date": "2026-09-24 22:38:07",
