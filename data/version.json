@@ -1,8 +1,8 @@
 {
   "version_code": 1,
-  "version_name": "1.2.0",
+  "version_name": "1.3",
   "latest_version": true,
-  "update_required": false,
+  "update_required": true,
   "title": "Nueva versión disponible",
   "message": "Hemos actualizado Proyect99 con mejoras de rendimiento, nuevos contenidos y una experiencia más fluida.",
   "changes": [
@@ -12,6 +12,6 @@
     "Mejor rendimiento de la aplicación",
     "Mejoras en la interfaz"
   ],
-  "download_url": "https://www.mediafire.com/file/rtzhek5akili8wq/Proyect99_%255BV1.2.0%255D_Oficial.apk/file",
-  "release_date": "2026-09-21"
+  "download_url": "https://www.mediafire.com/file/c5bipk32bavvcix/Proyect99_%255BV1.3%255D_oficial.apk/file",
+  "release_date": "2026-10-1"
 }
