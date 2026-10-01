@@ -1,5 +1,26 @@
 [
     {
+        "id": "1790848446358",
+        "tmdb_id": "10676",
+        "titulo": "Halloween III: El día de la bruja",
+        "imagen": "/hbnLPuazrrUqHxbm2Tsd22tHdHQ.jpg",
+        "type": "movie",
+        "year": "1982",
+        "etiquetas": [
+            "Terror",
+            "Ciencia ficción",
+            "Misterio",
+            "Suspense"
+        ],
+        "rate": 5.29999999999999982236431605997495353221893310546875,
+        "added_date": "2026-10-01 05:54:06",
+        "created_at": "2026-10-01 05:54:06",
+        "updated_at": "2026-10-01 05:54:07",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790848370330",
         "tmdb_id": "11281",
         "titulo": "Halloween II: Sanguinario",
