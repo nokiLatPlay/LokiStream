@@ -1,5 +1,24 @@
 [
     {
+        "id": "1790848526320",
+        "tmdb_id": "11357",
+        "titulo": "Halloween 4: El regreso de Michael Myers",
+        "imagen": "/dajbRAwMb2hLGrTQwOHeCc6ouPR.jpg",
+        "type": "movie",
+        "year": "1988",
+        "etiquetas": [
+            "Terror",
+            "Suspense"
+        ],
+        "rate": 6.20000000000000017763568394002504646778106689453125,
+        "added_date": "2026-10-01 05:55:26",
+        "created_at": "2026-10-01 05:55:26",
+        "updated_at": "2026-10-01 05:55:28",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790848446358",
         "tmdb_id": "10676",
         "titulo": "Halloween III: El día de la bruja",
