@@ -1,5 +1,25 @@
 [
     {
+        "id": "1791010402564",
+        "tmdb_id": "1234821",
+        "titulo": "Jurassic World: El renacer",
+        "imagen": "/2sbGd7kDhMicDkT097FR9a2JyGU.jpg",
+        "type": "movie",
+        "year": "2025",
+        "etiquetas": [
+            "Ciencia ficción",
+            "Aventura",
+            "Acción"
+        ],
+        "rate": 6.29999999999999982236431605997495353221893310546875,
+        "added_date": "2026-10-03 02:53:22",
+        "created_at": "2026-10-03 02:53:22",
+        "updated_at": "2026-10-03 02:53:23",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1791010331639",
         "tmdb_id": "1368166",
         "titulo": "La asistenta",
