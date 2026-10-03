@@ -1,5 +1,24 @@
 [
     {
+        "id": "1791010331639",
+        "tmdb_id": "1368166",
+        "titulo": "La asistenta",
+        "imagen": "/tMEu0gniT4zfcyDF5KMjof0DMog.jpg",
+        "type": "movie",
+        "year": "2025",
+        "etiquetas": [
+            "Misterio",
+            "Suspense"
+        ],
+        "rate": 7.29999999999999982236431605997495353221893310546875,
+        "added_date": "2026-10-03 02:52:11",
+        "created_at": "2026-10-03 02:52:11",
+        "updated_at": "2026-10-03 02:52:13",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1790848526320",
         "tmdb_id": "11357",
         "titulo": "Halloween 4: El regreso de Michael Myers",
