@@ -1,5 +1,26 @@
 [
     {
+        "id": "1791182445886",
+        "tmdb_id": "1406657",
+        "titulo": "Scarlet",
+        "imagen": "/q02d53qC6VGL3Di53bAuIR13rYf.jpg",
+        "type": "movie",
+        "year": "2025",
+        "etiquetas": [
+            "Animación",
+            "Acción",
+            "Drama",
+            "Ciencia ficción"
+        ],
+        "rate": 7,
+        "added_date": "2026-10-05 02:40:45",
+        "created_at": "2026-10-05 02:40:45",
+        "updated_at": "2026-10-05 02:40:47",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1791182177531",
         "tmdb_id": "959646",
         "titulo": "Zombie Land Saga: Yumeginga Paradise",
