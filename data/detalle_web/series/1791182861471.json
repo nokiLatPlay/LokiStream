@@ -1,0 +1,1304 @@
+{
+    "id": "1791182861471",
+    "tmdb_id": "305386",
+    "titulo": "Reborn as a cat",
+    "original_name": "为喵人生",
+    "imagen": "\/rvhjcsGKUCA3N9EnVVHQgFmaLAl.jpg",
+    "backdrop_path": "\/bI0ymWs3CA5TyTpOvB37NKGptt9.jpg",
+    "type": "donghua",
+    "year": "2025",
+    "etiquetas": [
+        "Animación",
+        "Drama"
+    ],
+    "temporadas_count": 1,
+    "episodios": 36,
+    "status": "Ended",
+    "rate": 6.20000000000000017763568394002504646778106689453125,
+    "sinopsis": "Ji Miaomiao, una joven que acaba de comenzar su carrera profesional, es traicionada por un amigo y se queda con una montaña de deudas. Mientras huye de unos despiadados cobradores, cae accidentalmente de un edificio. Al borde de la muerte, una misteriosa figura la transforma en un gato.\n\nPor un giro del destino, acaba siendo adoptada por nada menos que su propio jefe, Lu Chengze. Así comienza su extraña y mágica vida de 100 días... como gata.",
+    "cast": [
+        {
+            "name": "阿杰",
+            "character": "Lu Chengze (voice)",
+            "profile_path": "\/AaXR7HBOkyrLlM93cycAt6i9NDE.jpg"
+        },
+        {
+            "name": "李詩萌",
+            "character": "Ji Miaomiao (voice)",
+            "profile_path": "\/i7hKjBsuxiMHuj3v68yWhbLXNbi.jpg"
+        },
+        {
+            "name": "Qiu Qiu",
+            "character": "Ning Xianhua (voice)",
+            "profile_path": "\/g9eAyjW1gxEU4YQUOETP1zQVzDJ.jpg"
+        }
+    ],
+    "first_air_date": "2025-11-11",
+    "last_air_date": "2026-06-30",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/rvhjcsGKUCA3N9EnVVHQgFmaLAl.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "\/7Owe69hVefQn1hWSlaRfmGKxcfM.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=NEJrSkswK1J1QmhpZzBEYXJjRUU4STZVSjI5MXU0UWp2Qm12R1VUbWRZbzlaSTlGdW1SM1RDYVVKNjZZaERWTTVVYUZyZndsQXhVS1h2M0V1UjVKeUE9PTo6YHXanrrJIr4TEge.hgbqJA--&t=9cf83c44dccf97062f8cca357b4d8acc&op=Njg4MTg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=dDdnamRmOFVxcWRsOU1wZ2lnaDJXbllHTUJvejRMUkNpOGVyVlRPazdHWHFjZW51b004OUFRR0ZZTVdGRVZpM2JONS9sL29nWGFYeDJvMHZheU1HRGc9PTo69mWAlo1gJsdxanZkprIfoQ--&t=9cf83c44dccf97062f8cca357b4d8acc",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/4u0541ysvhk5",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-42sl7t1cfk73.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/6kopq8brlked",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "\/3VYZLImr15LhSIwKNvuarIhZDaG.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=ZUlGTWJab25QUDZqZUlCcFlDaEFvY3hBYllQL0FQaGpyc2lnNFV3bDNPWkw2bk96M1BWa3ZjYWg4bHVrUDB1YXJYcTNnQlZPUmhscE1HVnhVU1FlZmc9PTo6Psips6yf.RTgAQyuNMHtuA--&t=33cb7920a5d49bb281325960c242b62f&op=Njg5Nzc=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=T1RIbDdoekIyaE8wRkNPcmhNTm45R0ZmTWpJN2NtaWo4SDFsb1hrcUpNR2JQMktmaE01OXpJSXorSkdZRC90U1JVNmt2WFIyUlg3eUhuWEpQdlB5VEE9PTo6ClnG1lvdALc6Ys2rMIb7cg--&t=33cb7920a5d49bb281325960c242b62f",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-80g104oi9l46.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/xengb0snktpm",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "\/bAkawTjjfkgcjQenvumOQ2rSAZ8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=OXJySzk2ZUFMQkdTalBZV3gzaGJRd2JCZEpHNWFTVCtuTWxvNVRWYm5LY2dkMWlKRnBkdUNUdmF5Tys4OW55VThUTUtyb25FOUNGRlhpR3hrcG5Fd1E9PTo6gpIdaI8q1m6gNHftGcnAUw--&t=43f61fed2d4e3574bccf41af344d0ebf&op=NjkzMTI=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=RmtoaUwxSi9XSWVJckRBdlYwZ2NTSzlFa0h6TnFET2hSUjAzL0hKWmEyQmF6ZWpING93Y2x1ckVHQkYxYXFjUjBIbnF3RytDemFDRk4wOEc3Rm0weGc9PTo6ZwmOyRQ_6sR1K1N4B6XpEw--&t=43f61fed2d4e3574bccf41af344d0ebf",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-n65j8sha2m9t.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/lwf5ljfol1t0",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "\/kJwVMU3Ly4BkVNmKEU7ZbnT7DHh.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=b0MxTGRsTmt5SjNtRUVrRFVFam9ML05xYk5qZS8ySHJTbWM4eHZwdHpzbzBBWklyMXY5MXRMWGJUMGwxTGNoWjhTbERrSGZwL2czekxSaFdtczQyNWc9PTo6XqCiVSOK4Kg84SSexGA9kw--&t=106aaacc5e7429c470a3579be499c856&op=NzAyOTk=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=eUZNQVJwZGt5WnEwQUlLVlIyUnZuR0p4Nm1NejNmMGVvWnlseVhQb3pJWmh3S3ltSkJ5aGFPWlY4bWtYM0RrcTJnditwV2VCQ3pNbXY2NHZFM0FZMXc9PTo6U64a7HF6dtz_GsopfOtUuw--&t=106aaacc5e7429c470a3579be499c856",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-42swquydn7no.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "\/a5qanmLpTV6l07qdTjWXjUmVG25.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=MkRhNWt5WmszTjVlNUR6clBXRzQ2SE5rMmVQYjgzdGErNGlIWnJZZ2llUklIZ2ZJNmkzb0VpQmtZNTlwaHVQYmxLd1Yra0VYUnV6UzJMeFhLTVl5Zmc9PTo6xBIQ_2XQzWJillXRIYLt6w--&t=8b06d7f8f165a4efebd6405dadab333a&op=NzAzMDA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=V3NDd2VzczVaS2tqUjNjT2laUmxremtqR1luUUFwak9Ld3NZOGN6bXRlSGk2cnlRZWtTYnNuVktSeUorMTJnWERnK2Y4ckszZGxDSldxRUZqQUFlaWc9PTo62HQah5mPgEZUXXemffWt1w--&t=8b06d7f8f165a4efebd6405dadab333a",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-oacnsnl2ldte.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Episodio 6",
+                    "portada": "\/obIKVRUfni0By4Nh99DytVh5Xvx.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=MWVVaXh4amFSOHhRRjVUbzNDMTJIQnlDYTJzQkpHR2FLVGxsTDgwZjBTTEZEc2hkR2N4eE45bFROY0QvaU5QNHZnVWdzSm40aFJ5ak52NlNTamwxRnR6c0Z6ZTNPN2FBTFB2M2doME1tSG89OjoFaM_enrTNF6l0cP8J9lj.&t=ea8b383d40effb335e3e85918f092e6f&op=NzA0OTc=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=b0xPT2d6b2xOc0lydityb1I1WTYrQlpRSE5CaTlzQkZFOHcxenAxZzlUb0MwNEd3alQ2aE43bzNZZU5sRlZONkY3SUE4UnBuMFJwVkV6NWtjM3pDanVqbjFJL2ltb0lJaG8wVXIyeU1aNFE9OjqrMCgt1rTHKDmo9llkedQ1&t=ea8b383d40effb335e3e85918f092e6f",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/onciimljrbu7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-j8ycm0ycoale.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "Episodio 7",
+                    "portada": "\/hhHpojtPwwbtpFUrY22QCyjEK3F.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=SzB6Z0lMUk5uNitHbDZEQ3VmU000V3BHT3dxVmhqSG4zWmRkNlExMGxOSHVjZzJrVHd2V0pLLzNiZGhwakh0K04rdHI4Z2hhTG5pNGUrb21tVnlXcWs2WWpqRmRBVXZOVVpnRXJKYVBsQTg9OjqCAHrvDjIbQrM_ldMJ7Mwu&t=da393d5a884f1d4fbf402217a983897d&op=NzA0OTg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=YU02L05RRzhPbnNvdkpmaFRYczVjSXJtWHlPaTY3Q2pZR3QzMTQyQyt3bUw1RU9valJSNFVGZFFSSHo5ZEExVHpUdHlpVm5qTzJTMW9RQ210U1dNTzNNNGZiU3FiMU82bE91dUpIQTEvaTg9OjprXYLPseJXWBAfJ4FjiT1S&t=da393d5a884f1d4fbf402217a983897d",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-hwjhb8e8op6h.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "Episodio 8",
+                    "portada": "\/hwlcKgF9ZaxuaxzRdPicMDPDKYo.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=WmUrRHBlYlFnN0w4UzlQVm5oWVpxTTNOTzlTekhxM2sxNTJ3N0RsRXprM3EwM2hXU2FlaDRGUVJDL2licVl4Njg4MUpLb0dRZXc1WEVrTEgzcmU3RlE9PTo6Q6lw8Qet1ur_H19382ZsIQ--&t=36e9b9a8b8bff1a51140941fa112687b&op=NzA5NTU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=Vnh5aUVkOXJrWllsc3NPQXdTT2NYVmttakFadk9WaW4wK09aS2VrbVBpVCtvbnMzSzl3THRJUFM0cDhBeUphNkp6V2d0UGZQa09UN2RtWThIeGhTQlE9PTo656NqQmdgkW5bxSwZ2TFfGw--&t=36e9b9a8b8bff1a51140941fa112687b",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-wbbgc4jada37.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E09",
+                    "episode_number": 9,
+                    "nombre": "Episodio 9",
+                    "portada": "\/yycocgiYrtmtTHMgXBKSWgVFGAK.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=WlgrdzVrN1g0MWVhdUVJM2hqZVFBclU5SjMvWktQR1dQU3E5dlpYWGl4TC9WbG5yQU4zYVltejhIem5nRW1yTDhodmIvTmZiWE9yR1BrcFZKRlZySVE9PTo6mzQjY9irWufQfJzhBXkesg--&t=ba9bb485e9ec84e0f38bc0c994a3ef77&op=NzA5NTY=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=TXBKUDFzY091ZnM1Yi9IS0FuTmJqZHYzVFFzUzRoRWttQ0Q3SlpZNEhsRjlYWGdrUGkxWndwTTNFWExhZ3V2RmhmemFnUjVST08ybFgrR25WNHF1OFE9PTo68elj50w0WBZMHPI8eK_KQg--&t=ba9bb485e9ec84e0f38bc0c994a3ef77",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/jv33dijhaamq",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-nuvei7g06wn1.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E10",
+                    "episode_number": 10,
+                    "nombre": "Episodio 10",
+                    "portada": "\/kjWHZEUZLUvavf0GRA9XwoZjHAV.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=YUFEZEtaKzVGVXpVd0F2eHNWdGt6OCtib3ZtcXlkK2J3UDFpTDgya1A1cUJMUG55ZktEWDJxc1JTejk3TmQ2clJsZThhQm53Z3JFQ2RmOEl2NWlLbmc9PTo6HnV9ecyYiLmSqaHZs2LXdA--&t=2390df0725979056cc58978d13a3b2f6&op=NzA5NTc=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=NENhUkwwUVBmZWZqMy9kcXNEZFRvQkszRjZnZGlvSnU2VHkyMDlyVXR0V1dJajU0dHVLTzEvY1p6cmNvOEQvcFM2cm5pdVlsS29iQ1JwbXVvUXpUYkE9PTo6_Q5VbSEPdrlsJXnae3OSTA--&t=2390df0725979056cc58978d13a3b2f6",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/yj27fouj3z7u",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-9lvsaatnj9k6.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E11",
+                    "episode_number": 11,
+                    "nombre": "Episodio 11",
+                    "portada": "\/ya6daVQwAXmyB9qmJaw7Cpv7a5S.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=bUE5eHVBeW5kcmp0cEd1V2xWd01KOE9pR1lCNlRnaW9zMkRGaUR3Z3NKTHp4cHhkcGNkUDZQWVBRdldFUjhoY2VyeHNWMXUweTBjQzZlZUxkUEhqMGc9PTo69PrblxKFdUsj6VFqDJ.68w--&t=d3437ed88b223310187a4e4e53b8f474&op=NzE0NTg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=blkyc0VEUjV1alVCeFBtdDM3cHNYbTRETXNMc08raDh5R3c3ckFjYUJaVG01M1BINC85WS9nWTNJUlRUd1QrcjM5bVgveGM2SXlHN0REL2ozcURtUFE9PTo6IfeRuebae0qlSQlKyrEXtg--&t=d3437ed88b223310187a4e4e53b8f474",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/24mp4kllg4bb",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-p15xc2dnupj3.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E12",
+                    "episode_number": 12,
+                    "nombre": "Episodio 12",
+                    "portada": "\/73O2lAL81Jo48ERbNoNSb6qtcOp.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=Ty9TNDVkbVRUM2h5Z1ZXV29RM25pNVZydnNIQ25Sa0JBRi81aG43eVdDM29PNTkydW5ZWHJZeGNPamNuYzJqdFV4c2Rsc2loODRuZXI5d1V6Y1Fzc2c9PTo61J6.Sup5VHl3aCmePZYF1g--&t=f345c05ebec2d0401c6eb1691173fc27&op=NzE0NTk=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=TVNUYU9IbXJWdTE3TGRIR0MvNUNKV3BxY1JEK2FPTkVHVlUxV2lkS0dFYVBKUTdPcHlDK052WHQ2OXdSK1Nvb0RHd2MrUUN2RlFNNVhzdytTR1pUMVE9PTo6VSs5I_ByeBkx1YHOPdm1Og--&t=f345c05ebec2d0401c6eb1691173fc27",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/ipeiarq7kxaa",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-0ybujdpgaks2.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E13",
+                    "episode_number": 13,
+                    "nombre": "Episodio 13",
+                    "portada": "\/r24zq46L6HVyWJCj4nPnyWabLpc.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=NG1JMzRUajQxZU54TS96V2xKc1lnR1E1cnMyaGtadW1UVXJIU0ZvajhsNjUwSjlJcGdUMXFnK3hoZUNXT0lxYnNYd0R6eU91Z2w1cTNHR3Q4Q0h0aWc9PTo6jDG9Z1DFekKWD_hvM5Qs4w--&t=58a3ee68974eb1af65ced4c325752bba&op=NzE0NjA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=MXNORmtTMTNHeDNBVmdwbEI1SlptWkxEZlJQRER3b1dndEZQUStKTElrV2hrLzZzSmJkL3VHRXE5eVkvdkxRMGV6TnZ5YmlMOXlhUHpZNkpyZm9NQWc9PTo6.bpgbhohDCbK5iR81pEZ9Q--&t=58a3ee68974eb1af65ced4c325752bba",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-nwzg6dysrs6k.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E14",
+                    "episode_number": 14,
+                    "nombre": "Episodio 14",
+                    "portada": "\/gb97f1ZICg8VsmiwG03slpWU1ar.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=RC9zcTNZTXJsTTV4aVB4Ny9pdzdpcXFPdGN5VzhsMXhGcVFodmRNTnJSNmhreFloSDBWa1UyR21zVDV3alRJUUduQU1UMzRxVytqZEw3Y2RsVGFWSWMzTCttVldPK1RmeXFzQmZBdWt3UGc9OjpsudciLXyevsvEughsIXas&t=442745a3113315b7f492857b0e743bbb&op=NzE1ODI=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=dWFGeHE2QXF4N2RVNnRKcVNnd3ZGclUwSnBQQmxsMFRKUFFZWVZxNHA5eXV4NjcrempZNHp1MkF5cHNpSVhLMkhCVFg5bit3bHp0SGF6UlE4ajFIMzdKckVCeUdKS1ROeStJaWdlVVFrVG89Ojr.0LZQ.8F.4sLDVr4WBhhl&t=442745a3113315b7f492857b0e743bbb",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/wlrnhgavutg1",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-xfveo831tdw1.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E15",
+                    "episode_number": 15,
+                    "nombre": "Episodio 15",
+                    "portada": "\/rUkmycI34EeCsDKVjcKuRAexl2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=ajFWMC81elNYZUZnc24wK0NBM1FhMm9NaUJ5UU9TSm9NbHFiZGZXbTE1VUtwdEVvUGNMQUtXOXBQZnRGOTRPbE92N1hDRFRWSzBieGI1a3ZzcGF5c3c9PTo6OAaWOMZ_NimyXIcfay0Qzg--&t=7a0ec150d4333af210c8689dcf7071b8&op=NzE4MTM=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=Nk9IMHFrSFhiQTR6TjdFL3c4UTVram9Zem9JdHRqcWlKQUVtbzN0dGZvRDJzazMzM2Y3WVdWcTBFWEFDMlFaYTBTc2N4a2hRM3hQNitBejkyZzBTS2c9PTo6FBJxQVGvKwzETD5IAVNkIw--&t=7a0ec150d4333af210c8689dcf7071b8",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-itvtw91i7rb5.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E16",
+                    "episode_number": 16,
+                    "nombre": "Episodio 16",
+                    "portada": "\/yZt2aN2mqNsDDQzKt0CmUf722wB.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=UGNwbG5Vc1pSTHNvR0hFaEpOeTJ2U1M0MTFTSENwQVdHZHkxVi8xVGIrMW5oQjFrM24zMEswM3Nib1N0anhzdWRScVhidUFMMUVmNEtML2tRSkdkZFdveTZUd2VGKzB2bjJKSDVZQXMyODg9OjqOOl25HRBJlFPOqNNbFKzH&t=dcca025619eaa10bf6467c55119c4deb&op=NzE5NTM=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=bkVvVksrUzFKSWpuK0I2NkR2RlNZZXRJWC92aE5sbXQ0d01GdUY3MFR1RjM5Q3NiWFpkSU1rS0RHMjdWeVhQdk4xWHNWbHpDMjY5ejBMdVovMHNiTnZNOXEwVGlvWjBlR1lXRzY5VTJ4T1U9Ojoal8JL8wPM3sdZFcJ5jFfi&t=dcca025619eaa10bf6467c55119c4deb",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/8wplbv4pq45d",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-xtr2km7f1z2p.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E17",
+                    "episode_number": 17,
+                    "nombre": "Episodio 17",
+                    "portada": "\/3RElmCqiMqRngnGgU9klBtzlN0P.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=L3ZicUUrejRTMDV5SDlYaUhDYm8rVDd4RlAzRklESEwvMmxRdVIyVlF1Y1pab1hONnZXUW9QVGFGbUppZDVreTBZMUt5V3VoREVIR3dPaFdta295dGcyak9icTVzc3Ixa1dzT1NFZzNOb009OjrbEosY9xN8FlU7uV.FmOO4&t=ea5f50e298b811e9a9aa58a31a3eb7e6&op=NzIwNTg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=TnNpZElwVUJSdWdOR1RTcytzUTJFRTlMbFRpQUhHWE50cHpReHl2STdmdlB1R0VSeFFzYmlqL0o0ZWlKRVpYYVp6dWtEZkdMSGZOTGV6Q3czWURaTGpCZGtkWUV0ekw4ZEl2c3h1ZU5uY2M9OjqnY398Qc9zeMft4Z2U0eg_&t=ea5f50e298b811e9a9aa58a31a3eb7e6",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/gz3ifsa4bzkd",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-5pjn37mj2z5k.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E18",
+                    "episode_number": 18,
+                    "nombre": "Episodio 18",
+                    "portada": "\/tdMfLdres4PwMZ0VvOdr4QfIdiH.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=WC9wVEY1Y24yUE5CVFpaMGF1S0VXV1dOVjdwOVZvb0VWNzRNRVRFRWYzNHV6MWQ2MWdpMlZQbVNkNXJGNmpJTGo4MFdDSmhGWFhYbVMxOEoyZGdOR3NHMjRXR3hOQVhlaXFYN0Y0cms1SEk9OjqFNit.d_uuBwR5K3Swnwbx&t=95b6f2474ec84d6d63c916e5d61122ef&op=NzIxNTI=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=eExWcFlhQk00TlZVNFdVLzVLQ2xac3MyVy91aUkycEZsRDYwdnQ1emF5ZFVNNysxc25PdXRaekZDYWtqU1pkQlFMQkk3ZEoySUZDaHRibm56Mk9udFFTRmtzUWRLMUpRdGR1TzVvbFpac009OjpLv.Fg9Y5_iHY45lQIjrRc&t=95b6f2474ec84d6d63c916e5d61122ef",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/g7u7l8af4i66",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-hxo5ziru4wpo.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E19",
+                    "episode_number": 19,
+                    "nombre": "Episodio 19",
+                    "portada": "\/ujGOMqpgP56LcUMJftdZmJpE6Fm.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=Sm9pSFZrT3M4VW9INEQrUkdKcUJtK0szN0Y3S09LOGlVSEJzMlZxc0JBb0t5K2tPQytLUi93clFTcjJ3QzF2S1BGVUo3RmUvb1dsYlJ3RWFMbjdPcFNNcWUwemZiMlhzcHk1Qm5OMjJ3L009OjrgMVSHQXTAlepHlm.ossEA&t=dd3874abed590037914c248efda8fa1a&op=NzIyMzI=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=Qm16RnBMZERIeFdsQ0JIUTFGT2lpelM2Y1FaOEFXUXM3RVMrZ2MxVWdlR2NPK1FFUzBPYXVWR0ljdStQcDZOMy93eHBaQmlKMHZOYWtMVVZrQXZFcnU4VDhPeVdTTCsyZEpZS1IyVTlkR0E9Ojq0Tanu1MfwmZurJC0kQK6Y&t=dd3874abed590037914c248efda8fa1a",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/9mbp506o77km",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-eik56vbqwjcm.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E20",
+                    "episode_number": 20,
+                    "nombre": "Episodio 20",
+                    "portada": "\/l1KvmEdtiE3p6rkWcOYZ2eMkO5X.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=dHhCS0o0L1IwcHBkSGIzUjRMR3hCUGtKeUduN2FLcU5qdzRDVWRPKy9udzZKOTlFYWlhcFdkS1NTQTY5SUJJZjJadFdTNnliczhCbTVhb3V4aHdCeDBZaFlBZDhPeTRFUG5QYmtJc3JPd3c9OjoAsSBtA7u.ATMeLOK_593g&t=982d42ebb80282f0931d6af65437ee32&op=NzIzMjI=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=U2xyYzVJNXZRaUFqUVlWa3JSZkxkSU00YVF3SUxqdVdTdHI3TjVLQzlCdVA5MFpDbFl5dTNGOEpIYUNoeFdOcFMwS2pPMGhmMFhCZWFRWkFZMWtHYWRVNllDZm9kWjlNTHhHK0hxYmlMa0E9Ojrakn59Ah5dXJJp0NBbBWMc&t=982d42ebb80282f0931d6af65437ee32",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/w5a9jhtzrkq3",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-h1qxndnp5czc.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E21",
+                    "episode_number": 21,
+                    "nombre": "Episodio 21",
+                    "portada": "\/a6A1jbNf0hysUrfhZHnrXY2wqSI.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=UWtPWXNOWDh3WktWSFZ4RVY0c0xUb1FNN0IxQlp2SDk3L3FwKzBPVjdSMzRLRmp3QVgwSzE1Y3RDRWdseVRYVm85dUozZEFYdjB5M2NodkVBS3Z4dFE9PTo6LBUlvobwbidQ4LPZasc6BA--&t=1d307e2757e36d605fcb7f5239c99447&op=NzIzOTA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=cU5CYWZvTERNaXhCanYzekdhWU4rcGJzeUJnUWl0OFBrZ3BEczk2ZTFlS2dPSXdTZTA5cUFKUFFsc2I2bG8weXl4ZE45T0RlL0RwSHE4ekJORDUvclE9PTo6r84F4YeQgJH2dP1CPo8oQw--&t=1d307e2757e36d605fcb7f5239c99447",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/cfripm2es99r",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-bjuafyqqdl46.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E22",
+                    "episode_number": 22,
+                    "nombre": "Episodio 22",
+                    "portada": "\/wUntUC8G5LWE8eUcpMl00h0hflV.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=bi9JT2xKZlpVN3o0aTVTVHlkWXlmRzhFUGVFZ1RsRkZtc1Mzc3oxT1IzbDZ3dWhqUXd6c0x1ZFhwWFZuSDNvTWh6Ny9NM2U5ZnY4OU5RbDlRUjBodHczMDVhUWtkNXV1REZpMlZ2NEFrcEE9OjrcGyVSJRf3IqOOsRyAWFv9&t=d8936623166d85ee9485b4fdf13bd306&op=NzI1MjQ=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=dG04NFh3QXpCNzFnc1ZnS2FpNDVKQ1NOVTh2Z0VIWGhKRE5KcGNNdmxEbnVRcklpYlZFN05DY3VwWUVCOFpPYU1ZN1pNY1hlYUhCQXlNSGNZRFUvSW5QV29OcHhDTVBFaFUwSjhZZmNzMzQ9OjpAu3SLp9xFoGqPbIcmpJD_&t=d8936623166d85ee9485b4fdf13bd306",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/4c4qgxqnky8m",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-n4t72ybrq49n.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E23",
+                    "episode_number": 23,
+                    "nombre": "Episodio 23",
+                    "portada": "\/eMisGejbi7azQy9KPaQSniK5u3K.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=dlN4Y2pZQURCUk1UYzIvNWhNU1M0cnRCUHB6eXRNT3B6My93a2draURLSnk5dVJ2NjJlZ3VrU1lGV3p6aytyT1poNWtYMXJZSC9kWklxOXdBeDc4Qm5iSE1jaWxlY0xkVlR6OHpoSFBIZ0k9OjpVwBVXcOqnwaM87UIJy.Kl&t=59ffef89fb3c56aaf30f028de13b7def&op=NzI2NDU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=Q0NTcm9ueTJsY3YzaGUwVHcxK0YxWkpmUXJMK2VsMnlxVTAvUUN3ZWs4M1UwSVViUG5xbWFaUDZJZ09GZUQ3WDF5NWtxNXJuVVlxRDlCOW5BakV0eFZNa3VhUjVENjJJS2RaNDcySjJPSG89OjrWpb2mWdWxJCKnRv1RqXI1&t=59ffef89fb3c56aaf30f028de13b7def",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/odtmcnxjmsxs",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-9xt5cmuqfr0p.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E24",
+                    "episode_number": 24,
+                    "nombre": "Episodio 24",
+                    "portada": "\/6q5b8doEq5Zi7lsnvePbjEOQsvL.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=aE1FQzVFdTdWKzZFZ2pUZHRKQm9PSTFuZnVVSndGM3pzWnI0cW05VWNBdXEwMURlREI3bVY1aEZhUHMwUE1UYmxLazJuL2tjQUFkQWZROWVDRnc1dEE9PTo6cZ8V0wX4ne57pdI7Yftalg--&t=01b012dfb626022787652849596914f6&op=NzQwMTc=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=NnEwdnpUSUw1K2FjbFNPS045MmU2TXBUU3FPUFBDUFVqTmFHeUNzZWRXM3lOd243QzBwWWVyTGNTdW9rdFpiUnpzcU9qWEF4UzNhNStyK2NpVUtwWnc9PTo6_jz94lpbY724gAdzll8uAg--&t=01b012dfb626022787652849596914f6",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/mjwpplgjg8pn",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-jcwl7ugnayfv.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E25",
+                    "episode_number": 25,
+                    "nombre": "Episodio 25",
+                    "portada": "\/gt91o4AcY0ZQED2Xo4twdMLbzLb.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=K3R4NjIxZ1pUdXRFZzVyOEcwdTh5ZVEzMDU4TW1KNTNvTkxwMWhKMzhuWEJYZ1lCakhvVE5WUll3K0trQnJzdGU5QmQ4UUYyTStkSGV6ai9tSm44Ymc9PTo6C4w8yzKzzjMVgqsY4bgtLw--&t=97cf4c2e15cfdd192e9959b537afa5fd&op=NzQwMTg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=WFZVaU5pS3MrcTIxaWRMN0drMTZLNnFFcFVkQ3lCRjZyd3pZNmNieWRrMytWVHNVNkdKQmNDc1BhK2J4aVFZc2I4UnZVSzBPbHNqdDVIMk4wa1JuOGc9PTo6HWuedD05.fj7tVhGxiZepA--&t=97cf4c2e15cfdd192e9959b537afa5fd",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/8omilqaxp2ha",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-y6j18intdfra.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E26",
+                    "episode_number": 26,
+                    "nombre": "Episodio 26",
+                    "portada": "\/cuC8MAKamQnqsLznD4u48DjjqVM.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=dU9LRWIweXFoRGR3dFJ3OHRVQi9OK2FWS1JqbmVPZXNNL3N3SFBPU1VIcUhqbTlIQ0pjZGNXZXBhVVN6Y2ZqT3NBUWdodWVvcjFDNGhEWDhHUnJINFE9PTo6n6gwtEKxU1Ouz8Iim98xMg--&t=3ae41d89473922fd5af031dc4aabe43a&op=NzQwMTk=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=L1lkY2d0MVRpbDhlSm5xc0tLeW9IUDFPRkJWb1lZZHZHSUY2UmNSRnZUNkx6bENjMXhBWWV4SEcxWUoyN0lIOTdFdXN2ZWM0aUxJd3MzYkNxaGwwMmc9PTo6jXc2B_x7g13EbQrFmbMDxg--&t=3ae41d89473922fd5af031dc4aabe43a",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/yv5u7bln227u",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-6rgrodo1dmbg.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E27",
+                    "episode_number": 27,
+                    "nombre": "Episodio 27",
+                    "portada": "\/d3bbSbea7T48TOaUBMyqU1jyttD.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=QzBaSEhqSUN6UmFYOE5MNTdlNTg2RnUyazVBb0ZQT083UGUvZzVwZ0RrbnN6ck1UUUVLanJQblBzdS9lNEg4Nlg4RnBZY2luOXFkSEdYWE8zM29wZHc9PTo60P3TEWwTqxXReXe7Mw1V9g--&t=a51b622e802d7ef9dfee9fee4fa02554&op=NzQwMjA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=OTZwb1VaZzdxVWlFZ0lyT2h2MTFZS1FMRkdSMDRiUFlqRlZZaGlUdHhMZGl4ZDV3a3dGMWxvVjYzRTFtQnl3WGZxSG5kbXJmdGczMjlicHIwUS9IQ2c9PTo6VRvxZFWvOh1btnHltx4KTw--&t=a51b622e802d7ef9dfee9fee4fa02554",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/xzkvr3oue2bg",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-8s6lqlajov13.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E28",
+                    "episode_number": 28,
+                    "nombre": "Episodio 28",
+                    "portada": "\/e0XQ90uIBom4Ih12B7WqC0P4NDj.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=L1lnSDl0bDN5MDFla0tLeVNKQWdhU2pJd1lNeE1qdGJuZFBxcUVLY0lKMThZM2FDM2E0TEI2NjhJVThVTCtMeFZEdzA4RUpBcVlqU0tPekNveXZzbkE9PTo6q7PIPEVKp4OtTBRV0NzXpQ--&t=bef8f77702512b73b6f30bcfced2fce2&op=NzQwMjE=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=U2NXVUJ4TEFoUnZwcmdHeW45QUpPMGlERFdDeldNQXl2ckpyQTY3d2xQM1NQUXhPcEx0RFpYb1REdGk1RVluY3R1VHl1QUk4R2YxMFluZ21tWG9xWEE9PTo6PquQ9xs3TQ_liz7RO4uLoA--&t=bef8f77702512b73b6f30bcfced2fce2",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/lz0t42x7v18e",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-qtt7h4ppmrm4.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E29",
+                    "episode_number": 29,
+                    "nombre": "Episodio 29",
+                    "portada": "\/nt1rI9TLXIehUxDclWAMvaW0HNq.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=MXNrRmwwZE9CZTFibkExUUt1NGRvODBiUzFxbW5uVnNEcmdHTWlnczhiNzFpZTErU25Ybkd0MGc3cVFhN1M5WWxMb25waVVtQmFqS3FlcTRKVXRDaXc9PTo6b0t2j7OpT9w4a8v52_hXrQ--&t=7eb20d81366f491cd264f775c0414e54&op=NzQwMjI=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=MENJZC9BR2IxTHNxdzNITkpaOVoxejlma2x4eXhuMzVPbnVKMXNjZHl5KzZNM2FOaEMveE9iTzRVWlUyRTB1TG85TVRuT0MyYWFwVUZyb3A3TXNybVE9PTo6ujbWojS5.SIt4wVpiz1a2Q--&t=7eb20d81366f491cd264f775c0414e54",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/jz9p2ack0m9s",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-xlt4o20snq5k.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E30",
+                    "episode_number": 30,
+                    "nombre": "Episodio 30",
+                    "portada": "\/dbWU3AV6GosVGngSzz46nU10VY5.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=eWJlTlZ4WXlMV3V1eEN0RTBWcTVqUklaa01BN1JyNHphVHNza09FcDE4MXRWK0pLNG9QU1RHWlZidjRMUmdIY0VPRG5TMlF2c2VrdC9wa2llMmZKVTQyQU85enhEOVVxYlkrOUVOT2NJRE09OjrkA5x4Ir2UvD.1U56guNhK&t=7cf4a6c6c24494973cd0669ec5e00073&op=NzQxOTA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=NVhGRXdBbEdjeDhSK1YzbndSL2VvRzRrU1BRQnpKRFJ3K3B2V3diWmFWTzYxcDEzdWVBZWxmYmpnY3YwYjdTVk5pcmwvR0FEU0xBU0Nnc3gyK2lUSldrek9qbnE2RWMwWFVjendubk5ySzg9OjoTtedB3yQcy6gsusSN21vu&t=7cf4a6c6c24494973cd0669ec5e00073",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-z5wgz6nepi2d.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E31",
+                    "episode_number": 31,
+                    "nombre": "Episodio 31",
+                    "portada": "\/jz441cwuCOjHYE9nY0bjiAGzrsV.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=bXBBdTFyOGFQREljQnIwZThiYzNPY0txUi83Zzc1bGJOOGZ4Mmd1bG05SHg2a1ljUE84WFc4WTJoN1ZocU9TMEwzdDd2VVRMNzU5SG52akRTWVNxVjcwT2psTmJQTDBhS2tUWTNVdVZnMlk9OjpSp.WzVVIaCBPaTHXQel.D&t=444ee5207b9410ff932a8a699323e082&op=NzQyOTg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=ZTNsUHU2bDM5dEloYTYvRVRYNFpLZEpQaDhWRHprTkFjZ25XSXhXSGZtUmdJcXNYblZBSlczZnUvUHMyWXJnamFUS1RTQnJXSGhJUnJVVnAwV0NhTThuVnExU1l5YTdNQnhJeVQ2UFJqS3c9OjonEIeSJGghUpeMN_PA2Iym&t=444ee5207b9410ff932a8a699323e082",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/s2m3v9wd6ua5",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-g9onalo0d6rt.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E32",
+                    "episode_number": 32,
+                    "nombre": "Episodio 32",
+                    "portada": "\/kkrj4B4kYaDUIBwWB4qLefrkK85.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=L1hyOHJTN2JOdW95WVdVRFkreXhhc1NmN1hva2IxdUNsRUg5UFRjY1RNaC9aNmhGUGZGYkYyRi95dWJUcXVWV1J3SjlXNjNCbEF1OVloOVA1R0cxUFE9PTo66CRnVvs1JbRI9PG6ZLYM2w--&t=222f2286bdf39eccbaa665aad7ef5cbe&op=NzQ2NDY=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=dWZiZUdWUTRBa2tEWC9DejR4RlFZMTRNWUlpSDVFdFBXOXZwTHlzMmNGZ0h4SlY4eGExVnRvN2RnUzZsZE9TOU1PYkJ2bGdRYjZsMHRhQ3o3OElub3c9PTo60qRqZnD.vrt5Ya6epOwTmA--&t=222f2286bdf39eccbaa665aad7ef5cbe",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/bj2z3sh9gum0",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-5mdxm950xc03.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E33",
+                    "episode_number": 33,
+                    "nombre": "Episodio 33",
+                    "portada": "\/fjgGakC6BCXnw1AlWxNKCP1pW8L.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=SFMyRytIL2hSSmRDdWFIWUJhbTB6cjEyVFNWUVZwdnI2ZEgwNXYzc1owaWlURnI5bmtFQVNXRnpobkx5TVltV00zaFVnTHFPcUNnbzBhT3lCQ1FNM2c9PTo6ejdWtP9PaNb3XOvjftiU2w--&t=d06bcdec0d9d5a4c5f53fbbff5343998&op=NzQ2ODc=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=aTFuSkt1c2RXSWZqRTg2ZmMrTHIvUC9Zd0d3WWlJcnBUbXJyek5WMzNjTUVoOVdpcmlQZ09mSEozS2puODYrWkdNRzYvdy9NcUdSa2VjK3poWFVLdWc9PTo6E5zqRooF0PdrV7CjKhmGdA--&t=d06bcdec0d9d5a4c5f53fbbff5343998",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/s3z8zxbj02en",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-32hqc7or8gpz.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E34",
+                    "episode_number": 34,
+                    "nombre": "Episodio 34",
+                    "portada": "\/cyGar6zjw49xSWZGNixsEo36WYZ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=VWRqQ1E2dTVrNi9mdFEvVjBtN0ZYMEV0d2R0d2YrcFRtaTN3Wms1NVExYlZKTWx3TkdZN0E4aVkyeXJXeGZtblo2V0tteUVoRWNZT0pxUEFkeWJVdW9TcGtKQmVZbzk5QVNERmxOa3RUeTQ9OjqwnI_5q8u.0HbPP4Hg.Z7N&t=350abc560da6c697c7d2ed0acecff554&op=NzQ5NjQ=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=T3BrNzJiT21mRTM4dUlucHdaNHY0bVFDY2V4cG85TTNXcWZ3YkFMODVhUDlzZlNUSE5DazBxWnYxTklncjFWTmtKd2Fmbm44TWJNNTBqbGZwMm56YTVmSnRIR3BzMkU2cERJMzlPb1ZlaG89Ojq.CCk2q8thf.1zp5TjHjXB&t=350abc560da6c697c7d2ed0acecff554",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/79krewk7fodw",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-x8apyw0ms6ft.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E35",
+                    "episode_number": 35,
+                    "nombre": "Episodio 35",
+                    "portada": "\/gcgmiLMe0HvwP4d5PmZhKoykpXf.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=TVI3amNtYW95a005VGlpZmQweGVuVTF4Z295UUVOeWM3cEtoNXIzUGtLSWpoU1lRRDdMSmhBOWs2aCs5eXVtS09GYWtxbThBYWw1U2hjaEh4SUZjM21TbUNwNXc0MEQxWDVTNnZKcWdMQXc9OjqPsZfdEo4O4KDbnuY_rZ.s&t=32d2305f1895fe6e1452308e0653c639&op=NzQ5NjU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=emVqY0FBSTZqSFJ3YllsS0FxN01OQllpZHFrYm9QZ1QxM0c5Qi8rNFE5VHhWRElPS1JrYlNOMHgvamxvYnhwNkRhWXhEc2FodGhoK3U2cENaOEw3cWY2dlRpT09PSkwvVHVzZHNmREpldFE9Ojr.K8VQWZyf9U2DnipErdXE&t=32d2305f1895fe6e1452308e0653c639",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/gs7dr13o2bi0",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-1zqy4orqxvmb.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E36",
+                    "episode_number": 36,
+                    "nombre": "Episodio 36",
+                    "portada": "\/bm5CIrLQeZqeQFQYsY2g2hlIsWc.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=L3E1NGR6NTB3RkRFU1ZDN1EvVHJZVGZpZkt4N1ZvcFVHcWZKMUhocENKZWZXZktwWnlpNjZxVlFkaVA3R2hpcHFNRVBwMUJsUE82RXV3QjJTRXZXRkw5bG5PWlFCSkd0NU5DcDNHNzh3Y0E9OjoQ3BR6kzIWtp5z29W8Eh_H&t=b80ed17e339f2169651a96ceb090e63a&op=NzU0Mzg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=VURvT3Y2Q3hta2t3ZW9BemlXUFFrc2YrN2VVc1VkUkNBT2lsZkcrUUorQ1EvSmVIQ21BVmtBWjVMK09LQ2Zxcmc0WEdYVFcvellQaEZSdmpLS3pvZDZpVHBsY05BMWw3T2FDSFVkVUcyNUE9OjqkUKibYYCYVdurxqN6FdDB&t=b80ed17e339f2169651a96ceb090e63a",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/embed\/l8pko5xc3zk5",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-a1kk3xjspuyi.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-10-05 02:47:41",
+    "created_at": "2026-10-05 02:47:41",
+    "updated_at": "2026-10-05 02:47:41"
+}
