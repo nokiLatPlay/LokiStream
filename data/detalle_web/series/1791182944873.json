@@ -1,7 +1,7 @@
 {
     "id": "1791182944873",
     "tmdb_id": "297092",
-    "titulo": "谷围南亭",
+    "titulo": "The Chosen One",
     "original_name": "谷围南亭",
     "imagen": "\/t05KFFkjQErl8lANZiP6IiPD4u2.jpg",
     "backdrop_path": "\/ArT7KVK1J1wbGmYBX0xafjlUnEQ.jpg",
@@ -16,7 +16,7 @@
     "episodios": 16,
     "status": "Returning Series",
     "rate": 8.5,
-    "sinopsis": "",
+    "sinopsis": "La historia sigue a Gao Ying, un estudiante universitario que, de camino a la universidad, se topa accidentalmente con el Gran Hotel Qing en la aldea de Nanting. Allí, se encuentra con una serie de sucesos extraños y despierta inesperadamente al príncipe Zhennan, Yin Ting, quien llevaba mucho tiempo sellado. A partir de entonces, se ve envuelto en una catástrofe que abarca siglos e involucra fuerzas misteriosas como el Tai Sui y antiguos poderes chamánicos.",
     "cast": [
         {
             "name": "孫路路",
@@ -59,7 +59,6 @@
             "capitulos": [
                 {
                     "episode_id": "S01E01",
-                    "episode_number": 1,
                     "nombre": "Episodio 1",
                     "portada": "\/wXFIfH5GAxr16aB5MJQN0DRD8mj.jpg",
                     "enlaces": [
@@ -95,7 +94,6 @@
                 },
                 {
                     "episode_id": "S01E02",
-                    "episode_number": 2,
                     "nombre": "Episodio 2",
                     "portada": "\/vqbqxbLwtmxMsTRzLnDle38e6bO.jpg",
                     "enlaces": [
@@ -131,7 +129,6 @@
                 },
                 {
                     "episode_id": "S01E03",
-                    "episode_number": 3,
                     "nombre": "Episodio 3",
                     "portada": "\/zMK00GwL3t9J00xhOdUflxrR22.jpg",
                     "enlaces": [
@@ -167,7 +164,6 @@
                 },
                 {
                     "episode_id": "S01E04",
-                    "episode_number": 4,
                     "nombre": "Episodio 4",
                     "portada": "\/frnmS1Nemk3A4KWF9YBPCk0JKgY.jpg",
                     "enlaces": [
@@ -203,7 +199,6 @@
                 },
                 {
                     "episode_id": "S01E05",
-                    "episode_number": 5,
                     "nombre": "Episodio 5",
                     "portada": "\/cQZldh1HR4XsVZkIbGzmukC8vwq.jpg",
                     "enlaces": [
@@ -239,7 +234,6 @@
                 },
                 {
                     "episode_id": "S01E06",
-                    "episode_number": 6,
                     "nombre": "Episodio 6",
                     "portada": "\/oCqujSlzpkDNMJCM35yYqIiyD1e.jpg",
                     "enlaces": [
@@ -275,7 +269,6 @@
                 },
                 {
                     "episode_id": "S01E07",
-                    "episode_number": 7,
                     "nombre": "Episodio 7",
                     "portada": "\/xZm6NEVcmiSBcfzYca8mEqmZoav.jpg",
                     "enlaces": [
@@ -311,7 +304,6 @@
                 },
                 {
                     "episode_id": "S01E08",
-                    "episode_number": 8,
                     "nombre": "Episodio 8",
                     "portada": "\/hWJcDyALjl8xDfnY6j3Zg0h5WSV.jpg",
                     "enlaces": [
@@ -347,7 +339,6 @@
                 },
                 {
                     "episode_id": "S01E09",
-                    "episode_number": 9,
                     "nombre": "Episodio 9",
                     "portada": "\/d2l82sbEbDSVwBppMFERjhvFhvI.jpg",
                     "enlaces": [
@@ -390,7 +381,6 @@
                 },
                 {
                     "episode_id": "S01E10",
-                    "episode_number": 10,
                     "nombre": "Episodio 10",
                     "portada": "\/vFy4br3UlYiYX6qQ1auaiJJWJXr.jpg",
                     "enlaces": [
@@ -426,7 +416,6 @@
                 },
                 {
                     "episode_id": "S01E11",
-                    "episode_number": 11,
                     "nombre": "Episodio 11",
                     "portada": "\/2oDaDbwr0h0cn9iuYpb8Cr4FFk7.jpg",
                     "enlaces": [
@@ -462,7 +451,6 @@
                 },
                 {
                     "episode_id": "S01E12",
-                    "episode_number": 12,
                     "nombre": "Episodio 12",
                     "portada": "\/1Z2D7wFO7qO4HdPfuBk4JgWNvOm.jpg",
                     "enlaces": [
@@ -498,7 +486,6 @@
                 },
                 {
                     "episode_id": "S01E13",
-                    "episode_number": 13,
                     "nombre": "Episodio 13",
                     "portada": "\/3HHWV6kmYLR2xPNFPtIMQp4MCnp.jpg",
                     "enlaces": [
@@ -534,7 +521,6 @@
                 },
                 {
                     "episode_id": "S01E14",
-                    "episode_number": 14,
                     "nombre": "Episodio 14",
                     "portada": "\/l9obsEf9NH61LaK5z7ecgDXKyJR.jpg",
                     "enlaces": [
@@ -570,7 +556,6 @@
                 },
                 {
                     "episode_id": "S01E15",
-                    "episode_number": 15,
                     "nombre": "Episodio 15",
                     "portada": "\/20co2jUiTrnH33zq7IxJheueu0r.jpg",
                     "enlaces": [
@@ -606,7 +591,6 @@
                 },
                 {
                     "episode_id": "S01E16",
-                    "episode_number": 16,
                     "nombre": "Episodio 16",
                     "portada": "\/3QCC9qIcB6xqm6NyKWreZfuMdex.jpg",
                     "enlaces": [
@@ -645,5 +629,6 @@
     ],
     "added_date": "2026-10-05 02:49:04",
     "created_at": "2026-10-05 02:49:04",
-    "updated_at": "2026-10-05 02:49:04"
+    "updated_at": "2026-10-05 02:50:01",
+    "update_states": "No actualizado"
 }
