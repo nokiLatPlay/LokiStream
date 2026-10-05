@@ -1,5 +1,26 @@
 [
     {
+        "id": "1791181935870",
+        "tmdb_id": "82822",
+        "titulo": "Zombieland Saga",
+        "imagen": "/vSaonGCXOtC8RmqR3e5L8f4lAdI.jpg",
+        "type": "anime",
+        "year": "2018",
+        "etiquetas": [
+            "Animación",
+            "Comedia",
+            "Sci-Fi & Fantasy"
+        ],
+        "rate": 8,
+        "added_date": "2026-10-05 02:32:15",
+        "created_at": "2026-10-05 02:32:15",
+        "updated_at": "2026-10-05 02:32:17",
+        "update_states": "No actualizado",
+        "temporadas": 2,
+        "episodios": 24,
+        "status": "Ended"
+    },
+    {
         "id": "1791181452404",
         "tmdb_id": "63926",
         "titulo": "One Punch Man",
