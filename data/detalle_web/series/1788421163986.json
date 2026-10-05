@@ -17,33 +17,7 @@
     "status": "Returning Series",
     "rate": 8.300000000000000710542735760100185871124267578125,
     "sinopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
-    "cast": [
-        {
-            "name": "Kyle Chandler",
-            "character": "Hal Jordan",
-            "profile_path": "\/66n7XNj1dyYkzCBWR3Lq8Vz4PJ1.jpg"
-        },
-        {
-            "name": "Aaron Pierre",
-            "character": "John Stewart",
-            "profile_path": "\/z2cMMZyWzv5ztT6pFdAAjB3u7CQ.jpg"
-        },
-        {
-            "name": "Kelly Macdonald",
-            "character": "Sheriff Kerry Kane",
-            "profile_path": "\/k0yVocTnTMWlNdaeOO7YRViCdhO.jpg"
-        },
-        {
-            "name": "Garret Dillahunt",
-            "character": "William 'Will' Macon",
-            "profile_path": "\/4L9bdqQIdfrtqR7JQdsIhlF3Fjk.jpg"
-        },
-        {
-            "name": "Poorna Jagannathan",
-            "character": "Zoe Macon",
-            "profile_path": "\/o2BQX1tAgo47GGvpBy1k4LQLRs6.jpg"
-        }
-    ],
+    "cast": null,
     "first_air_date": "2026-08-16",
     "last_air_date": "2026-08-30",
     "temporadas": [
@@ -54,7 +28,6 @@
             "capitulos": [
                 {
                     "episode_id": "S01E01",
-                    "episode_number": 1,
                     "nombre": "Piloto",
                     "portada": "\/eamjkYDnuDcvS1MyynI4B9nE6KL.jpg",
                     "enlaces": [
@@ -63,48 +36,47 @@
                             "url": "https:\/\/hglamioz.com\/e\/bxitu80v1d4q",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Vidhide",
                             "url": "https:\/\/callistanise.com\/v\/wnwfqpyx5ey6",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Playmogo",
                             "url": "https:\/\/playmogo.com\/e\/m0wzjitk19fz",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish",
                             "url": "https:\/\/hglamioz.com\/e\/uwzs85w7839g",
                             "type": "streaming",
                             "language": "Sub",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Vidhide",
                             "url": "https:\/\/callistanise.com\/v\/5syf7suvyhmy",
                             "type": "streaming",
                             "language": "Sub",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Playmogo",
                             "url": "https:\/\/playmogo.com\/e\/muac7752jff5",
                             "type": "streaming",
                             "language": "Sub",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E02",
-                    "episode_number": 2,
                     "nombre": "Salto de fe",
                     "portada": "\/iHfT5NDzGxQoovTKbqkBPcyZUxJ.jpg",
                     "enlaces": [
@@ -113,48 +85,47 @@
                             "url": "https:\/\/hglamioz.com\/e\/lk9m83x7z51n",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Vidhide",
                             "url": "https:\/\/callistanise.com\/v\/y87io27trjfp",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Playmogo",
                             "url": "https:\/\/playmogo.com\/e\/veb101qppe98",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish",
                             "url": "https:\/\/hglamioz.com\/e\/xlsky6zv5dja",
                             "type": "streaming",
                             "language": "Sub",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Vidhide",
                             "url": "https:\/\/callistanise.com\/v\/14h0egtn9o67",
                             "type": "streaming",
                             "language": "Sub",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Playmogo",
                             "url": "https:\/\/playmogo.com\/e\/8jprf42lz9e8",
                             "type": "streaming",
                             "language": "Sub",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E03",
-                    "episode_number": 3,
                     "nombre": "Paria",
                     "portada": "\/1SH9BxLQa0jyxWSe0qgDZXVzPR8.jpg",
                     "enlaces": [
@@ -163,49 +134,48 @@
                             "url": "https:\/\/hglamioz.com\/e\/3b1wpfs2le0y",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Vidhide",
                             "url": "https:\/\/callistanise.com\/v\/c62c60btdz0s",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Playmogo",
                             "url": "https:\/\/playmogo.com\/e\/tktvi49pi8v1",
                             "type": "streaming",
                             "language": "Latino",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Streamwish",
                             "url": "https:\/\/hglamioz.com\/e\/vz71kk4phyox",
                             "type": "streaming",
                             "language": "Sub",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Vidhide",
                             "url": "https:\/\/callistanise.com\/v\/asoxjk5tpsg1",
                             "type": "streaming",
                             "language": "Sub",
-                            "quality": "HD"
+                            "quality": ""
                         },
                         {
                             "nombre": "Playmogo",
                             "url": "https:\/\/playmogo.com\/e\/vcimqh2q5ssp",
                             "type": "streaming",
                             "language": "Sub",
-                            "quality": "HD"
+                            "quality": ""
                         }
                     ]
                 },
                 {
                     "episode_id": "S01E04",
-                    "episode_number": 4,
-                    "nombre": "Episodio 4",
+                    "nombre": "La salchicha",
                     "portada": "\/gNSntY11dPxr7XKDPQBawJi8UC.jpg",
                     "enlaces": [
                         {
@@ -240,9 +210,8 @@
                 },
                 {
                     "episode_id": "S01E05",
-                    "episode_number": 5,
-                    "nombre": "Episodio 5",
-                    "portada": "",
+                    "nombre": "Luces fuera",
+                    "portada": "\/gl01bQzjDH93bbMtYeHiHIuQg3r.jpg",
                     "enlaces": [
                         {
                             "nombre": "Streamwish",
@@ -276,9 +245,8 @@
                 },
                 {
                     "episode_id": "S01E06",
-                    "episode_number": 6,
-                    "nombre": "Episodio 6",
-                    "portada": "",
+                    "nombre": "Mala imagen",
+                    "portada": "\/lnaPnNgtufzsNjX1V9MbcwlCIqd.jpg",
                     "enlaces": [
                         {
                             "nombre": "Streamwish",
@@ -312,9 +280,8 @@
                 },
                 {
                     "episode_id": "S01E07",
-                    "episode_number": 7,
-                    "nombre": "Episodio 7",
-                    "portada": "",
+                    "nombre": "El legado de los Jordan",
+                    "portada": "\/sZNpNcHcTSd9qRD1ig7EmO6SsZ8.jpg",
                     "enlaces": [
                         {
                             "nombre": "Streamwish",
@@ -348,14 +315,37 @@
                 },
                 {
                     "episode_id": "S01E08",
-                    "nombre": "Episodio 8",
-                    "portada": "",
-                    "enlaces": []
+                    "nombre": "Tierra y estrellas",
+                    "portada": "\/wlAMmhDH2MjHpt6d3d4ymEvO3Hd.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/pgaopmpw4r7g",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "720p"
+                        },
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https:\/\/playmogo.com\/e\/dr8xmeib73y3",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "720p"
+                        },
+                        {
+                            "nombre": "StreamTape",
+                            "url": "https:\/\/streamtape.com\/e\/L2WP4Y7KgOCRw6g\/LNTRNS26S01E08.mkv",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "720p"
+                        }
+                    ]
                 }
             ]
         }
     ],
     "added_date": "2026-09-03 03:39:23",
     "created_at": "2026-09-03 03:39:23",
-    "updated_at": "2026-10-05 04:40:20"
+    "updated_at": "2026-10-05 05:16:08",
+    "update_states": "No actualizado"
 }
