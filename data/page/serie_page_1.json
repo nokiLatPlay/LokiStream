@@ -1,5 +1,26 @@
 [
     {
+        "id": "1791182743164",
+        "tmdb_id": "298026",
+        "titulo": "Brujas: El Destino del Reino",
+        "imagen": "/hczYx4arh2lv0HlJ8H8TGpmCfdt.jpg",
+        "type": "donghua",
+        "year": "2026",
+        "etiquetas": [
+            "Animación",
+            "Action & Adventure",
+            "Sci-Fi & Fantasy"
+        ],
+        "rate": 8.199999999999999289457264239899814128875732421875,
+        "added_date": "2026-10-05 02:45:43",
+        "created_at": "2026-10-05 02:45:43",
+        "updated_at": "2026-10-05 02:45:44",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 8,
+        "status": "Ended"
+    },
+    {
         "id": "1791182673656",
         "tmdb_id": "325040",
         "titulo": "Above ten thousand people",
