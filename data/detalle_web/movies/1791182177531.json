@@ -1,7 +1,7 @@
 {
     "id": "1791182177531",
     "tmdb_id": "959646",
-    "titulo": "劇場版 ゾンビランドサガ ゆめぎんがパラダイス",
+    "titulo": "Zombie Land Saga: Yumeginga Paradise",
     "original_name": "劇場版 ゾンビランドサガ ゆめぎんがパラダイス",
     "imagen": "\/wqypswQzA0dunAVzSo4A2oKSCaJ.jpg",
     "backdrop_path": "\/zVBaDSCDFCebkjqghnh4B4ZZ4fo.jpg",
@@ -15,7 +15,7 @@
     ],
     "calidad": [],
     "rate": 7.70000000000000017763568394002504646778106689453125,
-    "sinopsis": "",
+    "sinopsis": "¡Un duelo entre alienígenas y zombis! El grupo de ídolos zombis Franchouchou está listo para arrasar en la próxima Saga Expo, hasta que aparece una nave espacial alienígena que siembra la destrucción. Como si las cosas no pudieran empeorar, la legendaria Tae Yamada recupera la conciencia y anuncia su intención de lanzarse como solista para detener la invasión. Con Franchouchou disperso y la Tierra en peligro, ¿podrá el grupo reunirse a tiempo para salvar Saga?",
     "cast": [
         {
             "name": "Kaede Hondo",
@@ -63,6 +63,8 @@
             "profile_path": "\/5rjl28lx84JjRS0hzq3Ajvx2dhp.jpg"
         }
     ],
+    "first_air_date": null,
+    "last_air_date": null,
     "status": "Released",
     "runtime": 121,
     "enlaces": [
@@ -90,5 +92,6 @@
     ],
     "added_date": "2026-10-05 02:36:17",
     "created_at": "2026-10-05 02:36:17",
-    "updated_at": "2026-10-05 02:36:17"
+    "updated_at": "2026-10-05 02:39:00",
+    "update_states": "No actualizado"
 }
