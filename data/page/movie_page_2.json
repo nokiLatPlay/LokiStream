@@ -1,5 +1,26 @@
 [
     {
+        "id": "1791182177531",
+        "tmdb_id": "959646",
+        "titulo": "劇場版 ゾンビランドサガ ゆめぎんがパラダイス",
+        "imagen": "/wqypswQzA0dunAVzSo4A2oKSCaJ.jpg",
+        "type": "movie",
+        "year": "2025",
+        "etiquetas": [
+            "Animación",
+            "Comedia",
+            "Música",
+            "Acción"
+        ],
+        "rate": 7.70000000000000017763568394002504646778106689453125,
+        "added_date": "2026-10-05 02:36:17",
+        "created_at": "2026-10-05 02:36:17",
+        "updated_at": "2026-10-05 02:36:20",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1791010615370",
         "tmdb_id": "1654313",
         "titulo": "Unanswered//butterfly",
