@@ -1,0 +1,549 @@
+{
+    "id": "1791225555315",
+    "tmdb_id": "284792",
+    "titulo": "Medusa",
+    "original_name": "Medusa",
+    "imagen": "\/mFsjwJdNBKDRYLqPdBFaoVCKXLq.jpg",
+    "backdrop_path": "\/gm7OMY4t99UpiMpIShNOKvKLQwO.jpg",
+    "type": "serie",
+    "year": "2025",
+    "etiquetas": [
+        "Drama"
+    ],
+    "temporadas_count": 2,
+    "episodios": 24,
+    "status": "Returning Series",
+    "rate": 7.29999999999999982236431605997495353221893310546875,
+    "sinopsis": "Alguien quiere matar a Bárbara Hidalgo, la CEO de Medusa. Mientras ella intenta dar con el culpable, su familia conspira sin escrúpulos por el control de su imperio en Colombia.",
+    "cast": [
+        {
+            "name": "Juana Acosta",
+            "character": "Bárbara",
+            "profile_path": "\/r1Zcu20O9b0R7OYfeVjZVbtk4Vb.jpg"
+        },
+        {
+            "name": "Manolo Cardona",
+            "character": "Det. Danger Carmelo",
+            "profile_path": "\/9hPHLgO9lINwZynrFywTG9ms8Jl.jpg"
+        },
+        {
+            "name": "Sebastián Martínez",
+            "character": "Esteban",
+            "profile_path": "\/iBTsQPoJFzMjeY0VX8NwJJIVkKU.jpg"
+        }
+    ],
+    "first_air_date": "2025-03-05",
+    "last_air_date": "2026-09-30",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/wVdrRldD5i3OE4XHRS5ZOLT7lJU.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "La muerte",
+                    "portada": "\/dNZ0HB7F5po8QTcfFe06SwdBYRT.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/mymvs8qflopo",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/pf62akzsm1x9",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "El despertar",
+                    "portada": "\/nMjCE7XTZeyzxH3O8fALxKX1SC7.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/01bvaub3i1fv",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/x4z0jqa2iun2",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Versiones pasadas",
+                    "portada": "\/jYvC8FiOI0rAfNGwKUfQaN34Msh.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ag5jka94ebwp",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/ak30cvudgovr",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "Chacales",
+                    "portada": "\/pDKiksD3FhMzVB8ga3B9mdaJdqq.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/x0l5vcxm0dt3",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/nergy9w07p3u",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "Nuevo caos",
+                    "portada": "\/S24ZpcWToR6g0pkx3xDuNxHwx0.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/dz87a1oo9ms6",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/h76fgbynprnm",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Aleteo de arpías",
+                    "portada": "\/fLVLFqDqkyQdN47OAZqbS00Jz31.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/vi48c85xggdj",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "Danger",
+                    "portada": "\/90JFOgHnjJffRGpJPXQ0WfnpLmo.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/3enkxa3sr7d4",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/fbl1e2qrxkvh",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "La madre araña",
+                    "portada": "\/xO2AIjrHBysMmHoSWlPUCrWLTKS.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/admkxg8u4l6c",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E09",
+                    "episode_number": 9,
+                    "nombre": "Mala semilla",
+                    "portada": "\/br7r6OnkBf3m7i40105xooFZOES.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/1xjfatmc8rng",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E10",
+                    "episode_number": 10,
+                    "nombre": "Uno menos",
+                    "portada": "\/cYZoizBxlysHcknvi04rwOBSJPA.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/zz1k7f5iz205",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E11",
+                    "episode_number": 11,
+                    "nombre": "Depredadora",
+                    "portada": "\/3A8styCKa1PsSzepdLOfwyFG2NC.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/jgxgwid95mhj",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/yuw9hhch6gwl",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E12",
+                    "episode_number": 12,
+                    "nombre": "La medusa",
+                    "portada": "\/siQbr9apeJObQNRKqo9Qqi4Xl2g.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/urdlt2viejit",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 2",
+            "season_number": 2,
+            "poster_path": "\/z9hL2ZeG7WceeKnv3e6tpzM2M7.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S02E01",
+                    "episode_number": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "\/6xSkhUcHsdi6Lk7x2RXxDJQVF71.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/pm37xvlps3vi",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/38sq82m60r2u",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E02",
+                    "episode_number": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "\/sLjyayLy0dtJNaOfNfPqK7eRb2S.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/n9jxxuqx1e9h",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/fiwa5m9f9z45",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E03",
+                    "episode_number": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "\/l1y4KdbCVoyec3HZihPNJUSUxWr.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/8psvudoaus0n",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/bgqhgh79tpb5",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E04",
+                    "episode_number": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "\/xt2iSmHMxF8mmoyJhLF4fgdOZ8J.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/iivipmfdphy5",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/xf61b9vobl46",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E05",
+                    "episode_number": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "\/g3b9c1JLle7hFxI2jmqABC8ydzl.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Gnula",
+                            "url": "https:\/\/player.gnula.life\/player.php?h=rxPRsRSX4IlkyS1F21W5j25cqDSEOYXllxb9YxOxPmsjCNpFOiozq.H1jITZVxpW",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/x5yoonfbfvrp",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E06",
+                    "episode_number": 6,
+                    "nombre": "Episodio 6",
+                    "portada": "\/9XbQjBbUMnkHjF2wJUaSZO2VptM.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/d027zqlfquuy",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/utmwh99y6ync",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E07",
+                    "episode_number": 7,
+                    "nombre": "Episodio 7",
+                    "portada": "\/v9AGlUVe5aB7nQpXNXbEAz16sVw.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/cf05mju61rq7",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/lkc9ttlnk7r4",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E08",
+                    "episode_number": 8,
+                    "nombre": "Episodio 8",
+                    "portada": "\/4K8AareAVBUOag3BpjkN0zgpwDo.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/lm8f5gxq9my4",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/a9smfil9odti",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E09",
+                    "episode_number": 9,
+                    "nombre": "Episodio 9",
+                    "portada": "\/xERANlj0DzzB9zEiBIJQSZ6GZeF.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ha73h1xartqg",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/7z1brd7ykebk",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E10",
+                    "episode_number": 10,
+                    "nombre": "Episodio 10",
+                    "portada": "\/rHxmyngtqA97EX1lHEKdUeAezZu.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/5hv0y7cscphc",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/0ytglibbpkhp",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E11",
+                    "episode_number": 11,
+                    "nombre": "Episodio 11",
+                    "portada": "\/4GT8kHx8T3Z6jyX8SO83QADaVCy.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/amtk93paoxai",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/6rcb2dgte5fe",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E12",
+                    "episode_number": 12,
+                    "nombre": "Episodio 12",
+                    "portada": "\/pB4INrINxuD7KrvKN1vWHaqZB5F.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/d7yg746kfrit",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/f519f02ux78y",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-10-05 14:39:15",
+    "created_at": "2026-10-05 14:39:15",
+    "updated_at": "2026-10-05 14:39:15"
+}
