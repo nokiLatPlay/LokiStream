@@ -1,5 +1,27 @@
 [
     {
+        "id": "1791181452404",
+        "tmdb_id": "63926",
+        "titulo": "One Punch Man",
+        "imagen": "/a8BknzvFVK5EZ83rKg1a83iwaj0.jpg",
+        "type": "anime",
+        "year": "2015",
+        "etiquetas": [
+            "Animación",
+            "Comedia",
+            "Action & Adventure",
+            "Sci-Fi & Fantasy"
+        ],
+        "rate": 8.4000000000000003552713678800500929355621337890625,
+        "added_date": "2026-10-05 02:24:12",
+        "created_at": "2026-10-05 02:24:12",
+        "updated_at": "2026-10-05 02:24:14",
+        "update_states": "No actualizado",
+        "temporadas": 3,
+        "episodios": 36,
+        "status": "Returning Series"
+    },
+    {
         "id": "1791011066473",
         "tmdb_id": "107463",
         "titulo": "Blades of the Guardians",
