@@ -1,0 +1,2927 @@
+{
+    "id": "1791181452404",
+    "tmdb_id": "63926",
+    "titulo": "One Punch Man",
+    "original_name": "ワンパンマン",
+    "imagen": "\/a8BknzvFVK5EZ83rKg1a83iwaj0.jpg",
+    "backdrop_path": "\/s0w8JbuNNxL1YgaHeDWih12C3jG.jpg",
+    "type": "anime",
+    "year": "2015",
+    "etiquetas": [
+        "Animación",
+        "Comedia",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+    ],
+    "temporadas_count": 3,
+    "episodios": 36,
+    "status": "Returning Series",
+    "rate": 8.4000000000000003552713678800500929355621337890625,
+    "sinopsis": "La historia tiene lugar en una de las metrópolis ficticias de la Tierra, la Ciudad Z en Japón. El mundo está lleno de extraños monstruos que misteriosamente aparecen y causan muchos desastres. Saitama, el protagonista, es un poderoso superhéroe que derrota fácilmente a los monstruos u otros villanos con un único golpe. Debido a esto, Saitama ha encontrado aburrida su fuerza y siempre está tratando de encontrar rivales más poderosos que le puedan igualar.",
+    "cast": [
+        {
+            "name": "Makoto Furukawa",
+            "character": "Saitama (voice)",
+            "profile_path": "\/inLmBZhrqXeE9wlViyK28ocKJSw.jpg"
+        }
+    ],
+    "first_air_date": "2015-10-05",
+    "last_air_date": "2025-12-28",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/fB5ALyuQdb2plrJhU7Gz9gd6BBI.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "El hombre más fuerte del mundo",
+                    "portada": "\/r5LjUXSYANLC5f6X9qgvAjeEP2X.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=cnNYZ3V2UlVGUnluZm02Y1VScnVOcHNqVnBHTm9mdVhDMC9nUEVZRW1yRnJtamhCT2wzWFgvNkdzZmN6eUh2NHhwQ1UrYnJFd1drK05XMXEwOEh2NEE9PTo6BYljr9zT.pBKbjcOkC3vrw--&t=f27e8beb00960ee822c371f7187f78cc&op=NjQ1Nzc=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=TVVwOHp4QlpHeFppSUFsbW85My9Ycmt1aVJwaFg1emVNUC9ORjFYZ0NCK0ttUlJBZzhsSFVjbzUvbmgwK3NJYzY0M2VxMEZTVDYzTHN3NGoxQVNpZnc9PTo65D7UkDgOhpSDJ5FAb1iaOg--&t=f27e8beb00960ee822c371f7187f78cc",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-w4vu3k3okxru.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-duek7i9c12cj.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-z5orcyg1i1t2.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/f8cq9xmuy47r",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/Im268a121O6Y",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/L400V36BDX30",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-xubgwud2yb0q.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-tr5di21lhtsf.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-r82j2t49op87.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "El cíborg superior",
+                    "portada": "\/mps2UuPnmkxOco5oQePVlwioZKG.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=Qm5McXQyaXVwSTUrSUxma2ZkNjZKZHUvZndkaUNlMk9Cb2VjWXM2WTZ3RVd1aE9PODRQZHVrTklBRWFRVmxhTlkyL3hhMjdnV2RSMnpBZjFxU1Q2VFE9PTo6dWd06VpD648_hkTU0SmYPA--&t=45bbbfe4c2a7bfe8ee3ce5a660099263&op=NjQ1Nzg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=aGJSUjgvYzNQY25BNlNHSmM1NGRKTEF1M0xERWFOZmYvZzJJSU1Mb2VDbmVORk1ndjV6cWZlTFc0K2ExN1h4T2JCaTlVdHJtSVFTVFF1M1p6cDhpMmc9PTo654g_ye9LfDamieBwfpcvYQ--&t=45bbbfe4c2a7bfe8ee3ce5a660099263",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-1mmg3pbbtuq1.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-a25g4gvvlxe7.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-x737cf9hlzqo.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ecfddsmsdjkt",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/7403OxVTKwk2",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/1wtD280HxD6O",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-dk8hxb51xx1y.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-3nsjasc1ztqq.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-w43wd427l457.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-47ktkz1vf8dr.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "El científico implacable",
+                    "portada": "\/ywv8d7mCxSnmnS56LNUBjfPzFRd.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=cTdEVDY3RXBOV1dDSWhiNVY3S05jTXhVcURZS3VSdDlPbVZoaW1JMFJkMmFoYlFraUhnSUVjeDVPZU10MTVtV0JvQkFhOVZsZXJrN0hTY3dOaTgyNHc9PTo6o07oi2Bi1JQXozQhVmj6SA--&t=9feb930a76ec63b6396dc3c0fc9b5047&op=NjQ1Nzk=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=YWp3YjlUcTVwdEdzMjlrbGRWTjYwQTREWU9JbGw4aUwrRWtZaGliMjRwSDlOY2dMOEs3OFJUWDFRMUhROXdaMFZlQm45ODNaRkhSeHRveU80SVNKSmc9PTo6_EAesj4_ZGNefDlLnsdTOQ--&t=9feb930a76ec63b6396dc3c0fc9b5047",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-p8qlqfxwgdzu.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-olucssvjfi7s.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-cx1tz7y4rcjm.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/30n1d0s16ir0",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/n6806Q0jG23n",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/WakL3x1g2Fej",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/t4d17LqQR2K1",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-pucbnoixp5og.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-96wuzujvbey9.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-936nsz9hccwr.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-b30d3vbrlrrn.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "El ninja moderno",
+                    "portada": "\/kHLdWCkIwT8tw7HPZaNXYoYMpeL.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=c0V6UHgydENJSzI4Y0NqVSthQmxPOHpRUFZNUXAxM0FNWEtSbXpGZmdpZkE0L0YxMXJJbFB5NXpiSEtlNzdTUDlOYjZGUktxUURPZ1J4dTc5Q0NpbHc9PTo6Ts1eZqxd_J7FAYfD0XgBmA--&t=6ae499ea3255b381daec0d0177f5b97d&op=NjQ1ODA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=T3hWZjhXZEV4RXpuS1ZJRTgzclhvZUFGcGlPTFhSRTU4MTdWMCtwN0dicy82ZlFhR3lWQmdDZDcyc1ZBYk00RlNPY0NwQ1pCajhEUjJVTHMydTJZbGc9PTo60LMuIzIBqmr..JZ1jJi51Q--&t=6ae499ea3255b381daec0d0177f5b97d",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-eukak8j07z7x.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-i4agdkwdfn8k.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-xda5trxjznet.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/nfm3uubib1r9",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/6ch3pTrks22k",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/gRu2vGTdV3ug",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/q4p52NP113U8",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-t2k1y4s3fbo9.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-b3lhyzg5l6fi.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-a7y0ewwdpwds.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-18ja47hk7xll.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "El maestro definitivo",
+                    "portada": "\/5xdo0OwyWm9oNv2tX6aKj9Gr3Tw.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=T1FudkVjR2h1eE5QQWNlbXBCRXZQcDRWYXhZMHVRNmNNaWZndnRxT0tKZUY2RlRVMWgvWUtIVEhrMVA0bWV2YUh6N00xZ2tneERTa1JGVGt0Q3B4SVE9PTo6VIMl..EcS8X49a_aV6_6zQ--&t=cda4575221b66114dc0b233e5df22ce1&op=NjQ1ODE=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=TzhIYks0d0NDTmMyMGloS1c2b3pUV3ZwRXlJZ2wzMzVIYTFMTVUyTU9LZ1JBOG1qWmsvb2FZbkkvdmhVVmlWeEo2RGY5OGtPMGpRTkVjOGk4R1cxR3c9PTo65wGK8N6RmwicAkfbymLDXQ--&t=cda4575221b66114dc0b233e5df22ce1",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-x6nnhkli76wt.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-8cizy88i4ixm.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-6yem83oqwae1.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/4e8mbo4kgzg4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/172j3Vl7wj6L",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/n58J57VnDN4N",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-x5o1xjdiow9l.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-rbqsm9g37gqr.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-hfjuh6cbxmub.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "La ciudad más terrorífica",
+                    "portada": "\/oApEUMM4nfTqyXvaVozqCa3B5uQ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=OWtpTGFrTFBtNkRwbTVmTUt2OGhvU1QwRlVzUFAyWEdObmNSMTAxK3kvYVVlT0hpbFI1OFdIeG02WEp3amtSTEhMdUZvRTVCY2NQR2ZiVDI0ejczYnc9PTo6NRtMnAiEgyPNW7H5JFz0Hw--&t=8f811865d817d29adc139334f42d53ca&op=NjQ1ODI=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=Y2FQSitLS3JGSzBQeGc3cnNZMklxMlNveGg5V1k0Qys5OHpEejNnTklMZUtQNEZVZGNMdHFzKzR0Q3Vid2hxRzhvK1FseFVyUDJjaW9aVFZTd0M3YUE9PTo6gWb3F4JRVxdldo3YZDzrcg--&t=8f811865d817d29adc139334f42d53ca",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-56fabl0mty9n.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-r25yn3tjr961.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-t7rjl1ca2now.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/6b0tax1gae02",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/QQxV2okf8v1s",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/L5B1Tmlov01v",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/RpA8j82X6p1K",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-4cd72n5706uh.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-mwtobqvkzmww.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-5w54pqd7u0xj.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-6f1k2gcwr3kc.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "El discípulo supremo",
+                    "portada": "\/z1Nxh00HGfLCHHPuJ1FcunsR6DY.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=YWhKU2dPK1gwNGdFYkJXTTJ2UDd2bUVOTEVpN2F5bGcyM21hbFdNbWdNQUEyc0N5ODZoc09aYUdlYktCbWRYaG1BOVhrdTNiZjBWem1mZUYrbGRSL0E9PTo6PjbQzpGJlhGZWe72sRbrAw--&t=19586032e03c7e9cfa537fed94834d0c&op=NjQ1ODM=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=QUY4QnZ1akIvOC8zWnFVVzFqNkRqc2RySmovMGRsWisrWXRHTGd5Q1RVajJ4Ui9jSDBoUkpxeEFTQmdvNEtxSlRJZWZLY3BMSW4wbU5BUEduUXU4YWc9PTo64gH1Oy2S7XTnkQ3VxWw1GA--&t=19586032e03c7e9cfa537fed94834d0c",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-g7l98uta5vqm.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-zk87fiafuihm.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-t62vfl6jls4o.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/von2f8h9riwa",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/Gp6GLh4B5w4G",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/bB41j6JhsB7p",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/6B1408BQ1sKx",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-jua6jxv2imqq.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-zbbbpzo3lrxs.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-4edy5wv76rkt.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-k7mo6scs7syh.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-io7u7vc7snbt.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "El rey del mar",
+                    "portada": "\/vFT8L7RU6U5Il9SvTS1oEU9nhj8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=TVEwQWlTZmdoUG5vVUlqVHRCdmpXOE9EQlM3aktRN203M004NkdJcTVMc1FvVHpIMXBHN3J6RTVtWisrOXFwbEc4UTl2QXVTN1ZlNXR2WUU4QWs2Z0E9PTo6sYwCYo_0oLMRSKPS10k1iw--&t=ef6928e3ad80717333381e373b253330&op=NjQ1ODQ=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=ZExmWit2QzVXWTlOZVJzYzY2RnNjKzVMMzdVd3RsSTJKdjlhMGpxd0dCemFyVU43RHJLTkd3UUxjZ3Jjek5NS05jNy9MRHprL3MzRlJEK3Vtc1pLRWc9PTo62Y3d5BleeQm3HIb74XkM1Q--&t=ef6928e3ad80717333381e373b253330",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-vzl8tg7zbkm0.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-cg91iw0ovko8.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-h78raozu6mkp.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/9rrthjw7ypit",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/6IRY5nu5EjE1",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/28tossg0Ue8T",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/NrvjlfBXc4vT",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-nytjc8grkd6n.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-3gds8yrdt5ea.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-vjyg6mzanikd.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-tjv4e4hljx75.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E09",
+                    "episode_number": 9,
+                    "nombre": "La justicia indomable",
+                    "portada": "\/d5h1EgV1xIjlioPnb0exwLYy1ev.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=ZER5L0g4ZDFZWEJqWlJkN1k5Wlp4cUlnd2RsTk9yMTByMm4xdUlXdmRkYUlCY3FOTmUzbDlQb21GY0YrWGUwOTVZNlBjczVpZE1adTlaazdZUWRBTmc9PTo6xEuQ_QpUKfTFDHIdgxj7ig--&t=aafc619ef14ce23e8dc92e795ffe4d9e&op=NjQ1ODU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=RGFtT1FPR0NYeURtWnhhbXlNdXhnS0thcTZQWXlNbFNCVTZrTEF1aVNGOWJjODRIOFpmS1pXbU9mZzg4VXJjRnhIaGpDODBZMUN4ZFZiMHBicTFTZWc9PTo6gck8Rtm1Rh6WMaUQ7sj_Ag--&t=aafc619ef14ce23e8dc92e795ffe4d9e",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-tpjonmigem2y.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-34rb1dvne1nn.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-uzldswrngr76.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/pnqz6524q0ro",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/MeN3p1b5eJky",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/068ahJeTTleu",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/b642ehP3x71q",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-zc8o8ec07w6j.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-kio2fjkdwp91.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-otr4vcrg32rx.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-e2y8b9qssq2a.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E10",
+                    "episode_number": 10,
+                    "nombre": "Una amenaza sin precedentes",
+                    "portada": "\/AbWf8PdF1stcXiOwQXCAP7qGo8u.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=SjhLOEpITmRydkxteWQ3UmNSd0JpWUVORVVCdHhuQnc0VEREZmZ2MHpLd2k3NG9JN1BUaWp3OGlwK0lwdjgrMGlvcG1nLysxMllPSExHRnZKenhYM0E9PTo6KrSGrp8c8R.Zd.Na7grylA--&t=aa1d10219b9595d292c5406e13c4ec54&op=NjQ1ODY=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=amF6QnBmVnBlNHNyK0kxSEtrb3ZzQ0RXRC9DYVhNN2cxNjdDcTVYcE1YbjFhMW43Z0NqK1hvb2pTalhJbDdTVE9hbHdMQXQ2a1ZHRitDcE41VFdTTmc9PTo6xFoKKIVhMVU9fORg3Ifxyg--&t=aa1d10219b9595d292c5406e13c4ec54",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-nv6uf7u3d8ww.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-mjujcdfiybwc.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-rk9valj6867b.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ozjpkjcan9i7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/JyGNA48VcRQJ",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/WBPCqrP2sNwq",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/ogJi4j57v3yX",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-v9f78oro3bf4.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-fjkqzvkqhwal.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-88ijdg7u60k0.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-popl53zh541i.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E11",
+                    "episode_number": 11,
+                    "nombre": "El soberano del espacio",
+                    "portada": "\/5QqxkbKwSCQOW2XXaoyEpMaKtiZ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=Ujk5N21idkM5K1lOZ1hHTjZiUXFtcjF4TGpxTXlya25XSXAxeFRFRHJKV1NVSVcrSjd6MzlpVVpjODlSdy8ra0lUaC9BcUlxZHZ1Q005TW1WS09JRUE9PTo6lzvjFn3HtP4w6edLZuJqKQ--&t=6b8a3ec2b6b2bc4182385c819db22628&op=NjQ1ODc=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=OElWcW80Q3AyRGYrM3NtdHFCM3QzSXUxT01NdExkT2dNdkd4aHJUM3RvaDJoUEFtNVNJK0RUcndpTytXbHBSbDZrSFI2cFRTVFpQektDRjE5UHdOL0E9PTo6CnDKxvtSgT3QM_COORqCxA--&t=6b8a3ec2b6b2bc4182385c819db22628",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-flmo1a8i5t6u.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-mx1rypzhkl7v.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-nqy00z77thnz.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/imh9bc7bitqn",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/I203en6vKIxK",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/867a5I2pRt6R",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/RQJKvdmXoj6d",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-dbfxjxh04c28.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-oa364fgofplh.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-wlktj9rw2f9d.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-v5j09mh3iruo.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E12",
+                    "episode_number": 12,
+                    "nombre": "El héroe más fuerte del mundo",
+                    "portada": "\/31qHOAENzfEmYmtbhSahPez9MkZ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=Z083Z1g4WFNsS1BpR3hURGVhUjAyTWJQMHNZSGM3cDQzU2s2U0ZwNVFnNndQS1lDSWNSSHNRQ2NXTCtjWi82dHo4UjBKM3hSNmp2aGtLdTExTFNWWnc9PTo6ZeRQWwRJGn8skxgiXZfcmQ--&t=0f61709f94ecbbe3afc3e47564374f4d&op=NjQ1ODg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=WnJ5UXV6ZElkVEJpR0V3WXNsaXc3OUxabWVVUjhIcldha3RiU0wvVElRcWRpR2RlNmozQU9mUGNwUkJFSFU5aGwxb1VVMzNOckcvVDdDOGdxTitCREE9PTo6zRlUHFkqZrKlv9zYPUW9kQ--&t=0f61709f94ecbbe3afc3e47564374f4d",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-kul4pbt5zh0d.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-tz1reuitntr0.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-te0af6vle58o.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/7m6d7cwqiwu0",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/8KXlu6C5gmcV",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/S1pRGRuET6oO",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/bdf41q0n6b4v",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-h4mbqnj49b1w.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-pgffiane4wuw.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-qbwujumtpc89.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-owcjd4k9myb1.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-m7wpl1ep1t1p.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 2",
+            "season_number": 2,
+            "poster_path": "\/nNvUhDHDhhaM2t6kC7lW9HOT1y2.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S02E01",
+                    "episode_number": 1,
+                    "nombre": "El retorno del héroe",
+                    "portada": "\/wNeKfTka6lIDQCGpZuOMATv0UJD.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=VHRWSk5FSlZSMVFCSE5IQWNRSlNMUUx5eTRtb1RWL2xFMEVuMmNCLzdOL29sd3dIa2IrZGVScVBXdDU0Y01jbVJSMU5XOVJsT3Y3d2Z2ZERTVWhkeFE9PTo667Z0oUam.57gT0rS8u.lfQ--&t=15aea757696aaf9af950992f299b6789&op=Mzk1Nzc=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=SWVEeEdUU2o0dy9yTXpacWVwZkxSY1ZBMTlidi9ML3U1RDNkM0gzYkxuc3RiVDFaQW5rVVNNZlBRZWJMZnQva2RiK041MExoN0l6WXhEdWplSHFTYVE9PTo6H97FusVgb09BLUyLgIKgcg--&t=15aea757696aaf9af950992f299b6789",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-quohofr8stdr.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/vij7lyjokysi",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-tr5di21lhtsf.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/jkanime.net\/jkplayer\/um?e=VHRWSk5FSlZSMVFCSE5IQWNRSlNMUUx5eTRtb1RWL2xFMEVuMmNCLzdOL29sd3dIa2IrZGVScVBXdDU0Y01jbVJSMU5XOVJsT3Y3d2Z2ZERTVWhkeFE9PTo667Z0oUam.57gT0rS8u.lfQ--&t=15aea757696aaf9af950992f299b6789&op=Mzk1Nzc=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/jkanime.net\/jkplayer\/umv?e=SWVEeEdUU2o0dy9yTXpacWVwZkxSY1ZBMTlidi9ML3U1RDNkM0gzYkxuc3RiVDFaQW5rVVNNZlBRZWJMZnQva2RiK041MExoN0l6WXhEdWplSHFTYVE9PTo6H97FusVgb09BLUyLgIKgcg--&t=15aea757696aaf9af950992f299b6789",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/www.mp4upload.com\/embed-quohofr8stdr.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/hglamioz.com\/e\/vij7lyjokysi",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/www.mp4upload.com\/embed-tr5di21lhtsf.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E02",
+                    "episode_number": 2,
+                    "nombre": "El monstruo humano",
+                    "portada": "\/b72sZdqHch1PdqUVF86a66KNu09.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=MTVFZnp1TFdWZjBHNDBEakQxSm9FdzFYQmtkSDIrRmF4ZlRVZytmeDV6Qi9CVUlkdUFDUnBsSDQ2RG44dTQwQ0R0dXh2WjluQno0azJYK0Z3OW5NUFE9PTo69AfadyhrgidQP_wVBkqDrA--&t=f6bd2a3672ec73783ad8f4b3dd1d18f4&op=Mzk2MjU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=MzlIV25zVjc5andyemo0YnNlNWN2VThQVjJtNW1OcWpCRjN6cW85RzhFRE5oSmlYQU1DS0JoNklqZ081dlA1eDhiSk1CcU8vcjJ0aDk4ZldFZis4VUE9PTo6NirBdRb9_gxGuk.FLEyp6w--&t=f6bd2a3672ec73783ad8f4b3dd1d18f4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-f8ffp9m5iwff.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/cv6bgb4tofsu",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-3nsjasc1ztqq.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/jkanime.net\/jkplayer\/um?e=MTVFZnp1TFdWZjBHNDBEakQxSm9FdzFYQmtkSDIrRmF4ZlRVZytmeDV6Qi9CVUlkdUFDUnBsSDQ2RG44dTQwQ0R0dXh2WjluQno0azJYK0Z3OW5NUFE9PTo69AfadyhrgidQP_wVBkqDrA--&t=f6bd2a3672ec73783ad8f4b3dd1d18f4&op=Mzk2MjU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/jkanime.net\/jkplayer\/umv?e=MzlIV25zVjc5andyemo0YnNlNWN2VThQVjJtNW1OcWpCRjN6cW85RzhFRE5oSmlYQU1DS0JoNklqZ081dlA1eDhiSk1CcU8vcjJ0aDk4ZldFZis4VUE9PTo6NirBdRb9_gxGuk.FLEyp6w--&t=f6bd2a3672ec73783ad8f4b3dd1d18f4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/www.mp4upload.com\/embed-f8ffp9m5iwff.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/hglamioz.com\/e\/cv6bgb4tofsu",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/www.mp4upload.com\/embed-3nsjasc1ztqq.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E03",
+                    "episode_number": 3,
+                    "nombre": "Empieza la caza",
+                    "portada": "\/gedbotRXMOCUC7P9RblaHgw0LuL.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=K1JpNnhyOUd1RWdCWXhXS2ZRY1hYOEtIRGRsY3dZRlNzODJnNlljTjFEMVJlcE44aDVDSkRLeWVPOUFzTzI2dW8rUVRjRGFlOWNmSVdKTHAvOWYrN2c9PTo6BvIg3s5.xaHfWRqjp9pOiQ--&t=cc9ab9433145b7cd5962fb23e04924dc&op=Mzk2OTU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=Rkd1MnlYbjdqNDhwWUFoL3d3V2U4SjZ5R0tybmhHWjVWdmgzNzJ3TFBzbnUvMlZpZGZiWHk4NUxKelNjYWhsbmFDSEV2RVpEVjRvN200ZGh5OUVoMkE9PTo6UwmokSDnSIssNizdMHc2ag--&t=cc9ab9433145b7cd5962fb23e04924dc",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-ie0kumdjg54n.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/3boqivm6drc1",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/n6806Q0jG23n",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-96wuzujvbey9.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/jkanime.net\/jkplayer\/um?e=K1JpNnhyOUd1RWdCWXhXS2ZRY1hYOEtIRGRsY3dZRlNzODJnNlljTjFEMVJlcE44aDVDSkRLeWVPOUFzTzI2dW8rUVRjRGFlOWNmSVdKTHAvOWYrN2c9PTo6BvIg3s5.xaHfWRqjp9pOiQ--&t=cc9ab9433145b7cd5962fb23e04924dc&op=Mzk2OTU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/jkanime.net\/jkplayer\/umv?e=Rkd1MnlYbjdqNDhwWUFoL3d3V2U4SjZ5R0tybmhHWjVWdmgzNzJ3TFBzbnUvMlZpZGZiWHk4NUxKelNjYWhsbmFDSEV2RVpEVjRvN200ZGh5OUVoMkE9PTo6UwmokSDnSIssNizdMHc2ag--&t=cc9ab9433145b7cd5962fb23e04924dc",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/www.mp4upload.com\/embed-ie0kumdjg54n.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/hglamioz.com\/e\/3boqivm6drc1",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/www.yourupload.com\/embed\/n6806Q0jG23n",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/www.mp4upload.com\/embed-96wuzujvbey9.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E04",
+                    "episode_number": 4,
+                    "nombre": "Bate metálico",
+                    "portada": "\/1I29xRhdTy6A1ybdPHc6Ke4fRV2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=bHVyTUo1UzRLb1RyeFRhU0V3RGhleFJhb2xUYmMxKzlhMjNxMm1jMUozL2VadzlXdzlmRnpFTW5ObHdpL1FXN3lua2FGMUZrb0h3ejJ0aW03ZmRUS2c9PTo6PrZE941dlkleN8FnHXTrAw--&t=50acfcb158fa1373d01ae69c7236c946&op=Mzk3NDY=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=U0tOV0JKcU9YOTBvZnFJNXRlZk9DMFd2WGhraW41Ri9QL3RYWVR5SXBLMHp3eFVzcjJLVUtycW1TUExxaXhlRXZrdE52SC9JRmxGaGRGeG1tNkJxNHc9PTo6eqIAL26mFvle5Y9OIR3fAg--&t=50acfcb158fa1373d01ae69c7236c946",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-d9vvbwzvo82f.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/be8mcf382731",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/6ch3pTrks22k",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-b3lhyzg5l6fi.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/jkanime.net\/jkplayer\/um?e=bHVyTUo1UzRLb1RyeFRhU0V3RGhleFJhb2xUYmMxKzlhMjNxMm1jMUozL2VadzlXdzlmRnpFTW5ObHdpL1FXN3lua2FGMUZrb0h3ejJ0aW03ZmRUS2c9PTo6PrZE941dlkleN8FnHXTrAw--&t=50acfcb158fa1373d01ae69c7236c946&op=Mzk3NDY=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/jkanime.net\/jkplayer\/umv?e=U0tOV0JKcU9YOTBvZnFJNXRlZk9DMFd2WGhraW41Ri9QL3RYWVR5SXBLMHp3eFVzcjJLVUtycW1TUExxaXhlRXZrdE52SC9JRmxGaGRGeG1tNkJxNHc9PTo6eqIAL26mFvle5Y9OIR3fAg--&t=50acfcb158fa1373d01ae69c7236c946",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/www.mp4upload.com\/embed-d9vvbwzvo82f.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/hglamioz.com\/e\/be8mcf382731",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/www.yourupload.com\/embed\/6ch3pTrks22k",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/www.mp4upload.com\/embed-b3lhyzg5l6fi.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E05",
+                    "episode_number": 5,
+                    "nombre": "Torneo de artes marciales",
+                    "portada": "\/us7myp7Us2h87nZ1f8ACZ6Fcaoz.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=bHhsa1haaksyR2psUFZXOURLUkpOQXNuMHJnTHhld013bHV5aWJtNDJybUI2OGVPbVlaY0ZXVzFKaWFoUjJYZW92SmV0Q2hBeHE5NWwxd1l3TUNnd0E9PTo6EG79eRrKI0xJrmbOAVACiQ--&t=dabae0ad17c002ae7a711aca44636260&op=Mzk3OTc=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=WjJseEpQN3hoY2h3clpOdStHN004SGhCamduU2dhZ0I1VVZ1K0k1cWthMFNBMWZpT1FZaHUxbWwwRGppZW4wNE0vK0dFZlBNRTY3L1Y1UVY4cnJXeWc9PTo6SC0FBCSee5I1viRsLZjOWA--&t=dabae0ad17c002ae7a711aca44636260",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-gd2j2s3qjma4.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/sqrlthlft4ma",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-rbqsm9g37gqr.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/jkanime.net\/jkplayer\/um?e=bHhsa1haaksyR2psUFZXOURLUkpOQXNuMHJnTHhld013bHV5aWJtNDJybUI2OGVPbVlaY0ZXVzFKaWFoUjJYZW92SmV0Q2hBeHE5NWwxd1l3TUNnd0E9PTo6EG79eRrKI0xJrmbOAVACiQ--&t=dabae0ad17c002ae7a711aca44636260&op=Mzk3OTc=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/jkanime.net\/jkplayer\/umv?e=WjJseEpQN3hoY2h3clpOdStHN004SGhCamduU2dhZ0I1VVZ1K0k1cWthMFNBMWZpT1FZaHUxbWwwRGppZW4wNE0vK0dFZlBNRTY3L1Y1UVY4cnJXeWc9PTo6SC0FBCSee5I1viRsLZjOWA--&t=dabae0ad17c002ae7a711aca44636260",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/www.mp4upload.com\/embed-gd2j2s3qjma4.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/hglamioz.com\/e\/sqrlthlft4ma",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/www.mp4upload.com\/embed-rbqsm9g37gqr.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E06",
+                    "episode_number": 6,
+                    "nombre": "La sublevación de los monstruos",
+                    "portada": "\/sN0T4orzh3HgMBFoKqI7xcYNjBI.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=YXhVUml5TmE2OHN2blF0NFVHSTBiZFBmZ29DUUgwNjI0d2RPekdPVlNlMjloT2paSDVlaWVwbmNRVGpXVUw0MU1kYUhxcUFtamYzdnZIOEFtRFdzdXc9PTo6OMFfTQVURVJZIWKlJpchmg--&t=1f0963d11f75dc421229062b3785f7ad&op=Mzk4NzI=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=TzRNc3hzSFhhelFYNW1hb1ZlZUY1dldzdWJRUWk1bmFYWVE3Z2lYTUF6eXRCMG9RSTRwNTJFMHkyV0dmK1UyVk5EOW1LYkwvSXNkOGR3L2EyMENWMkE9PTo6FBlAZdZ2n35sHupaDllhoA--&t=1f0963d11f75dc421229062b3785f7ad",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-oaaz81i7dbwi.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/gginit2lx74s",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/QQxV2okf8v1s",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-mwtobqvkzmww.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/jkanime.net\/jkplayer\/um?e=YXhVUml5TmE2OHN2blF0NFVHSTBiZFBmZ29DUUgwNjI0d2RPekdPVlNlMjloT2paSDVlaWVwbmNRVGpXVUw0MU1kYUhxcUFtamYzdnZIOEFtRFdzdXc9PTo6OMFfTQVURVJZIWKlJpchmg--&t=1f0963d11f75dc421229062b3785f7ad&op=Mzk4NzI=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/jkanime.net\/jkplayer\/umv?e=TzRNc3hzSFhhelFYNW1hb1ZlZUY1dldzdWJRUWk1bmFYWVE3Z2lYTUF6eXRCMG9RSTRwNTJFMHkyV0dmK1UyVk5EOW1LYkwvSXNkOGR3L2EyMENWMkE9PTo6FBlAZdZ2n35sHupaDllhoA--&t=1f0963d11f75dc421229062b3785f7ad",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/www.mp4upload.com\/embed-oaaz81i7dbwi.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/hglamioz.com\/e\/gginit2lx74s",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/www.yourupload.com\/embed\/QQxV2okf8v1s",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/www.mp4upload.com\/embed-mwtobqvkzmww.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E07",
+                    "episode_number": 7,
+                    "nombre": "Héroe de clase S",
+                    "portada": "\/c9QhXBPVwOaayJ04FBt3OXjmafV.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=R2xCb0VHdC91d21sazNFMUp1TkFZc1pTY3JQMkQ0Q0hNZjFqVERKRjh4RFZ5czZGU2NrY1dhTVJRZHVPcFIwOWZ2djJ5VVF1Y2pDUEU4b1J2cSt3ekE9PTo658k.jZ_UccrQyfZ2DmRZpA--&t=eab9f1361c92ce3589c5423826b70ee5&op=Mzk5NTA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=dzFLNkRkUHlyd28xbE0xR2lSczkwQ0VBOUVSUnMyVzdiK1NiR2pZblNiaEsySVhuTzdsYUdJZEcycmxaeER0R1NKMVAva0lrM2F1elN2cThHTTVnMHc9PTo6uWBP533byjKmwJZF9Hk3GQ--&t=eab9f1361c92ce3589c5423826b70ee5",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-gw9vn2jiah4p.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/fbp3ctu3d7ji",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/Gp6GLh4B5w4G",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-4edy5wv76rkt.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/jkanime.net\/jkplayer\/um?e=R2xCb0VHdC91d21sazNFMUp1TkFZc1pTY3JQMkQ0Q0hNZjFqVERKRjh4RFZ5czZGU2NrY1dhTVJRZHVPcFIwOWZ2djJ5VVF1Y2pDUEU4b1J2cSt3ekE9PTo658k.jZ_UccrQyfZ2DmRZpA--&t=eab9f1361c92ce3589c5423826b70ee5&op=Mzk5NTA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/jkanime.net\/jkplayer\/umv?e=dzFLNkRkUHlyd28xbE0xR2lSczkwQ0VBOUVSUnMyVzdiK1NiR2pZblNiaEsySVhuTzdsYUdJZEcycmxaeER0R1NKMVAva0lrM2F1elN2cThHTTVnMHc9PTo6uWBP533byjKmwJZF9Hk3GQ--&t=eab9f1361c92ce3589c5423826b70ee5",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/www.mp4upload.com\/embed-gw9vn2jiah4p.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/hglamioz.com\/e\/fbp3ctu3d7ji",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/www.yourupload.com\/embed\/Gp6GLh4B5w4G",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/www.mp4upload.com\/embed-4edy5wv76rkt.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E08",
+                    "episode_number": 8,
+                    "nombre": "La resistencia de los fuertes",
+                    "portada": "\/tGKbogDzxuL8KlHOkYm6yKlUzFU.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=amdST3BRYUFVSnI3Tk55UkhoanRNN1JPRCszWm42ZlZGenZURnpjR3IwWUExTW9nSzRwVTlRdzBzVXRiUXJMQktIV1dINlVsNk5ncXhtVDQzbjJKbXc9PTo6yFbeKMEbqohRL0NabX4UVA--&t=713dc417a38ad80fdf481609ea2ac4b5&op=NDAwMTk=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=NVJMUC9Ob2V5THN2RGE0QVhhckRCREQyb2RFNCtiRmNQZnBCWnhMeDREQ2ZTU3lTemkrNDEwR1NraGlZOFJHd29Zb1pCaWZ1UmRpZGw1TTZOaEFVbVE9PTo6HK8dWkdeKNJON55KWtRdPA--&t=713dc417a38ad80fdf481609ea2ac4b5",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-isvzdzf9ez2b.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/4eee2usg5iia",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/6IRY5nu5EjE1",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-vjyg6mzanikd.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/jkanime.net\/jkplayer\/um?e=amdST3BRYUFVSnI3Tk55UkhoanRNN1JPRCszWm42ZlZGenZURnpjR3IwWUExTW9nSzRwVTlRdzBzVXRiUXJMQktIV1dINlVsNk5ncXhtVDQzbjJKbXc9PTo6yFbeKMEbqohRL0NabX4UVA--&t=713dc417a38ad80fdf481609ea2ac4b5&op=NDAwMTk=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/jkanime.net\/jkplayer\/umv?e=NVJMUC9Ob2V5THN2RGE0QVhhckRCREQyb2RFNCtiRmNQZnBCWnhMeDREQ2ZTU3lTemkrNDEwR1NraGlZOFJHd29Zb1pCaWZ1UmRpZGw1TTZOaEFVbVE9PTo6HK8dWkdeKNJON55KWtRdPA--&t=713dc417a38ad80fdf481609ea2ac4b5",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/www.mp4upload.com\/embed-isvzdzf9ez2b.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/hglamioz.com\/e\/4eee2usg5iia",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/www.yourupload.com\/embed\/6IRY5nu5EjE1",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/www.mp4upload.com\/embed-vjyg6mzanikd.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E09",
+                    "episode_number": 9,
+                    "nombre": "Las preocupaciones del más fuerte",
+                    "portada": "\/on2YtDbgc6KdbKpRy2DFHShRZP3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=dHlQTTRhVmJScUV2ODUycTZLV3lqWFJZRmlGendkRVJ5OW1TWlBiWm02c3NBSzAwWEpmU3JCejF1cXd6aFA0aDVmdEFzU05VUGY0Y1FxRHJBODZDOUE9PTo6eiWPBRI7Wh4p.GMzqayIVg--&t=53da08266aad6be6bdb9da7f238c6c38&op=NDAyMzg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=VWhyRWNCWkJYTFN6NXFOMUsrR0pjeWJWNjBNcXZvU25aNjFCVStJc2FKTC80c2Y5RzdhejgvT1N0ZFlBMEIrNWRZYUtqdTY4NkhwR3BaWFhaLzFzYmc9PTo6ZAjW_AnqvbO.1E1kr46azQ--&t=53da08266aad6be6bdb9da7f238c6c38",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-3ymsu7xfffu6.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/emlixf5atvsl",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/MeN3p1b5eJky",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-otr4vcrg32rx.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/jkanime.net\/jkplayer\/um?e=dHlQTTRhVmJScUV2ODUycTZLV3lqWFJZRmlGendkRVJ5OW1TWlBiWm02c3NBSzAwWEpmU3JCejF1cXd6aFA0aDVmdEFzU05VUGY0Y1FxRHJBODZDOUE9PTo6eiWPBRI7Wh4p.GMzqayIVg--&t=53da08266aad6be6bdb9da7f238c6c38&op=NDAyMzg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/jkanime.net\/jkplayer\/umv?e=VWhyRWNCWkJYTFN6NXFOMUsrR0pjeWJWNjBNcXZvU25aNjFCVStJc2FKTC80c2Y5RzdhejgvT1N0ZFlBMEIrNWRZYUtqdTY4NkhwR3BaWFhaLzFzYmc9PTo6ZAjW_AnqvbO.1E1kr46azQ--&t=53da08266aad6be6bdb9da7f238c6c38",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/www.mp4upload.com\/embed-3ymsu7xfffu6.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/hglamioz.com\/e\/emlixf5atvsl",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/www.yourupload.com\/embed\/MeN3p1b5eJky",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/www.mp4upload.com\/embed-otr4vcrg32rx.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E10",
+                    "episode_number": 10,
+                    "nombre": "Asedio justiciero",
+                    "portada": "\/zD7LqTECY0MKFVCjsNbdOrBWFQs.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=QXhVVDBxRjBlNkR4Y083MXZIOEtRSkxwdkVKTjl2bkJSWkE1Qk0wWmk1VG5OaURiOGh5VnRUSW9BZG5nb2xyUmNSVHhvMVdZSHdzQ2pjZEJyY0JRWnc9PTo6VceuLevUpG.e0nvgV31nlw--&t=50944271f670c03e921a91a8bb616d29&op=NDAyODI=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=VVlaWm1reEtKclp2RGZaZVduaTVXZUMwT1p6ZlYySHJCRGlRRmhmcEc5WEpSOFZPT2lIeHl4dXFHckFrblZvTDFvWkVHMmV3cENVWlEyR2JhMTF3RlE9PTo6VhYYcqaYIWxCX7lYcGn3xw--&t=50944271f670c03e921a91a8bb616d29",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-x7bkryfj3sv9.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/2n5yrtylfue5",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/JyGNA48VcRQJ",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-88ijdg7u60k0.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/jkanime.net\/jkplayer\/um?e=QXhVVDBxRjBlNkR4Y083MXZIOEtRSkxwdkVKTjl2bkJSWkE1Qk0wWmk1VG5OaURiOGh5VnRUSW9BZG5nb2xyUmNSVHhvMVdZSHdzQ2pjZEJyY0JRWnc9PTo6VceuLevUpG.e0nvgV31nlw--&t=50944271f670c03e921a91a8bb616d29&op=NDAyODI=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/jkanime.net\/jkplayer\/umv?e=VVlaWm1reEtKclp2RGZaZVduaTVXZUMwT1p6ZlYySHJCRGlRRmhmcEc5WEpSOFZPT2lIeHl4dXFHckFrblZvTDFvWkVHMmV3cENVWlEyR2JhMTF3RlE9PTo6VhYYcqaYIWxCX7lYcGn3xw--&t=50944271f670c03e921a91a8bb616d29",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/www.mp4upload.com\/embed-x7bkryfj3sv9.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/hglamioz.com\/e\/2n5yrtylfue5",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/www.yourupload.com\/embed\/JyGNA48VcRQJ",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/www.mp4upload.com\/embed-88ijdg7u60k0.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E11",
+                    "episode_number": 11,
+                    "nombre": "El orgullo de cada uno",
+                    "portada": "\/pILt8SA33A6x06qRg3CgNEiKxs0.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=SXA3cXhkTk1VdmxQTzRZNXBOM0ZKdDR1WEs0U051K0c1NUlONm53UHgwcGoxYnBzcy9sdEpUK2M4VnFvTUp5NDl5cm0yVnJMdEdxR3dSUnd4MWJpT2c9PTo6S5Y3NyTrdFhlNdu5K495bw--&t=d4b949cac7611fae5f8dee7eae4f6caf&op=NDAzNDU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=MzlGcEx5SlcvK0FtdVRUWXZwUzZaQjU5ZmpqK2FWZW1QL1RPQUFQOEtSQ3UwakJFaS84VEdIem5DTWVaUUh6QklzbzV1dTlUSGlVT0Nxam9xbXBSN1E9PTo6HKmc3hBNAGwTxsabDTT1ng--&t=d4b949cac7611fae5f8dee7eae4f6caf",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/7x2szkobfvm0",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/I203en6vKIxK",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-wlktj9rw2f9d.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/jkanime.net\/jkplayer\/um?e=SXA3cXhkTk1VdmxQTzRZNXBOM0ZKdDR1WEs0U051K0c1NUlONm53UHgwcGoxYnBzcy9sdEpUK2M4VnFvTUp5NDl5cm0yVnJMdEdxR3dSUnd4MWJpT2c9PTo6S5Y3NyTrdFhlNdu5K495bw--&t=d4b949cac7611fae5f8dee7eae4f6caf&op=NDAzNDU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/jkanime.net\/jkplayer\/umv?e=MzlGcEx5SlcvK0FtdVRUWXZwUzZaQjU5ZmpqK2FWZW1QL1RPQUFQOEtSQ3UwakJFaS84VEdIem5DTWVaUUh6QklzbzV1dTlUSGlVT0Nxam9xbXBSN1E9PTo6HKmc3hBNAGwTxsabDTT1ng--&t=d4b949cac7611fae5f8dee7eae4f6caf",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/hglamioz.com\/e\/7x2szkobfvm0",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/www.yourupload.com\/embed\/I203en6vKIxK",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/www.mp4upload.com\/embed-wlktj9rw2f9d.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E12",
+                    "episode_number": 12,
+                    "nombre": "Responsabilizarse por un discípulo",
+                    "portada": "\/vcZkOnTOa9d5K94DkO604RuRuMU.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=eitnZEwzNlk5SVBWTGxkUVpIL0V5NEFtL2RkNk1EQkE2djJlcCsxSHhJbGdkNlN0TVFVUW1MOW5aeWRsNzM3QjR1azk5WlVITGc5ZWhvdzZQalNtbUE9PTo6qD5k.UeXIzJ3_q2QVTZb_g--&t=4d17ee846b4ff7813f91cf20c8177213&op=NDAzODg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=Rkt2TmlqUXhSOU00eHFzdkhJVXZ3UUxzMUdsd3Q1S21pZlhPbVYyRERGK2lBcFdCU3MvWHVHUGNqYnV1MGVEditodlIrQ24zbXhVMVE1Z1VDQlVZclE9PTo6gHrbL1qI3mUGbU_GNBQnyg--&t=4d17ee846b4ff7813f91cf20c8177213",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/i943b757kkdd",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/8KXlu6C5gmcV",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-qbwujumtpc89.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/jkanime.net\/jkplayer\/um?e=eitnZEwzNlk5SVBWTGxkUVpIL0V5NEFtL2RkNk1EQkE2djJlcCsxSHhJbGdkNlN0TVFVUW1MOW5aeWRsNzM3QjR1azk5WlVITGc5ZWhvdzZQalNtbUE9PTo6qD5k.UeXIzJ3_q2QVTZb_g--&t=4d17ee846b4ff7813f91cf20c8177213&op=NDAzODg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/jkanime.net\/jkplayer\/umv?e=Rkt2TmlqUXhSOU00eHFzdkhJVXZ3UUxzMUdsd3Q1S21pZlhPbVYyRERGK2lBcFdCU3MvWHVHUGNqYnV1MGVEditodlIrQ24zbXhVMVE1Z1VDQlVZclE9PTo6gHrbL1qI3mUGbU_GNBQnyg--&t=4d17ee846b4ff7813f91cf20c8177213",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/hglamioz.com\/e\/i943b757kkdd",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/www.yourupload.com\/embed\/8KXlu6C5gmcV",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "",
+                            "url": "https: \/\/www.mp4upload.com\/embed-qbwujumtpc89.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 3",
+            "season_number": 3,
+            "poster_path": "\/x1MGYPqdnDGAdtGfo7ZRAT36vGf.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S03E01",
+                    "episode_number": 1,
+                    "nombre": "Reunión estratégica",
+                    "portada": "\/vcyxcIh8GeQBFaFlyDxhbEMB2Ta.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=dG80RDhBbGtUR0F6Tmh2aHJEWS9nWFRET294Yk9vZlZkN25YdnZQZ2VsaFB2NTJUZWFiMTU4a2hIbmpISWdDSEVsano2aG1ROGVRMGRHN0wzeEd5YTIra0pwbzNVWjNLNXkzdHU4Z1l6UUE9OjoTLw6NLyEG3tJ7O8AVjR7q&t=ada94b54d9076d41d3131f81ec64954b&op=NjgwMDY=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=czJhV1BVSHJDWFZmK29oTjhRK3F6aFpZMXA1MEsraGMrdDh5ZkRvQmptR0ROTTRRZGRId2kxRFBXeFY3aGdjcUZEZFhyMjZQcmwyQjdDb3ppa2xTdC9GU3dHR01qc1pUbjlZUkl2eVkzSGM9OjoZcL4BMknkQA60y7djFPX2&t=ada94b54d9076d41d3131f81ec64954b",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-p9wkm4gtdgdp.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-duek7i9c12cj.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ol3j61rmgdud",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/qaILXOe1F288",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-b5eozny6f7nx.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E02",
+                    "episode_number": 2,
+                    "nombre": "Las condiciones de los monstruos",
+                    "portada": "\/eCY9QrCeDElIPruX90uROhbhSRi.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=MHpVMXVuSFg4Z3JBY1lBZm04eHpRYmlFQmI1N1gzUy9aQmlVZTJzZzY5djJVeW0xS3kwR3FtL2w1dHBIYVJwdWs3cnd5a0had3ZVZDdzaElDVk5saFM0VHN5dEdyUC8yUkZZYW9zTWtkR289OjqilODLHYJUz2RRORgAjQ4E&t=7729ac61ab45b1cf85ddff149a21f5c2&op=NjgxMTk=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=M2ZpdXljRTF4UEUrdkphTms5aUZINzlVb0tSMmlZeDhVR1NsR3EySjdTZi9pTnN5dXZiUVlCOEFDTzJ5WVY3RUFVekt2bi9kcnd6ckQ5ZGZCRzlVVkR2cXBWUUIxbHNFdENxRFBsdEJmUFE9OjoOU82E6VsiaaOHL2EAvJIB&t=7729ac61ab45b1cf85ddff149a21f5c2",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-rx1w9x0w6zac.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-a25g4gvvlxe7.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/4c15iolowrq3",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/RG4L7aO0h3L5",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-d160k8p0yas3.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E03",
+                    "episode_number": 3,
+                    "nombre": "El límite de un ser vivo",
+                    "portada": "\/fibP3gymhfGFGpQSl4ShKKiwjy6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=eHA3N0dnT2dUTjRtd1I2T2FYZFh3cHlrNUhnTjJmcmVyRlFqSm5pTlZMQXkvandOL3l5Y2NLUmR5MCtIOGtOcmRYSWtzNDNnblJZQ3cwa0N5dVFzWVBleGxrTHRxYnF5cHA4SlFINjBVMkE9OjrDnem_6uYyfsA8YOlBUw9n&t=59f502941b07af636b089a2338ec7491&op=NjgyNTE=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=Z1ZBa0ZoWDRCaUNJWE5jcDBUZk1uZlA4Y054SytXWndsdG4xbzZnYTVyL094c2h3aW5wQ1BTZzBQd0IrQzZrdkJnY1NMMkovbm1YZlBIVWU4cUM5TmRSY3JIQmxleHBaWldDQTRiTzJLTjA9OjrFn7D_OIhkqnTKnZfbFj45&t=59f502941b07af636b089a2338ec7491",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-wba86rhi44gl.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-olucssvjfi7s.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/zz1ael8gmz1a",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/4M6Da041v5vc",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-4b7wx39vw614.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E04",
+                    "episode_number": 4,
+                    "nombre": "La señal del contraataque",
+                    "portada": "\/igc9g4lPXA9LfJJq6ljMzZZBTr8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=M1hMaGJQSlg0YnVERW5zNGIrbE5LT1ZQZlBQcTlQeDRSdmJhM25VanpxTXNWQlhMM2lEeUZuRDBnMXVncHE5d21NZldJUTQ2dGd4K00zRlZGVUdXSkY1Qm1jV1N6UGk3dk8vYldnTUFMV0E9OjpnzDCIycZcx0r_Ot1obZSw&t=d512a6f4cd1f034132520f9ba35e2b25&op=Njg0NjE=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=ODl5enZiYTdqa01xOEJBOTdpQ21BV0RJak9XOFIxMmI3M2o3c2ZXQnVDWmNKOVNGYkJpSVVXVDl6QURQUzNGV0l5WllpenBsZTVSUjIrWE9mUVp3TG53b21kM0Rsek5rQkhkVmUrNFZuNVk9OjoYm5BrULPbxRyOs5VXL43i&t=d512a6f4cd1f034132520f9ba35e2b25",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-3yurq4h6y8rn.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-i4agdkwdfn8k.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/6omkn180c6sb",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/XF64vyl512Pu",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-kzr882iu7v5t.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E05",
+                    "episode_number": 5,
+                    "nombre": "El rey de los monstruos",
+                    "portada": "\/wH70Brocp4BYrGeXmIUkbm2JrU9.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=aThsYlUzbmZCUHNwUy8zUjVtUm5hcVB1M29KbkZFdW9RZzErcEYzLzRoSW1kTlk1WXg1RjNzNlBINFQ0SCtIR2ZRS3I1MTR6ZmVlZlRkb09WaEp4empVMnNSVVNJbFpGNXpTTStPUkdGeDA9Ojrx8FRMLwjcT0CKKHZoZRx6&t=6922859a6fd1cb8af8686215104b20ae&op=Njg2MDI=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=N3FHS01FNWUyL2dNQ2Y2UmE0MUlkdzQ4em8wV0c0dVExUGFBSDNBbEsxOTNwVXE4aG9mTkk1WHdRUndtV05VRkRwbGExaVdoWTR4b0tIWVE5a1Jhbk13UWp2ZE1VTU5LRWs3VXdnVlZNNDA9Ojpd5zBkC_t9FAhhqn495Ugw&t=6922859a6fd1cb8af8686215104b20ae",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-9zf5g0dsog6e.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-8cizy88i4ixm.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/czsr882o67ol",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/2rIEqyjFsw2t",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-01abjn0qmflc.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E06",
+                    "episode_number": 6,
+                    "nombre": "Superhéroes misceláneos",
+                    "portada": "\/kKSF9IqTMWdm4sGKCk47Lmt7UCl.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=MFhDV0VoWCtnS01WNWd0Q1Q2akQ1Z2diVG80NU5OK2hBeklabWxzWEsxNDFMK2dHZFl4MlFYNGR4TnpHc0hUZHhsbzVwcnpVVGkvMk81YUZxaitBeHc9PTo6h1EHBTwoUkMo.imo.I4nXw--&t=0ce936dd328cc7f4e8c90ddeb2d2959d&op=Njg3OTY=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=T3MvMHBwdEpYMFZQK3lSOUV3ZGZ2TGJibHZaZmdPZ1JaZFI2cklBSDFDUGNFUkdjL2JDaFBIaFZ5N3ZUZlpEVUl0MUQ4anNndnhmejl2UGprclE5VEE9PTo6UrwdWViBjIYaZoGwyIGmHQ--&t=0ce936dd328cc7f4e8c90ddeb2d2959d",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-634jtusxrj2f.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-r25yn3tjr961.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/6t11lywpw9jn",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/lBc2FruT0c8v",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-vk9nq0gwfipx.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E07",
+                    "episode_number": 7,
+                    "nombre": "Contraataque",
+                    "portada": "\/6nLWHeOz01N71TSoYqmzyYNBbxg.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=TFV3RGxmYmpCa1BmUUM0djRXaXczdVlDL3lFRm9TMktPZzcwcWxGRmtIV0E5b0IvdGJMSG9VZk5yeDB4cFdJVTJqTS85RWMvT0sydkVqQ2hGK1NCWit2SlJiV2taMG9peTNYa2VKRDI0Zlk9OjqLiGoyVDDsfQfT9.ekElH6&t=8e50ef2476a3b9cee49f6e46afd6dc7c&op=Njg4ODg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=ZTVYNDYrR1JaYTA5OHVZODMzRlFaT2VlVUM2aXJFNkFzSGJYck9RUVl1b1Z4ZCtSQUFINjI2VjdKS1dxSkJzcXNuK3ZHVC9ycWlQbzBaRUJZTlNQeDVhSGN4SUhJd3RtT1VoemZtOVF5aEk9OjrGHbFBnoKvufHjexy6mc1l&t=8e50ef2476a3b9cee49f6e46afd6dc7c",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-zk87fiafuihm.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/rwdnbmwn7bx4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/6h7pIv8WRoCk",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-zbbbpzo3lrxs.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E08",
+                    "episode_number": 8,
+                    "nombre": "Cuento ninja",
+                    "portada": "\/3vCNftYMhm5kBCpp4InjgKkYVV1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=TWZCMGUvakdqWW8yRHdodVF1QlpNaHArT1ZxbU1zeDFvc1hzMDE1aGljcHB1QytlVDQraTNMN0JjTEZiQzJZMHJuT0gwNDEwUE5jb1R4VENvS1ZrK0ViUlIzRXZLT3NxN3dsVDNqSGVsQWc9OjpOA.WTVi01J7zclTuPLRDm&t=b97a1d0ff15bcbfbb83c7ce450be42ac&op=NjkyNzg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=M2pDTlVVbk4ybUdxNzAyYkl1WUo4WFQ1V3FzVFp2OG4rVE80aVFZVjlsTFZLMjNVWkRQWnVRNU4wRWVhcnpSZ2JIQ1FVcGZIN3JFRFFaVXpFVVFqME9PK3ZEb1BjWnhyTGpUbkpqNU1CQUE9Ojq.Ebe.6EweBePMlp8Ir8MC&t=b97a1d0ff15bcbfbb83c7ce450be42ac",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-htzknslptfj7.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-cg91iw0ovko8.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/qfaaz2j2bf27",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/4wi3RDwpR3Ki",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-3gds8yrdt5ea.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E09",
+                    "episode_number": 9,
+                    "nombre": "Niño valiente",
+                    "portada": "\/5MlU6IV9rJFKXLdi8psKHmIVqLP.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=NWFnMVlpNXJEejgrU2JtT0VWNmlrUDVWVUo4ZzUxN0ZQaXBHRkFhK0FYWTZFeGd5SlNoT2lLbmRpOTd1TzZ2TW5rTHVndTJTSlkwTTduWG5hL0VDNUE9PTo6rzgtqPVAWc99dL57Ss3kGw--&t=89ab6c05f3d54b34484d91c15e3a75cd&op=Njk3NDk=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=clpldmNmQ3V5SDBscjkvVG1yNGtmb0duRXJhTW5qSWRRc2VEdGdvenJoTERJa1FyVVlFOEJtMHllaWlLRWRCY1hDYk9ObFNmaitCUHlVRXBzcVdBNWc9PTo6AchSkSvxffBdeKcgUHtU7Q--&t=89ab6c05f3d54b34484d91c15e3a75cd",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-34rb1dvne1nn.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/th4eokb8s775",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/ugVKFL75NaFS",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-kio2fjkdwp91.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E10",
+                    "episode_number": 10,
+                    "nombre": "Baño de sangre inmortal",
+                    "portada": "\/ams5FvPo8vlbf7L76A9xcFMa91K.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=ajNvOXdHOW5UdmFLZE1oNlRSc2F3cVlOeHMyYjB0aHhCbG9MK01TZ0puMnJTSDNxMU5kcUYxWDAzUWs3bGxoZFNSWkJqc1ZUUmNsZi8ydWZ2VS9aaG9RclorVlR0VkpacGxCV1hmZk5aemc9Ojq4vIyn32R77QyvS6UFrbEF&t=23f48e2374f59e73729c108118a84070&op=NzAxMTA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=d216UEFaMm1WK1J1U2l0QWxrdlhHRGVBMk1pZFdzQjVDV2o2am8zb0FXWXp1MlFuTnRjeWZpdDdlSkdXL3cvZEVHUkJrZnZreXMrWElNU3czdWVPQmJkZWkrbGRkTEpQcHIxeVZyWlZFV2c9Ojr_R2y_SB1tURA.qIlBkYTI&t=23f48e2374f59e73729c108118a84070",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-5ca58znu4w1j.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-mjujcdfiybwc.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/aw1ggi424vuz",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/jOWlpoFV5Cha",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-fjkqzvkqhwal.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E11",
+                    "episode_number": 11,
+                    "nombre": "Los mejores dragones",
+                    "portada": "\/iKDIfRto3cb6hgWvhdsNp7bxEKk.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=OWx6WDR1YnpLOGgydnk2N2FUYzQwcy9sNWJOQnI5alZhZVRHa0V4VlJBcVZENGZTZjlYRitEa1pEQjBQb251QUxabHAwWUQvb0FrSXZDbzNyaWtKeDZ3dE90LzBCM3NQOU5pN1E4T0tsQ009OjqV2lwz2DVehF84LanQCFlG&t=3e3d3f6da7f75c2b85db2145d8e6a43e&op=NzAyNjg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=YWtLYkc5YnE3citnL0dxa0VxRWJsbWxKQmxVemdTTXQ1MEsxMzIzT2FXVFk0RjZDbHM5K2lkNXNLd2ttU0Q5YndqRUU1aFN2U1c1MCtqWlNmRmdYTXpDcGNUb1FnM2tLR0hGNkVMZ2JJU1E9OjolmD6eRbWwrib6N44IPRqj&t=3e3d3f6da7f75c2b85db2145d8e6a43e",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-efdz51352pvd.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-mx1rypzhkl7v.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ixwercfm72y9",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/kDnh6jyIAFx6",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-oa364fgofplh.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E12",
+                    "episode_number": 12,
+                    "nombre": "Forma de vida definitiva",
+                    "portada": "\/3CkzWbeQUXTxfIbNghEOZBfOhPY.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=ZjQybUkrWDBzNVQ3S04zQWprakVlOWFkRkw2eHNWTkhjYzZ0NUR6cG5lclFSdHFUWUtMU2tyWUs5ZE9jbWFYamhNWm8rTUtKL3oxT21QQm5xSjc5WXc9PTo6KH296lDrhn2kTUViEkFjrg--&t=a2261abde7784016f698b5b9af00b25d&op=NzA0MTU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=Vm9UcFBjaDc1Z2d5WTd5UCtSTTJMSTNzT3h0N3JYR1ZhMDloQTJHQUp5YVJsOTZzb29YeGZqZk1ZeGtKS3VUVlNPVGRCSFRTak1TRkZ6Q2JZalZmK1E9PTo6i.SY.zEuLut4.7.Q6JJHeA--&t=a2261abde7784016f698b5b9af00b25d",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-9itrj7iirwtq.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-tz1reuitntr0.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/zhcs5ism0etr",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/c82nnmKuj155",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-pgffiane4wuw.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-10-05 02:24:12",
+    "created_at": "2026-10-05 02:24:12",
+    "updated_at": "2026-10-05 02:24:12"
+}
