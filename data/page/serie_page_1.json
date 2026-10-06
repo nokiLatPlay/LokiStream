@@ -1,5 +1,26 @@
 [
     {
+        "id": "1791275270675",
+        "tmdb_id": "1413",
+        "titulo": "American Horror Story",
+        "imagen": "/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+        "type": "serie",
+        "year": "2011",
+        "etiquetas": [
+            "Drama",
+            "Misterio",
+            "Sci-Fi & Fantasy"
+        ],
+        "rate": 8.0999999999999996447286321199499070644378662109375,
+        "added_date": "2026-10-06 04:27:50",
+        "created_at": "2026-10-06 04:27:50",
+        "updated_at": "2026-10-06 04:27:52",
+        "update_states": "No actualizado",
+        "temporadas": 13,
+        "episodios": 137,
+        "status": "Returning Series"
+    },
+    {
         "id": "1791225555315",
         "tmdb_id": "284792",
         "titulo": "Medusa",
