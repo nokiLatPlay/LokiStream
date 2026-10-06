@@ -1,5 +1,25 @@
 [
     {
+        "id": "1791281624394",
+        "tmdb_id": "311842",
+        "titulo": "FX Fighter Kurumi-chan",
+        "imagen": "/6Tf1ETXseEoNAMyofy3aRoJtqaR.jpg",
+        "type": "anime",
+        "year": "2026",
+        "etiquetas": [
+            "Animación",
+            "Comedia"
+        ],
+        "rate": 10,
+        "added_date": "2026-10-06 06:13:44",
+        "created_at": "2026-10-06 06:13:44",
+        "updated_at": "2026-10-06 06:13:45",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 1,
+        "status": "Returning Series"
+    },
+    {
         "id": "1791281294792",
         "tmdb_id": "316694",
         "titulo": "Tensei Goblin dakedo Shitsumon Aru?",
