@@ -1,0 +1,121 @@
+{
+    "id": "1791281087924",
+    "tmdb_id": "333622",
+    "titulo": "Kashita Maryoku wa \"Revo Barai\" de Kyousei Choushuu",
+    "original_name": "貸した魔力は【リボ払い】で強制徴収",
+    "imagen": "\/nPGwleNxxvvSV0iFtMt1c40pgJy.jpg",
+    "backdrop_path": "\/4ncuq4Qo0NrSZBnxM3PABeROyVT.jpg",
+    "type": "anime",
+    "year": "2026",
+    "etiquetas": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+    ],
+    "temporadas_count": 1,
+    "episodios": 1,
+    "status": "Returning Series",
+    "rate": 4,
+    "sinopsis": "Lent, un joven con la habilidad de prestar grandes cantidades de magia a sus compañeros, es traicionado y expulsado de su grupo de aventureros, los \"Perforacielos\", al ser considerado inútil ahora que son fuertes.",
+    "cast": [
+        {
+            "name": "Reiji Kawashima",
+            "character": "Lent (voice)",
+            "profile_path": "\/tJriYA3tctzKP3ZnAwsxkey9iyU.jpg"
+        },
+        {
+            "name": "Emiri Kato",
+            "character": "Empee (voice)",
+            "profile_path": "\/m0zqjeg65sEe5TTy4mKqgwXVipI.jpg"
+        },
+        {
+            "name": "Risae Matsuda",
+            "character": "Linka (voice)",
+            "profile_path": "\/7bUMIZ3S1Wc73d5wgNCyiLYUhyU.jpg"
+        },
+        {
+            "name": "Daiki Hamano",
+            "character": "Guy (voice)",
+            "profile_path": "\/bykeH3Rhmx9PPFegYNi6s310cNa.jpg"
+        },
+        {
+            "name": "Akira Sekine",
+            "character": "Misa (voice)",
+            "profile_path": "\/czYoPzAEK1gI7RxRiPyDSFYRm5x.jpg"
+        },
+        {
+            "name": "Yu Kobayashi",
+            "character": "Elle (voice)",
+            "profile_path": "\/p3OKrnliz2C8ub14Pn5pN3T8Q9B.jpg"
+        },
+        {
+            "name": "Daisuke Namikawa",
+            "character": "Roger (voice)",
+            "profile_path": "\/iw0X8oDutxaBAri3Ifga8nhdUJK.jpg"
+        }
+    ],
+    "first_air_date": "2026-10-03",
+    "last_air_date": "2026-10-03",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/awhhCPGdZXe0iMVOXwYmkDrWKm3.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "\/t7clNzFom2Frq63LkYZ7AdcCMl6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=bEtNRGttNmF6UlZOb1ZrY2gxMW5ab0M3NHNaZnlFaVRqYnJWRFBPa3lRclVEMnUzRFZlSWt3UTJOeFVLMk9MUnI5ZzZsL2RMUmpiUlk2ZXNpNGZjNTJDejFSMlZoZ200bFdPeWZBRUxlY2s9OjqgL_xqDQbyjx10P7DpVbiY&t=de11ed15fd00a147f6baabcc656bf256&op=NzgzNzk=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=NlBWRG9hMDVxNGppTzN1c0NrNDNVYmZZWHlJcm1ZMHBROTNoNklCaVRLTzVDVFQySUFrcy9tN2pRVVE2WkJ6aVp4R00xZjd0aGx3c3ZJbjNVcFBrOWxFVFk5VGM3Z0RIKytGMmpDSjVYc0U9OjqDnOyn0kpReMvG5KwVvr2y&t=de11ed15fd00a147f6baabcc656bf256",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-zgphipbfw8ol.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-u4axxnnoz7oa.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/1snwg9py4ncp",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/E3Qc3lmwMjqC",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-10-06 06:04:47",
+    "created_at": "2026-10-06 06:04:47",
+    "updated_at": "2026-10-06 06:04:47"
+}
