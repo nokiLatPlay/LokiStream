@@ -1,0 +1,3198 @@
+{
+    "id": "1791275270675",
+    "tmdb_id": "1413",
+    "titulo": "American Horror Story",
+    "original_name": "American Horror Story",
+    "imagen": "\/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+    "backdrop_path": "\/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
+    "type": "serie",
+    "year": "2011",
+    "etiquetas": [
+        "Drama",
+        "Misterio",
+        "Sci-Fi & Fantasy"
+    ],
+    "temporadas_count": 13,
+    "episodios": 137,
+    "status": "Returning Series",
+    "rate": 8.0999999999999996447286321199499070644378662109375,
+    "sinopsis": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
+    "cast": [
+        {
+            "name": "Sarah Paulson",
+            "character": "Cordelia Goode \/ Sally McKenna \/ Ms. Wilhemina Venable \/ Tuberculosis Karen \/ Mamie Eisenhower",
+            "profile_path": "\/tJnhBV516yrekR3hTDUw15UMbxS.jpg"
+        },
+        {
+            "name": "Evan Peters",
+            "character": "Tate Langdon \/ James Patrick March \/ Kai Anderson",
+            "profile_path": "\/m9okq20ca2Md38i2ekJeKs3vTwa.jpg"
+        },
+        {
+            "name": "Angela Bassett",
+            "character": "Marie Laveau",
+            "profile_path": "\/tKnuviliyeKNGlo26IU5gIrJAtd.jpg"
+        },
+        {
+            "name": "Kathy Bates",
+            "character": "Delphine LaLaurie",
+            "profile_path": "\/qZRTzTjV4OC1Ii9a0n8QBS9zMOd.jpg"
+        },
+        {
+            "name": "Emma Roberts",
+            "character": "Madison Montgomery",
+            "profile_path": "\/rUK616pPe8VGvAK0qmKOEbA3iIx.jpg"
+        },
+        {
+            "name": "Billie Lourd",
+            "character": "Mallory \/ Winter Anderson",
+            "profile_path": "\/1u8bZL6ZXu5iDbPO3Z0Spetyt34.jpg"
+        },
+        {
+            "name": "Gabourey Sidibe",
+            "character": "Queenie",
+            "profile_path": "\/d0p0MGqM1GrrnBw4b3V9uM6HCl2.jpg"
+        },
+        {
+            "name": "Leslie Grossman",
+            "character": "Coco St. Pierre Vanderbilt",
+            "profile_path": "\/zvFXKr0U6hFrOEkV7ZFVNhJ9m9X.jpg"
+        },
+        {
+            "name": "Joey Pollari",
+            "character": "Ben DeSoto",
+            "profile_path": "\/vr5e0bM95A0zQ9FnQ3CS0wUPQlV.jpg"
+        },
+        {
+            "name": "Jessica Lange",
+            "character": "Constance Langdon \/ Sister Jude Martin \/ Fiona Goode \/ Elsa Mars",
+            "profile_path": "\/aWcO6trggSWsglUOdTVzjG4LSh3.jpg"
+        }
+    ],
+    "first_air_date": "2011-10-05",
+    "last_air_date": "2026-10-01",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/n7qB6yELp8k4tW4SalLLl7dC923.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Piloto",
+                    "portada": "\/71aRrn1Bu3rIlIURFWAgFzLZkjf.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/arizeobtly7y",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/6r0cgzvul85h",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Allanamiento",
+                    "portada": "\/24ugyFFz3CD9g6t7jEbdXLiUmro.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/uhf4yloehb22",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/wueic3xb05yi",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "La casa del crimen",
+                    "portada": "\/qYZj2000oVgQvL2qWGZbm1Z2LYX.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/yf4wj2bt8hl0",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/1qnvzy2ydkvj",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "Halloween (Parte 1)",
+                    "portada": "\/wEyVM1QLBAqTLGxxSQWi5wsc0FD.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/svhcq4cwdx3r",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/74xozdpt2vij",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "Halloween (Parte 2)",
+                    "portada": "\/u9P51AgyvsaoKVlqDyUBC00yw65.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/in9gb8wn81b5",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/ihnjy611s09f",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Cerdito, cerdito",
+                    "portada": "\/2ZfgFdAnPLw264NiIpob6ODNR2L.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/574y96ioenyv",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/yju5qvi42g62",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "Jornada de puertas abiertas",
+                    "portada": "\/sSliNZXfHzDZKQQZc85zkth9rSR.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/mc7qf40k61li",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "El hombre de látex",
+                    "portada": "\/zrmWli2rdj9mrWeVHRoWZbn513c.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/pdvfl40v6xo9",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/kjnq6aqo1tcd",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E09",
+                    "episode_number": 9,
+                    "nombre": "Niña aterradora",
+                    "portada": "\/uyvewdpjODNcfyYMSBQ3B9aDccP.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/vm2532b12p5n",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/ima0h91altq8",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E10",
+                    "episode_number": 10,
+                    "nombre": "Niños ardientes",
+                    "portada": "\/8iKtNib84Iy6ASU3xfElZz0V5Ae.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/zvte97zw2z7w",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/alkx42vswdra",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E11",
+                    "episode_number": 11,
+                    "nombre": "Nacimiento",
+                    "portada": "\/w9inideNIdY01pIfitvADtECjsC.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/mib2lkv9f9pi",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/tlemmiyv91xo",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E12",
+                    "episode_number": 12,
+                    "nombre": "El renacer",
+                    "portada": "\/sVVbEAkSUbH692x9r3nlyjniJDD.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/79cpox1fok2e",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/6nrjfn4c3ll7",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 2",
+            "season_number": 2,
+            "poster_path": "\/5tjLJZCzBeP8wMaMkUTVVaoZFFY.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S02E01",
+                    "episode_number": 1,
+                    "nombre": "Bienvenidos a Briarcliff",
+                    "portada": "\/sWdUyVIO5R24WiWDKdKQtyNgN75.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/qppykjz5m92o",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/70srvt6z7e4z",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E02",
+                    "episode_number": 2,
+                    "nombre": "Trucos y tratos",
+                    "portada": "\/vY3XVCl9061Nr89BE9w98uESNkg.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/p1x1bkssgrj1",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/8d8awprnt0ym",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E03",
+                    "episode_number": 3,
+                    "nombre": "Tormenta del Noreste",
+                    "portada": "\/lv6WuYXMUqJjUXwQwaDRhgzmUPC.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/lohayvtyhtda",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/u24027diwio7",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E04",
+                    "episode_number": 4,
+                    "nombre": "Yo soy Anna Frank (Parte 1)",
+                    "portada": "\/cf9MPvTzmlOXYQsU0o0NjnJLfKe.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/cqzuvx2jvi1r",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/aemsc17yxli8",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E05",
+                    "episode_number": 5,
+                    "nombre": "Yo soy Anna Frank (Parte 2)",
+                    "portada": "\/8TnIGVHH5S3ZxXloWi4gvYUzUK5.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/a0an8istyjaz",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/x7ffo1jpkgbl",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E06",
+                    "episode_number": 6,
+                    "nombre": "Los orígenes de la monstruosidad",
+                    "portada": "\/bVE5WEmqQ0K5x4gF2gpVLluYAOR.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/l3khwumutj63",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/ktpku26rfmi4",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E07",
+                    "episode_number": 7,
+                    "nombre": "Prima oscura",
+                    "portada": "\/dBPs6NuD1UjjAfLGJ1MkpIJpM0E.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/40lnwl1a9odo",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/6z72abskxtfx",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E08",
+                    "episode_number": 8,
+                    "nombre": "Noche sin paz",
+                    "portada": "\/ldjL9mHJDPXHyXCiuYhOnYvYg0w.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/k3fx3f4cpme8",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/of5tpwgau7wx",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E09",
+                    "episode_number": 9,
+                    "nombre": "La percha",
+                    "portada": "\/rpXHrb7v3NPBVtXODmbmwdJI3SO.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/fj5rye7oh9za",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/u5xbzvmmvasy",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E10",
+                    "episode_number": 10,
+                    "nombre": "El juego de los nombres",
+                    "portada": "\/rCGdvTrXhPb6iJEJVw8kMnYZXvZ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/akaaiwwbl2xp",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E11",
+                    "episode_number": 11,
+                    "nombre": "Leche derramada",
+                    "portada": "\/6QYCnSmOeaWCL9HgagjTmVRZXDk.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/qgd9wkt5e1o1",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/5oyxty1kp70b",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E12",
+                    "episode_number": 12,
+                    "nombre": "Continuum",
+                    "portada": "\/bu2fnurKQygYJmYNXpaxPHClbj4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/18kwwiip5tk2",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/ew31hs3ux54m",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E13",
+                    "episode_number": 13,
+                    "nombre": "El fin de la locura",
+                    "portada": "\/rH1EHLK2qAlv8AAbQW0qRbgRL7P.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/knikn6jbl3ip",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/osccve4hnvwy",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 3",
+            "season_number": 3,
+            "poster_path": "\/mXitazUTbOGU0zCPCcHQqTmde7y.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S03E01",
+                    "episode_number": 1,
+                    "nombre": "Brujas",
+                    "portada": "\/y7JwJn2j1cwm61uVoKkmktiM8Ss.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/d6x5e5z5wp5o",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/qk4zi28zlfke",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E02",
+                    "episode_number": 2,
+                    "nombre": "Partes",
+                    "portada": "\/wtpfsxhFqQAbk17pvLaUpT1Hxqs.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/vxp5p14o271c",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/3bpzc45shsv2",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E03",
+                    "episode_number": 3,
+                    "nombre": "Reemplazos",
+                    "portada": "\/wKw0kdTel5qwuBKf464Iaxr4J7V.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/edu2z2o1f8zj",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/l7m9ujq4bu7k",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E04",
+                    "episode_number": 4,
+                    "nombre": "Habrá juegos siniestros",
+                    "portada": "\/rs3VgNjPrYtmAklYWnsFBmVPR4v.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/0xrnkfyw8fav",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/f21rs9qbisy3",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E05",
+                    "episode_number": 5,
+                    "nombre": "¡Arde, bruja, arde!",
+                    "portada": "\/pC5E5whPyU5N4UGTdliutSCdEFX.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/97q6enstrvs2",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/iymdfvfbkf6k",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E06",
+                    "episode_number": 6,
+                    "nombre": "Llega el hombre del hacha",
+                    "portada": "\/9s2ihbFkazJ8IICagmEDIMfBTnV.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/92i9w1a907p7",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/fo51ldo4rzc4",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E07",
+                    "episode_number": 7,
+                    "nombre": "Los muertos",
+                    "portada": "\/8yErOGpde380FSJYNe6vWiccNvh.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/eeq0nzu1tya8",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/ses182173tyy",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E08",
+                    "episode_number": 8,
+                    "nombre": "El relevo sagrado",
+                    "portada": "\/bZanN7GSg81r0ZaMyjor4aseDGB.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/cjbnghghw1kv",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/ucnpcws5c1xd",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E09",
+                    "episode_number": 9,
+                    "nombre": "Cabeza",
+                    "portada": "\/jl0YgedYQkAUzZ9m4ZISB0vPU5M.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/z8xned2ji487",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/8wff2ud2016b",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E10",
+                    "episode_number": 10,
+                    "nombre": "Los mágicos encantos de Stevie Nicks",
+                    "portada": "\/323bxodJTRE3AfvMaRyecRwuyHr.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/umajbh9xunsh",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/gqodoabo8t6l",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E11",
+                    "episode_number": 11,
+                    "nombre": "Proteger el aquelarre",
+                    "portada": "\/hNgAAaTwEEE9e9N13Gfu6F1Mv9r.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/m4q37f68o7ui",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/nlz1nrvpynd2",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/mc7znrgf7b6y",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/7ws18zkeig5k",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S03E13",
+                    "episode_number": 13,
+                    "nombre": "Las siete maravillas",
+                    "portada": "\/3TDHOFauAvIv1IDGO9njRqarMS0.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/17a9v7mxmjwz",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/qezw5jkq613p",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 4",
+            "season_number": 4,
+            "poster_path": "\/shRONGlqTAVWxHO1ZoaTjLTUMxn.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S04E01",
+                    "episode_number": 1,
+                    "nombre": "Los monstruos entre nosotros",
+                    "portada": "\/2tL5G4e6IDeJLqdNXbnhnu1pDT7.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/1kv5ynt25rbw",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/lsvu7xjc4ybq",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E02",
+                    "episode_number": 2,
+                    "nombre": "Masacres y matinés",
+                    "portada": "\/5tHkRWsLBWhCdRMU5Wme17oyyC4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/iozonpsp2tfr",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/jnmzul7coe7w",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E03",
+                    "episode_number": 3,
+                    "nombre": "Edward Mordrake (Parte 1)",
+                    "portada": "\/fIciCZARRhb91aWZtIPGhTSCjX8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/d0eezi8wtm3s",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/98xmp63428i0",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E04",
+                    "episode_number": 4,
+                    "nombre": "Edward Mordrake (Parte 2)",
+                    "portada": "\/lZpprblfjXNOAHkdkHYXOr07jgf.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/dqi971xp3wl0",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/k6unl6jvxxj3",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E05",
+                    "episode_number": 5,
+                    "nombre": "Magdalenas rosas",
+                    "portada": "\/xu1BpUcKV7cWeRy5abA3gmqgo38.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/um2zmgpleqql",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E06",
+                    "episode_number": 6,
+                    "nombre": "Diana",
+                    "portada": "\/u4aro94og1c3r1Ids67veIS8s31.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/s72p0yr9hc5h",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/n3dcrpybqelr",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E07",
+                    "episode_number": 7,
+                    "nombre": "Prueba de fuerza",
+                    "portada": "\/zS95p8e7ZmifgDaBcR1CCQrCbpK.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/cs1wczicwhlo",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/3ggitsdlppfp",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E08",
+                    "episode_number": 8,
+                    "nombre": "Baño de sangre",
+                    "portada": "\/y2wSsXT9krEaBGRuGDBRxwuf5BR.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/bnnrjiccig38",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/9d6crat8tjew",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E09",
+                    "episode_number": 9,
+                    "nombre": "Masacre en la fiesta de Tupper",
+                    "portada": "\/15WkSNFV7T0IywdleODVloeJ6rQ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/1w0lt88b67j3",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E10",
+                    "episode_number": 10,
+                    "nombre": "Huérfanos",
+                    "portada": "\/liYpJfIdeZiAdDduEH6gddOKhh2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/8zf5fsifs0sn",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/kuvazcquk3to",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E11",
+                    "episode_number": 11,
+                    "nombre": "Pensamientos mágicos",
+                    "portada": "\/iC8Va2UVW4RX0Uzs4dEanzUMNGc.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/bb8kpdfbpxyc",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/tu0kztf06lv6",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E12",
+                    "episode_number": 12,
+                    "nombre": "Una actuación brillante",
+                    "portada": "\/mxbYAKo5Y129hsXluiOulpmY58I.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/vk0n5rnnic5e",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/dzp5dz79hney",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S04E13",
+                    "episode_number": 13,
+                    "nombre": "Última llamada a escena",
+                    "portada": "\/j7rKqKSP3jyEP6NAwyGrhes82gA.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/pd0hw0cgw7v9",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/0qnmikvbe4ud",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 5",
+            "season_number": 5,
+            "poster_path": "\/jOO6bG2hYlipyk2O2p8fsjWeCCn.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S05E01",
+                    "episode_number": 1,
+                    "nombre": "La recepción",
+                    "portada": "\/89eu71hZLaEae2Zj19j63rBAym8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/zgawruagedeo",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/3pwctva7tdsd",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E02",
+                    "episode_number": 2,
+                    "nombre": "Toboganes y escaleras",
+                    "portada": "\/4YRXAeL9CBYOw0wdqSDayQbLApk.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/907phmbf1tmk",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/izl9erswa84g",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E03",
+                    "episode_number": 3,
+                    "nombre": "Mami",
+                    "portada": "\/yjvwYPPTe1uGcmtDBTdjjgB4ZVk.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/dr2zvlr38h7b",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/4rvqzbwkvzkg",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E04",
+                    "episode_number": 4,
+                    "nombre": "La noche del diablo",
+                    "portada": "\/mvf6mqjM5iFZ9l0N34IzW8vyvU6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/3ne9io1opnnb",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/5pbjcogjcj0u",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E05",
+                    "episode_number": 5,
+                    "nombre": "Servicio de habitaciones",
+                    "portada": "\/7a1g2fs8vOR5THMHHL9Pg1QsX1W.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/8oqi19vlg4hb",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E06",
+                    "episode_number": 6,
+                    "nombre": "Habitación 33",
+                    "portada": "\/dd4BGh0wvkwghybBdWErwSvMl1x.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/e4b7b0brj7g3",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/umbfh62vt7mf",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E07",
+                    "episode_number": 7,
+                    "nombre": "Celuloide",
+                    "portada": "\/jvTvsErxd6pVaEVq4inbY6cHTDZ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/d75h19sse63t",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/2bjshiv44enn",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E08",
+                    "episode_number": 8,
+                    "nombre": "El asesino de los 10 mandamientos",
+                    "portada": "\/j75cyPWx1pmYsid11FiUAsOserM.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/9ulkss9z3xz8",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/cf5v1b0h6gb7",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E09",
+                    "episode_number": 9,
+                    "nombre": "Ella quiere venganza",
+                    "portada": "\/ppih0fbnhUesTL6ycMBkcHYE99H.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/b9xz3df8z7z7",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/3zmpxsz9vlxd",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E10",
+                    "episode_number": 10,
+                    "nombre": "Ella obtiene venganza",
+                    "portada": "\/lsUFCJAFIW2nprghNpqoNoeLIyA.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/f9na23sk0xp7",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/0xu65kytggis",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E11",
+                    "episode_number": 11,
+                    "nombre": "Batalla real",
+                    "portada": "\/uacbm3cpIdeTV6FWdBHQiXcv6Gl.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ri10biyj2075",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/lutoq2vfzhs6",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S05E12",
+                    "episode_number": 12,
+                    "nombre": "Bienvenida",
+                    "portada": "\/5DImPlCtApJbKGfnp96Tn9skQ9F.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/rp6bbhk662rq",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/wz2x8nux9bjz",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 6",
+            "season_number": 6,
+            "poster_path": "\/2fzIW0cOIwWQLgjaGn5swKcEPmJ.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S06E01",
+                    "episode_number": 1,
+                    "nombre": "Capítulo 1",
+                    "portada": "\/oNQMEX9glxFDJkneUybSuCONNxp.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/k6z8xvbai2gl",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/yrq7cm6xqpwq",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S06E02",
+                    "episode_number": 2,
+                    "nombre": "Capítulo 2",
+                    "portada": "\/rFB5pp6oMTxtAVYpy8MGSJtatHH.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ft107x56m7j1",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/7z9fayie9kb9",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S06E03",
+                    "episode_number": 3,
+                    "nombre": "Capítulo 3",
+                    "portada": "\/i3tZLifkEREKbUXMCJE3gekjZAC.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/mh8zt72r818c",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/bon1ticgc8d9",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S06E04",
+                    "episode_number": 4,
+                    "nombre": "Capítulo 4",
+                    "portada": "\/jjHmi7hlMT4qEc8AwleBIsBK24i.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/k6d1plnpqzlx",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/misf3qzv2n5u",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S06E05",
+                    "episode_number": 5,
+                    "nombre": "Capítulo 5",
+                    "portada": "\/bWCKA7Dr9TEnSnnAy7keZsoFSr1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/i5clctr3orvg",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/w9w3pvqwpx6r",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S06E06",
+                    "episode_number": 6,
+                    "nombre": "Capítulo 6",
+                    "portada": "\/2Z5qQaJzGoO5ws7ib0TzzyRWTDs.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/zapz79ahpm13",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/xg0crw0mbeuv",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S06E07",
+                    "episode_number": 7,
+                    "nombre": "Capítulo 7",
+                    "portada": "\/qVO1V0ZEFYMwWgzaM8C8hvEAe5j.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/b48msu17chjt",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/epmwdntyxoyg",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S06E08",
+                    "episode_number": 8,
+                    "nombre": "Capítulo 8",
+                    "portada": "\/syHo6xMD8ZUOVDiWKazuqGyqtmg.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/wqi80k35a797",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/d3rumqrgw9s8",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S06E09",
+                    "episode_number": 9,
+                    "nombre": "Capítulo 9",
+                    "portada": "\/qNdGCDyCVMm7hzDCFlH58JrhxY.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/detn78m6rhzb",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/tv89824cm9qr",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S06E10",
+                    "episode_number": 10,
+                    "nombre": "Capítulo 10",
+                    "portada": "\/oR4PximRHvaPyKZuLNJsDJBa2iZ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/uuxgirsmc1gw",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/hdghu70jvwxc",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 7",
+            "season_number": 7,
+            "poster_path": "\/zbtHocTYd2ukJeCeYD49AWOhxdC.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S07E01",
+                    "episode_number": 1,
+                    "nombre": "La noche electoral",
+                    "portada": "\/zGttpn1x7ViyOP2Bvr0fgZWeQgU.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/7n2c1g9x9q36",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/q19cqt7j3q3w",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S07E02",
+                    "episode_number": 2,
+                    "nombre": "No temas la oscuridad",
+                    "portada": "\/8eNfm1AyjFpFClFLRclDmnjv24T.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/0q8fzssijv6l",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/y6ifkvv8qww9",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S07E03",
+                    "episode_number": 3,
+                    "nombre": "Vecinos infernales",
+                    "portada": "\/6AgjhdihfefZjQQeRe0CPpcO4qP.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/zt9si7o881hd",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/u8ho9y2egwym",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S07E04",
+                    "episode_number": 4,
+                    "nombre": "9\/11",
+                    "portada": "\/oAHH3GUm2jeRwTZ7CrQ8b30WyEN.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/brxuxttxyqfo",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/bqbe1923gopr",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S07E05",
+                    "episode_number": 5,
+                    "nombre": "Agujeros",
+                    "portada": "\/rZ6LXBO1rsebmuKxOWAO0pcwkuE.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/rb371vh4czeg",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/4h7z282myo7m",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S07E06",
+                    "episode_number": 6,
+                    "nombre": "El asesino del Medio Oeste",
+                    "portada": "\/gzwBDcKIr3f1dizxnRxVXUPdUMb.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/nrb92dfl9f3m",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/d68muh62xvzf",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S07E07",
+                    "episode_number": 7,
+                    "nombre": "Valerie Solanas murió por tus pecados: Escoria",
+                    "portada": "\/5KQq2XUaG2jzmaxMVKmqBBtoOPQ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/yrmd8qywizdi",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/gb4b0ewharf0",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S07E08",
+                    "episode_number": 8,
+                    "nombre": "Frío descontento",
+                    "portada": "\/qTEwBNs5Y6bwt8Dxfiv8Q2vMF3o.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/7204bn63g6iv",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/yehu0nwqxqnb",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S07E09",
+                    "episode_number": 9,
+                    "nombre": "Fe ciega",
+                    "portada": "\/oUwMMTCNZCUI5OwlbD4cxODv2d0.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/wj3wfh50hbmw",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/wqyzkt6nsyqr",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S07E10",
+                    "episode_number": 10,
+                    "nombre": "Charles (Manson) al mando",
+                    "portada": "\/la4PoRvC3JYdZQvk3IQBhUaJNm8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/62xezh9fhbmc",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/2r9adcozfecs",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S07E11",
+                    "episode_number": 11,
+                    "nombre": "Grande otra vez",
+                    "portada": "\/dKg3dmQO90O9Iyxi9u3cKKKm9FP.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/lfuo8cja258f",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 8",
+            "season_number": 8,
+            "poster_path": "\/kQR2aYeg94voYMUD4DOYPgTJnTY.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S08E01",
+                    "episode_number": 1,
+                    "nombre": "El fin",
+                    "portada": "\/9iF5k6AvKfnK4JAcz5Tjxy6labY.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/l5qg8bsf6vyx",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/au4mf89tva2p",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S08E02",
+                    "episode_number": 2,
+                    "nombre": "La mañana siguiente",
+                    "portada": "\/tSV0e7BsGhl6135AGm5nMBNwg5T.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/8b672fgj43hr",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/iotzzom9nxct",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S08E03",
+                    "episode_number": 3,
+                    "nombre": "Fruto prohibido",
+                    "portada": "\/wLrslhcq4IU5aqvAy5vT2446REl.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/0p0r3h5q8jjc",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/gma1lpl480e4",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S08E04",
+                    "episode_number": 4,
+                    "nombre": "Será... ¿Satán?",
+                    "portada": "\/x2bx8juovnJXHXo9jxvSX9Asos2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/fiua2ffjgc41",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/9m9pijsimpwe",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S08E05",
+                    "episode_number": 5,
+                    "nombre": "El chico maravilla",
+                    "portada": "\/sRir6D8wA06KDISwUtbQBsBzTr.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/urnjucr30287",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/evqdpsxgf6lj",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S08E06",
+                    "episode_number": 6,
+                    "nombre": "Regreso a la casa del crimen",
+                    "portada": "\/h2Ad8h19LiVIYV5nKCA2xqdQJ1P.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/bxbcrb0eijbz",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/4actlew0pnrk",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S08E07",
+                    "episode_number": 7,
+                    "nombre": "Traidor",
+                    "portada": "\/ztVTeGBzSEo3RV7PcVzM2MNXruv.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/nagw0ibjg2wj",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/qlrtcdrvbdrl",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S08E08",
+                    "episode_number": 8,
+                    "nombre": "Visita",
+                    "portada": "\/sY3xpt5BchzMSZxjn4wd81fGu3M.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/1ujx4mzedblc",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/qgezxak313oc",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S08E09",
+                    "episode_number": 9,
+                    "nombre": "Reino de fuego",
+                    "portada": "\/1skaO2HK8udpN3APeejbtFfF9cq.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/cve8e74aba6g",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S08E10",
+                    "episode_number": 10,
+                    "nombre": "Entonces llegó el apocalipsis",
+                    "portada": "\/xgONEijaqT93zIXTVtQyjDEBO7f.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/fg7qw9g0jxre",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/9hu13a3gsdij",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 9",
+            "season_number": 9,
+            "poster_path": "\/uF1ADMb60LgcalmGJfnR3nJU2IQ.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S09E01",
+                    "episode_number": 1,
+                    "nombre": "Campamento Redwood",
+                    "portada": "\/oZtS6m78aCb21xqrZ6uvIipLl5a.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/u14uyccauhrl",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/u8oeikldandz",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S09E02",
+                    "episode_number": 2,
+                    "nombre": "El señor Jingles",
+                    "portada": "\/vajma2lphiNjlpdLGAyfK1Mn9XA.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/jwi80r4rce3b",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/95hlzlmx66pd",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S09E03",
+                    "episode_number": 3,
+                    "nombre": "Slash Dance",
+                    "portada": "\/xhqlhwwfLot6c1nS3E8iFs9tOB2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/221n34t86j34",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S09E04",
+                    "episode_number": 4,
+                    "nombre": "Verdaderos asesinos",
+                    "portada": "\/1RiickdmJxbKLbU3lIztJyp7OBy.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/aaat0dve3902",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/cfpujirxo461",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S09E05",
+                    "episode_number": 5,
+                    "nombre": "Amanecer rojo",
+                    "portada": "\/8de8KiylutKVeu5aQ6wjzUjuKFJ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/spyzd5x183cc",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S09E06",
+                    "episode_number": 6,
+                    "nombre": "Episodio 100",
+                    "portada": "\/aO425RdlTaczZQ2fV7ivp3UfCih.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/fv0re2137hj5",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/sairlo2vrn1s",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S09E07",
+                    "episode_number": 7,
+                    "nombre": "La mujer de blanco",
+                    "portada": "\/4HTrXAJqTrHxjZWjzVYd5KMaM06.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/1v6qq8yz055r",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/hbsgz83ud2r6",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S09E08",
+                    "episode_number": 8,
+                    "nombre": "Descansa en pedazos",
+                    "portada": "\/qJ9E1kks0fICU4yRaTOXNAC0CCT.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ldh4q1mc5nlg",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S09E09",
+                    "episode_number": 9,
+                    "nombre": "La chica del final",
+                    "portada": "\/pgWDl0aC3RlUew6mlYic56boKuU.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/u4x21u1dnsdd",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/lf8owlly4ox9",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 10",
+            "season_number": 10,
+            "poster_path": "\/3SCcuYxKYkZPpcIgY27tv9HW4ri.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S10E01",
+                    "episode_number": 1,
+                    "nombre": "El cabo del miedo",
+                    "portada": "\/enyxlSJ5nsX3W34AbClq3O8r78F.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/w7pcevfrm938",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/0xuscmx3zvqe",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S10E02",
+                    "episode_number": 2,
+                    "nombre": "Pálido",
+                    "portada": "\/cfIb9yu50Pf26WhLla6Bh4zDc5n.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/mcuwu9a68qr3",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S10E03",
+                    "episode_number": 3,
+                    "nombre": "Anhelo",
+                    "portada": "\/brdgWjBivu3MUFxEWwt3CtMMyin.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/za7qabi4l7ha",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/i0fn6rp5e86a",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S10E04",
+                    "episode_number": 4,
+                    "nombre": "Bufé de sangre",
+                    "portada": "\/8lu6J09eLHxr4JvRAKEjARpcULf.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/qk04muywhltx",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/z287idgole7d",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S10E05",
+                    "episode_number": 5,
+                    "nombre": "Luz de gas",
+                    "portada": "\/6UOLWCbJhN34NKRlGTlC01nHi0h.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/h260pcvq63bc",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/qi7ugsy6bvrl",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S10E06",
+                    "episode_number": 6,
+                    "nombre": "Muertes invernales",
+                    "portada": "\/89FuxqOrHJp57tw68zxoH2zrZGj.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/7mrwt3rxpi5d",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/yi1a8rmn6xhs",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S10E07",
+                    "episode_number": 7,
+                    "nombre": "Llévame ante tu líder",
+                    "portada": "\/2PQ2k2SWgouGT4BGl9XM1GK2OOA.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/1zscey78piav",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/2uc64qj11p0x",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S10E08",
+                    "episode_number": 8,
+                    "nombre": "Dentro",
+                    "portada": "\/yWNTqjHYkLN3iZMj3vrt45PphiO.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/m8zleaziikaf",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/6tmbus9a9oe4",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S10E09",
+                    "episode_number": 9,
+                    "nombre": "Luna azul",
+                    "portada": "\/zelNOdgoyuYJg1qkX187G3WT5ac.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/bxix05qnqvf0",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Morencius",
+                            "url": "https:\/\/morencius.com\/embed\/8citgkc6njda",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S10E10",
+                    "episode_number": 10,
+                    "nombre": "El futuro perfecto",
+                    "portada": "\/3bKABYmfbzbWbNeZv311FEnLoVK.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Morencius",
+                            "url": "https:\/\/morencius.com\/embed\/awt3i1se02hs",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/160551zfkr31",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 11",
+            "season_number": 11,
+            "poster_path": "\/aMvxRAfuJF9AlXtXQGGGlNKaE70.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S11E01",
+                    "episode_number": 1,
+                    "nombre": "Algo se acerca",
+                    "portada": "\/yvLAbzPhFDaNzYXjv0rNKD8IxRc.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/p7vze7b4eiol",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/mtr0j14al5zd",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S11E02",
+                    "episode_number": 2,
+                    "nombre": "Gracias por su servicio",
+                    "portada": "\/cEIirwqNDZWQUsa97CHxwhUHIQW.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/1bicdhsaluvo",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/1m6buu0h6wor",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S11E03",
+                    "episode_number": 3,
+                    "nombre": "Señales de humo",
+                    "portada": "\/1DQqu20g95UIwSvd7UGmyDelG55.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/v3awjg2l1xfy",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/oos4s1c1p7pr",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S11E04",
+                    "episode_number": 4,
+                    "nombre": "El apagón",
+                    "portada": "\/wV8ZxhUyekZWtO0LUy627ivUmLm.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/b019b1xgcc92",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/cr1j2tm1j2ln",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S11E05",
+                    "episode_number": 5,
+                    "nombre": "Mala suerte",
+                    "portada": "\/7Ngum5JUct9jQDPn3ghUx0xPeSj.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/96m9c4omdqe2",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/6azvjdd45i1w",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S11E06",
+                    "episode_number": 6,
+                    "nombre": "El cuerpo",
+                    "portada": "\/7pfEIhkFqWNVA9Brj1G9zZNCfn.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/olj13u21g08l",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/p2n0x4wxz37k",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S11E07",
+                    "episode_number": 7,
+                    "nombre": "El centinela",
+                    "portada": "\/wTRfn12tv7kkgWXi1fcSbe33YSy.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/hdk1km7kcj39",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/h64nwah3k96u",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S11E08",
+                    "episode_number": 8,
+                    "nombre": "Fire Island",
+                    "portada": "\/b0ecM7PK0d0IdoVkStBevFOM2Oi.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/51hibkxa4sew",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/zwdkjw37kmrj",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S11E09",
+                    "episode_number": 9,
+                    "nombre": "Requiem 1981\/1987 (1)",
+                    "portada": "\/1UuRxEdyZekLc2z1bhpUsxl6Dzx.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/m37q6l3spd70",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/v1g0b12czmpa",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S11E10",
+                    "episode_number": 10,
+                    "nombre": "Requiem 1981\/1987 (2)",
+                    "portada": "\/hoheloUjc92pbau2rNjVJxMt0Ty.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/d0vemf4yagz1",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/qvi81tcd60kf",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 12",
+            "season_number": 12,
+            "poster_path": "\/iMPLvOFxU5iRqErZnzAgc9DSSxf.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S12E01",
+                    "episode_number": 1,
+                    "nombre": "Multiplica tu dolor",
+                    "portada": "\/rAjPsLpbVjELwAWYVgdFjCVJvsf.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/27u2gznuwcr7",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/e0gd1crhhzjl",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/q29ha126jukz",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S12E02",
+                    "episode_number": 2,
+                    "nombre": "Duérmete",
+                    "portada": "\/jQgp5fhw1W9yzRWoxHWPdP6Pk7A.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/qb3yd5ak9m1s",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/nyfgf8742bx4",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/u9tc4q1u43d7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S12E03",
+                    "episode_number": 3,
+                    "nombre": "Mientras te canto...",
+                    "portada": "\/A3JY5NPC1CjUH1Ure8Rkb3HiTQi.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/uyfixjwf2m1d",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/v4csh5dq6rk2",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/qj9pgwviv4ik",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S12E04",
+                    "episode_number": 4,
+                    "nombre": "Gemelo desaparecido",
+                    "portada": "\/a3i4s52wGKBnVLxpPWUtZvEXZc1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/72853huygqrq",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/ozvlqmz24io3",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/fz83pxi9ubud",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S12E05",
+                    "episode_number": 5,
+                    "nombre": "Predicación",
+                    "portada": "\/ehzHMJI4qBuJmwwgUyvyh7UplFs.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/037k5i5129o3",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Filelions",
+                            "url": "https:\/\/filelions.to\/v\/spv98i2lglko",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/b0kfmahr6lsz",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S12E06",
+                    "episode_number": 6,
+                    "nombre": "Noche inaugural",
+                    "portada": "\/micrNpqUOs3jJ7B4qNmHH2ctiBq.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/8xyk3xfmt1xu",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S12E07",
+                    "episode_number": 7,
+                    "nombre": "Ave Hestia",
+                    "portada": "\/6BU5D9wQtEDNVhjvsmjzKe6JS7g.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/2drzs6ohufnu",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S12E08",
+                    "episode_number": 8,
+                    "nombre": "La estatuilla dorada",
+                    "portada": "\/vf4K2DR5NGSPtR0MEexOMIZGa1W.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/yfnt3nhsaohx",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S12E09",
+                    "episode_number": 9,
+                    "nombre": "El autor",
+                    "portada": "\/ggX7G3GGiyZIMXJ4wc2BAraDcYJ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/waxgcp2cjb5c",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 13",
+            "season_number": 13,
+            "poster_path": "\/s8Nbz8ok2v3Uw5sRwSC6eWJLX25.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S13E01",
+                    "episode_number": 1,
+                    "nombre": "13",
+                    "portada": "\/wfb7vJKwZSIlOOf2XjpsTml51yr.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/22hqdcdivfgp",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/a3qpqkig7rk7",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/bnpk8ua3cd0y",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/0r0tr0m0l2kk",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S13E02",
+                    "episode_number": 2,
+                    "nombre": "1:13 AM",
+                    "portada": "\/xU7JkiSxhlAKhwUIr97UTWtTC4V.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ksqlodfsf0xa",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/k2gs9acu6okg",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S13E03",
+                    "episode_number": 3,
+                    "nombre": "Rauhnacht",
+                    "portada": "\/8eB9BfAgDHEBEe9XyVMoSMRNLxs.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/5sz1ozauqnf5",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/pzd0ygqjfi1j",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/dpy2zjgoar05",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/9lycds19nefy",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S13E04",
+                    "episode_number": 4,
+                    "nombre": "¿No es más que eso?",
+                    "portada": "\/paVDNqH4sxnArq2lrQKZLF5i9ve.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/3zaksbu1890v",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/mwtpevwszlqg",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/64026ktihgep",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/cdb0ggg3zle8",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S13E05",
+                    "episode_number": 5,
+                    "nombre": "Noche de cita",
+                    "portada": "\/7Cv1mDRjd55CRZBvjOBMZs4vvIO.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/hgqf7pp3kd3p",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/k2vqcjyn0vcd",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ilf0he1e9gio",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/59kc0gzjgnkx",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S13E06",
+                    "episode_number": 6,
+                    "nombre": "El regreso de la Noche del Diablo",
+                    "portada": "\/f54ILFj4vpwCHbGpMew57t3smC8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ojku9guxif4i",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/7bny8p2i4ctg",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/vxizhxraa8g6",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/nhfxbpmcwdlh",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-10-06 04:27:50",
+    "created_at": "2026-10-06 04:27:50",
+    "updated_at": "2026-10-06 04:27:50"
+}
