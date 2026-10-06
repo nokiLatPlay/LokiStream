@@ -1,0 +1,129 @@
+{
+    "id": "1791280260335",
+    "tmdb_id": "305313",
+    "titulo": "Romelia War Chronicle",
+    "original_name": "ロメリア戦記",
+    "imagen": "\/2wqyITVWs1wZMih2VraylRjqzCo.jpg",
+    "backdrop_path": "\/mSZbeN0Ptv6em7jYkgzAEagg3N0.jpg",
+    "type": "anime",
+    "year": "2026",
+    "etiquetas": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+    ],
+    "temporadas_count": 1,
+    "episodios": 1,
+    "status": "Returning Series",
+    "rate": 0,
+    "sinopsis": "Romelia y su grupo logran derrotar al Rey Demonio Zelgis, aunque la temeraria carga del Príncipe Henri los obliga a librar una agotadora batalla. Tras la batalla, Romelia es tildada de \"peso muerto\" por no combatir directamente, y el Príncipe rompe unilateralmente su compromiso con ella. Sin un lugar en las celebraciones de la victoria, Romelia regresa a casa, donde solo encuentra la indiferencia de su familia y la sociedad. Sin embargo, ella se niega a quebrarse. Ya tiene la mirada puesta en el camino que le espera.",
+    "cast": [
+        {
+            "name": "根本優奈",
+            "character": "Romelia von Graham (voice)",
+            "profile_path": "\/pz6bTCv25jHsVhM371Y4B7dZ0d9.jpg"
+        },
+        {
+            "name": "小笠原仁",
+            "character": "Al (voice)",
+            "profile_path": "\/eMgZZKKUrchA3uXt5B4ffaN8fIl.jpg"
+        },
+        {
+            "name": "Tomohiro Ono",
+            "character": "Ray (voice)",
+            "profile_path": "\/mugRR8yLYJ0k3UBXQNlXacn4byL.jpg"
+        },
+        {
+            "name": "Yuya Hirose",
+            "character": "Henri Lleus Lionel (voice)",
+            "profile_path": "\/jRe7ICqrCsaEWVD8jAmJdc7XwnQ.jpg"
+        },
+        {
+            "name": "Sayaka Senbongi",
+            "character": "Elizabeth (voice)",
+            "profile_path": "\/yLRKX9DPDGgTRKBQRFTUh3pvbU0.jpg"
+        },
+        {
+            "name": "Mariya Ise",
+            "character": "Ekaterina (voice)",
+            "profile_path": "\/uMHWTKGolzzjXCiv20F0n8h2Pqu.jpg"
+        },
+        {
+            "name": "Asaka",
+            "character": "Ryoki (voice)",
+            "profile_path": "\/sUTaloXXmNdPJPSCBgpKDxmtmKV.jpg"
+        },
+        {
+            "name": "Shoya Chiba",
+            "character": "Gran (voice)",
+            "profile_path": "\/pF2urY77wuCYd9Fxh7dTirFYKSF.jpg"
+        },
+        {
+            "name": "Gakuto Kajiwara",
+            "character": "Ragn (voice)",
+            "profile_path": "\/kUer38jXf7vTD2TGGxJMZVYL5Te.jpg"
+        },
+        {
+            "name": "Shun Horie",
+            "character": "Kyle (voice)",
+            "profile_path": "\/1OFi5ofRX0B2ldTPF8ThzLI2wKa.jpg"
+        }
+    ],
+    "first_air_date": "2026-10-05",
+    "last_air_date": "2026-10-05",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/xOhx5KpSAlrEbqsu9TaCdmdIb72.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Episode 1",
+                    "portada": "\/oAXYm7vERoGnzIWLIoBgnCpsaUG.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=VmdvNDZIb1RNbkN5amxneU9WQVNiMHBNNUVSdlAwdnVjRUxZMVh5eStQNnRja3JMQXdDWnlub1ZDVldVQ2prd0h0OFA2bS9sTlRWSnRWZmhjZEhxYnc9PTo634FNtNtJfDLwpfVHGXuzxQ--&t=c99c9f91375e2e6c5b6e21e14c0d8597&op=NzgzNjI=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=aUtuS2czVjhoV2NiUTRaWGFTOTBrbGFMZlZsRjNtTnhPaFRRd2VNQ3NRTVovbEFiSlp6ajNmbHVhM1I0VDU3cHZnT25XblZ5NlZHc0hlanljdTZ1Znc9PTo6m5xKPNbXjzNnM4hQ8H9rOA--&t=c99c9f91375e2e6c5b6e21e14c0d8597",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-8ajvh6w6mvqt.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-2sbh4z5b9xn1.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/xn65bqngcst7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-10-06 05:51:00",
+    "created_at": "2026-10-06 05:51:00",
+    "updated_at": "2026-10-06 05:51:00"
+}
