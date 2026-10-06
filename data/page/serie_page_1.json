@@ -1,5 +1,26 @@
 [
     {
+        "id": "1791281850738",
+        "tmdb_id": "334103",
+        "titulo": "Ghost Meets Gal!",
+        "imagen": "/lmckivRH2w5KDzCaX3jc9EWAFPj.jpg",
+        "type": "anime",
+        "year": "2026",
+        "etiquetas": [
+            "Animación",
+            "Comedia",
+            "Sci-Fi & Fantasy"
+        ],
+        "rate": 0,
+        "added_date": "2026-10-06 06:17:30",
+        "created_at": "2026-10-06 06:17:30",
+        "updated_at": "2026-10-06 06:17:31",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 5,
+        "status": "Returning Series"
+    },
+    {
         "id": "1791281624394",
         "tmdb_id": "311842",
         "titulo": "FX Fighter Kurumi-chan",
