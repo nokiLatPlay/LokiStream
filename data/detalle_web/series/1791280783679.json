@@ -1,0 +1,63 @@
+{
+    "id": "1791280783679",
+    "tmdb_id": "63164",
+    "titulo": "Sargento Keroro",
+    "original_name": "ケロロ軍曹",
+    "imagen": "\/ceMmBuxnFP3y3bndXk8FVSME12N.jpg",
+    "backdrop_path": "\/hiYSi32T8y67KicU6JpMAx4IHu9.jpg",
+    "type": "anime",
+    "year": "2004",
+    "etiquetas": [
+        "Animación",
+        "Comedia",
+        "Sci-Fi & Fantasy"
+    ],
+    "temporadas_count": 1,
+    "episodios": 1,
+    "status": "Ended",
+    "rate": 7,
+    "sinopsis": "Cinco alienígenas del planeta Keron, en la nebulosa de Gama, llega a la Tierra (que ellos llaman Pokopen) a reconocer el terreno para una inminente invasión.\n\nLos keronenses tienen aspecto de rana y cada uno de ellos tiene un color y un distintivo diferente. No obstante, los cinco se separan y el protagonista y líder de la tropa, Keroro, acaba infiltrado en casa de la familia Hinata, con la que vivirán grandes aventuras.\n\nEn España lo emitía el desaparecido canal de pago Cartoon Network y en abierto, el canal autonómico TeleGalicia (emisión doblada al gallego) desde 2008 en la franja de mañanas.",
+    "cast": [
+        {
+            "name": "Kumiko Watanabe",
+            "character": "SGT Frog",
+            "profile_path": "\/4Os8XPmWoF65Y6tUrIyffpQJyqL.jpg"
+        }
+    ],
+    "first_air_date": "2004-04-03",
+    "last_air_date": "2011-03-18",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/6Br7tLfECdcFHYlKcPAMY7RWCTs.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "¡Se presenta el sargento Keroro! ¡A la orden!",
+                    "portada": "\/86G7EkKuHvByZyrlxb04vJUCP58.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-ayu945129g26.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/e2U7UFdBuEaP",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-10-06 05:59:43",
+    "created_at": "2026-10-06 05:59:43",
+    "updated_at": "2026-10-06 05:59:43"
+}
