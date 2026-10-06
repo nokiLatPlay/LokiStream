@@ -1,0 +1,95 @@
+{
+    "id": "1791281203685",
+    "tmdb_id": "335788",
+    "titulo": "Welsh & Shedar",
+    "original_name": "蒼き伝承 ウェルシュ＆シェダー",
+    "imagen": "\/dmOW3kfhfm4BOqINfsifY6QL64o.jpg",
+    "backdrop_path": "\/8iJ4IPl8BPVOL7C6lFKq2zeLdDs.jpg",
+    "type": "anime",
+    "year": "2026",
+    "etiquetas": [
+        "Action & Adventure",
+        "Animación"
+    ],
+    "temporadas_count": 1,
+    "episodios": 1,
+    "status": "Returning Series",
+    "rate": 0,
+    "sinopsis": "Zabelle Sheran Sharm, reina de Bonta y guardiana del Dofus de Ébano, sueña con unir a las naciones del Mundo de los Doce. Pero su reinado tiránico y su sed de poder han sumido a las tierras en la miseria. Una profecía, proclamada por su hijo Shedar, predice su caída y que un muchacho de ojos azul celeste acabará con su poder.",
+    "cast": [
+        {
+            "name": "Yuki Kaji",
+            "character": "Shedar",
+            "profile_path": "\/8wKdPV11IwowfwoqGqMMNt9hmp6.jpg"
+        },
+        {
+            "name": "Rikuya Yasuda",
+            "character": "Welsh",
+            "profile_path": "\/eZCxGqkEibJkUEhLO9Xp4zNDlY3.jpg"
+        }
+    ],
+    "first_air_date": "2026-10-02",
+    "last_air_date": "2026-10-02",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/76WhR4wbg3dSPPWaF1Ez39J0ykV.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=c0tGTjkzemMvQ0lzczlZbDg3MUpNRWlkM3E4U2NrcTR5OU42MGxYQStCYU5LbWc2SDFiQW9ZQnM1anVCMHVLVVNtajYxRXdxNmdCZzBsazNlR2FnUmx3VVJoL1lZK2RQRmtodExKQm15VXc9OjoXx3D_VeACCJs6NYOkajE9&t=0382d41c076a36c2312023562f6479f0&op=NzgzODI=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=cXk4bGtnVFQ4S1pNVm91M09SWEQ3S2VEOWRKWUhxcDFxM091NWg3MG9oMkhrQTBIRjhXb3hjYmdHYnJlK1RXWVpPL2ZWZ3pXZzdIYTZTSGkybzNTY1h5d2RxQjhNREtTck8zdUNvRGpRTkU9Ojq4dwqHMKKwDJq_ka9sV_Wj&t=0382d41c076a36c2312023562f6479f0",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-d2ezestjwc1e.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-hjv2gnhbt0tj.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/dmayfulj898n",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/eihia4yahaem",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-10-06 06:06:43",
+    "created_at": "2026-10-06 06:06:43",
+    "updated_at": "2026-10-06 06:06:43"
+}
