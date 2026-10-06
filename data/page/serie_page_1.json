@@ -1,5 +1,26 @@
 [
     {
+        "id": "1791280260335",
+        "tmdb_id": "305313",
+        "titulo": "Romelia War Chronicle",
+        "imagen": "/2wqyITVWs1wZMih2VraylRjqzCo.jpg",
+        "type": "anime",
+        "year": "2026",
+        "etiquetas": [
+            "Animación",
+            "Action & Adventure",
+            "Sci-Fi & Fantasy"
+        ],
+        "rate": 0,
+        "added_date": "2026-10-06 05:51:00",
+        "created_at": "2026-10-06 05:51:00",
+        "updated_at": "2026-10-06 05:51:03",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 1,
+        "status": "Returning Series"
+    },
+    {
         "id": "1791280082225",
         "tmdb_id": "335194",
         "titulo": "Magical★Explorer",
