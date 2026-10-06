@@ -466,12 +466,12 @@
         {
             "temporada": "Temporada 2",
             "season_number": 2,
-            "poster_path": "",
+            "poster_path": "/1N5tVKe1GSbbGgOFdwjNK6TaGRn.jpg",
             "capitulos": [
                 {
-                    "episode_id": "S02E11",
-                    "episode_number": 11,
-                    "nombre": "Episodio 11",
+                    "episode_id": "S02E1",
+                    "episode_number": 1,
+                    "nombre": "Episodio 1",
                     "portada": "",
                     "enlaces": [
                         {
@@ -505,9 +505,9 @@
                     ]
                 },
                 {
-                    "episode_id": "S02E12",
-                    "episode_number": 12,
-                    "nombre": "Episodio 12",
+                    "episode_id": "S02E2",
+                    "episode_number": 2,
+                    "nombre": "Episodio 2",
                     "portada": "",
                     "enlaces": [
                         {
@@ -541,9 +541,9 @@
                     ]
                 },
                 {
-                    "episode_id": "S02E13",
-                    "episode_number": 13,
-                    "nombre": "Episodio 13",
+                    "episode_id": "S02E3",
+                    "episode_number": 3,
+                    "nombre": "Episodio 3",
                     "portada": "",
                     "enlaces": [
                         {
