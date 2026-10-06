@@ -1,5 +1,25 @@
 [
     {
+        "id": "1791281294792",
+        "tmdb_id": "316694",
+        "titulo": "Tensei Goblin dakedo Shitsumon Aru?",
+        "imagen": "/nut07tl4642Xyj86LtSYV75mYh3.jpg",
+        "type": "anime",
+        "year": "2026",
+        "etiquetas": [
+            "Animación",
+            "Sci-Fi & Fantasy"
+        ],
+        "rate": 0,
+        "added_date": "2026-10-06 06:08:14",
+        "created_at": "2026-10-06 06:08:14",
+        "updated_at": "2026-10-06 06:08:15",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 2,
+        "status": "Returning Series"
+    },
+    {
         "id": "1791281203685",
         "tmdb_id": "335788",
         "titulo": "Welsh & Shedar",
