@@ -1,5 +1,24 @@
 [
     {
+        "id": "1791280696517",
+        "tmdb_id": "320377",
+        "titulo": "TANK CHAIR-戦車椅子-",
+        "imagen": "/8nRWyGcv6y200JSaOBSUmFh9wp3.jpg",
+        "type": "anime",
+        "year": "2026",
+        "etiquetas": [
+            "Animación"
+        ],
+        "rate": 3,
+        "added_date": "2026-10-06 05:58:16",
+        "created_at": "2026-10-06 05:58:16",
+        "updated_at": "2026-10-06 05:58:17",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 1,
+        "status": "Returning Series"
+    },
+    {
         "id": "1791280513264",
         "tmdb_id": "303060",
         "titulo": "Yowaki MAX Reijou nanoni, Ratsuwan Konyakusha-sama",
