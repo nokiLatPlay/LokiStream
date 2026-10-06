@@ -1,0 +1,121 @@
+{
+    "id": "1791280849134",
+    "tmdb_id": "317259",
+    "titulo": "Vertex Force",
+    "original_name": "バーテックスフォース",
+    "imagen": "\/q4Frct3HP4eaFs7hc8fHq04Rl6Y.jpg",
+    "backdrop_path": "\/wNjJs2OronJm8jK4Y35R6kjH3sy.jpg",
+    "type": "anime",
+    "year": "2026",
+    "etiquetas": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+    ],
+    "temporadas_count": 1,
+    "episodios": 1,
+    "status": "Returning Series",
+    "rate": 0,
+    "sinopsis": "Akira Todo siempre ha vivido a la sombra de su hermana Haruka, quien secretamente maneja el misterioso \"Motor\" de su padre. Pero cuando un misterioso enemigo ataca a su familia, Akira se ve forzado a una batalla que amenaza al mundo entero. Aunque no heredó ninguno de los poderes de su padre, ahora debe encontrar la manera de contraatacar o arriesgarse a perder todo lo que ama.",
+    "cast": [
+        {
+            "name": "Makoto Koichi",
+            "character": "Akira Todo (voice)",
+            "profile_path": "\/gpslQDgkGoL3Ap9QsK1nljeGPKJ.jpg"
+        },
+        {
+            "name": "Kaede Hondo",
+            "character": "Haruka Todo (voice)",
+            "profile_path": "\/11BcHnuJYrOZhIftgUiQqfm7TK6.jpg"
+        },
+        {
+            "name": "Ami Koshimizu",
+            "character": "Eleanor Northbrook (voice)",
+            "profile_path": "\/e5sU0stGjTMtFoj0jjHH7OFUqYC.jpg"
+        },
+        {
+            "name": "Megumi Han",
+            "character": "Lala Zudenstein (voice)",
+            "profile_path": "\/cwnwrPg1YvB19TbfouC4ShGPmbQ.jpg"
+        },
+        {
+            "name": "Rie Takahashi",
+            "character": "Yoko Nishina (voice)",
+            "profile_path": "\/aeB7z0cBTASdjKOjQriBAO6hYq4.jpg"
+        },
+        {
+            "name": "Kazuki Ura",
+            "character": "Alan (voice)",
+            "profile_path": "\/7eUgENWREmWSMnLPUFCQhvUSpdI.jpg"
+        },
+        {
+            "name": "Nana Mizuki",
+            "character": "EDVA (voice)",
+            "profile_path": "\/rQBo7HyjTIqeB7hIofb7uJFhiVs.jpg"
+        }
+    ],
+    "first_air_date": "2026-10-03",
+    "last_air_date": "2026-10-03",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/q4Frct3HP4eaFs7hc8fHq04Rl6Y.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "\/wkmBgLCbPWxQwgLNcxZFzaiJjmb.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=aTlkK1VNNnJEVWk4ckxzV096TERpWkJFbEdnNmVGdk1Ec1pwNU5ZbjlUWmtocS80NzFhY0d5U3V0T2YrSDJnTGJIUDN0OS9nRlN5RWtRRW1wUUZwc1dWK3EwVDNhSlBUMGtLbUxRL2x0cWs9Ojp_kLAdV9Ej_ussdZADC4iY&t=dc68785125453b1f65ca4edb9cf2e1f9&op=NzgzNzg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=SSt2Y0lJUEhHQ2dyN2M5M1IyNUtyZmRjcngyRmtPWGg0NlJ3alBPRVVaODVIRGkvTnlxdG5ZRGtNaGZqVy9McVgxcXI1bjV5dzV6YVcvaGY2TDkyYjlYL3Bkalh6YVV6MjJwYkIrQWlzZUk9OjpJQ6p6otbNse._c16e5zi6&t=dc68785125453b1f65ca4edb9cf2e1f9",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-2tnqwacoewaj.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-armosbobzsnx.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/3kd709w1hz5q",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/v8S684vF0kL4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-10-06 06:00:49",
+    "created_at": "2026-10-06 06:00:49",
+    "updated_at": "2026-10-06 06:00:49"
+}
