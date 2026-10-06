@@ -1,5 +1,26 @@
 [
     {
+        "id": "1791280783679",
+        "tmdb_id": "63164",
+        "titulo": "Sargento Keroro",
+        "imagen": "/ceMmBuxnFP3y3bndXk8FVSME12N.jpg",
+        "type": "anime",
+        "year": "2004",
+        "etiquetas": [
+            "Animación",
+            "Comedia",
+            "Sci-Fi & Fantasy"
+        ],
+        "rate": 7,
+        "added_date": "2026-10-06 05:59:43",
+        "created_at": "2026-10-06 05:59:43",
+        "updated_at": "2026-10-06 05:59:44",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 1,
+        "status": "Ended"
+    },
+    {
         "id": "1791280696517",
         "tmdb_id": "320377",
         "titulo": "TANK CHAIR-戦車椅子-",
