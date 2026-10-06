@@ -1,0 +1,277 @@
+{
+    "id": "1791280323445",
+    "tmdb_id": "324502",
+    "titulo": "Overgeared",
+    "original_name": "テムパル～アイテムの力～",
+    "imagen": "\/fmAQ2lOtLAoEU2p6wQ12wXbIgLM.jpg",
+    "backdrop_path": "\/745xqHbiUWwO51TM60MXRCR4Onm.jpg",
+    "type": "anime",
+    "year": "2026",
+    "etiquetas": [
+        "Animación",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+    ],
+    "temporadas_count": 1,
+    "episodios": 2,
+    "status": "Returning Series",
+    "rate": 6.20000000000000017763568394002504646778106689453125,
+    "sinopsis": "Olvídate de la rutina con SATISFY, el juego de realidad virtual donde ganas fama y dinero reales. A Grid jamás le sonríe la suerte, ni dentro ni fuera del juego, pero todo da un vuelco cuando una ardua misión lo convierte en el heredero de un herrero legendario. Sus estadísticas vuelven a cero, sí, pero ahora sube de nivel sin freno y forja un equipo digno de los dioses.",
+    "cast": [
+        {
+            "name": "Tatsumaru Tachibana",
+            "character": "Shin Youngwoo \/ Grid (voice)",
+            "profile_path": "\/eShhW1W22SQuUwRaONnpzEZ5w6E.jpg"
+        },
+        {
+            "name": "Asami Seto",
+            "character": "Yura (voice)",
+            "profile_path": "\/iKKCPgKrNd4pJ0iBOC1SBZy2Y4Y.jpg"
+        },
+        {
+            "name": "Saya Fukuzumi",
+            "character": "Euphemia (voice)",
+            "profile_path": "\/zlSTVQsai4DcvHimLo8r4dg8DhG.jpg"
+        },
+        {
+            "name": "Shuntaro Takayama",
+            "character": "Huroi (voice)",
+            "profile_path": "\/eAMybCcZcukliA30Qb0UNR7ZQnh.jpg"
+        },
+        {
+            "name": "Riho Sugiyama",
+            "character": "Jishuka (voice)",
+            "profile_path": "\/rPVn4cInZVECBWhoHozERc8XTTj.jpg"
+        },
+        {
+            "name": "Masaaki Mizunaka",
+            "character": "Toban (voice)",
+            "profile_path": "\/cHb2pr4juxk8A3VTuDxgPWHM6WF.jpg"
+        },
+        {
+            "name": "Ko Bonkobara",
+            "character": "Regas (voice)",
+            "profile_path": "\/ArR2Pkddx548PV71sZ1mBJ2RXd1.jpg"
+        },
+        {
+            "name": "Masaya Fukunishi",
+            "character": "Vantner (voice)",
+            "profile_path": "\/8paIbTobS6266x57pIhJCq3mBJh.jpg"
+        },
+        {
+            "name": "Kohei Amasaki",
+            "character": "Pon (voice)",
+            "profile_path": "\/tnN5jLiLjcDa7qn88uLb1iAfivL.jpg"
+        },
+        {
+            "name": "Shunichi Toki",
+            "character": "Faker (voice)",
+            "profile_path": "\/3hauO9r1NEzgXxk8d2ed1p5dnxM.jpg"
+        }
+    ],
+    "first_air_date": "2026-10-02",
+    "last_air_date": "2026-10-02",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/fmAQ2lOtLAoEU2p6wQ12wXbIgLM.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "\/kcuOU2FUmy2e0FDTq9YIuY6a3DW.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=VlBXVTBqTUU5bjJ5SkRPNlBib1o1QmowR29BajZRKzlwbmhKcGVZRkNVQzA3RHZhdHkyNW5ZTGpFK2V6TnQxNmE1M1pGZmZKZitjbWdXUlZ1NVZvU2FaRXNCa0RZNmx0Zzl5aFlBVHlkcGc9OjoiXFTI.JT96NPPm8xbpEB4&t=150e5f1a1c2f1891de15f8a719b6228c&op=NzgyMTU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=UVNpbXYvTnhldFJ0RnRVUi9wRzh6WUZkNU1SakFHM2VyZFpiQXYwUUNsUWVlbnFnMGYvTU0weXJVVVowV2dYZDZHdWlyakgzR28zeG1yWmh3YlFsQUkwRjYxU0N2YVhpUkIyWFVRcnlZdkk9Ojo6ZBqZRSRL0Vn_cut_WVPL&t=150e5f1a1c2f1891de15f8a719b6228c",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-wg4l5u2suzhf.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-5dpvnfpq0xw5.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/2ge22k547IAI",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-pxv4k3631gsq.html",
+                            "type": "streaming",
+                            "language": "Unknown",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-xuyw5138icyi.html",
+                            "type": "streaming",
+                            "language": "Unknown",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/4A7l0q24auBQ",
+                            "type": "streaming",
+                            "language": "Unknown",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-wqub0r934jyo.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-2jm0d8fqaf1f.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-w02oethe94w9.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/c0AQo2p2B20s",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "\/2aT5Nj4I5HQqh01nShth4tBpVqF.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=T0FSY3drV25oNDBDWW9iRk5JcXl4L1pKdHFDaHhibUtUMFJENEtXdnpRbUpqVitJcUlndlBqK202VWRuWlNiSHpzWXhwcFlTMDZWUi9yREFLUERKd3J4N3RLc3BMN3lhT3g2RUlMbElIbXc9OjodrmYF.kkBes1zmX48CGuN&t=dae86c5e532f9df59204d2a6b19c532a&op=NzgzOTA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=MFcrTkhZL2JlNWFvUlRHSWNlSHJ2Z1Q1WkNsemp0a0hCd2p5RVJDS0hqM2lHaWsreUN1cm1KKzdmd2VEWFN5ZWhtUWlyWkZHYUZZYjU4T09OVHJHRTlwSWdQNnJCeUhxYmxTZmVYSjVLWVk9OjoMOmMhse4liohK8hom2s.D&t=dae86c5e532f9df59204d2a6b19c532a",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-tg1viuhhs7m0.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-uudw2gv5pite.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/xj6d8sceeb7k",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/74584UeQc7W4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-wrirb0bic7rs.html",
+                            "type": "streaming",
+                            "language": "Unknown",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-m18l8sjya9su.html",
+                            "type": "streaming",
+                            "language": "Unknown",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/mD8wn67HdTHe",
+                            "type": "streaming",
+                            "language": "Unknown",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-zw8gafspx25y.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-3ej29fdgrnzs.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-pumz96o3rbe4.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/74l2r438651h",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-10-06 05:52:03",
+    "created_at": "2026-10-06 05:52:03",
+    "updated_at": "2026-10-06 05:52:03"
+}
