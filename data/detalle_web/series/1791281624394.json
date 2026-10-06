@@ -1,0 +1,118 @@
+{
+    "id": "1791281624394",
+    "tmdb_id": "311842",
+    "titulo": "FX Fighter Kurumi-chan",
+    "original_name": "FX戦士くるみちゃん",
+    "imagen": "\/6Tf1ETXseEoNAMyofy3aRoJtqaR.jpg",
+    "backdrop_path": "\/qFELvRyy0C0vxYcKBQEX7BDe4vO.jpg",
+    "type": "anime",
+    "year": "2026",
+    "etiquetas": [
+        "Animación",
+        "Comedia"
+    ],
+    "temporadas_count": 1,
+    "episodios": 1,
+    "status": "Returning Series",
+    "rate": 10,
+    "sinopsis": "¡Compra! ¡Vende! ¡Gana... o piérdelo todo! La estudiante universitaria Kurumi Fukuga se adentra en el vertiginoso mundo del mercado de divisas para recuperar los 20 millones de yenes que perdió su difunta madre. Junto a sus compañeras aficionadas al FX, Mochiko, Mebuki y Yasuko, se enfrentará a mercados volátiles donde cada decisión puede llevarla a la fortuna... ¡o al desastre!",
+    "cast": [
+        {
+            "name": "Aina Suzuki",
+            "character": "Kurumi Fukuga (voice)",
+            "profile_path": "\/bRLwfft4yckDTpLenlbTrt3FRRN.jpg"
+        },
+        {
+            "name": "Asami Seto",
+            "character": "Mochiko Kogane (voice)",
+            "profile_path": "\/iKKCPgKrNd4pJ0iBOC1SBZy2Y4Y.jpg"
+        },
+        {
+            "name": "Ayasa Ito",
+            "character": "Mebuki Yamashi (voice)",
+            "profile_path": "\/2PrCCbr8wI9lZHtUtyy2SJszua1.jpg"
+        },
+        {
+            "name": "Miho Okasaki",
+            "character": "Yasuko Takane (voice)",
+            "profile_path": "\/cTkMJzOdsXL8o5q5AhP9eT0sXDK.jpg"
+        },
+        {
+            "name": "Yasuyuki Kase",
+            "character": "Narrator (voice)",
+            "profile_path": "\/sERtaipUjauSd4WgP9RQwHoAamO.jpg"
+        },
+        {
+            "name": "Hideo Ishikawa",
+            "character": "Ikuo Fukuga (voice)",
+            "profile_path": "\/gEjEDNGt3CHsyzFQdNqewZVbh0.jpg"
+        },
+        {
+            "name": "Mamiko Noto",
+            "character": "Kozue Fukuga (voice)",
+            "profile_path": "\/wCSD7Umgzc66p8VGXrrMZtSLSuS.jpg"
+        },
+        {
+            "name": "Yuuki Hirose",
+            "character": "Yuuko (voice)",
+            "profile_path": "\/nLkHDUioXgQtQ74thpY2PfzFx6V.jpg"
+        }
+    ],
+    "first_air_date": "2026-10-01",
+    "last_air_date": "2026-10-01",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/6Tf1ETXseEoNAMyofy3aRoJtqaR.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "\/9SnAPMswGzC6OsBO6mGUrlPdBBB.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=V3k4bno0RTQyYWJ4aDhlWTJGVzlDR05yZ3BlNEo2TzlndWhwdFBrMWFWd01iNGpvSDgydkVQOEdpQWZJbW5vVzVVSldYRWxXTVg3MFNGZFM0MmdYTTNvTlZCMnhDRit5WlZlSmN3NXVrZ0E9OjpqX8GnSextaoetAB0WCdYd&t=fbb23f9b3cfaa3c6bace7bd1313e83f3&op=NzgyODA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=KzFJdnUyUFQ4LzVhQkMxSTRBYmR0ZE5Lc1JpVnpYaTJMUWxNN01oTm8wK1VrS00vTkhmaGlla2Q5cWtJa1BvUHdwRzdCRnhGdlZkY2F6K0FSbUllY1p2WGJtSmZyYW10OXFuNmFzd21LMlE9OjrcuyjWdIn.E_ttqUzTroOG&t=fbb23f9b3cfaa3c6bace7bd1313e83f3",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-1hqihzuol8a1.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/tn8a80vdhwbl",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/VhsUa17n5Ba3",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-10-06 06:13:44",
+    "created_at": "2026-10-06 06:13:44",
+    "updated_at": "2026-10-06 06:13:44"
+}
