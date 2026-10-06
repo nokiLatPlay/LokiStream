@@ -1,5 +1,26 @@
 [
     {
+        "id": "1791281914986",
+        "tmdb_id": "270603",
+        "titulo": "The Exiled Heavy Knight Knows How to Game the System",
+        "imagen": "/flcyEjfwHECnqgXMGNZsajLg1rv.jpg",
+        "type": "anime",
+        "year": "2026",
+        "etiquetas": [
+            "Animación",
+            "Action & Adventure",
+            "Sci-Fi & Fantasy"
+        ],
+        "rate": 8.5,
+        "added_date": "2026-10-06 06:18:34",
+        "created_at": "2026-10-06 06:18:34",
+        "updated_at": "2026-10-06 06:18:36",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 14,
+        "status": "Returning Series"
+    },
+    {
         "id": "1791281882894",
         "tmdb_id": "307585",
         "titulo": "Please Excuse My Younger Brothers",
