@@ -1,0 +1,109 @@
+{
+    "id": "1791280814138",
+    "tmdb_id": "285710",
+    "titulo": "Gensou Suikoden",
+    "original_name": "幻想水滸伝",
+    "imagen": "\/aCnMXOrLVUF32hFbSMRXLJwUtkd.jpg",
+    "backdrop_path": "\/sqfxKwR0mYva1LJlkMqIMNb2W36.jpg",
+    "type": "anime",
+    "year": "2026",
+    "etiquetas": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+    ],
+    "temporadas_count": 1,
+    "episodios": 1,
+    "status": "Returning Series",
+    "rate": 7.5,
+    "sinopsis": "El protagonista de nuestra historia y su amigo Jowy son miembros de la Brigada Juvenil Unicornio, que participó en una prolongada disputa fronteriza entre el Reino de las Tierras Altas y las Ciudades-Estado de Jowstown. Unos meses antes, se había firmado un acuerdo de verdad entre ambas fuerzas, ambas satisfechas con el fin de los combates. Sin embargo, bajo la aparente paz, seguían latentes las llamas de una nueva guerra…",
+    "cast": [
+        {
+            "name": "Toshiki Kumagai",
+            "character": "Riliu (voice)",
+            "profile_path": "\/2Io1DhrsoYfiVSZzjF0u59JyyDm.jpg"
+        },
+        {
+            "name": "Shimba Tsuchiya",
+            "character": "Jowy (voice)",
+            "profile_path": "\/qyPAAsmnc3ugr4fYq2Jy2VbuXU9.jpg"
+        },
+        {
+            "name": "Ayumi Hinohara",
+            "character": "Nanami (voice)",
+            "profile_path": "\/dA1u9m4NM4lVUgbSyaQ4hdOd3En.jpg"
+        },
+        {
+            "name": "Katsuyuki Konishi",
+            "character": "Victor (voice)",
+            "profile_path": "\/nYM5cH6U7cp4x9dIzW0enmEKmeV.jpg"
+        },
+        {
+            "name": "Yuichi Nakamura",
+            "character": "Flik (voice)",
+            "profile_path": "\/wb8behVKjBHX9XXrEydvNINCYwH.jpg"
+        },
+        {
+            "name": "Taku Yashiro",
+            "character": "Luca Blight (voice)",
+            "profile_path": "\/eVdB6myaNJ4h38UU9hHHlsaCWHn.jpg"
+        }
+    ],
+    "first_air_date": "2026-10-03",
+    "last_air_date": "2026-10-03",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/aCnMXOrLVUF32hFbSMRXLJwUtkd.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "\/z25wpJFvh20PykW5K1LZoiSLbxs.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=U3lSem1iY0RsVy81bnphc3JPc3lPcEYvQlFham9kMzUzSUxEejRVMEJQZkxDaFpTTXl1K2o2YkQzaE16bFlVdVJGTmRBU3hKaldHTGFHODIzUmQ5MDlXbTlBb2hiWDJnaUJ5WTR4VGo4eWc9Ojo1mhS.kuxM2JKXsz331pxA&t=bed641c11b04405678d98bf7c82252e1&op=Nzg0MDM=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=enQ3THBUZUZGeGVacHpLbnNyU3pIVnk5ZUVEckc2L3FsWlZpc2lQamY3UnBqdHIwYzgxKzMxTTUzajRvN2szTVptMkdFOW5pL2UxZ0J6Ny83cEFnM3dmcFVLWk9zRE95S0FLWThDRWt5S289OjqrBf0IdFT9Vh8eZvaXgKOR&t=bed641c11b04405678d98bf7c82252e1",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-002rt8vbk651.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/67h7wlaw0hs7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/UJCtQbcBr44o",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-10-06 06:00:14",
+    "created_at": "2026-10-06 06:00:14",
+    "updated_at": "2026-10-06 06:00:14"
+}
