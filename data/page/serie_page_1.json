@@ -1,5 +1,26 @@
 [
     {
+        "id": "1791280082225",
+        "tmdb_id": "335194",
+        "titulo": "Magical★Explorer",
+        "imagen": "/b9LtxUfUrhsuq8lYvlhXq2I5gAw.jpg",
+        "type": "anime",
+        "year": "2026",
+        "etiquetas": [
+            "Animación",
+            "Comedia",
+            "Action & Adventure"
+        ],
+        "rate": 10,
+        "added_date": "2026-10-06 05:48:02",
+        "created_at": "2026-10-06 05:48:02",
+        "updated_at": "2026-10-06 05:48:03",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 2,
+        "status": "Returning Series"
+    },
+    {
         "id": "1791275270675",
         "tmdb_id": "1413",
         "titulo": "American Horror Story",
