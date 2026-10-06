@@ -1,0 +1,136 @@
+{
+    "id": "1791280992199",
+    "tmdb_id": "301139",
+    "titulo": "#ゾンビさがしてます",
+    "original_name": "#ゾンビさがしてます",
+    "imagen": "\/zvek4B5QAjZorbRVXz34rK9PhtK.jpg",
+    "backdrop_path": "\/gEbVNBlxBVvyphlpDBUqGNpfXNc.jpg",
+    "type": "anime",
+    "year": "2026",
+    "etiquetas": [
+        "Animación",
+        "Action & Adventure",
+        "Comedia"
+    ],
+    "temporadas_count": 1,
+    "episodios": 1,
+    "status": "Returning Series",
+    "rate": 0,
+    "sinopsis": "",
+    "cast": [
+        {
+            "name": "Miyari Nemoto",
+            "character": "Aki (voice)",
+            "profile_path": "\/q6gtn88XdzscIBtxGT05GQrNIXF.jpg"
+        },
+        {
+            "name": "Lynn",
+            "character": "Natsuki (voice)",
+            "profile_path": "\/eJ2NqgzpnzNbT6Nt9EpDfzqNeZM.jpg"
+        },
+        {
+            "name": "宮田俊哉",
+            "character": "Haru (voice)",
+            "profile_path": "\/6g0HUHtLaddU3q3hV4qF46bkzYB.jpg"
+        },
+        {
+            "name": "Hibiku Yamamura",
+            "character": "Yū (voice)",
+            "profile_path": "\/7mZ02XdjbbO0AnsX5Fwr23ZFe3G.jpg"
+        },
+        {
+            "name": "Yuka Nukui",
+            "character": "Sakura (voice)",
+            "profile_path": "\/bTFcrrgj9B8QAXa1NKqlsrdwWka.jpg"
+        },
+        {
+            "name": "Yoko Hikasa",
+            "character": "Mikazuki (voice)",
+            "profile_path": "\/mP3bj0s1gqJ6tCKFLhu4b1CkJj7.jpg"
+        },
+        {
+            "name": "Makoto Koichi",
+            "character": "Tōka (voice)",
+            "profile_path": "\/gpslQDgkGoL3Ap9QsK1nljeGPKJ.jpg"
+        },
+        {
+            "name": "Tomoyo Takayanagi",
+            "character": "Takamo (voice)",
+            "profile_path": "\/hc7zoKWJMwUBLCZEKXro6TotqZS.jpg"
+        },
+        {
+            "name": "Aino Shimada",
+            "character": "Saigo (voice)",
+            "profile_path": "\/3uSfLSPk7wnlxEzki1p7IDuShl8.jpg"
+        },
+        {
+            "name": "Kohsuke Toriumi",
+            "character": "Aki's father (voice)",
+            "profile_path": "\/vlRQ77taCCKh7itCZn3IWJUiYQr.jpg"
+        }
+    ],
+    "first_air_date": "2026-10-03",
+    "last_air_date": "2026-10-03",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/zvek4B5QAjZorbRVXz34rK9PhtK.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "\/9ViNpdwhuypw5SjR5Zq7L2IJLxY.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=RTNSMkc2bVpEZFNCN3Q0SXVnZHJ4cHNwM3kxQm9tbE9YR1ZOK1FBeDh2dXdFRXkwT2ZlVjRpUU9vdVY5dzJlL2JEQ2FWcjVQdEI3NlptVmNTVFlCdCt2QnBBWmhZYzVpT2NQQldzSEFIVGs9OjoThr4KeQcrwr3aBFJerxlV&t=99f53e27a6cb5094ef506ef4cd6b5e11&op=NzgzNjg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=Tm13SkxodGlmemxmM0FVcjV0QUxuS0d0K1diME85d0hEUFZQYzJ5Smswd0xOR0xxOUpwS2tmN2piQ3VJcGY0RS9mbEx3R2h4SUtubEQ2THlvc29IOXgrbFhpZlFEcjdmM2NhNTd4M0xlYkE9OjqU1MllRP5hkY6ZRbLwMCdX&t=99f53e27a6cb5094ef506ef4cd6b5e11",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-80sg29bjn98s.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-aslwf14egtrs.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/o6w3p9mvgk4f",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/Si3s5vPj2ry4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-10-06 06:03:12",
+    "created_at": "2026-10-06 06:03:12",
+    "updated_at": "2026-10-06 06:03:12"
+}
