@@ -1,5 +1,26 @@
 [
     {
+        "id": "1791280814138",
+        "tmdb_id": "285710",
+        "titulo": "Gensou Suikoden",
+        "imagen": "/aCnMXOrLVUF32hFbSMRXLJwUtkd.jpg",
+        "type": "anime",
+        "year": "2026",
+        "etiquetas": [
+            "Animación",
+            "Action & Adventure",
+            "Sci-Fi & Fantasy"
+        ],
+        "rate": 7.5,
+        "added_date": "2026-10-06 06:00:14",
+        "created_at": "2026-10-06 06:00:14",
+        "updated_at": "2026-10-06 06:00:16",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 1,
+        "status": "Returning Series"
+    },
+    {
         "id": "1791280783679",
         "tmdb_id": "63164",
         "titulo": "Sargento Keroro",
