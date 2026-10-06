@@ -1,5 +1,25 @@
 [
     {
+        "id": "1791281203685",
+        "tmdb_id": "335788",
+        "titulo": "Welsh & Shedar",
+        "imagen": "/dmOW3kfhfm4BOqINfsifY6QL64o.jpg",
+        "type": "anime",
+        "year": "2026",
+        "etiquetas": [
+            "Action & Adventure",
+            "Animación"
+        ],
+        "rate": 0,
+        "added_date": "2026-10-06 06:06:43",
+        "created_at": "2026-10-06 06:06:43",
+        "updated_at": "2026-10-06 06:06:44",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 1,
+        "status": "Returning Series"
+    },
+    {
         "id": "1791281087924",
         "tmdb_id": "333622",
         "titulo": "Kashita Maryoku wa \"Revo Barai\" de Kyousei Choushuu",
