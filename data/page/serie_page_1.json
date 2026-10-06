@@ -1,5 +1,26 @@
 [
     {
+        "id": "1791280992199",
+        "tmdb_id": "301139",
+        "titulo": "#ゾンビさがしてます",
+        "imagen": "/zvek4B5QAjZorbRVXz34rK9PhtK.jpg",
+        "type": "anime",
+        "year": "2026",
+        "etiquetas": [
+            "Animación",
+            "Action & Adventure",
+            "Comedia"
+        ],
+        "rate": 0,
+        "added_date": "2026-10-06 06:03:12",
+        "created_at": "2026-10-06 06:03:12",
+        "updated_at": "2026-10-06 06:03:13",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 1,
+        "status": "Returning Series"
+    },
+    {
         "id": "1791280924595",
         "tmdb_id": "324326",
         "titulo": "Los siete caballeros del Reino Marronnier",
