@@ -104,7 +104,6 @@
             "capitulos": [
                 {
                     "episode_id": "S01E01",
-                    "episode_number": 1,
                     "nombre": "Asta y Yuno",
                     "portada": "\/iqfTpMZgkfNWCuJ5ARP9quFTfCy.jpg",
                     "enlaces": [
@@ -182,7 +181,6 @@
                 },
                 {
                     "episode_id": "S01E02",
-                    "episode_number": 2,
                     "nombre": "El juramento del muchacho",
                     "portada": "\/mgjnfc5WNJHqc1fcjs142i4FQoV.jpg",
                     "enlaces": [
@@ -267,7 +265,6 @@
                 },
                 {
                     "episode_id": "S01E03",
-                    "episode_number": 3,
                     "nombre": "¡A la Capital Real del Reino del Trebol!",
                     "portada": "\/lNpLK24kmmBBKagbiUxrjDXXy6e.jpg",
                     "enlaces": [
@@ -345,7 +342,6 @@
                 },
                 {
                     "episode_id": "S01E04",
-                    "episode_number": 4,
                     "nombre": "El examen de caballería",
                     "portada": "\/lPQ74xbdjcIeAKzTca8lEP2oa6M.jpg",
                     "enlaces": [
@@ -423,7 +419,6 @@
                 },
                 {
                     "episode_id": "S01E05",
-                    "episode_number": 5,
                     "nombre": "El camino hasta ser Rey Mago",
                     "portada": "\/rz9OAKCRx9MS4jHqPceUa4oChU2.jpg",
                     "enlaces": [
@@ -501,7 +496,6 @@
                 },
                 {
                     "episode_id": "S01E06",
-                    "episode_number": 6,
                     "nombre": "Los Toros Negros",
                     "portada": "\/8tNu4mIHSzpcf5fsWWmF7lYabsn.jpg",
                     "enlaces": [
@@ -586,7 +580,6 @@
                 },
                 {
                     "episode_id": "S01E07",
-                    "episode_number": 7,
                     "nombre": "La otra novata",
                     "portada": "\/1Y4O6wSTG1NGfDzaFebcvXDSLnk.jpg",
                     "enlaces": [
@@ -671,7 +664,6 @@
                 },
                 {
                     "episode_id": "S01E08",
-                    "episode_number": 8,
                     "nombre": "La primera misión",
                     "portada": "\/kJ5jRPh2pCj6Yx6Vl6h27CxwTMF.jpg",
                     "enlaces": [
@@ -756,7 +748,6 @@
                 },
                 {
                     "episode_id": "S01E09",
-                    "episode_number": 9,
                     "nombre": "Bestia",
                     "portada": "\/7lj3ih6Ox1bYiWyoz8mn10DckX2.jpg",
                     "enlaces": [
@@ -827,7 +818,6 @@
                 },
                 {
                     "episode_id": "S01E10",
-                    "episode_number": 10,
                     "nombre": "Lo que proteger",
                     "portada": "\/lflcDTxXhLMbVth97l5ZVkBK1Am.jpg",
                     "enlaces": [
@@ -905,7 +895,6 @@
                 },
                 {
                     "episode_id": "S01E11",
-                    "episode_number": 11,
                     "nombre": "Lo sucedido en la ciudad del castillo",
                     "portada": "\/3V29WNQbIUErUoSZZ8oNZsrjhp7.jpg",
                     "enlaces": [
@@ -983,7 +972,6 @@
                 },
                 {
                     "episode_id": "S01E12",
-                    "episode_number": 12,
                     "nombre": "Lo que ve el Rey Mago",
                     "portada": "\/fsNSRC15s3AR4LDLsMoQvSqtsa6.jpg",
                     "enlaces": [
@@ -1054,7 +1042,6 @@
                 },
                 {
                     "episode_id": "S01E13",
-                    "episode_number": 13,
                     "nombre": "Lo que ve el Rey Mago, continuación",
                     "portada": "\/fCe54JT3DLt75BTA82tTnIbaLwK.jpg",
                     "enlaces": [
@@ -1132,7 +1119,6 @@
                 },
                 {
                     "episode_id": "S01E14",
-                    "episode_number": 14,
                     "nombre": "Mazmorra",
                     "portada": "\/dTwAmzPDmYgFY8f93vbuMDH3fJb.jpg",
                     "enlaces": [
@@ -1203,7 +1189,6 @@
                 },
                 {
                     "episode_id": "S01E15",
-                    "episode_number": 15,
                     "nombre": "El guerrero mágico del Diamante",
                     "portada": "\/lskySJ0ixxB3fEdkfe7y8xbSAqF.jpg",
                     "enlaces": [
@@ -1274,7 +1259,6 @@
                 },
                 {
                     "episode_id": "S01E16",
-                    "episode_number": 16,
                     "nombre": "Compañeros",
                     "portada": "\/qFGrOUls64SLs9mxcYbPD7G1kGp.jpg",
                     "enlaces": [
@@ -1352,7 +1336,6 @@
                 },
                 {
                     "episode_id": "S01E17",
-                    "episode_number": 17,
                     "nombre": "Destructor",
                     "portada": "\/k4AItwytmTFZ7vVOOqbp56fv8l.jpg",
                     "enlaces": [
@@ -1423,7 +1406,6 @@
                 },
                 {
                     "episode_id": "S01E18",
-                    "episode_number": 18,
                     "nombre": "Recuerdos del pasado",
                     "portada": "\/aLUsnh3kS5jNQ2uKlRBYRYn5Vzr.jpg",
                     "enlaces": [
@@ -1501,7 +1483,6 @@
                 },
                 {
                     "episode_id": "S01E19",
-                    "episode_number": 19,
                     "nombre": "Destrucción y salvación",
                     "portada": "\/oTE2JE8KXDAJGfnboNSSyVap1RA.jpg",
                     "enlaces": [
@@ -1572,7 +1553,6 @@
                 },
                 {
                     "episode_id": "S01E20",
-                    "episode_number": 20,
                     "nombre": "Reunión en la capital",
                     "portada": "\/s0CyH1FCYihQ5blGGGfOKKle9ni.jpg",
                     "enlaces": [
@@ -1643,7 +1623,6 @@
                 },
                 {
                     "episode_id": "S01E21",
-                    "episode_number": 21,
                     "nombre": "Disturbios en la capital",
                     "portada": "\/gBCfSSH56cOUrBxXzoHF84fV96d.jpg",
                     "enlaces": [
@@ -1707,7 +1686,6 @@
                 },
                 {
                     "episode_id": "S01E22",
-                    "episode_number": 22,
                     "nombre": "Danza bulliciosa de magia",
                     "portada": "\/qafcCaB2VzOoaZEzJktiLks7WR8.jpg",
                     "enlaces": [
@@ -1778,7 +1756,6 @@
                 },
                 {
                     "episode_id": "S01E23",
-                    "episode_number": 23,
                     "nombre": "El rey león carmesí",
                     "portada": "\/2xrQPBM9XRvQ0h5xFmOMnVw3CW0.jpg",
                     "enlaces": [
@@ -1849,7 +1826,6 @@
                 },
                 {
                     "episode_id": "S01E24",
-                    "episode_number": 24,
                     "nombre": "Blackout",
                     "portada": "\/6YGyGDLZGHpbx8T8OkpxgG28GKv.jpg",
                     "enlaces": [
@@ -1920,7 +1896,6 @@
                 },
                 {
                     "episode_id": "S01E25",
-                    "episode_number": 25,
                     "nombre": "Adversidad",
                     "portada": "\/vCNvbxpyYjBYWJ0iHxymUfvv2m2.jpg",
                     "enlaces": [
@@ -1991,7 +1966,6 @@
                 },
                 {
                     "episode_id": "S01E26",
-                    "episode_number": 26,
                     "nombre": "Bestia herida",
                     "portada": "\/jOJLsmDooo11MSUeQRHMXwzN1Wr.jpg",
                     "enlaces": [
@@ -2069,7 +2043,6 @@
                 },
                 {
                     "episode_id": "S01E27",
-                    "episode_number": 27,
                     "nombre": "Luz",
                     "portada": "\/c91Pd5K7CwwkcHDIxykyA6Iu2vJ.jpg",
                     "enlaces": [
@@ -2147,7 +2120,6 @@
                 },
                 {
                     "episode_id": "S01E28",
-                    "episode_number": 28,
                     "nombre": "La persona en mi corazón",
                     "portada": "\/vnBti0nmWaecswtnSDj8wdfJzYa.jpg",
                     "enlaces": [
@@ -2225,7 +2197,6 @@
                 },
                 {
                     "episode_id": "S01E29",
-                    "episode_number": 29,
                     "nombre": "Camino",
                     "portada": "\/4EVBZXZbV4HJYjNXkUsQywC0X07.jpg",
                     "enlaces": [
@@ -2296,7 +2267,6 @@
                 },
                 {
                     "episode_id": "S01E30",
-                    "episode_number": 30,
                     "nombre": "El mago del espejo",
                     "portada": "\/f22BYPzFEJa9ApjsmmQAT9KGTj0.jpg",
                     "enlaces": [
@@ -2360,7 +2330,6 @@
                 },
                 {
                     "episode_id": "S01E31",
-                    "episode_number": 31,
                     "nombre": "Persecución en la nieve",
                     "portada": "\/4fSeA6UL1yDxa2MYmW6KJzaORog.jpg",
                     "enlaces": [
@@ -2438,7 +2407,6 @@
                 },
                 {
                     "episode_id": "S01E32",
-                    "episode_number": 32,
                     "nombre": "Brotes de tres hojas",
                     "portada": "\/4CJ2Ex93jov4YSb6jIn9aNjNw5i.jpg",
                     "enlaces": [
@@ -2509,7 +2477,6 @@
                 },
                 {
                     "episode_id": "S01E33",
-                    "episode_number": 33,
                     "nombre": "En el futuro ayudará a alguien",
                     "portada": "\/lgPOxPFeT9c7OPLxTbdBqMoLNZZ.jpg",
                     "enlaces": [
@@ -2587,7 +2554,6 @@
                 },
                 {
                     "episode_id": "S01E34",
-                    "episode_number": 34,
                     "nombre": "Magia de Luz contra Magia de Oscuridad",
                     "portada": "\/97EwzWeJMIgExiqQfpm1TrcvI0o.jpg",
                     "enlaces": [
@@ -2658,7 +2624,6 @@
                 },
                 {
                     "episode_id": "S01E35",
-                    "episode_number": 35,
                     "nombre": "Luz del juicio",
                     "portada": "\/7aVwoJixXXfwDQrYZCmKfx1uhej.jpg",
                     "enlaces": [
@@ -2729,7 +2694,6 @@
                 },
                 {
                     "episode_id": "S01E36",
-                    "episode_number": 36,
                     "nombre": "Los tres ojos",
                     "portada": "\/40bbQ7PNdsBgn2axrBtlqRoMZXI.jpg",
                     "enlaces": [
@@ -2800,7 +2764,6 @@
                 },
                 {
                     "episode_id": "S01E37",
-                    "episode_number": 37,
                     "nombre": "Aquel sin magia",
                     "portada": "\/jXAbKGTju1XaKEsk5h8bXMzk6DR.jpg",
                     "enlaces": [
@@ -2878,7 +2841,6 @@
                 },
                 {
                     "episode_id": "S01E38",
-                    "episode_number": 38,
                     "nombre": "Reunión de capitanes",
                     "portada": "\/6YxXjOQfWoh3hnYp21m168tGsBW.jpg",
                     "enlaces": [
@@ -2949,7 +2911,6 @@
                 },
                 {
                     "episode_id": "S01E39",
-                    "episode_number": 39,
                     "nombre": "Saludo de tres hojas",
                     "portada": "\/jILMZmhBkAC9aGJBEEmjbOMKnZs.jpg",
                     "enlaces": [
@@ -3027,7 +2988,6 @@
                 },
                 {
                     "episode_id": "S01E40",
-                    "episode_number": 40,
                     "nombre": "Los Toros Negros en la playa",
                     "portada": "\/dpArb9AnKEAjzoNrajPZ8GZhSiQ.jpg",
                     "enlaces": [
@@ -3105,7 +3065,6 @@
                 },
                 {
                     "episode_id": "S01E41",
-                    "episode_number": 41,
                     "nombre": "El crecimiento de la chica del agua",
                     "portada": "\/68pxa4X0CsaGFAs5N3T1DNFLEBU.jpg",
                     "enlaces": [
@@ -3183,7 +3142,6 @@
                 },
                 {
                     "episode_id": "S01E42",
-                    "episode_number": 42,
                     "nombre": "Templo Submarino",
                     "portada": "\/uXzO2MAKRIOGymiKkmiu3sWRRYr.jpg",
                     "enlaces": [
@@ -3261,7 +3219,6 @@
                 },
                 {
                     "episode_id": "S01E43",
-                    "episode_number": 43,
                     "nombre": "Battle Royale en el templo",
                     "portada": "\/lJmNtOY4Czho7CHZ6JG6AxxdnNo.jpg",
                     "enlaces": [
@@ -3339,7 +3296,6 @@
                 },
                 {
                     "episode_id": "S01E44",
-                    "episode_number": 44,
                     "nombre": "Fuego honesto y rayos salvajes",
                     "portada": "\/eGaDbKUjBMqPJYLi5e78xwixlhL.jpg",
                     "enlaces": [
@@ -3417,7 +3373,6 @@
                 },
                 {
                     "episode_id": "S01E45",
-                    "episode_number": 45,
                     "nombre": "El hombre que nunca se rinde",
                     "portada": "\/1tfVhMvsBARdK05dRXOfYf4IbdX.jpg",
                     "enlaces": [
@@ -3495,7 +3450,6 @@
                 },
                 {
                     "episode_id": "S01E46",
-                    "episode_number": 46,
                     "nombre": "Despertar",
                     "portada": "\/h5R65RxlaavHyINXrBLMCVhp4ZM.jpg",
                     "enlaces": [
@@ -3566,7 +3520,6 @@
                 },
                 {
                     "episode_id": "S01E47",
-                    "episode_number": 47,
                     "nombre": "Arma única",
                     "portada": "\/sudnNR86qmefBMAy86lUi25f1rQ.jpg",
                     "enlaces": [
@@ -3644,7 +3597,6 @@
                 },
                 {
                     "episode_id": "S01E48",
-                    "episode_number": 48,
                     "nombre": "Desesperación contra esperanza",
                     "portada": "\/qVxIq5HYOQ9lV5sfvGExTepQitv.jpg",
                     "enlaces": [
@@ -3722,7 +3674,6 @@
                 },
                 {
                     "episode_id": "S01E49",
-                    "episode_number": 49,
                     "nombre": "Más allá del límite",
                     "portada": "\/sOALwJjY73JOlmvPnirMFYTo2Mz.jpg",
                     "enlaces": [
@@ -3793,7 +3744,6 @@
                 },
                 {
                     "episode_id": "S01E50",
-                    "episode_number": 50,
                     "nombre": "Fin de la batalla, fin de la desesperación",
                     "portada": "\/7wD74CGeOkVvFkaCG9VnYNdqAH2.jpg",
                     "enlaces": [
@@ -3864,7 +3814,6 @@
                 },
                 {
                     "episode_id": "S01E51",
-                    "episode_number": 51,
                     "nombre": "Señales de justicia",
                     "portada": "\/tlvWEa9av79sLv3iG4wnUYH7nV7.jpg",
                     "enlaces": [
@@ -3949,7 +3898,6 @@
                 },
                 {
                     "episode_id": "S01E52",
-                    "episode_number": 52,
                     "nombre": "Gana el más fuerte",
                     "portada": "\/ytwnXZrEjxASActbNhm7fxYBxAC.jpg",
                     "enlaces": [
@@ -4020,7 +3968,6 @@
                 },
                 {
                     "episode_id": "S01E53",
-                    "episode_number": 53,
                     "nombre": "Detras de la mascara",
                     "portada": "\/kZzMUux5MiSO4orwDWWNDOx5Z9k.jpg",
                     "enlaces": [
@@ -4098,7 +4045,6 @@
                 },
                 {
                     "episode_id": "S01E54",
-                    "episode_number": 54,
                     "nombre": "Nunca más",
                     "portada": "\/zC0VhvhU8qCpZW7Mp7PyMtXmKyQ.jpg",
                     "enlaces": [
@@ -4162,7 +4108,6 @@
                 },
                 {
                     "episode_id": "S01E55",
-                    "episode_number": 55,
                     "nombre": "El hombre llamado Fanzell",
                     "portada": "\/34cvG4HHC9uup1KaYOchi7CI0XE.jpg",
                     "enlaces": [
@@ -4226,7 +4171,6 @@
                 },
                 {
                     "episode_id": "S01E56",
-                    "episode_number": 56,
                     "nombre": "El hombre llamado Fanzell, continuación",
                     "portada": "\/fqOrhYR8RSOZEkySSeSsmFANa4K.jpg",
                     "enlaces": [
@@ -4304,7 +4248,6 @@
                 },
                 {
                     "episode_id": "S01E57",
-                    "episode_number": 57,
                     "nombre": "Infiltración",
                     "portada": "\/miX63NGwQz8roMPMZ1dKjGZnEzX.jpg",
                     "enlaces": [
@@ -4382,7 +4325,6 @@
                 },
                 {
                     "episode_id": "S01E58",
-                    "episode_number": 58,
                     "nombre": "Decisiones en el campo de batalla",
                     "portada": "\/2VjXHRetfQX7KTtwMeXzJmpNyay.jpg",
                     "enlaces": [
@@ -4453,7 +4395,6 @@
                 },
                 {
                     "episode_id": "S01E59",
-                    "episode_number": 59,
                     "nombre": "Llamas de odio",
                     "portada": "\/97reQbDmf7Fh5GQAVYbMyfJTYms.jpg",
                     "enlaces": [
@@ -4524,7 +4465,6 @@
                 },
                 {
                     "episode_id": "S01E60",
-                    "episode_number": 60,
                     "nombre": "La expiación del desertor",
                     "portada": "\/ylNqQ3naDHG9iXA33RhrD2ZZylw.jpg",
                     "enlaces": [
@@ -4602,7 +4542,6 @@
                 },
                 {
                     "episode_id": "S01E61",
-                    "episode_number": 61,
                     "nombre": "El mundo prometido",
                     "portada": "\/aJFuN2bjRiTdiWrO3TcaAdLnTS7.jpg",
                     "enlaces": [
@@ -4680,7 +4619,6 @@
                 },
                 {
                     "episode_id": "S01E62",
-                    "episode_number": 62,
                     "nombre": "La persona que te hace mejorar",
                     "portada": "\/cuMlsSTU6FwaP9OqMunrkqbK08M.jpg",
                     "enlaces": [
@@ -4751,7 +4689,6 @@
                 },
                 {
                     "episode_id": "S01E63",
-                    "episode_number": 63,
                     "nombre": "Desesperación contra esperanza",
                     "portada": "\/l9vck3EkCbMPBbNg85uQEU9uTK5.jpg",
                     "enlaces": [
@@ -4815,7 +4752,6 @@
                 },
                 {
                     "episode_id": "S01E64",
-                    "episode_number": 64,
                     "nombre": "El hilo rojo del destino",
                     "portada": "\/pbEcNdqGtkW3fnEToETnFFtIwNQ.jpg",
                     "enlaces": [
@@ -4893,7 +4829,6 @@
                 },
                 {
                     "episode_id": "S01E65",
-                    "episode_number": 65,
                     "nombre": "Regresamos",
                     "portada": "\/wznXXtrP2Fib68WhMuLi0bxwORd.jpg",
                     "enlaces": [
@@ -4964,7 +4899,6 @@
                 },
                 {
                     "episode_id": "S01E66",
-                    "episode_number": 66,
                     "nombre": "El secreto de Ojo de la Noche Blanca",
                     "portada": "\/xc0sKTuYyaLK7xxJuQt2JuhKpX5.jpg",
                     "enlaces": [
@@ -5035,7 +4969,6 @@
                 },
                 {
                     "episode_id": "S01E67",
-                    "episode_number": 67,
                     "nombre": "Cita doble en el festival",
                     "portada": "\/maJslpBLvPiebrmeLUH3PRaPOfu.jpg",
                     "enlaces": [
@@ -5120,7 +5053,6 @@
                 },
                 {
                     "episode_id": "S01E68",
-                    "episode_number": 68,
                     "nombre": "¡¿Batalla a Muerte?! Yami contra Jack",
                     "portada": "\/8iJBZNECbTGY8My49C4QqhZtWNT.jpg",
                     "enlaces": [
@@ -5198,7 +5130,6 @@
                 },
                 {
                     "episode_id": "S01E69",
-                    "episode_number": 69,
                     "nombre": "La melancolía de la rosa salvaje",
                     "portada": "\/rpI9hrw51WVmrafdwyiZU8Aa6Ki.jpg",
                     "enlaces": [
@@ -5276,7 +5207,6 @@
                 },
                 {
                     "episode_id": "S01E70",
-                    "episode_number": 70,
                     "nombre": "Dos caras nuevas",
                     "portada": "\/3C0IWHeQQhv005JZCx30KVKifHF.jpg",
                     "enlaces": [
@@ -5340,7 +5270,6 @@
                 },
                 {
                     "episode_id": "S01E71",
-                    "episode_number": 71,
                     "nombre": "Leona imbatida sin corona",
                     "portada": "\/2l0W3awVqHNu6ZvMjEy0IlfZUN4.jpg",
                     "enlaces": [
@@ -5418,7 +5347,6 @@
                 },
                 {
                     "episode_id": "S01E72",
-                    "episode_number": 72,
                     "nombre": "El fuego de Santelmo",
                     "portada": "\/5aOxMuzT8GNjqpub8lT4yLVv63p.jpg",
                     "enlaces": [
@@ -5482,7 +5410,6 @@
                 },
                 {
                     "episode_id": "S01E73",
-                    "episode_number": 73,
                     "nombre": "Examen de selección de los Caballeros Reales",
                     "portada": "\/y3ATxrLAmtPG1Mr9GqR1nwpUTxM.jpg",
                     "enlaces": [
@@ -5560,7 +5487,6 @@
                 },
                 {
                     "episode_id": "S01E74",
-                    "episode_number": 74,
                     "nombre": "Flor de determinación",
                     "portada": "\/jtsIUmzOtyPZQi7AeQ4tGpD7SW1.jpg",
                     "enlaces": [
@@ -5645,7 +5571,6 @@
                 },
                 {
                     "episode_id": "S01E75",
-                    "episode_number": 75,
                     "nombre": "Batalla Feroz",
                     "portada": "\/49Csu7tXP03yqwrlxqu5CE7OSoA.jpg",
                     "enlaces": [
@@ -5716,7 +5641,6 @@
                 },
                 {
                     "episode_id": "S01E76",
-                    "episode_number": 76,
                     "nombre": "El mago X",
                     "portada": "\/3ypbkrgCjK8kKCzWzWp0f45PmZb.jpg",
                     "enlaces": [
@@ -5787,7 +5711,6 @@
                 },
                 {
                     "episode_id": "S01E77",
-                    "episode_number": 77,
                     "nombre": "El destino",
                     "portada": "\/lYfdIId9uxQ0OJgUY39RGMf8vgd.jpg",
                     "enlaces": [
@@ -5858,7 +5781,6 @@
                 },
                 {
                     "episode_id": "S01E78",
-                    "episode_number": 78,
                     "nombre": "La trampa del plebeyo",
                     "portada": "\/zXNPqIJhgyfQnec0qIdBTozkuQn.jpg",
                     "enlaces": [
@@ -5936,7 +5858,6 @@
                 },
                 {
                     "episode_id": "S01E79",
-                    "episode_number": 79,
                     "nombre": "El delincuente contra el musculitos",
                     "portada": "\/dccJ1Gb9X7u7jK5ox8eMIRxsgT3.jpg",
                     "enlaces": [
@@ -6014,7 +5935,6 @@
                 },
                 {
                     "episode_id": "S01E80",
-                    "episode_number": 80,
                     "nombre": "El hermano modelo contra el hermano mediocre",
                     "portada": "\/tWTrssrgy2wZfveTPNylBQgiUev.jpg",
                     "enlaces": [
@@ -6092,7 +6012,6 @@
                 },
                 {
                     "episode_id": "S01E81",
-                    "episode_number": 81,
                     "nombre": "La forma de vida de cierto hombre",
                     "portada": "\/eoaG1MsnwJcJSvAd4o5Db1weDr8.jpg",
                     "enlaces": [
@@ -6170,7 +6089,6 @@
                 },
                 {
                     "episode_id": "S01E82",
-                    "episode_number": 82,
                     "nombre": "¡Especial Petit Clover! ¡Charmy la demonio!",
                     "portada": "\/fjOmOGI8qyVFU5eccjLqkLo2mi4.jpg",
                     "enlaces": [
@@ -6234,7 +6152,6 @@
                 },
                 {
                     "episode_id": "S01E83",
-                    "episode_number": 83,
                     "nombre": "Lo grabaré en vuestra memoria",
                     "portada": "\/kfWIJLdf1utUS5SLbqO7BK83495.jpg",
                     "enlaces": [
@@ -6312,7 +6229,6 @@
                 },
                 {
                     "episode_id": "S01E84",
-                    "episode_number": 84,
                     "nombre": "Vencedores",
                     "portada": "\/ssqDBptQyoMGxGTGrGTlMGpW1x6.jpg",
                     "enlaces": [
@@ -6383,7 +6299,6 @@
                 },
                 {
                     "episode_id": "S01E85",
-                    "episode_number": 85,
                     "nombre": "Fraternizar al desnudo",
                     "portada": "\/j8036xB728bq3vbigJLak1Z381F.jpg",
                     "enlaces": [
@@ -6454,7 +6369,6 @@
                 },
                 {
                     "episode_id": "S01E86",
-                    "episode_number": 86,
                     "nombre": "Yami y Vangeance",
                     "portada": "\/lgeS3Py5sZNI4FqbTvza5PBTxFQ.jpg",
                     "enlaces": [
@@ -6525,7 +6439,6 @@
                 },
                 {
                     "episode_id": "S01E87",
-                    "episode_number": 87,
                     "nombre": "Se forman los Caballeros Reales",
                     "portada": "\/zoEYSZe33EBaeyEKa84stxpUONF.jpg",
                     "enlaces": [
@@ -6596,7 +6509,6 @@
                 },
                 {
                     "episode_id": "S01E88",
-                    "episode_number": 88,
                     "nombre": "¡Entrada a la guardia de Ojo de la Noche Blanca!",
                     "portada": "\/usWTUBjToEOQlol469b3Mtt4VeA.jpg",
                     "enlaces": [
@@ -6681,7 +6593,6 @@
                 },
                 {
                     "episode_id": "S01E89",
-                    "episode_number": 89,
                     "nombre": "La base de los Toros Negros",
                     "portada": "\/3VXx5JBX1GbVMwsPJIXrqQchpZL.jpg",
                     "enlaces": [
@@ -6766,7 +6677,6 @@
                 },
                 {
                     "episode_id": "S01E90",
-                    "episode_number": 90,
                     "nombre": "Una batalla mágica demente",
                     "portada": "\/5fcbB3HVnxqzWnYkqXRMxgjGXWt.jpg",
                     "enlaces": [
@@ -6844,7 +6754,6 @@
                 },
                 {
                     "episode_id": "S01E91",
-                    "episode_number": 91,
                     "nombre": "Mereoleona contra Rhya la Perfidia",
                     "portada": "\/wqrCB7mbOlOWHaSIH0DPn6u8kNG.jpg",
                     "enlaces": [
@@ -6922,7 +6831,6 @@
                 },
                 {
                     "episode_id": "S01E92",
-                    "episode_number": 92,
                     "nombre": "El Rey Mago contra el líder de Ojo de la Noche Blanca",
                     "portada": "\/e8S6xQv7CNmZTAZe4RrleXmHXl6.jpg",
                     "enlaces": [
@@ -6993,7 +6901,6 @@
                 },
                 {
                     "episode_id": "S01E93",
-                    "episode_number": 93,
                     "nombre": "Julius Novachrono",
                     "portada": "\/xklcUFWRYbRcNdcCL3KmEdus6WJ.jpg",
                     "enlaces": [
@@ -7064,7 +6971,6 @@
                 },
                 {
                     "episode_id": "S01E94",
-                    "episode_number": 94,
                     "nombre": "Un nuevo futuro",
                     "portada": "\/77KuRmcqU48mkTrgXWsCcCdYxL4.jpg",
                     "enlaces": [
@@ -7142,7 +7048,6 @@
                 },
                 {
                     "episode_id": "S01E95",
-                    "episode_number": 95,
                     "nombre": "Reencarnación",
                     "portada": "\/zc6DFHP7vKg0gpnIN8p5jx1O8cQ.jpg",
                     "enlaces": [
@@ -7213,7 +7118,6 @@
                 },
                 {
                     "episode_id": "S01E96",
-                    "episode_number": 96,
                     "nombre": "El capitán de los Toros Negros contra la Rosa Carmesí",
                     "portada": "\/7fhP1cMS3xiFLCDTVyYCu3vWYR1.jpg",
                     "enlaces": [
@@ -7291,7 +7195,6 @@
                 },
                 {
                     "episode_id": "S01E97",
-                    "episode_number": 97,
                     "nombre": "En completa desventaja",
                     "portada": "\/deKEWmFL2zzWq19gtWxKseZBDN1.jpg",
                     "enlaces": [
@@ -7362,7 +7265,6 @@
                 },
                 {
                     "episode_id": "S01E98",
-                    "episode_number": 98,
                     "nombre": "El león durmiente",
                     "portada": "\/icMR32cRWzS1DLkm0wMKPdklvLH.jpg",
                     "enlaces": [
@@ -7440,7 +7342,6 @@
                 },
                 {
                     "episode_id": "S01E99",
-                    "episode_number": 99,
                     "nombre": "Jugarse la vida para vivir",
                     "portada": "\/jwDMho8AIpscE1cq8ThVsX4H9td.jpg",
                     "enlaces": [
@@ -7511,7 +7412,6 @@
                 },
                 {
                     "episode_id": "S01E100",
-                    "episode_number": 100,
                     "nombre": "No perderé contra ti",
                     "portada": "\/jYZV70cPPrdev8dmIAqS4ttj1WR.jpg",
                     "enlaces": [
@@ -7582,7 +7482,6 @@
                 },
                 {
                     "episode_id": "S01E101",
-                    "episode_number": 101,
                     "nombre": "Las vidas de la aldea remota",
                     "portada": "\/nmxwZ4IkfzdXDtoesVO6oorsoOF.jpg",
                     "enlaces": [
@@ -7660,7 +7559,6 @@
                 },
                 {
                     "episode_id": "S01E102",
-                    "episode_number": 102,
                     "nombre": "Dos milagros",
                     "portada": "\/6RVcTPx1u8N1udkUZuNRltAwvU6.jpg",
                     "enlaces": [
@@ -7731,7 +7629,6 @@
                 },
                 {
                     "episode_id": "S01E103",
-                    "episode_number": 103,
                     "nombre": "Libre del destino",
                     "portada": "\/AdBtD5KQdIDabAhG0cAULzQyE15.jpg",
                     "enlaces": [
@@ -7788,7 +7685,6 @@
                 },
                 {
                     "episode_id": "S01E104",
-                    "episode_number": 104,
                     "nombre": "El rayo iracundo contra sus compañeros",
                     "portada": "\/mm665UsapBErlwzz33BpYPdz5wE.jpg",
                     "enlaces": [
@@ -7859,7 +7755,6 @@
                 },
                 {
                     "episode_id": "S01E105",
-                    "episode_number": 105,
                     "nombre": "Sonrisas y lágrimas",
                     "portada": "\/j5zkv8MbNhXPrzFnnt28fvPAWSN.jpg",
                     "enlaces": [
@@ -7930,7 +7825,6 @@
                 },
                 {
                     "episode_id": "S01E106",
-                    "episode_number": 106,
                     "nombre": "El camino de la venganza y el de la expiación",
                     "portada": "\/kMaFdEcxYujKYyEhtkQtofucecs.jpg",
                     "enlaces": [
@@ -8001,7 +7895,6 @@
                 },
                 {
                     "episode_id": "S01E107",
-                    "episode_number": 107,
                     "nombre": "Batalla final en el Castillo Trébol",
                     "portada": "\/7xyrmZLalMqhlakLm8qBEaWN6PX.jpg",
                     "enlaces": [
@@ -8072,7 +7965,6 @@
                 },
                 {
                     "episode_id": "S01E108",
-                    "episode_number": 108,
                     "nombre": "La bailarina del campo de batalla",
                     "portada": "\/loCKQ5Mj1LZlSCQdLXSU9OdY0LD.jpg",
                     "enlaces": [
@@ -8136,7 +8028,6 @@
                 },
                 {
                     "episode_id": "S01E109",
-                    "episode_number": 109,
                     "nombre": "Los hermanos de Magia Espacial",
                     "portada": "\/loA8H9kAmMr6guUZq5AE37U3iaL.jpg",
                     "enlaces": [
@@ -8207,7 +8098,6 @@
                 },
                 {
                     "episode_id": "S01E110",
-                    "episode_number": 110,
                     "nombre": "¡El Toro Negro Embravecido se une a la batalla!",
                     "portada": "\/l8uA3Oj2HgxvUeEKYUnNHDmQlSf.jpg",
                     "enlaces": [
@@ -8271,7 +8161,6 @@
                 },
                 {
                     "episode_id": "S01E111",
-                    "episode_number": 111,
                     "nombre": "Los ojos del espejo",
                     "portada": "\/fv4FjqLvjMTXKmiaPWqn97xbiCQ.jpg",
                     "enlaces": [
@@ -8335,7 +8224,6 @@
                 },
                 {
                     "episode_id": "S01E112",
-                    "episode_number": 112,
                     "nombre": "Humanos en quienes confiar",
                     "portada": "\/5l9Dtb32ylV0VoNhIromSo7Y9rs.jpg",
                     "enlaces": [
@@ -8399,7 +8287,6 @@
                 },
                 {
                     "episode_id": "S01E113",
-                    "episode_number": 113,
                     "nombre": "Entrando al Palacio de las Sombras",
                     "portada": "\/4L7IQoPcGqoggrkgNJumgkVNmUi.jpg",
                     "enlaces": [
@@ -8470,7 +8357,6 @@
                 },
                 {
                     "episode_id": "S01E114",
-                    "episode_number": 114,
                     "nombre": "Los últimos en entrar al castillo",
                     "portada": "\/sNQU4dHGEc8WTxDZVAf1d3WUzrL.jpg",
                     "enlaces": [
@@ -8534,7 +8420,6 @@
                 },
                 {
                     "episode_id": "S01E115",
-                    "episode_number": 115,
                     "nombre": "El cerebro",
                     "portada": "\/bnnLEqmRFS7FFJEpKwa0AbnnL9a.jpg",
                     "enlaces": [
@@ -8598,7 +8483,6 @@
                 },
                 {
                     "episode_id": "S01E116",
-                    "episode_number": 116,
                     "nombre": "El peor enemigo natural",
                     "portada": "\/68qCFuEYeF5bjKH4ukOk8noXAGt.jpg",
                     "enlaces": [
@@ -8662,7 +8546,6 @@
                 },
                 {
                     "episode_id": "S01E117",
-                    "episode_number": 117,
                     "nombre": "Es la hora de romper el sello",
                     "portada": "\/pArp92rlvtsH0ih0A80zhqY7IXP.jpg",
                     "enlaces": [
@@ -8726,7 +8609,6 @@
                 },
                 {
                     "episode_id": "S01E118",
-                    "episode_number": 118,
                     "nombre": "Reencuentro a través del tiempo",
                     "portada": "\/s8WX6jC0kV8wLtrS64FvMLTtsgr.jpg",
                     "enlaces": [
@@ -8797,7 +8679,6 @@
                 },
                 {
                     "episode_id": "S01E119",
-                    "episode_number": 119,
                     "nombre": "El golpe final",
                     "portada": "\/oE9WkCeWswjxSuBxj0O4RT5GrtP.jpg",
                     "enlaces": [
@@ -8861,7 +8742,6 @@
                 },
                 {
                     "episode_id": "S01E120",
-                    "episode_number": 120,
                     "nombre": "Amanecer",
                     "portada": "\/bnduzMHztL0iucZjvV5paVlIsSB.jpg",
                     "enlaces": [
@@ -8932,7 +8812,6 @@
                 },
                 {
                     "episode_id": "S01E121",
-                    "episode_number": 121,
                     "nombre": "Tres problemas",
                     "portada": "\/jV9HP2ojHs03X84cZYDV4OrirlY.jpg",
                     "enlaces": [
@@ -9003,7 +8882,6 @@
                 },
                 {
                     "episode_id": "S01E122",
-                    "episode_number": 122,
                     "nombre": "Negro absoluto",
                     "portada": "\/sEjpXcSix7iyKvh44D8P45Ph9B8.jpg",
                     "enlaces": [
@@ -9074,7 +8952,6 @@
                 },
                 {
                     "episode_id": "S01E123",
-                    "episode_number": 123,
                     "nombre": "Los recuerdos de Nero y… (Primera parte)",
                     "portada": "\/f6cO8OLv0AwCpmFPk9XZz5kc4db.jpg",
                     "enlaces": [
@@ -9145,7 +9022,6 @@
                 },
                 {
                     "episode_id": "S01E124",
-                    "episode_number": 124,
                     "nombre": "Los recuerdos de Nero y… (Segunda parte)",
                     "portada": "\/7HCCZixPnPmg5pTAJJVyOqTrZJ8.jpg",
                     "enlaces": [
@@ -9209,7 +9085,6 @@
                 },
                 {
                     "episode_id": "S01E125",
-                    "episode_number": 125,
                     "nombre": "Regreso a casa",
                     "portada": "\/4GlM3Ywt0mYRWTUYMEsKICBsQVT.jpg",
                     "enlaces": [
@@ -9273,7 +9148,6 @@
                 },
                 {
                     "episode_id": "S01E126",
-                    "episode_number": 126,
                     "nombre": "La confesión de la Rosa Azul",
                     "portada": "\/yQgIz0OTokG155Z2jXmWoUvp03u.jpg",
                     "enlaces": [
@@ -9337,7 +9211,6 @@
                 },
                 {
                     "episode_id": "S01E127",
-                    "episode_number": 127,
                     "nombre": "Pistas",
                     "portada": "\/f2bUcumTMBLQLxjWbKpDrpb1o46.jpg",
                     "enlaces": [
@@ -9401,7 +9274,6 @@
                 },
                 {
                     "episode_id": "S01E128",
-                    "episode_number": 128,
                     "nombre": "¡Hacia el Reino del Corazón!",
                     "portada": "\/uW3FPMxZlndqKENTtJIKSo6ikzZ.jpg",
                     "enlaces": [
@@ -9465,7 +9337,6 @@
                 },
                 {
                     "episode_id": "S01E129",
-                    "episode_number": 129,
                     "nombre": "El diablo Megicula",
                     "portada": "\/gGxgx8kLcN6Ns3W2G65SCFb2qlx.jpg",
                     "enlaces": [
@@ -9536,7 +9407,6 @@
                 },
                 {
                     "episode_id": "S01E130",
-                    "episode_number": 130,
                     "nombre": "Nueva reunión de capitanes de orden",
                     "portada": "\/f8JMOsn0AnmKZLou1tqRRbMMG9k.jpg",
                     "enlaces": [
@@ -9600,7 +9470,6 @@
                 },
                 {
                     "episode_id": "S01E131",
-                    "episode_number": 131,
                     "nombre": "Una nueva determinación",
                     "portada": "\/4BTSm1JUaz2Ly1mw4hlXYH4ryWP.jpg",
                     "enlaces": [
@@ -9664,7 +9533,6 @@
                 },
                 {
                     "episode_id": "S01E132",
-                    "episode_number": 132,
                     "nombre": "La leona despierta",
                     "portada": "\/9R7oLI05RJqZiLuwoJwpaIH7vqo.jpg",
                     "enlaces": [
@@ -9728,7 +9596,6 @@
                 },
                 {
                     "episode_id": "S01E133",
-                    "episode_number": 133,
                     "nombre": "La leona despierta (continuación)",
                     "portada": "\/E9CJOfuGRh4WHPnY7zEtfPPXJ3.jpg",
                     "enlaces": [
@@ -9792,7 +9659,6 @@
                 },
                 {
                     "episode_id": "S01E134",
-                    "episode_number": 134,
                     "nombre": "Los convocados",
                     "portada": "\/wrmRkkBlhM3WxSX00rWh2UZA0i7.jpg",
                     "enlaces": [
@@ -9863,7 +9729,6 @@
                 },
                 {
                     "episode_id": "S01E135",
-                    "episode_number": 135,
                     "nombre": "La persona en mi corazón, mi corazón, mi corazón",
                     "portada": "\/zJpLrkcGZ8kVAyZerDD9H8jJXTb.jpg",
                     "enlaces": [
@@ -9927,7 +9792,6 @@
                 },
                 {
                     "episode_id": "S01E136",
-                    "episode_number": 136,
                     "nombre": "Historia submarina oscura",
                     "portada": "\/mZyop7dvG1aRkteDZE4P4X3cC9H.jpg",
                     "enlaces": [
@@ -9998,7 +9862,6 @@
                 },
                 {
                     "episode_id": "S01E137",
-                    "episode_number": 137,
                     "nombre": "El hambre centenaria de Charmy y la soledad milenaria de Gordon",
                     "portada": "\/f8M13K7Q7lcVTiXLCbE2yfji61V.jpg",
                     "enlaces": [
@@ -10062,7 +9925,6 @@
                 },
                 {
                     "episode_id": "S01E138",
-                    "episode_number": 138,
                     "nombre": "El sucesor de Zara",
                     "portada": "\/iS3knHEdsDGN48QEL9py29gLPqW.jpg",
                     "enlaces": [
@@ -10126,7 +9988,6 @@
                 },
                 {
                     "episode_id": "S01E139",
-                    "episode_number": 139,
                     "nombre": "La bruja vuelve a casa",
                     "portada": "\/stNsLfhpE10YKNRbhNE1xVfh3m9.jpg",
                     "enlaces": [
@@ -10190,7 +10051,6 @@
                 },
                 {
                     "episode_id": "S01E140",
-                    "episode_number": 140,
                     "nombre": "La petición de Julius",
                     "portada": "\/z9a1oQ4hglBU1pH8N2lUjgr1Ca2.jpg",
                     "enlaces": [
@@ -10254,7 +10114,6 @@
                 },
                 {
                     "episode_id": "S01E141",
-                    "episode_number": 141,
                     "nombre": "La familia dorada",
                     "portada": "\/5iANyfgVlGr1Ahi3KFE4cwNxJwQ.jpg",
                     "enlaces": [
@@ -10311,7 +10170,6 @@
                 },
                 {
                     "episode_id": "S01E142",
-                    "episode_number": 142,
                     "nombre": "Los que se quedaron atrás",
                     "portada": "\/dLZGzbVfolmJTEMpA0Xq9I8Ezvt.jpg",
                     "enlaces": [
@@ -10375,7 +10233,6 @@
                 },
                 {
                     "episode_id": "S01E143",
-                    "episode_number": 143,
                     "nombre": "La balanza decantada",
                     "portada": "\/gD1ugZDbcxGXtJS26xPscQ5z4G7.jpg",
                     "enlaces": [
@@ -10432,7 +10289,6 @@
                 },
                 {
                     "episode_id": "S01E144",
-                    "episode_number": 144,
                     "nombre": "Por la extinción de los diablos",
                     "portada": "\/6Wiua7FCQEWTzEfVCO46Ut8SSW2.jpg",
                     "enlaces": [
@@ -10503,7 +10359,6 @@
                 },
                 {
                     "episode_id": "S01E145",
-                    "episode_number": 145,
                     "nombre": "Rescate",
                     "portada": "\/dSVtWc78EEwNDPzKuEYewaUWpU9.jpg",
                     "enlaces": [
@@ -10560,7 +10415,6 @@
                 },
                 {
                     "episode_id": "S01E146",
-                    "episode_number": 146,
                     "nombre": "Los que veneran a los diablos",
                     "portada": "\/p8YxGiLdJIcaaapfXTbn6g29lE8.jpg",
                     "enlaces": [
@@ -10624,7 +10478,6 @@
                 },
                 {
                     "episode_id": "S01E147",
-                    "episode_number": 147,
                     "nombre": "De vida o muerte",
                     "portada": "\/sUiSd6heNKdSvbzHGfAxqbV11yN.jpg",
                     "enlaces": [
@@ -10681,7 +10534,6 @@
                 },
                 {
                     "episode_id": "S01E148",
-                    "episode_number": 148,
                     "nombre": "La luz que ilumina la oscuridad",
                     "portada": "\/fjRYVXMY4cxKt9n51eXQ3bzfsPu.jpg",
                     "enlaces": [
@@ -10738,7 +10590,6 @@
                 },
                 {
                     "episode_id": "S01E149",
-                    "episode_number": 149,
                     "nombre": "Dos búsquedas",
                     "portada": "\/A2JuVUwzf1jikwJ9NMxv28gIenw.jpg",
                     "enlaces": [
@@ -10795,7 +10646,6 @@
                 },
                 {
                     "episode_id": "S01E150",
-                    "episode_number": 150,
                     "nombre": "El reto de las damas",
                     "portada": "\/nZrnDYDJP9MLg4vYdAFjoBY5Rw5.jpg",
                     "enlaces": [
@@ -10859,7 +10709,6 @@
                 },
                 {
                     "episode_id": "S01E151",
-                    "episode_number": 151,
                     "nombre": "¡Choque! ¡Batalla entre capitanes!",
                     "portada": "\/opY5I9TLW03gBeXu2Dta5ENMsSd.jpg",
                     "enlaces": [
@@ -10930,7 +10779,6 @@
                 },
                 {
                     "episode_id": "S01E152",
-                    "episode_number": 152,
                     "nombre": "¡Hacia el mañana!",
                     "portada": "\/vKbCWnSD9POhe3QWQM4wsz50Xdw.jpg",
                     "enlaces": [
@@ -11001,7 +10849,6 @@
                 },
                 {
                     "episode_id": "S01E153",
-                    "episode_number": 153,
                     "nombre": "Los elegidos",
                     "portada": "\/vwtlbFuicpm9Ao0oP4GUKBe1xZh.jpg",
                     "enlaces": [
@@ -11072,7 +10919,6 @@
                 },
                 {
                     "episode_id": "S01E154",
-                    "episode_number": 154,
                     "nombre": "El vicecapitán Langris Vaude",
                     "portada": "\/iVGVjSGocFtSceWy3fXgQ4X8A8E.jpg",
                     "enlaces": [
@@ -11143,7 +10989,6 @@
                 },
                 {
                     "episode_id": "S01E155",
-                    "episode_number": 155,
                     "nombre": "Los cinco Espíritus Guardianes",
                     "portada": "\/hpMz7qepTm6ilWvEfyXyVVKxpSt.jpg",
                     "enlaces": [
@@ -11221,7 +11066,6 @@
                 },
                 {
                     "episode_id": "S01E156",
-                    "episode_number": 156,
                     "nombre": "El poder despierta",
                     "portada": "\/qaSFZ0XqwQUZpagVwXGGvNPRV3M.jpg",
                     "enlaces": [
@@ -11292,7 +11136,6 @@
                 },
                 {
                     "episode_id": "S01E157",
-                    "episode_number": 157,
                     "nombre": "Trébol de cinco hojas",
                     "portada": "\/yJYbPhc2i4aMECGTEiQmxylb7xd.jpg",
                     "enlaces": [
@@ -11356,7 +11199,6 @@
                 },
                 {
                     "episode_id": "S01E158",
-                    "episode_number": 158,
                     "nombre": "Se abre el telón de esperanza y desesperación",
                     "portada": "\/7nNYcOMham20GI01Y0BsRllN49X.jpg",
                     "enlaces": [
@@ -11434,7 +11276,6 @@
                 },
                 {
                     "episode_id": "S01E159",
-                    "episode_number": 159,
                     "nombre": "Un lago tranquilo y la sombra del bosque",
                     "portada": "\/oIm40cgTNGzPT5pNJRQbnKBc6gq.jpg",
                     "enlaces": [
@@ -11505,7 +11346,6 @@
                 },
                 {
                     "episode_id": "S01E160",
-                    "episode_number": 160,
                     "nombre": "El mensajero del Reino de la Pica",
                     "portada": "\/8k592OBIXuWCaoXs9W2cSMF8jmU.jpg",
                     "enlaces": [
@@ -11583,7 +11423,6 @@
                 },
                 {
                     "episode_id": "S01E161",
-                    "episode_number": 161,
                     "nombre": "El poder de Zenon",
                     "portada": "\/gUqHBLy1VEVqIvi6028CcteW9Hk.jpg",
                     "enlaces": [
@@ -11661,7 +11500,6 @@
                 },
                 {
                     "episode_id": "S01E162",
-                    "episode_number": 162,
                     "nombre": "Estalla una gran batalla",
                     "portada": "\/eY8LuM46YCOqokARAx5qPfQPW6f.jpg",
                     "enlaces": [
@@ -11739,7 +11577,6 @@
                 },
                 {
                     "episode_id": "S01E163",
-                    "episode_number": 163,
                     "nombre": "Dante contra el capitán de los Toros Negros",
                     "portada": "\/6ANoBurvklREeTprTZpQguEULV6.jpg",
                     "enlaces": [
@@ -11803,7 +11640,6 @@
                 },
                 {
                     "episode_id": "S01E164",
-                    "episode_number": 164,
                     "nombre": "Batalla en el Reino del Corazón",
                     "portada": "\/eQiaPuUuw1MmTN1qJvU6YfVh1DW.jpg",
                     "enlaces": [
@@ -11867,7 +11703,6 @@
                 },
                 {
                     "episode_id": "S01E165",
-                    "episode_number": 165,
                     "nombre": "Cruzada de agua",
                     "portada": "\/c9wA9WZpGunkrnfbtCkufKPLVd7.jpg",
                     "enlaces": [
@@ -11898,403 +11733,6 @@
                             "type": "streaming",
                             "language": "Sub",
                             "quality": ""
-                        },
-                        {
-                            "nombre": "Playmogo",
-                            "url": "https:\/\/playmogo.com\/e\/zbslymtsf5uo7",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Mp4upload",
-                            "url": "https:\/\/www.mp4upload.com\/embed-yx7bjarxvl2e.html",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "LuluStream",
-                            "url": "https:\/\/lulustream.com\/e\/aejn4xps03do",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Uqload",
-                            "url": "https:\/\/uqload.io\/embed-98b8ha7nh91m.html",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Vidhide",
-                            "url": "https:\/\/callistanise.com\/v\/oeqtgee16759",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        }
-                    ]
-                },
-                {
-                    "episode_id": "S01E166",
-                    "episode_number": 166,
-                    "nombre": "El capitán Yami Sukehiro",
-                    "portada": "\/5uaf2gPmaKRrUcdZs03fbk07BmT.jpg",
-                    "enlaces": [
-                        {
-                            "nombre": "Jkanime",
-                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=K1lPOWZHVThtekY3NkFKUU5uY2Q0T0ZCYnAzUHZNZHo5S2w2VVdUN01NdVFoa3ovNzhKYnJqL29jc2IrdDRHNzo6EL6zS2fW8.oPA2w7co2R7w--&t=df97b6dc27449b13dd32c11daa478177&op=NDQ4NTA=",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Jkanime",
-                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=VDM5bFVLQ2cyajZYQ2FYUWQyQTlHUW1QcVRySnlVeUhsZDhmWlpiS2kya2ZEbXZQWTd2Z2I5c0c5dzJEM1BUdzo60bAmPgai.n9fqHtwsn8ffQ--&t=df97b6dc27449b13dd32c11daa478177",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Streamwish",
-                            "url": "https:\/\/hglamioz.com\/e\/2nfgvwkv3c8l",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Playmogo",
-                            "url": "https:\/\/playmogo.com\/e\/2tm76rpjttsa7",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Mp4upload",
-                            "url": "https:\/\/www.mp4upload.com\/embed-7xfx9k0zppjo.html",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Uqload",
-                            "url": "https:\/\/uqload.io\/embed-qrgni39tg5os.html",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "LuluStream",
-                            "url": "https:\/\/lulustream.com\/e\/da0pti4qaw9q",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Vidhide",
-                            "url": "https:\/\/callistanise.com\/v\/me76qqh8cn8w",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        }
-                    ]
-                },
-                {
-                    "episode_id": "S01E167",
-                    "episode_number": 167,
-                    "nombre": "Juramento Negro",
-                    "portada": "\/k1S7G5hJjQpbes99ZwjcBXyQtBY.jpg",
-                    "enlaces": [
-                        {
-                            "nombre": "Jkanime",
-                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=WUpXaHJnZDJnbFpXY09HZXQ1MjAwQzl0eWVtU2FFN0N0aWU5YWxOZHJ6b2srOVlzb0ZBRi9qUkEwbmtQbFhjdTo6Gk1EeYM_c4Tk4C5SJqep3Q--&t=9a4f82e5701102ac04970b46f099044f&op=NDQ5MTY=",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Jkanime",
-                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=S1RpbWV0WjU4MW94cVR4QUdXb0pKVHpDTS9LT2NJL3RVSzVYdm4zNlQvUkI0ZmVxWCtQODNRZ09VUWxBblRaNTo6VtWXKaixGfnoKlaKRJdsyg--&t=9a4f82e5701102ac04970b46f099044f",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Streamwish",
-                            "url": "https:\/\/hglamioz.com\/e\/gk1dfuagboqm",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Playmogo",
-                            "url": "https:\/\/playmogo.com\/e\/8og1zeyomt127",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Mp4upload",
-                            "url": "https:\/\/www.mp4upload.com\/embed-3uuxp3k9rpg1.html",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Uqload",
-                            "url": "https:\/\/uqload.io\/embed-uhbge6og9y8j.html",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "LuluStream",
-                            "url": "https:\/\/lulustream.com\/e\/5grcdp17nd83",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Vidhide",
-                            "url": "https:\/\/callistanise.com\/v\/nnv72245pi8p",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        }
-                    ]
-                },
-                {
-                    "episode_id": "S01E168",
-                    "episode_number": 168,
-                    "nombre": "Movimientos superiores",
-                    "portada": "\/kgabVYAX1KvaMV9Hy0N0Wp6cn0c.jpg",
-                    "enlaces": [
-                        {
-                            "nombre": "Jkanime",
-                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=Z3A2UWpKL3FqcXoybkFFdER0NXNUemNBM2gxMkd0UDVsVnRLUUQ5OWJUelhsTjhYSFowYmFaemZUMlBzbnRXODo6b3BTOJe4K49_MrdPWFrE0g--&t=70699f79c6aeddeb2d322d7074c2f366&op=NDQ5ODc=",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Jkanime",
-                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=b01pWm1vMXhwR2piNkpHZE1peDJHWFBJdjI1WkpRVGtXdjU4RHVVVlRNUklsWVBSdnl1RVBjbXcrbUJsTFJHcDo63TFrAVow0E_kEcRdbtf89g--&t=70699f79c6aeddeb2d322d7074c2f366",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Mp4upload",
-                            "url": "https:\/\/www.mp4upload.com\/embed-egdyxfxonpfm.html",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Streamwish",
-                            "url": "https:\/\/hglamioz.com\/e\/46wzamjmout4",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Playmogo",
-                            "url": "https:\/\/playmogo.com\/e\/obhzeoscve1x7",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Mp4upload",
-                            "url": "https:\/\/www.mp4upload.com\/embed-a7z3c2r10gyn.html",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Playmogo",
-                            "url": "https:\/\/playmogo.com\/e\/0hclequ78mhw",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Uqload",
-                            "url": "https:\/\/uqload.io\/embed-59iz7x8h70a6.html",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "LuluStream",
-                            "url": "https:\/\/lulustream.com\/e\/v7urd1hm5jk7",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Vidhide",
-                            "url": "https:\/\/callistanise.com\/v\/dyh9k93cz7f4",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        }
-                    ]
-                },
-                {
-                    "episode_id": "S01E169",
-                    "episode_number": 169,
-                    "nombre": "Ritual de obediencia",
-                    "portada": "\/dhjRfk9fFPaHREMHQzoVfRXP1JL.jpg",
-                    "enlaces": [
-                        {
-                            "nombre": "Jkanime",
-                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=VmRqYThXalh4aGozMW9Ed0JMZnBDcVR0byt0ZkpkVHhmeUg4K2J6bmRNV0NGSUlhN1BNN0RET3FjaEhmZjgxcjo6ZfnlnBL_04JZ3yccvdmuAQ--&t=3bab61d4e908e8a49692fe017c65ec9b&op=NDUwNTM=",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Jkanime",
-                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=UzcvZEFPTmg4NmdPN3U2VmRwb3pKc3FKbk05eEJ6TlV0WmJ3bzJzMytpa0pCMXNveVJRRSt5b2lOWTJKczJuSDo6FSqscCJGtutwkUxth4xg4w--&t=3bab61d4e908e8a49692fe017c65ec9b",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Mp4upload",
-                            "url": "https:\/\/www.mp4upload.com\/embed-9oo4lc217qk5.html",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Streamwish",
-                            "url": "https:\/\/hglamioz.com\/e\/le2jas7h0ltr",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Playmogo",
-                            "url": "https:\/\/playmogo.com\/e\/hp37zrsv5bqx7",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Mp4upload",
-                            "url": "https:\/\/www.mp4upload.com\/embed-mza0fz227ed0.html",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Playmogo",
-                            "url": "https:\/\/playmogo.com\/e\/ni2mgfjauk6h",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "LuluStream",
-                            "url": "https:\/\/lulustream.com\/e\/p68x1bcnhf0f",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Uqload",
-                            "url": "https:\/\/uqload.io\/embed-grpf1goqlfyx.html",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Vidhide",
-                            "url": "https:\/\/callistanise.com\/v\/g4tdwp44zmtg",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        }
-                    ]
-                },
-                {
-                    "episode_id": "S01E170",
-                    "episode_number": 170,
-                    "nombre": "El futuro distante",
-                    "portada": "\/ceVorBj8hp6RFF8ez3fcFEVgwr5.jpg",
-                    "enlaces": [
-                        {
-                            "nombre": "Jkanime",
-                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=TWpSMUZUdHZ6SzdrNDA2RWxLY1NHK1RrbTFlckFQc3RoUVRveHYrNXFoMjR6cWRGM25vWXlST1JieXE1Z3RNQTo6chxYYWZ3QFIodrgpgaskIA--&t=8633ed0606d56f587bc45831882dd583&op=NDUxMTc=",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Jkanime",
-                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=Yzlza1N1LzJQTWZlR2V1bEVZazgydlk2a0ZIMEZscFFoekxGR3I2NTEyS3FiNnJYd2c4Rlg1cE5NV05IYnlSTjo6lwEsnA6jraHJ4UbhKBxJNA--&t=8633ed0606d56f587bc45831882dd583",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Mp4upload",
-                            "url": "https:\/\/www.mp4upload.com\/embed-pg7dn33q2qh7.html",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Streamwish",
-                            "url": "https:\/\/hglamioz.com\/e\/5gf2aroicdae",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Playmogo",
-                            "url": "https:\/\/playmogo.com\/e\/5ynac92bzjwv7",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Mp4upload",
-                            "url": "https:\/\/www.mp4upload.com\/embed-tz8xrdgps291.html",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Playmogo",
-                            "url": "https:\/\/playmogo.com\/e\/xlna8ivsz56m",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "LuluStream",
-                            "url": "https:\/\/lulustream.com\/e\/rfeg5dbj1s2d",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Uqload",
-                            "url": "https:\/\/uqload.io\/embed-ze33faop8a6i.html",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Vidhide",
-                            "url": "https:\/\/callistanise.com\/v\/49f89kjdt3k3",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
                         }
                     ]
                 }
@@ -12303,5 +11741,6 @@
     ],
     "added_date": "2026-08-29 12:15:02",
     "created_at": "2026-08-29 12:15:02",
-    "updated_at": "2026-08-29 12:15:02"
+    "updated_at": "2026-10-08 03:04:25",
+    "update_states": "No actualizado"
 }
