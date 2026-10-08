@@ -1,0 +1,115 @@
+{
+    "id": "1791431590104",
+    "tmdb_id": "283938",
+    "titulo": "Seitokai ni mo Ana wa Aru!",
+    "original_name": "生徒会にも穴はある!",
+    "imagen": "\/n7C1Y1GnZ23IKVblNwiYVrymA4N.jpg",
+    "backdrop_path": "\/kuYMjcQ6BeLTBYUR1l1T8W8ZMcf.jpg",
+    "type": "anime",
+    "year": "2026",
+    "etiquetas": [
+        "Animación",
+        "Comedia"
+    ],
+    "temporadas_count": 1,
+    "episodios": 1,
+    "status": "Returning Series",
+    "rate": 9.5,
+    "sinopsis": "En la Academia Fujinasu, Ume Mizunoe se une al consejo estudiantil para evitar repetir curso, pero descubre que sus miembros son un grupo bastante peculiar.",
+    "cast": [
+        {
+            "name": "Shogo Sakata",
+            "character": "Mizunoe Ume (voice)",
+            "profile_path": "\/fRRPNBz3OCNRdmLdUTdpq7dGqxM.jpg"
+        },
+        {
+            "name": "Haruka Shiraishi",
+            "character": "Hisako Kotobuki (voice)",
+            "profile_path": "\/hrQxTVNGLi3jXC7v4kETArpA0dV.jpg"
+        },
+        {
+            "name": "Miyu Tomita",
+            "character": "Komaro Michinoku (voice)",
+            "profile_path": "\/rSR17l4HdchLkhpRuAZbGbXNmUS.jpg"
+        },
+        {
+            "name": "Hiyori Kouno",
+            "character": "Tan Otori (voice)",
+            "profile_path": "\/dZY0ndE9AowOlxPBnGu92ZwEPRm.jpg"
+        },
+        {
+            "name": "Shizuka Ishigami",
+            "character": "Arisu Terui (voice)",
+            "profile_path": "\/kXTYBI7skkVSjQ4eg49iEGblt3f.jpg"
+        },
+        {
+            "name": "Yumi Uchiyama",
+            "character": "Satomi Hiratsuka (voice)",
+            "profile_path": "\/JvavoF3YOLCf4LHfl4XvYobANE.jpg"
+        }
+    ],
+    "first_air_date": "2026-10-04",
+    "last_air_date": "2026-10-04",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/beOFjsIivKbRZvdLL9PrFMOM5WG.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "\/8mwGjt5COkuTWPvu307HxNYRe1E.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=UTFQR2VMeCsxV1A1SVBzZFZ5ZEFsY2dhSXVQNnp1R3B2ZDIyVHBWS3B2RnlDeGttY2RmU3lqM1B2UHZOamt5ZTNqTVBYYTlTTUJ5clZyNzZRTVZsTk9DaWxta0hpMFNlckl3dTZHMlNmcFE9Ojo5UDQxpwVasKl_b7P1O1Zt&t=5870475ff796f4458bced16b49ca174c&op=NzgzODM=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=cGNKZm5Hb3JRcm96UEZ3MkNTQndENGtzbFVhNXdEVjVzU1FRVVF3Q21BOFZEZmdmdDJFNTBxNlhzaFV4a1EwOFVKVDNJR3RXOWczQkowLzlrOFhKRU5OdFVVRGhJVXh5ZCtmOTVsU091WUk9Ojp6gZHVuGHUVexh4lra43bn&t=5870475ff796f4458bced16b49ca174c",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-e19ahztjvmok.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-5dhdd3bcqtza.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/5pkwd08mi3ro",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/u3J4866o8kdb",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-10-07 23:53:10",
+    "created_at": "2026-10-07 23:53:10",
+    "updated_at": "2026-10-07 23:53:10"
+}
