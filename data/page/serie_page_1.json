@@ -1,5 +1,25 @@
 [
     {
+        "id": "1791431821600",
+        "tmdb_id": "337277",
+        "titulo": "Mahou Shoujo Ikusei Keikaku: Restart",
+        "imagen": "/s7WJ5gQSLwk5vVxwhzJDx94mMf6.jpg",
+        "type": "anime",
+        "year": "2026",
+        "etiquetas": [
+            "Animación",
+            "Drama"
+        ],
+        "rate": 0,
+        "added_date": "2026-10-07 23:57:01",
+        "created_at": "2026-10-07 23:57:01",
+        "updated_at": "2026-10-07 23:57:02",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 1,
+        "status": "Returning Series"
+    },
+    {
         "id": "1791431796295",
         "tmdb_id": "329096",
         "titulo": "Kanata kara",
