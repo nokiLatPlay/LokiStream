@@ -10,7 +10,9 @@
     "etiquetas": [
         "Suspense"
     ],
-    "calidad": [],
+    "calidad": [
+        "720p"
+    ],
     "rate": 6.29999999999999982236431605997495353221893310546875,
     "sinopsis": "Tras la muerte de su intrépida hermana Shiloh, Jax emprende una peligrosa escalada con una vieja amiga para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, en Tailandia, un aterrador desprendimiento de rocas las deja varadas a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrentarse a sus miedos más profundos para luchar por la supervivencia.",
     "cast": [
@@ -90,25 +92,42 @@
             "profile_path": ""
         }
     ],
+    "first_air_date": null,
+    "last_air_date": null,
     "status": "Released",
     "runtime": 98,
     "enlaces": [
         {
             "nombre": "Streamwish",
-            "url": "https:\/\/hglamioz.com\/e\/ds19mizbx7hn",
+            "url": "https:\/\/hglamioz.com\/e\/202ii21mc444",
             "type": "streaming",
             "language": "Sub",
-            "quality": "CAM"
+            "quality": "720p"
         },
         {
             "nombre": "Vidhide",
-            "url": "https:\/\/callistanise.com\/v\/yo9k0qsn51ro",
+            "url": "https:\/\/callistanise.com\/v\/bnhl761droaf",
             "type": "streaming",
             "language": "Sub",
-            "quality": "CAM"
+            "quality": "720p"
+        },
+        {
+            "nombre": "Streamwish",
+            "url": "https:\/\/hglamioz.com\/e\/4xzuokmbw7ry",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "720p"
+        },
+        {
+            "nombre": "Vidhide",
+            "url": "https:\/\/callistanise.com\/v\/kmmglffyc9bx",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "720p"
         }
     ],
     "added_date": "2026-09-25 03:32:59",
     "created_at": "2026-09-25 03:32:59",
-    "updated_at": "2026-09-25 03:32:59"
+    "updated_at": "2026-10-08 00:16:34",
+    "update_states": "No actualizado"
 }
