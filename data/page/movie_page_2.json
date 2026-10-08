@@ -1,5 +1,25 @@
 [
     {
+        "id": "1791432636251",
+        "tmdb_id": "969681",
+        "titulo": "Spider-Man: Brand New Day",
+        "imagen": "/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Ciencia ficción",
+            "Acción",
+            "Aventura"
+        ],
+        "rate": 8.199999999999999289457264239899814128875732421875,
+        "added_date": "2026-10-08 00:10:36",
+        "created_at": "2026-10-08 00:10:36",
+        "updated_at": "2026-10-08 00:10:38",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1791182445886",
         "tmdb_id": "1406657",
         "titulo": "Scarlet",
