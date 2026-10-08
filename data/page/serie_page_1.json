@@ -1,5 +1,24 @@
 [
     {
+        "id": "1791431386832",
+        "tmdb_id": "285797",
+        "titulo": "Koupen-chan",
+        "imagen": "/3nm8laFJMcJ4QsGfqWmJtuVStLr.jpg",
+        "type": "anime",
+        "year": "2025",
+        "etiquetas": [
+            "Animación"
+        ],
+        "rate": 8,
+        "added_date": "2026-10-07 23:49:46",
+        "created_at": "2026-10-07 23:49:46",
+        "updated_at": "2026-10-07 23:49:48",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 24,
+        "status": "Returning Series"
+    },
+    {
         "id": "1791430930987",
         "tmdb_id": "306721",
         "titulo": "Star Detective Precure!",
