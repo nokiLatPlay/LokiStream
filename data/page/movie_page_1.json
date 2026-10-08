@@ -1,5 +1,25 @@
 [
     {
+        "id": "1790321579966",
+        "tmdb_id": "1101412",
+        "titulo": "Vértigo 2: Punto muerto",
+        "imagen": "/7ODJFeX9gp4QfK6aFItw4CCrPfr.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Suspense"
+        ],
+        "calidad": [
+            "720p"
+        ],
+        "rate": 6.29999999999999982236431605997495353221893310546875,
+        "status": "Released",
+        "added_date": "2026-09-25 03:32:59",
+        "created_at": "2026-09-25 03:32:59",
+        "updated_at": "2026-10-08 00:16:36",
+        "update_states": "No actualizado"
+    },
+    {
         "id": "1790325154632",
         "tmdb_id": "1317288",
         "titulo": "Marty Supremo",
@@ -997,24 +1017,6 @@
         "added_date": "2026-09-25 03:55:14",
         "created_at": "2026-09-25 03:55:14",
         "updated_at": "2026-09-25 03:55:16",
-        "update_states": "No actualizado",
-        "calidad": [],
-        "status": "Released"
-    },
-    {
-        "id": "1790321579966",
-        "tmdb_id": "1101412",
-        "titulo": "Vértigo 2: Punto muerto",
-        "imagen": "/7ODJFeX9gp4QfK6aFItw4CCrPfr.jpg",
-        "type": "movie",
-        "year": "2026",
-        "etiquetas": [
-            "Suspense"
-        ],
-        "rate": 6.29999999999999982236431605997495353221893310546875,
-        "added_date": "2026-09-25 03:32:59",
-        "created_at": "2026-09-25 03:32:59",
-        "updated_at": "2026-09-25 03:32:59",
         "update_states": "No actualizado",
         "calidad": [],
         "status": "Released"
