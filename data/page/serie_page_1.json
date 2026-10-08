@@ -1,5 +1,26 @@
 [
     {
+        "id": "1791454458308",
+        "tmdb_id": "60862",
+        "titulo": "Jojo's Bizarre Adventure",
+        "imagen": "/thyLlWU5CyenrPxKunztZFwfZE1.jpg",
+        "type": "anime",
+        "year": "1993",
+        "etiquetas": [
+            "Animación",
+            "Action & Adventure",
+            "Sci-Fi & Fantasy"
+        ],
+        "rate": 7,
+        "added_date": "2026-10-08 06:14:18",
+        "created_at": "2026-10-08 06:14:18",
+        "updated_at": "2026-10-08 06:14:21",
+        "update_states": "No actualizado",
+        "temporadas": 2,
+        "episodios": 13,
+        "status": "Ended"
+    },
+    {
         "id": "1788020102653",
         "tmdb_id": "73223",
         "titulo": "Black Clover",
