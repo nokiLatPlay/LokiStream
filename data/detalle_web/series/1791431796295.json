@@ -1,0 +1,126 @@
+{
+    "id": "1791431796295",
+    "tmdb_id": "329096",
+    "titulo": "Kanata kara",
+    "original_name": "彼方から",
+    "imagen": "\/rHI61poyqC6GF0HRurV6Hq12K81.jpg",
+    "backdrop_path": "\/inwM4LXqXYYauU1eJkfJ6uDkV11.jpg",
+    "type": "anime",
+    "year": "2026",
+    "etiquetas": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+    ],
+    "temporadas_count": 1,
+    "episodios": 1,
+    "status": "Returning Series",
+    "rate": 0,
+    "sinopsis": "Un día, de camino a casa después de la escuela, Noriko se ve inmersa inesperadamente en un extraño y extraordinario mundo de fantasía. Sus problemas se multiplican exponencialmente cuando un apuesto joven llamado Izark la rescata y entabla amistad con ella. Aunque valiente y audaz, en su interior acecha la maldad más oscura imaginable. Y según una antigua profecía, Noriko posee el poder de desatar ese mal. Ahora, unidos inexorablemente, estos dos improbables aliados deberán navegar por un mundo a la vez maravilloso y hostil.",
+    "cast": [
+        {
+            "name": "Tomoyo Kurosawa",
+            "character": "Noriko Tachiki (voice)",
+            "profile_path": "\/eSRnva88YVcUXlDHdVrhier2SGU.jpg"
+        },
+        {
+            "name": "Kentaro Kumagai",
+            "character": "Izark Kia Tarj (voice)",
+            "profile_path": "\/hsSdTc4PBuLOQedZMsTS6AHvC8l.jpg"
+        },
+        {
+            "name": "Yuuichirou Umehara",
+            "character": "Rachef (voice)",
+            "profile_path": "\/lScrvZi4tKKpk3PbnIjLVjHVNJn.jpg"
+        },
+        {
+            "name": "Eiji Takeuchi",
+            "character": "Keimos Lee Goda (voice)",
+            "profile_path": "\/1qMbZGM7i9oEiHQvInY14UNZ2gk.jpg"
+        },
+        {
+            "name": "Kimiko Saito",
+            "character": "Gaya (voice)",
+            "profile_path": "\/rPP0jCjtLuEEroY3e2aRT8zonYK.jpg"
+        },
+        {
+            "name": "Tadashi Miyazawa",
+            "character": "Gorya (voice)",
+            "profile_path": "\/oTKVqD3r6j4d264ifrxoH1ibxDb.jpg"
+        },
+        {
+            "name": "Taisuke Nakano",
+            "character": "Agol (voice)",
+            "profile_path": "\/zBNyZKcQzNO59Z66LK9e2AKSLWl.jpg"
+        },
+        {
+            "name": "Miku Ito",
+            "character": "Gina Haas (voice)",
+            "profile_path": "\/q2y0SbBKNeVLf5obxixFmmiM4hQ.jpg"
+        }
+    ],
+    "first_air_date": "2026-10-05",
+    "last_air_date": "2026-10-05",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/rHI61poyqC6GF0HRurV6Hq12K81.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "El Despertar",
+                    "portada": "\/m0bSJx1Xy8BD3lO2DZMLOUM5Pch.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=aUNRYldtd096QmRSRmxXditMUjRyRU9UWTdsRjFYdmxncll5aWJCTXFIWERsUzRPRGEyNmRUK0Z1UjFGVHJLaDNHdW9SRHVDZHRoM0lCS2tyVm4zYVZZV0gvQ0xJaWtDWWNHTXJCU0ZUdzQ9OjoiMf_BbUExJ2mcu5kf22yy&t=e203687392cd8e7854e7acdbf262e808&op=NzgzOTU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=VFh1c0l0SlFaQ3poRndQdFNIbjJqV1FIV3NSL1Ivc3dqcUd1cDVWcStPMFI2VXFDZzNiUFhGcTZTOUVxTWFiNi8zanFha2dWYmkrUVVzT05Lb2lPcVN0M0hWZ3hmLzVBU29SajFSUTBydVk9OjoSboWL.Ba6x8vSSJqg9HbC&t=e203687392cd8e7854e7acdbf262e808",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-rpi7h46osa58.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-nfq8w3ui8xur.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ye0zyaq2985g",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/bU2S87AXa2IJ",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-10-07 23:56:36",
+    "created_at": "2026-10-07 23:56:36",
+    "updated_at": "2026-10-07 23:56:36"
+}
