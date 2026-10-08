@@ -1,5 +1,26 @@
 [
     {
+        "id": "1791431736480",
+        "tmdb_id": "297903",
+        "titulo": "Psyren",
+        "imagen": "/EQNjH4oeCm9pD58fi2s4WZyjgA.jpg",
+        "type": "anime",
+        "year": "2026",
+        "etiquetas": [
+            "Action & Adventure",
+            "Sci-Fi & Fantasy",
+            "Animación"
+        ],
+        "rate": 0,
+        "added_date": "2026-10-07 23:55:36",
+        "created_at": "2026-10-07 23:55:36",
+        "updated_at": "2026-10-07 23:55:37",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 1,
+        "status": "Returning Series"
+    },
+    {
         "id": "1791431698443",
         "tmdb_id": "330505",
         "titulo": "Uncle's Obsession with Cute Things",
