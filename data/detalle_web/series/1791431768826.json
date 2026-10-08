@@ -1,0 +1,106 @@
+{
+    "id": "1791431768826",
+    "tmdb_id": "313068",
+    "titulo": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
+    "original_name": "どうも、好きな人に惚れ薬を依頼された魔女です。",
+    "imagen": "\/7VjZRZD5sHjsIaoNiUiXzO0qC10.jpg",
+    "backdrop_path": "\/hEE9n9tZAjoT3eE5lL4MhZZ2DbB.jpg",
+    "type": "anime",
+    "year": "2026",
+    "etiquetas": [
+        "Animación",
+        "Comedia",
+        "Sci-Fi & Fantasy"
+    ],
+    "temporadas_count": 1,
+    "episodios": 1,
+    "status": "Returning Series",
+    "rate": 6,
+    "sinopsis": "“Hazme una poción de amor”.\n\nY con esa sola frase, el amor secreto de la Bruja Buena del Lago por el apuesto Sir Harij termina en un corazón roto. Aun así, cuando él promete ayudarla a reunir los ingredientes, Rose se siente emocionada por la oportunidad de contemplar a un hombre con el que normalmente nunca tendría la oportunidad de interactuar. Ella aprende a preparar su acelerado corazón para sus habituales y forzadas conversaciones... pero, ¿qué debe hacer cuando él se presenta inexplicablemente en su puerta con pan y un frasco de mantequilla de manzana?",
+    "cast": [
+        {
+            "name": "Mikako Komatsu",
+            "character": "Rose (Voice)",
+            "profile_path": "\/13tQEZ1tLdOmi7oGoRJ4xep1ODQ.jpg"
+        },
+        {
+            "name": "Yohei Azakami",
+            "character": "Harij Azm (Voice)",
+            "profile_path": "\/rLIqw8pIjVIxPb5engrTbu9iOex.jpg"
+        },
+        {
+            "name": "Hiro Shimono",
+            "character": "Tien (voice)",
+            "profile_path": "\/yrSDcgFefHtWkFmLnTrcw2t0MV.jpg"
+        },
+        {
+            "name": "Akira Sekine",
+            "character": "Villaura (voice)",
+            "profile_path": "\/czYoPzAEK1gI7RxRiPyDSFYRm5x.jpg"
+        }
+    ],
+    "first_air_date": "2026-10-05",
+    "last_air_date": "2026-10-05",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/7VjZRZD5sHjsIaoNiUiXzO0qC10.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Episode 1",
+                    "portada": "\/iVMn0wKWjLWzCYz5mlt6Oxy54HW.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=ZUxUZ2lHMlN0OVR1akxoL1g1UnUzeHUvczJkWWtrRzZ0bld6bGhzdm1lREsvaE1zdU00cjNrN2VIYWYzVzZRUjM2TTdRSXNOQU91dW1nb1ljU0p3SW1BZDdVZmppL2phNWpSMkFFUjUwVUI3VGpRN3dVQUVmYXYxaTB4YzR5OFk6OltvHEX430XgFxoVbR7TRyY-&t=577c0721649fb2dec8ca97bb9d9cc00d&op=Nzg0MDY=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=ODgrRDk3dHhDakx5L1o4V1MxWU1aVG9EN3Zyc3ozMXlLNkNubngrMXpZTWU5ZXZHeC9JZFRRREZpMTh6amhVNkdMNUloR0J3ZFlJcHg1L0NFRHlCOXBHZUlxTnFJcHhyeE8zaW9ZUXBueThZTlZJOVRwSTF2aEdqbXlYNStKdEQ6OkhFcRdH0bqmhuyT8TueJkA-&t=577c0721649fb2dec8ca97bb9d9cc00d",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-79e546he0tq9.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-2uvs9y8y84sw.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/gvcjgfef8enp",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/xK8XVmyXlifX",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-10-07 23:56:08",
+    "created_at": "2026-10-07 23:56:08",
+    "updated_at": "2026-10-07 23:56:08"
+}
