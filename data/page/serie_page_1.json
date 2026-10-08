@@ -1,5 +1,28 @@
 [
     {
+        "id": "1791430930987",
+        "tmdb_id": "306721",
+        "titulo": "Star Detective Precure!",
+        "imagen": "/zuPQ9R5x17EM6xEA37TLRkL2BGD.jpg",
+        "type": "anime",
+        "year": "2026",
+        "etiquetas": [
+            "Animación",
+            "Kids",
+            "Action & Adventure",
+            "Comedia",
+            "Sci-Fi & Fantasy"
+        ],
+        "rate": 7.29999999999999982236431605997495353221893310546875,
+        "added_date": "2026-10-07 23:42:10",
+        "created_at": "2026-10-07 23:42:10",
+        "updated_at": "2026-10-07 23:42:12",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 24,
+        "status": "Returning Series"
+    },
+    {
         "id": "1791430871996",
         "tmdb_id": "299144",
         "titulo": "Rilakkuma",
