@@ -1,0 +1,443 @@
+{
+    "id": "1791454458308",
+    "tmdb_id": "60862",
+    "titulo": "Jojo's Bizarre Adventure",
+    "original_name": "ジョジョの奇妙な冒険",
+    "imagen": "\/thyLlWU5CyenrPxKunztZFwfZE1.jpg",
+    "backdrop_path": "\/2AskfZCVSh2cEbvURPgSG2VD8q5.jpg",
+    "type": "anime",
+    "year": "1993",
+    "etiquetas": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+    ],
+    "temporadas_count": 2,
+    "episodios": 13,
+    "status": "Ended",
+    "rate": 7,
+    "sinopsis": "Jojo's Bizarre Adventure es un anime de acción, horror y aventuras, que narra la historia de la familia Joestar. Una familia que lucha contra enemigos de todo tipo, incluyendo sobrenaturales.",
+    "cast": [
+        {
+            "name": "Jurota Kosugi",
+            "character": "Jotaro Kujo (voice)",
+            "profile_path": "\/em3Zh1IzkTDSdaoGBVLx89u6GuI.jpg"
+        },
+        {
+            "name": "Hirotaka Suzuoki",
+            "character": "Noriaki Kakyoin (voice)",
+            "profile_path": "\/pgFcxD6dazHWy3KFobU6gDz0iCJ.jpg"
+        },
+        {
+            "name": "Chikao Ohtsuka",
+            "character": "Joseph Joestar (voice)",
+            "profile_path": "\/j3UBKXO0c1lJaEx0SUbxlvSZCsI.jpg"
+        },
+        {
+            "name": "Katsuji Mori",
+            "character": "Jean Pierre Polnareff (voice)",
+            "profile_path": "\/7HMCnhwbBPNEut2s2VziMVBWXuL.jpg"
+        },
+        {
+            "name": "Kiyoshi Kobayashi",
+            "character": "Mohammed Abdul (voice)",
+            "profile_path": "\/xuaKE1xvHHU4gq2bYVlPQ4rEwQV.jpg"
+        },
+        {
+            "name": "田中信夫",
+            "character": "Dio (voice)",
+            "profile_path": "\/93N7P2Yo2tqE69LSCdz00kG9Fhc.jpg"
+        }
+    ],
+    "first_air_date": "1993-11-19",
+    "last_air_date": "2002-01-25",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/iZvq933T1FqO10FT6yDhuYCrZgD.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Espíritu maligno",
+                    "portada": "\/vzIjMX72xHns6NQT67obhqULVA6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=WDBYVHBhRmlIaXZPNXNSdjVpLzFvY2ZzbGZyS1NzYUR0STZDYklQZlI2VXowaklMYXpWYXJSSlZPUm1MdndlMHhMWTFYV3RhMWNjMWJUMFkyNUU5RGc9PTo6eyXNAvaFKW5hq82cW2In1w--&t=83d204b6f3a66ea5022d0c46b03e2d2a&op=MjQ4NTY=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=Z3lVRElob3BqOWl1TDZmOU1EWkhLNFJ2TDRXUE5McFlFMTAyTXE2NERjWHltWTcyVFI4NkZtcFMzVWxWV0dDM3dvMUorTisyQlJwK2prNmdIMlNKVmc9PTo6cG_1U72d2ccZXEAbpARMrw--&t=83d204b6f3a66ea5022d0c46b03e2d2a",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/dpoeh4h4e7fl",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "\/kSBu8z01do4hxJb7YMtEGawWtfS.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=UmQvR0pqOVBMMG5Fd0JVeFY4Uk8rTkVmYXl1K2pOR3FNRDhNZlQ2L1JrNzI1YlZoU1RGTmg1bnl0ZjRzUDZFWkg4OU1EeGlYa2tscTV3VXZLWCtzc0E9PTo634Lbpn3jSOqbXPUWqbT9Fw--&t=51c9e6f87ce2a2bdc6e2be26ee89e825&op=MjQ4NTc=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=VWI0Q29LTkoycGJmTHptY3c2QmRXR1h1QlZJQ09ZVVNQd2NhSXZTWmZJRVVjQjAxK0gvYjFKWmp5MDgvTENEWnlNYWRzWHBLbGp6cnM1VlRxR1R2TVE9PTo6RfeykgPQZD9ZLwq1WYzM.Q--&t=51c9e6f87ce2a2bdc6e2be26ee89e825",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/0l11am36q4ii",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "\/aPMBaamRCaexnRoB46SBlfFw3th.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=bWJ4OFRLK2hvQWZjOWU2NitwbktaMGIyVE9KTE1jVG95T2dTNkV5Uisycmh2bE5STnZUOEFFUmRuUWNreGhXekZPNjRYUDJLS3daWGlUR3JxWVNDNkE9PTo6RkS3Nua_h.z0jZNaxaGBdw--&t=baa0cb562de48fbabbd65b0f85243dc2&op=MjQ4NTg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=RitpOFlQTndDSmdZVGpVTlVTVmJUSW9BcG01eE1jMzVMN0U3dzVIeVpMczFXS1lhZDFzZDBqUzNEZVh1bjBmS3dLbFdBQ1ZjMHpkWmtDb29lZStYYWc9PTo6atcuPdnGijsLsPDeKrQHCw--&t=baa0cb562de48fbabbd65b0f85243dc2",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/lvrjo82ock36",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "\/92Jnfq1vFJSPTqVYWMAOfFxjaxb.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=Qit2eXRiVjZ6MTVvNDU4d0QvYW1BaTBSSDl0Ty91M2RNK0prd2RUS1V5RG96UnpXdm9obitOdTNkUjZoVVhrYlJ0QlNDWGJSY2NZbE5XUDN2a01mbHc9PTo6_ejr5n5crnt1O8w7ltSU1A--&t=416883f0d86711366e18b10cd0690f53&op=MjQ4NTk=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=RXR3Szh6WFFTdUhnWUczS2RQbWNPSWdmUmY5NTJkeGFvTkFncjY3Qk1oZW9oMjl0LzY1QmpWcXBKMkU1bWF5a21xbnlHb3RSYmIveUViNFBGYm1XRGc9PTo66CaEYM3_fRJFPNN15XJfeg--&t=416883f0d86711366e18b10cd0690f53",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/u84fvytsrhf5",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "\/52mnWS66ClnwD3KtN85atx7bwaN.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=UE9Qb28xUmNaQytQOGxHZlVBZ0wwWFN1eVlKYXp4NjIzVHI4emM2b2pVQm1FWUJoeHhzaHFBT3lLWWVralhWamlxMnlmL0N6dURlaDFtVFZFNEJ4TUE9PTo63jbOZV1fHp7DGfF7I3uUOw--&t=4ffdf96aa5173b68aa3ab0bdea4125f0&op=MjQ4NjA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=cjJGVXhZVmt2NDdheWxGS09GcWJYRE14Ump2UmJvYW5MNDdUeWdFWDVEeXZlS1B1RGJOMkhoUGpzNHZpSWtxZzBpYXlvL2xwVktPS0QvWTJVOVNaZXc9PTo6c7u3nSHc7DGBuX_CEUm39Q--&t=4ffdf96aa5173b68aa3ab0bdea4125f0",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ckh0hnhojrej",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Episodio 6",
+                    "portada": "\/v658XndDbls5b9EXsF6vyHfCe7Z.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=cmx6S2pNWVRsY1JjbE9NTmxkMmdTMkRrTzMwcGNxSE5SWjRuK3RLUjg2djdIbVU4dkxHaGdTRTNHNDJIY2hEL2tmMGRyeDcrcS9QN2g4SzdQeVpMNlE9PTo65GRUYR5v6aeeA20f9xQ9eQ--&t=4ee81d87959972ec4f7d90fae46639f5&op=MjQ4NjE=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=YkpmUjdDTjBMVEJpOWdPUFlvSCtBL1hIMVJpSkJ3dWhic1dNdjJYWG54cEsyOGtFZkFjeER2MU1QWXgwakl4WDgwa3ZRNXVCVmpkYjA1WFVmdEtFQWc9PTo6ndEUuDRApcGUR7OX7WAuYg--&t=4ee81d87959972ec4f7d90fae46639f5",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 2",
+            "season_number": 2,
+            "poster_path": "\/mzoZz5PuffeacFDGABDUgt9vkHk.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S02E01",
+                    "episode_number": 1,
+                    "nombre": "El Espíritu Maligno",
+                    "portada": "\/t810n7RCz8yTKWXxtQ3LRaE7cvd.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=QThQT1Y4YjFvTjFYWlhWVmNoOUVqRkhUeWhxbUJrUnZiRE40c1o1eWt5ZnI1YjNqalhham40WUxEdDl0bllOSWpyQ2N2NVIxYndRckJibEozK0thaFE9PTo6nyMuoGcLFx2dzVWNF0J0WA--&t=a6a4398accc1bec791a19e262725bee3&op=MjQ4NjI=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=MFNKRHNHOTJhVG9aL0hXaGM5MXg1bHlQUTRvTm91eHNhWElDQzd4UVk0V0pNL2FUekkvRTZ3QllTUzBhRld0ZUNqNEplbHJzb2ZwMGR2WWtVRUhwN0E9PTo6gMTZGuHzpdumx.CYRW.GWw--&t=a6a4398accc1bec791a19e262725bee3",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/svvdn4odvv1u",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E02",
+                    "episode_number": 2,
+                    "nombre": "Hierophant Green",
+                    "portada": "\/zCqmyXt3a33gUOq8RqaTIl3fIcr.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=ekU3bTVKeU9EMVNmcWlLSjVmZDZiSEJyTGUzT2Z5RThaWmFEZVcrS0ZiZjc2TlFzZG95UHJZVFI5NmVObm1hV3IvOFVtaUtJdEoxR1dlVHRlL0RsTFE9PTo6draBLAJufsJNroVE7SozXA--&t=66a733febe222a5f3ae377f413c19305&op=MjQ4NjM=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=SHVDT0hhR043c3AxVDRST0pKd2ZBZ0VtSEVVTVhwMG5mSi9rbEJnYm1ES0tGeGxZUWhLUWdQWmFWN1RaY21GQlFDcHI2RyttblVzWnBVeDZhdzd3Zmc9PTo6xwgQE8drGntVfHV3KC2qeQ--&t=66a733febe222a5f3ae377f413c19305",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/x69x0u7wmk20",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E03",
+                    "episode_number": 3,
+                    "nombre": "Silver Chariot y Strength",
+                    "portada": "\/xt7Fmb7plvhgGTuXxIy4Luecyk4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=bm5VeVBQK3p5cUVVeG12SDZWUDJ0YUpHZ3FqOEVQWUd0RUllR0RsQXFkSWI2WS8wYUdmcUUyNW5JWThKbnhQVll2eVdhSDAvc0pySERYT3BwVnp4NHc9PTo6ow8UQoWazNHhWxZC6wp73A--&t=55fabff23f874a140863187ec8ff4671&op=MjQ4NjQ=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=UGozT3ZOSHlqUkdTRTErSE9sU08vR1NyOHdCWUhqdzN1VDR1bGFZZDZHUVA5ZlFFZEx3THZlTUhrSEdvY0hpcFV1bW8ydDhlUnV1UnhkbjdTdFU5NkE9PTo6EA4t6EkV7nIp9c8ceL.Rfw--&t=55fabff23f874a140863187ec8ff4671",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/brnmml1ya2bn",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E04",
+                    "episode_number": 4,
+                    "nombre": "Emperor y Hanged Man",
+                    "portada": "\/sOV8w1PFjZHvHV02aOZxMHDNBoI.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=ekk3aWFHRUtMV2h0QVZIY2RmbUtPYWtVeG90aHdGZWEwbm1HZFdDYjdxdTBMaklzaEFVRGlwSGZ6d1lXekNWRjJvaENqVVBqQ2E1QVh5Ry9xckEvS2c9PTo6l1Eq.UHh.tNQ.Tv1bzKKcA--&t=a0712a11b59d69eb0d347b2465cc7247&op=MjQ4NjU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=TXF1Y3krblh4OHgwVHFDRk5OUXViRE53K0VjM1c0bHk5MWYvZVNZUVRjaUdzb1dSYkkwNlZBcTU1UE5JU3BiUGZtMXVnQWZmK0tqVnRaZUJxVkMxWmc9PTo6QjD1v7ItLsBazoJCApUPHg--&t=a0712a11b59d69eb0d347b2465cc7247",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/uvbcv795ybuh",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E05",
+                    "episode_number": 5,
+                    "nombre": "El juicio",
+                    "portada": "\/l0BHZRezMAcipjy7fMxgzD3oh78.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=TWxMS1lXKzNvaTUwK0c3Q1BnRVpiNVVPblBVTWRaUzRuM1RhRWtKa0k4WDQ3aFpXRmVtYW5xYytPcGNzeDFOdUVMUWJRdC9zK0M4ZUYyc1A2Mk45NGc9PTo6MRAfu9uxuYPQ2i3UJ51dwQ--&t=fc524d9465535e3f32c487236668155f&op=MjQ4NjY=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=RUswNWFIKzl2N2N0TTFEUmo2dzVKUG1BZS9lbnRSNXZRWEZiRDJVU2Q1d3VkaldBWHk1TlQvY0NxM0d3czNGYng3OVZaeTJxd3BaNkVQVnNRaHZweHc9PTo6yeLXdSG4bVqJeYmQmNN0ZQ--&t=fc524d9465535e3f32c487236668155f",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/olo40xixhsti",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E06",
+                    "episode_number": 6,
+                    "nombre": "Episodio 6",
+                    "portada": "\/vGuA7KvZc7oQGYK1Xo45rpA8bID.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=TUliTjZWOUE4SkkyQlVkMExJdnUwcEdBVVpTb1FvdVRLUi81NWNSUC85NTNsTzFLNFYxVXRrT2hMMEU0cGZVdGNaTVJyQ3JCdGhDdURiRWZGMHZHb2c9PTo6gN4ljhHAXZRGmBC_rGW5SQ--&t=cbec56ea8d7b1d9787f7c1297488c798&op=MjQ4Njc=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=dVlCWHZTdUFjVFRTRVJPc29GQXhPUlQyZEZJYjhBdUM0d3Z1bjJiWWFSSEZ2VVFwQSt6enRqcS9sei9mR2htNVhLWlpmNk1scmRoSFFIVnFUVGVtb1E9PTo6u31LghafaUQpsInKYYsjKw--&t=cbec56ea8d7b1d9787f7c1297488c798",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/7z214scawj03",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                },
+                {
+                    "episode_id": "S02E07",
+                    "episode_number": 7,
+                    "nombre": "Episodio 7",
+                    "portada": "\/aWTUaiONd98R4SVi2wc5T4VkTu9.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=cWtuTXVVTEtoV3hhZjJQeUl5bzVKa212SmJqQUdBVTVkV3llRmZFbGdFYWhJSjVrYUFHYU5acFRFcW9mOVlxNmxVZTUwb2t3ZTFkZENOQkVjdGhhQXc9PTo6ySpxwJG4WMk61nLF.bN7Vw--&t=90da3608667e990227e76560921e5fa7&op=MjQ4Njg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=TDRZWlVyOEw2UzF0dFdPWmw5aWRjdWVGSEV3T2Y0R2NqWUVmRUxqbW1POFR0enNjYW51VlRkclJmNFRzNFl6SlgzdVJmRVZ3N0c4RXpybzFodWNFM0E9PTo62YcNCa_5btZt1gAhfFGCIw--&t=90da3608667e990227e76560921e5fa7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/arml352medxc",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-10-08 06:14:18",
+    "created_at": "2026-10-08 06:14:18",
+    "updated_at": "2026-10-08 06:14:18"
+}
