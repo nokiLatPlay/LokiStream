@@ -1,5 +1,26 @@
 [
     {
+        "id": "1791859072229",
+        "tmdb_id": "220542",
+        "titulo": "Los diarios de la boticaria",
+        "imagen": "/bYPACmBf5Nomw3I2IEGGTNwgvWj.jpg",
+        "type": "anime",
+        "year": "2023",
+        "etiquetas": [
+            "Animación",
+            "Drama",
+            "Misterio"
+        ],
+        "rate": 8.699999999999999289457264239899814128875732421875,
+        "added_date": "2026-10-12 22:37:52",
+        "created_at": "2026-10-12 22:37:52",
+        "updated_at": "2026-10-12 22:37:53",
+        "update_states": "No actualizado",
+        "temporadas": 3,
+        "episodios": 48,
+        "status": "Returning Series"
+    },
+    {
         "id": "1791858946460",
         "tmdb_id": "134667",
         "titulo": "Tensei Shitara Ken Deshita",
