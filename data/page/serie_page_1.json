@@ -1,5 +1,25 @@
 [
     {
+        "id": "1791858870884",
+        "tmdb_id": "205493",
+        "titulo": "The Prince of Tennis II U-17 WORLD CUP",
+        "imagen": "/etVlxcNUsJLE4qhJON3VwZSzwFW.jpg",
+        "type": "anime",
+        "year": "2022",
+        "etiquetas": [
+            "Animación",
+            "Comedia"
+        ],
+        "rate": 7.5,
+        "added_date": "2026-10-12 22:34:30",
+        "created_at": "2026-10-12 22:34:30",
+        "updated_at": "2026-10-12 22:34:31",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 2,
+        "status": "Returning Series"
+    },
+    {
         "id": "1791858804960",
         "tmdb_id": "303272",
         "titulo": "Magic Knight Rayearth (2026)",
