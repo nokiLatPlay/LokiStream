@@ -1,5 +1,25 @@
 [
     {
+        "id": "1791858210649",
+        "tmdb_id": "327765",
+        "titulo": "Choujun! Choujou-senpai",
+        "imagen": "/nyKhYyqk9f5ttGV0qMTPYLeFkyP.jpg",
+        "type": "anime",
+        "year": "2026",
+        "etiquetas": [
+            "Animación",
+            "Comedia"
+        ],
+        "rate": 0,
+        "added_date": "2026-10-12 22:23:30",
+        "created_at": "2026-10-12 22:23:30",
+        "updated_at": "2026-10-12 22:23:31",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 1,
+        "status": "Returning Series"
+    },
+    {
         "id": "1791858151814",
         "tmdb_id": "316891",
         "titulo": "Shiotaio no Sato-san ga Ore ni Dake Amai",
