@@ -1,5 +1,27 @@
 [
     {
+        "id": "1791859517168",
+        "tmdb_id": "280042",
+        "titulo": "A Wild Last Boss Appeared!",
+        "imagen": "/uLkimDmIWb4VdgFUuiMlS8wGi5S.jpg",
+        "type": "anime",
+        "year": "2025",
+        "etiquetas": [
+            "Animación",
+            "Action & Adventure",
+            "Sci-Fi & Fantasy",
+            "Drama"
+        ],
+        "rate": 7.0999999999999996447286321199499070644378662109375,
+        "added_date": "2026-10-12 22:45:17",
+        "created_at": "2026-10-12 22:45:17",
+        "updated_at": "2026-10-12 22:45:19",
+        "update_states": "No actualizado",
+        "temporadas": 2,
+        "episodios": 14,
+        "status": "Returning Series"
+    },
+    {
         "id": "1791859389502",
         "tmdb_id": "105009",
         "titulo": "Tokyo Revengers",
