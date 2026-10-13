@@ -1,5 +1,26 @@
 [
     {
+        "id": "1791858804960",
+        "tmdb_id": "303272",
+        "titulo": "Magic Knight Rayearth (2026)",
+        "imagen": "/o3M1tijhALoYkOS8kadeJHMExO0.jpg",
+        "type": "anime",
+        "year": "2026",
+        "etiquetas": [
+            "Animación",
+            "Action & Adventure",
+            "Sci-Fi & Fantasy"
+        ],
+        "rate": 0,
+        "added_date": "2026-10-12 22:33:24",
+        "created_at": "2026-10-12 22:33:24",
+        "updated_at": "2026-10-12 22:33:26",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 1,
+        "status": "Returning Series"
+    },
+    {
         "id": "1791858693918",
         "tmdb_id": "321518",
         "titulo": "The World's Strongest Witch",
