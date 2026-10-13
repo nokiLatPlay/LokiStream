@@ -1,5 +1,25 @@
 [
     {
+        "id": "1791858151814",
+        "tmdb_id": "316891",
+        "titulo": "Shiotaio no Sato-san ga Ore ni Dake Amai",
+        "imagen": "/c1YUQPXPLf9jJLGRFxUD9fOLQ6t.jpg",
+        "type": "anime",
+        "year": "2026",
+        "etiquetas": [
+            "Animación",
+            "Comedia"
+        ],
+        "rate": 0,
+        "added_date": "2026-10-12 22:22:31",
+        "created_at": "2026-10-12 22:22:31",
+        "updated_at": "2026-10-12 22:22:33",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 1,
+        "status": "Returning Series"
+    },
+    {
         "id": "1791454458308",
         "tmdb_id": "60862",
         "titulo": "Jojo's Bizarre Adventure",
