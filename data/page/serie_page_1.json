@@ -1,5 +1,26 @@
 [
     {
+        "id": "1791858946460",
+        "tmdb_id": "134667",
+        "titulo": "Tensei Shitara Ken Deshita",
+        "imagen": "/Avn1pnxeDznpJStZFq4jOxPM4Ek.jpg",
+        "type": "anime",
+        "year": "2022",
+        "etiquetas": [
+            "Animación",
+            "Comedia",
+            "Sci-Fi & Fantasy"
+        ],
+        "rate": 7.29999999999999982236431605997495353221893310546875,
+        "added_date": "2026-10-12 22:35:46",
+        "created_at": "2026-10-12 22:35:46",
+        "updated_at": "2026-10-12 22:35:49",
+        "update_states": "No actualizado",
+        "temporadas": 2,
+        "episodios": 14,
+        "status": "Returning Series"
+    },
+    {
         "id": "1791858896920",
         "tmdb_id": "323937",
         "titulo": "Dandivine",
