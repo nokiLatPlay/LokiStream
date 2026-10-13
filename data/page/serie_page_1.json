@@ -1,5 +1,26 @@
 [
     {
+        "id": "1791858610848",
+        "tmdb_id": "206630",
+        "titulo": "Sasaki and Peeps",
+        "imagen": "/r9RT4YtQ6buH7anDT2ZbM6xBFUm.jpg",
+        "type": "anime",
+        "year": "2024",
+        "etiquetas": [
+            "Animación",
+            "Comedia",
+            "Sci-Fi & Fantasy"
+        ],
+        "rate": 6.9000000000000003552713678800500929355621337890625,
+        "added_date": "2026-10-12 22:30:10",
+        "created_at": "2026-10-12 22:30:10",
+        "updated_at": "2026-10-12 22:30:11",
+        "update_states": "No actualizado",
+        "temporadas": 2,
+        "episodios": 13,
+        "status": "Returning Series"
+    },
+    {
         "id": "1791858528197",
         "tmdb_id": "117061",
         "titulo": "La detective está muerta (Tantei wa Mou, Shindeiru)",
