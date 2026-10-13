@@ -1,0 +1,125 @@
+{
+    "id": "1791858151814",
+    "tmdb_id": "316891",
+    "titulo": "Shiotaio no Sato-san ga Ore ni Dake Amai",
+    "original_name": "塩対応の佐藤さんが俺にだけ甘い",
+    "imagen": "\/c1YUQPXPLf9jJLGRFxUD9fOLQ6t.jpg",
+    "backdrop_path": "\/ukHKDQO3ILHEAsZ6uXRCeT7tKlO.jpg",
+    "type": "anime",
+    "year": "2026",
+    "etiquetas": [
+        "Animación",
+        "Comedia"
+    ],
+    "temporadas_count": 1,
+    "episodios": 1,
+    "status": "Returning Series",
+    "rate": 0,
+    "sinopsis": "",
+    "cast": [
+        {
+            "name": "Hiiro Ishibashi",
+            "character": "Sōta Oshio (voice)",
+            "profile_path": "\/xDfX7mWq67zoymw5V7vEu22pf5r.jpg"
+        },
+        {
+            "name": "Miku Ito",
+            "character": "Koharu Satō (voice)",
+            "profile_path": "\/q2y0SbBKNeVLf5obxixFmmiM4hQ.jpg"
+        },
+        {
+            "name": "Miyu Tomita",
+            "character": "Rinka Sudō (voice)",
+            "profile_path": "\/rSR17l4HdchLkhpRuAZbGbXNmUS.jpg"
+        },
+        {
+            "name": "Chiaki Kobayashi",
+            "character": "Ren Misono (voice)",
+            "profile_path": "\/o0XZFXc50z28ICUpvfZ1QcTL2Yt.jpg"
+        },
+        {
+            "name": "Yoshino Aoyama",
+            "character": "Shizuku Misono (voice)",
+            "profile_path": "\/yPOprcT7tPKR3p79RMYtogTEXGr.jpg"
+        },
+        {
+            "name": "Hisako Kanemoto",
+            "character": "Mayo Nezu (voice)",
+            "profile_path": "\/yosLId8iiPcvDZpeoLuGkDKlorU.jpg"
+        },
+        {
+            "name": "Yasunori Matsumoto",
+            "character": "Seizaemon Oshio (voice)",
+            "profile_path": "\/12vPpqoppN12i3Zk313dwQsUQYi.jpg"
+        },
+        {
+            "name": "Yuuki Wakai",
+            "character": "Madoka Murasaki (voice)",
+            "profile_path": "\/29AGgDOC08B5Y0qKsb4Ij4P6uGT.jpg"
+        }
+    ],
+    "first_air_date": "2026-10-06",
+    "last_air_date": "2026-10-06",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/83LnFQOLHJIH59Sh4ORJ5t958Pb.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "\/mK198Oi47DvQSaOHQ0vXO2aD3Nk.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=bVVvVjk5VzlSelVnR3p1YkxWSldFWlNCQkxFZ0FsSkpZbjVGc1ZaTzZmTGkyck1Za3RXNGpQNkFGbzM2ZHNON2t4TTBSWGZRSW5Ia01CTE15SHpxc1dwcTlGWDlCSnB2aUIwU3dZTGc4aUU9Ojr7sHsHGg1BXgMbHgUcuV6Y&t=16add5169391628312491061ba719cd5&op=Nzg0MjI=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=bXF6blh2a05UOWVQWm5LNnIzbDFmL25uSmJROFlZdE5QVXJrSUZDZ1l1RlZjNXhNL1RLSmEwRmUxQm5xUVg2aEgwM21keWVJa2crSDhlZXcrMHYycGJIcDN4QjM0d21EZ29sNnNDQTF6SE09Ojq7cLsR_tG7SiVIgPENabaF&t=16add5169391628312491061ba719cd5",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-8cp3ig6fnpic.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-ej2k1g7y4rft.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/gnigk53gelf5",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/Tndl450Lf5V0",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-10-12 22:22:31",
+    "created_at": "2026-10-12 22:22:31",
+    "updated_at": "2026-10-12 22:22:31"
+}
