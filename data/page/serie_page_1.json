@@ -1,5 +1,26 @@
 [
     {
+        "id": "1791858528197",
+        "tmdb_id": "117061",
+        "titulo": "La detective está muerta (Tantei wa Mou, Shindeiru)",
+        "imagen": "/5NXO5acrIa2hkDxIqFyKcVW6vca.jpg",
+        "type": "anime",
+        "year": "2021",
+        "etiquetas": [
+            "Animación",
+            "Misterio",
+            "Drama"
+        ],
+        "rate": 5.70000000000000017763568394002504646778106689453125,
+        "added_date": "2026-10-12 22:28:48",
+        "created_at": "2026-10-12 22:28:48",
+        "updated_at": "2026-10-12 22:28:50",
+        "update_states": "No actualizado",
+        "temporadas": 2,
+        "episodios": 13,
+        "status": "Returning Series"
+    },
+    {
         "id": "1791281945619",
         "tmdb_id": "314054",
         "titulo": "Red River",
