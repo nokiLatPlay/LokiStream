@@ -13,7 +13,7 @@
         "Drama"
     ],
     "temporadas_count": 1,
-    "episodios": 13,
+    "episodios": 14,
     "status": "Returning Series",
     "rate": 7.5999999999999996447286321199499070644378662109375,
     "sinopsis": "Cuando una misteriosa mano la arrastra bajo un charco, Yuri, una adolescente japonesa de la actualidad, despierta en el Imperio hitita del siglo XIV a. C. Atrapada en una lucha mortal por el trono, une fuerzas con el príncipe Kail para enfrentarse a asesinos, sobrevivir a conspiraciones palaciegas y abrirse paso en un mundo en guerra, mientras es venerada como la diosa Ishtar.",
@@ -709,11 +709,61 @@
                             "quality": ""
                         }
                     ]
+                },
+                {
+                    "episode_id": "S01E14",
+                    "episode_number": 14,
+                    "nombre": "Episodio 14",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=UVIwenFIS2RZWW5PSXN1TjdZcnpJQWk5bkhyeUMrbU04NHNjUlB0VlZtVFNEMDhzM2k1UzFLTnJRbXMxb2V4RzNhdG5Tbmd6WHVUc2R2Y3BjUXpkWkRENW1iZ1VkVzZ5YkdybzJmMnNtRFU9Ojq_q2pHtOcczREONQQfd3Ug&t=620ade07cb52f90371ad16184beb4c04&op=Nzg0Mjk=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=M0pLaGdZbkloQVJHajY5eU9aK0xtaTFKcVhwN2lUYmUrVm94MGUwMDUzSXQvSnJITW1QcVlEaE9PMmd5b1dYVUY3K1AxdmZlK1B4Tjl6NEZ6VlJGbXBYblhwUmtwOXl3UnEzMDl1NkYyTE09OjqPGNpsXwEj5lyuTE5DYAV2&t=620ade07cb52f90371ad16184beb4c04",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-ullnayzu0n0q.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-4kqx8uelvkst.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/f380ajbr4v0o",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/3H78Rh0YLDFL",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
                 }
             ]
         }
     ],
     "added_date": "2026-10-06 06:19:05",
     "created_at": "2026-10-06 06:19:05",
-    "updated_at": "2026-10-06 06:19:05"
+    "updated_at": "2026-10-12 22:27:16"
 }
