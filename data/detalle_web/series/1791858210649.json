@@ -1,0 +1,125 @@
+{
+    "id": "1791858210649",
+    "tmdb_id": "327765",
+    "titulo": "Choujun! Choujou-senpai",
+    "original_name": "超巡！超条先輩",
+    "imagen": "\/nyKhYyqk9f5ttGV0qMTPYLeFkyP.jpg",
+    "backdrop_path": "\/ru9Nc9HBAUjTVjngbgNUCdKRNa0.jpg",
+    "type": "anime",
+    "year": "2026",
+    "etiquetas": [
+        "Animación",
+        "Comedia"
+    ],
+    "temporadas_count": 1,
+    "episodios": 1,
+    "status": "Returning Series",
+    "rate": 0,
+    "sinopsis": "En Shinjuku, la ciudad que nunca duerme, hay un policía veterano con poderes psíquicos que superan la comprensión humana. ¡Se llama Meguru Choujou! Junto a su compañera Nao Ippongi, experta en judo, este divertidísimo dúo mantendrá las calles a salvo por todos los medios necesarios.",
+    "cast": [
+        {
+            "name": "Yusuke Kobayashi",
+            "character": "Meguru Chojo (voice)",
+            "profile_path": "\/y4ukKDSobZJNuB4H3k89hkrKCDC.jpg"
+        },
+        {
+            "name": "碧乃梨心",
+            "character": "Nao Ippongi (voice)",
+            "profile_path": "\/f8epNfLisB6cBDwfOaoMkj10RFP.jpg"
+        },
+        {
+            "name": "Maria Naganawa",
+            "character": "Robo-kun (voice)",
+            "profile_path": "\/tt0j0z34Oq3MyvDA3VeizskWcw4.jpg"
+        },
+        {
+            "name": "Daisuke Ono",
+            "character": "Yuki Inukai (voice)",
+            "profile_path": "\/5rjl28lx84JjRS0hzq3Ajvx2dhp.jpg"
+        },
+        {
+            "name": "宮田俊哉",
+            "character": "Hajime Keinain (voice)",
+            "profile_path": "\/6g0HUHtLaddU3q3hV4qF46bkzYB.jpg"
+        },
+        {
+            "name": "Nobuaki Kanemitsu",
+            "character": "Hossan (voice)",
+            "profile_path": "\/wf7IW1avxFoY1zecsN5dvI1EdZX.jpg"
+        },
+        {
+            "name": "Kanna Nakamura",
+            "character": "Lily Togari (voice)",
+            "profile_path": "\/2HyCjHsT8hEpXsFe1CqtWJU6JNL.jpg"
+        },
+        {
+            "name": "Kazuki Ura",
+            "character": "Heisuke Ban (voice)",
+            "profile_path": "\/7eUgENWREmWSMnLPUFCQhvUSpdI.jpg"
+        }
+    ],
+    "first_air_date": "2026-10-06",
+    "last_air_date": "2026-10-06",
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/nyKhYyqk9f5ttGV0qMTPYLeFkyP.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "\/mOZQskRXK0QhqgVRVtoJXJrt6uN.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=YTkxcUMydDZqcS9xM3RaYXBuZUt2VGp2T3hCaytHeGxTK2F3dWFhaTUvNjBTRTZEenBBK0l6aEJTaVRIQk93Wkp1M3Jhb242dlVqbUFOR2o3TzVFZTNlWDJ2eFlNZUprYXB0dWhIeEw1RUE9OjpLG1dMen6yMz8Wg33E8iG1&t=8498abfc909a81b4041d8b626b925efd&op=Nzg0MjQ=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=dFRVWW9QdEU4SkN4VjF0QVAvWk5UUktyckI1eUVxTjRxUkh5cUsrM2d6K2hYNm5RL0Nib0RFalBCWEtyRzU3THVGcWJTaDNWd2pnZjRIa1Bla2xNN054VTZiVjlEdDIrS3BSeHh3UDdmU3c9OjqHWCuEGhqkmTzYmVV2pqCv&t=8498abfc909a81b4041d8b626b925efd",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-500598oh5vwe.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https:\/\/www.mp4upload.com\/embed-gt5a94hbkfjz.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/130aw332qx4m",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https:\/\/www.yourupload.com\/embed\/uN7YsoNxWKxT",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-10-12 22:23:30",
+    "created_at": "2026-10-12 22:23:30",
+    "updated_at": "2026-10-12 22:23:30"
+}
