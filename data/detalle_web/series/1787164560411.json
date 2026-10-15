@@ -46,6 +46,17 @@
     ],
     "first_air_date": "2024-04-13",
     "last_air_date": "2025-09-27",
+    "container_download":[
+        {
+    "nombre": "Terabox",
+    "url": "https://1024terabox.com/s/1FiwWLyKIXNQ78gTpo773XQ",
+    "type": "descarga",
+    "language": "Latino",
+    "quality": "HD",
+    "container": "true",
+    "seasons": 1
+        }
+    ],
     "temporadas": [
         {
             "temporada": "Temporada 1",
