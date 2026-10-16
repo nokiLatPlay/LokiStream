@@ -1,5 +1,25 @@
 [
     {
+        "id": "1792142082388",
+        "tmdb_id": "149",
+        "titulo": "Akira",
+        "imagen": "/vjPt8HYymLOkRv82x9JwVO7M2a5.jpg",
+        "type": "movie",
+        "year": "1988",
+        "etiquetas": [
+            "Animación",
+            "Ciencia ficción",
+            "Acción"
+        ],
+        "rate": 7.9000000000000003552713678800500929355621337890625,
+        "added_date": "2026-10-16 05:14:42",
+        "created_at": "2026-10-16 05:14:42",
+        "updated_at": "2026-10-16 05:14:44",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1792141165709",
         "tmdb_id": "1218925",
         "titulo": "Chainsaw Man - La película: El arco de Reze",
