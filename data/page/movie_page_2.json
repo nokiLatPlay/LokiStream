@@ -1,5 +1,23 @@
 [
     {
+        "id": "1792143459",
+        "tmdb_id": "15616",
+        "titulo": "Una estrella en el ejército",
+        "imagen": "/49hl7b0s6YCtO1qWDulBZ0RPmgo.jpg",
+        "type": "movie",
+        "year": "2008",
+        "etiquetas": [
+            "Comedia"
+        ],
+        "calidad": [],
+        "rate": 6.20000000000000017763568394002504646778106689453125,
+        "status": "Released",
+        "added_date": "2026-10-16 05:37:39",
+        "created_at": "2026-10-16 05:37:39",
+        "updated_at": "2026-10-16 06:03:08",
+        "update_states": "No actualizado"
+    },
+    {
         "id": "1792142082388",
         "tmdb_id": "149",
         "titulo": "Akira",
