@@ -95,6 +95,16 @@
     ],
     "status": "Released",
     "runtime": 100,
+    "container_download": [
+        {
+            "nombre": "Terabox",
+            "url": "https://1024terabox.com/s/1BmV7TbGH5AAwOChr9Mn8JA",
+            "type": "descarga",
+            "language": "Latino",
+            "quality": "HD",
+            "container": "true"
+        }
+    ],
     "enlaces": [
         {
             "nombre": "Jkanime",
