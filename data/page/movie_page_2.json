@@ -9,12 +9,14 @@
         "etiquetas": [
             "Comedia"
         ],
-        "calidad": [],
+        "calidad": [
+            "720p"
+        ],
         "rate": 6.20000000000000017763568394002504646778106689453125,
         "status": "Released",
         "added_date": "2026-10-16 05:37:39",
         "created_at": "2026-10-16 05:37:39",
-        "updated_at": "2026-10-16 06:03:08",
+        "updated_at": "2026-10-17 14:42:43",
         "update_states": "No actualizado"
     },
     {
