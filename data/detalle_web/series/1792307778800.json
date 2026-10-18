@@ -1,0 +1,691 @@
+{
+    "id": "1792307778800",
+    "tmdb_id": "297982",
+    "titulo": "Insustituible",
+    "original_name": "无可替代",
+    "imagen": "\/7L1swF9CFdbwadJBmfjEZF9yPDm.jpg",
+    "backdrop_path": "\/o91jmFILQk1UAqPbpEjT3D3OxoO.jpg",
+    "type": "dorama",
+    "year": "2026",
+    "etiquetas": [
+        "Drama"
+    ],
+    "temporadas_count": 1,
+    "episodios": 19,
+    "status": "Ended",
+    "rate": 8,
+    "sinopsis": "Xu Chi, una joven de un pequeño pueblo, entra en el mundo de la consultoría tras sufrir un cambio drástico en su familia, decidida a no dejar que nadie la reemplace. Allí conoce a Ye Xinzhi, un socio de élite que fue víctima de una conspiración y prepara su venganza. Lo que comienza como una relación entre mentor y aprendiz evoluciona hacia una colaboración en la que ambos aprenden a confiar y apoyarse mutuamente.",
+    "cast": [
+        {
+            "name": "赵今麦",
+            "character": "Xu Chi",
+            "profile_path": "\/hndhOhSK0GAMi1qQaacacl3aHzO.jpg"
+        },
+        {
+            "name": "魏大勋",
+            "character": "Ye Xinzhi",
+            "profile_path": "\/8zDh8Tp6xbVSpxr307alnGqUiJP.jpg"
+        },
+        {
+            "name": "周奇",
+            "character": "Zhao Heng",
+            "profile_path": "\/p8mUtx6C5o6jVYQ86eSOMvN3ZTz.jpg"
+        },
+        {
+            "name": "白冰",
+            "character": "Lin Long",
+            "profile_path": "\/nfrH7OSmsk6tYrpDQMJrKmMAZ5K.jpg"
+        },
+        {
+            "name": "胡意旋",
+            "character": "Bu Tianna",
+            "profile_path": "\/vOa4szQkowRT34eNPvjwwJKqBAN.jpg"
+        },
+        {
+            "name": "田轩宁",
+            "character": "Deng Anran",
+            "profile_path": "\/vaUH8rLS3PeRLEqeDykskrcs9GN.jpg"
+        },
+        {
+            "name": "高茂桐",
+            "character": "Ou Lizheng",
+            "profile_path": "\/hbKO08mqWrH1OHoXKehnRxE4MTC.jpg"
+        },
+        {
+            "name": "王媛可",
+            "character": "Shasha",
+            "profile_path": "\/mmBKZFjoyz9PvPScmk6IFIz1XKz.jpg"
+        },
+        {
+            "name": "Wang Xi",
+            "character": "Xin Di",
+            "profile_path": "\/zKIhHre4B64eWegn6bPoBMd4mCH.jpg"
+        },
+        {
+            "name": "林小宅",
+            "character": "Su Su",
+            "profile_path": "\/uO7gpoyUOuMGchUcVf83HlRLlRr.jpg"
+        },
+        {
+            "name": "Wu Lipeng",
+            "character": "Old Du",
+            "profile_path": "\/lQNUQatcTxyop15KCSPqaThFgeB.jpg"
+        },
+        {
+            "name": "李子锋",
+            "character": "Jiang Zhiwen",
+            "profile_path": "\/wx2lR4iBWED7C69Ic43Zf0yq9QU.jpg"
+        },
+        {
+            "name": "Shuai Xie",
+            "character": "Ma Ke",
+            "profile_path": "\/pyGi5ebkbZa1SP9iKoLqNCXmH5K.jpg"
+        }
+    ],
+    "first_air_date": "2026-09-28",
+    "last_air_date": "2026-10-10",
+    "container_download": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "\/rljwfelrs1PQhH7p1eTOaqGPzNq.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Bysesukior",
+                            "url": "https:\/\/bysesukior.com\/e\/mwkgdhx82lnm",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/tuse07c7c33d",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/0s2x1cr6y2mb",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/0760gb0vjglu",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https:\/\/vidara.to\/e\/3gaJwG8rrBmy8",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "\/nYSrl7qm7lkJP7f5jFMh5e8PFVg.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/d2ungb7mcmgz",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysesukior",
+                            "url": "https:\/\/bysesukior.com\/e\/ghz093atovzt",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/pk1suptbqrca",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/ubfkitnb83kh",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "\/4kn1XJOXXhGRWjS6u9WZ4CbHNkf.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/j996f2ba3brl",
+                            "type": "streaming",
+                            "language": "Unknown",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/e\/u4xozxcu7c7a",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "\/9IyCgr3ZREweWGiyQZptD0UeeqX.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/h5z2z4nze7e3",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/e\/yd42goztt53q",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "\/gtDPSw8Z7QoMRVNAKukA0I53jeu.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/6a6pjj8uo91j",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysesukior",
+                            "url": "https:\/\/bysesukior.com\/e\/ortznvty2g96",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/mf9g85vkores",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Episodio 6",
+                    "portada": "\/2kGBbYyS82e9ixK2ynno3gn30Ag.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/4fvbpknb56fg",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysesukior",
+                            "url": "https:\/\/bysesukior.com\/e\/eqeso9xe9o79",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/2l71t2f6177y",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https:\/\/vidara.to\/e\/PEtR9sZHmF8Zw",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "Episodio 7",
+                    "portada": "\/vFUbU1GDcFVOzPvTycszjBESgaw.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/t2bhw2g0vu1b",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysesukior",
+                            "url": "https:\/\/bysesukior.com\/e\/n1e21z3hmtws",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/7ro22nv6ryz9",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https:\/\/vidara.to\/e\/96nu7qqV7DdJj",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "Episodio 8",
+                    "portada": "\/pSVZiAcMIqCdPVylf23g014amde.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/880o6gr6iqfa",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https:\/\/vidara.to\/e\/PH6cGvS4JKyBn",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysesukior",
+                            "url": "https:\/\/bysesukior.com\/e\/77frf0afm9np",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E09",
+                    "episode_number": 9,
+                    "nombre": "Episodio 9",
+                    "portada": "\/zZgSMEXFXsl7GIi0OJPRzxfOjKS.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Bysesukior",
+                            "url": "https:\/\/bysesukior.com\/e\/vxiaye65o5aw",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https:\/\/vidara.to\/e\/k1ArFpg6irIsU",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E10",
+                    "episode_number": 10,
+                    "nombre": "Episodio 10",
+                    "portada": "\/3SsVsrXj6ICnrnGdO84Vx11JtbU.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/cv5t6d4bmcg8",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/3i6sf5rjpl3h",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E11",
+                    "episode_number": 11,
+                    "nombre": "Episodio 11",
+                    "portada": "\/bl02XrAksMKCcqxBiRp7xzRnb9k.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/pggg75het2l1",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/21bx2yfx9deh",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E12",
+                    "episode_number": 12,
+                    "nombre": "Episodio 12",
+                    "portada": "\/9zAbINApy0pmlwvhhZumA11ZjuV.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/o8rcq6mr638e",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysesukior",
+                            "url": "https:\/\/bysesukior.com\/e\/ej1345db1j9z",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https:\/\/vidara.to\/e\/rEA0MS2FExk8U",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E13",
+                    "episode_number": 13,
+                    "nombre": "Episodio 13",
+                    "portada": "\/9CHwYqLfWVvlDnCpJg9IGj8z1mI.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/08j2ba979iyx",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysesukior",
+                            "url": "https:\/\/bysesukior.com\/e\/rflmbb3exe4z",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/g5ds1ww659ly",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https:\/\/vidara.to\/e\/3MyfCStMpFDu2",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E14",
+                    "episode_number": 14,
+                    "nombre": "Episodio 14",
+                    "portada": "\/cvi29nfdKU7DOc7j3hwdzpXsFi5.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/a54myvl0xhb1",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysesukior",
+                            "url": "https:\/\/bysesukior.com\/e\/b5og72j3dbcx",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https:\/\/vidara.to\/e\/xvYU3BkG1b1ti",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E15",
+                    "episode_number": 15,
+                    "nombre": "Episodio 15",
+                    "portada": "\/kcDpkfXXeZx7xfpVFGpSzJ8FLPw.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/pfqoq6mxqx6d",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/ii67p9swco4r",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysesukior",
+                            "url": "https:\/\/bysesukior.com\/e\/is96ifso1elv",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https:\/\/vidara.to\/e\/8TC7o4FgtiM4M",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E16",
+                    "episode_number": 16,
+                    "nombre": "Episodio 16",
+                    "portada": "\/lb4fAtbnZ46XOgvmulTaXST1SHH.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/ug4g555wu8yf",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysesukior",
+                            "url": "https:\/\/bysesukior.com\/e\/oaisurpjtvm2",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https:\/\/vidara.to\/e\/Ot2LNd1zQNBKi",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E17",
+                    "episode_number": 17,
+                    "nombre": "Episodio 17",
+                    "portada": "\/n97BndI1QY4MckG3H805nTlQFdP.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Bysesukior",
+                            "url": "https:\/\/bysesukior.com\/e\/5uvmbnw1usxb",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https:\/\/vidara.to\/e\/n3lLpOVOPbci7",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/4htkdinibq7q",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E18",
+                    "episode_number": 18,
+                    "nombre": "Episodio 18",
+                    "portada": "\/bRnGIwuX5E0xboc8hqFfXSiBre3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/lwf82nk6lhhc",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/rox6jnot5fwe",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https:\/\/vidara.to\/e\/Wn0v5jcZissq7",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysesukior",
+                            "url": "https:\/\/bysesukior.com\/e\/yc96okh3zeku",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E19",
+                    "episode_number": 19,
+                    "nombre": "Episodio 19",
+                    "portada": "\/5IH9MHlYAWL6fuoAJTX1GsDB5Rw.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vidara",
+                            "url": "https:\/\/vidara.to\/e\/6tbRGEdXJ7n9B",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/hfquyl28c97v",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysesukior",
+                            "url": "https:\/\/bysesukior.com\/e\/xt2w1afv75pu",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-10-18 03:16:18",
+    "created_at": "2026-10-18 03:16:18",
+    "updated_at": "2026-10-18 03:16:18"
+}
