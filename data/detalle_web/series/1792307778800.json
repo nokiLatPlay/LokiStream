@@ -89,7 +89,7 @@
         {
             "temporada": "Temporada 1",
             "season_number": 1,
-            "poster_path": "",
+            "poster_path": "\/1O9UEg4dR3Iv7y4kqjGJdHYBF2K.jpg",
             "capitulos": [
                 {
                     "episode_id": "S01E01",
@@ -683,6 +683,6 @@
     ],
     "added_date": "2026-10-18 03:16:18",
     "created_at": "2026-10-18 03:16:18",
-    "updated_at": "2026-10-18 03:19:38",
+    "updated_at": "2026-10-18 03:21:45",
     "update_states": "No actualizado"
 }
