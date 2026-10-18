@@ -11,7 +11,7 @@
         "Drama"
     ],
     "temporadas_count": 1,
-    "episodios": 19,
+    "episodios": 20,
     "status": "Ended",
     "rate": 8,
     "sinopsis": "Xu Chi, una joven de un pequeño pueblo, entra en el mundo de la consultoría tras sufrir un cambio drástico en su familia, decidida a no dejar que nadie la reemplace. Allí conoce a Ye Xinzhi, un socio de élite que fue víctima de una conspiración y prepara su venganza. Lo que comienza como una relación entre mentor y aprendiz evoluciona hacia una colaboración en la que ambos aprenden a confiar y apoyarse mutuamente.",
@@ -132,8 +132,7 @@
                             "language": "Castellano",
                             "quality": ""
                         }
-                    ],
-                    "container_download": []
+                    ]
                 },
                 {
                     "episode_id": "S01E02",
@@ -169,8 +168,7 @@
                             "language": "Castellano",
                             "quality": ""
                         }
-                    ],
-                    "container_download": []
+                    ]
                 },
                 {
                     "episode_id": "S01E03",
@@ -182,7 +180,7 @@
                             "nombre": "Playmogo",
                             "url": "https:\/\/playmogo.com\/e\/j996f2ba3brl",
                             "type": "streaming",
-                            "language": "Unknown",
+                            "language": "",
                             "quality": ""
                         },
                         {
@@ -192,8 +190,7 @@
                             "language": "Latino",
                             "quality": ""
                         }
-                    ],
-                    "container_download": []
+                    ]
                 },
                 {
                     "episode_id": "S01E04",
@@ -215,8 +212,7 @@
                             "language": "Latino",
                             "quality": ""
                         }
-                    ],
-                    "container_download": []
+                    ]
                 },
                 {
                     "episode_id": "S01E05",
@@ -245,8 +241,7 @@
                             "language": "Latino",
                             "quality": ""
                         }
-                    ],
-                    "container_download": []
+                    ]
                 },
                 {
                     "episode_id": "S01E06",
@@ -282,8 +277,7 @@
                             "language": "Latino",
                             "quality": ""
                         }
-                    ],
-                    "container_download": []
+                    ]
                 },
                 {
                     "episode_id": "S01E07",
@@ -319,8 +313,7 @@
                             "language": "Latino",
                             "quality": ""
                         }
-                    ],
-                    "container_download": []
+                    ]
                 },
                 {
                     "episode_id": "S01E08",
@@ -349,8 +342,7 @@
                             "language": "Latino",
                             "quality": ""
                         }
-                    ],
-                    "container_download": []
+                    ]
                 },
                 {
                     "episode_id": "S01E09",
@@ -372,8 +364,7 @@
                             "language": "Latino",
                             "quality": ""
                         }
-                    ],
-                    "container_download": []
+                    ]
                 },
                 {
                     "episode_id": "S01E10",
@@ -395,8 +386,7 @@
                             "language": "Latino",
                             "quality": ""
                         }
-                    ],
-                    "container_download": []
+                    ]
                 },
                 {
                     "episode_id": "S01E11",
@@ -418,8 +408,7 @@
                             "language": "Latino",
                             "quality": ""
                         }
-                    ],
-                    "container_download": []
+                    ]
                 },
                 {
                     "episode_id": "S01E12",
@@ -448,8 +437,7 @@
                             "language": "Latino",
                             "quality": ""
                         }
-                    ],
-                    "container_download": []
+                    ]
                 },
                 {
                     "episode_id": "S01E13",
@@ -485,8 +473,7 @@
                             "language": "Latino",
                             "quality": ""
                         }
-                    ],
-                    "container_download": []
+                    ]
                 },
                 {
                     "episode_id": "S01E14",
@@ -515,8 +502,7 @@
                             "language": "Latino",
                             "quality": ""
                         }
-                    ],
-                    "container_download": []
+                    ]
                 },
                 {
                     "episode_id": "S01E15",
@@ -552,8 +538,7 @@
                             "language": "Latino",
                             "quality": ""
                         }
-                    ],
-                    "container_download": []
+                    ]
                 },
                 {
                     "episode_id": "S01E16",
@@ -582,8 +567,7 @@
                             "language": "Latino",
                             "quality": ""
                         }
-                    ],
-                    "container_download": []
+                    ]
                 },
                 {
                     "episode_id": "S01E17",
@@ -612,8 +596,7 @@
                             "language": "Latino",
                             "quality": ""
                         }
-                    ],
-                    "container_download": []
+                    ]
                 },
                 {
                     "episode_id": "S01E18",
@@ -649,8 +632,7 @@
                             "language": "Latino",
                             "quality": ""
                         }
-                    ],
-                    "container_download": []
+                    ]
                 },
                 {
                     "episode_id": "S01E19",
@@ -679,13 +661,28 @@
                             "language": "Latino",
                             "quality": ""
                         }
-                    ],
-                    "container_download": []
+                    ]
+                },
+                {
+                    "episode_id": "S01E20",
+                    "episode_number": 20,
+                    "nombre": "Episodio 20",
+                    "portada": "\/pvQH9yzblKPie6tEdbyfKhsTEQ0.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vidara.",
+                            "url": "https:\/\/vidara.to\/e\/AtM5zFROoZCa",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": "720p"
+                        }
+                    ]
                 }
             ]
         }
     ],
     "added_date": "2026-10-18 03:16:18",
     "created_at": "2026-10-18 03:16:18",
-    "updated_at": "2026-10-18 03:16:18"
+    "updated_at": "2026-10-18 03:19:38",
+    "update_states": "No actualizado"
 }
