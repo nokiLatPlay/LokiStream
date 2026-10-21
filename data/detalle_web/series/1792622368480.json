@@ -1,0 +1,369 @@
+{
+    "id": "1792622368480",
+    "tmdb_id": "288673",
+    "titulo": "Carrie",
+    "original_name": "Carrie",
+    "imagen": "\/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+    "backdrop_path": "\/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+    "type": "serie",
+    "year": "2026",
+    "etiquetas": [
+        "Misterio",
+        "Drama",
+        "Sci-Fi & Fantasy"
+    ],
+    "temporadas_count": 1,
+    "episodios": 8,
+    "status": "Ended",
+    "rate": 8.300000000000000710542735760100185871124267578125,
+    "sinopsis": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
+    "cast": [
+        {
+            "name": "Summer H. Howell",
+            "character": "Carrie White",
+            "profile_path": "\/9l9D6DhugB4FBIZecuMyZ4Uulyr.jpg"
+        },
+        {
+            "name": "Samantha Sloyan",
+            "character": "Margaret White",
+            "profile_path": "\/iI6mYgxrQSwphBJdfwYN3vB6oS2.jpg"
+        },
+        {
+            "name": "Siena Agudong",
+            "character": "Sue Snell",
+            "profile_path": "\/nCVWiVrIVqw0LnpyhYsckOMQJHS.jpg"
+        },
+        {
+            "name": "Alison Thornton",
+            "character": "Chris Hargensen",
+            "profile_path": "\/hDCMe5RLABbSBA04BIUxJnBmol6.jpg"
+        },
+        {
+            "name": "Joel Oulette",
+            "character": "Tommy Ross",
+            "profile_path": "\/qmzQBjq1hLpU37HtsKw5MszgRKa.jpg"
+        },
+        {
+            "name": "Josie Totah",
+            "character": "Tina Blake",
+            "profile_path": "\/125iM9BTPVDfRjKGVSqmvgeGsai.jpg"
+        },
+        {
+            "name": "Arthur Conti",
+            "character": "Billy Nolan",
+            "profile_path": "\/pnO8qBwvLJfN54UaKsy0QQlAc8u.jpg"
+        },
+        {
+            "name": "Thalia Dudek",
+            "character": "Emaline West",
+            "profile_path": "\/lmpaF8Yi0SfojtEwlY1CkEjzGU7.jpg"
+        },
+        {
+            "name": "Amber Midthunder",
+            "character": "Miss Desjardin",
+            "profile_path": "\/f8VWGyaIS38NkDIzQ2hapXKt0N5.jpg"
+        },
+        {
+            "name": "Matthew Lillard",
+            "character": "Principal Grayle",
+            "profile_path": "\/mIEKAfe0iC41RDXibbTy48LtNOi.jpg"
+        }
+    ],
+    "first_air_date": "2026-10-07",
+    "last_air_date": "2026-10-07",
+    "container_download": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/aL1Iid9DFfR6No2fNftgeyRmIQV.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "PRIMERA REGLA",
+                    "portada": "\/q6K86iDYMr8G0xQC5OxDHi34OWo.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/czgt1x45lhga",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/11uxysyx6kfq",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/zffzuv320pmj",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/pqv2n33kcgig",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/dajpmbo0hczq",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/scm9txjuz5yh",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "LENGUA EXTRANJERA",
+                    "portada": "\/2BAJUukstdRp5JdJL4KgB1oFXEj.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/m05bqkqk7siz",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/4dvgy4ojs2mv",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/295w56b2hipw",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/qvpi03xjhx4o",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/sfuiw0khq4gl",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/xogsf9wbjfwm",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "ESTUDIOS SOCIALES",
+                    "portada": "\/rCayKt9PSctLY3Oo85nBvm1ibnq.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/wuetxb45h9qa",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/ygxe8l270tmj",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/mp6czviawa90",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "ARTE DRAMÁTICO",
+                    "portada": "\/br1jADm12G7gdN9rSlj3dn0VB4i.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/1e06jbgaqm69",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/kpd50r9o4kn4",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/fwd3jcbicfde",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "EDUCACIÓN FÍSICA",
+                    "portada": "\/aosEmangiVoqjUIgCcTz8pEUFuS.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/gbs40ntor74m",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/ytlz2k32t0eu",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/bknmu45lg6t9",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "ECONOMÍA DOMÉSTICA",
+                    "portada": "\/ggtBh6ZtP3LQL6iHAt3FpT2y0j2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/4hizh2buxrn9",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/ipipj3r5ubpi",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/ci8w838xmzxm",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "LITERATURA ROMÁNTICA",
+                    "portada": "\/eQRCwK89aL7C0qEfEGrpkqfB2as.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/n2fmqish5xqa",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/fzv8zz5n27uz",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/2x46ng5ug838",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "FÍSICA DE LA P. A.",
+                    "portada": "\/wcCBQrz9zvQkaxlfFyClGGJGFEO.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/mieqmtz3uofg",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/qcgfxs8q2w34",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/mg7yi9e0tbb7",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-10-21 18:39:28",
+    "created_at": "2026-10-21 18:39:28",
+    "updated_at": "2026-10-21 18:39:28"
+}
