@@ -1,5 +1,27 @@
 [
     {
+        "id": "1792622740221",
+        "tmdb_id": "304597",
+        "titulo": "Por cuatro perras",
+        "imagen": "/jvNy5QhlSDf2fVBizcsXTM9TlpH.jpg",
+        "type": "serie",
+        "year": "2026",
+        "etiquetas": [
+            "Animación",
+            "Comedia",
+            "Drama",
+            "Crimen"
+        ],
+        "rate": 8.4000000000000003552713678800500929355621337890625,
+        "added_date": "2026-10-21 18:45:40",
+        "created_at": "2026-10-21 18:45:40",
+        "updated_at": "2026-10-21 18:45:41",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 8,
+        "status": "Ended"
+    },
+    {
         "id": "1792622368480",
         "tmdb_id": "288673",
         "titulo": "Carrie",
