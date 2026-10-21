@@ -1,0 +1,288 @@
+{
+    "id": "1792622740221",
+    "tmdb_id": "304597",
+    "titulo": "Por cuatro perras",
+    "original_name": "Due spicci",
+    "imagen": "\/jvNy5QhlSDf2fVBizcsXTM9TlpH.jpg",
+    "backdrop_path": "\/paQMPDcFDbuHT5noXwJsmIflHYN.jpg",
+    "type": "serie",
+    "year": "2026",
+    "etiquetas": [
+        "Animación",
+        "Comedia",
+        "Drama",
+        "Crimen"
+    ],
+    "temporadas_count": 1,
+    "episodios": 8,
+    "status": "Ended",
+    "rate": 8.4000000000000003552713678800500929355621337890625,
+    "sinopsis": "Zero y la panda apenas pueden con su vida, pero se juntan para salvar a Jabalí, que se ha metido en un buen lío con unos criminales.",
+    "cast": [
+        {
+            "name": "Zerocalcare",
+            "character": "Zerocalcare (voice)",
+            "profile_path": "\/c3CdGogzHnX7v0S4KNAVNWjSOJM.jpg"
+        },
+        {
+            "name": "Valerio Mastandrea",
+            "character": "Armadillo (voice)",
+            "profile_path": "\/tE7JkSuyv2N8vtEN0YypsCAxW9B.jpg"
+        }
+    ],
+    "first_air_date": "2026-05-27",
+    "last_air_date": "2026-05-27",
+    "container_download": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "\/mwy0N8QbckBBwhluAv8XoL3JkXs.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Cuatro perras de valores",
+                    "portada": "\/2Rl51I8539wBJj3e2KxUKMTR8Nq.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/mz0kr3bwzskk",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/z159u1690bri",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/j3u1zx8dc5ls",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Noventa y nueve mil machacantes",
+                    "portada": "\/bmvg0D79EsPzXGckuttY6KH5QX8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/pyfa70sidh77",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/v5a9u3leawz6",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/6lv5kbjdxex5",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Último recurso",
+                    "portada": "\/9UyZx0ItiIvIQWqDiaZAMkfrkh6.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/2glhld58nc26",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/gn48w3fjgzx1",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/kchjnbeytik7",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "El daño está hecho",
+                    "portada": "\/hKBVM77tc3S4V1jwJJmyFLiX2NI.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/sxgc9e77flhm",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/frmt4hswyg6n",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/yip40oc6nlod",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "Cuatro perras de esperanza",
+                    "portada": "\/ktHBDAChR4DUnzJvrd1V0cXUpYx.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/v5np1an30zcx",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/s09wio4i1r4y",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/jdd5kf95ob5l",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Los últimos santos del cielo",
+                    "portada": "\/iTJJ7XDenzet777jAdgkSulOc0i.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/gluhlzb0iei1",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/fh22vfcied2m",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/vx54f5fflnnx",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "Cuatro perras de responsabilidad",
+                    "portada": "\/iKmBB45GDR8wzrpKtLt36AAhyia.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/dtu9pld9ashn",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/bhnvdafzqjet",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/l1anabcvoqll",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "Como cometas",
+                    "portada": "\/qbtiCFl05L0dPS3CkmQQmHyYZ7B.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https:\/\/hglamioz.com\/e\/3wdsetvyzfap",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https:\/\/callistanise.com\/v\/3172ag666omr",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Playmogo",
+                            "url": "https:\/\/playmogo.com\/e\/ncvfsm1vhdvz",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-10-21 18:45:40",
+    "created_at": "2026-10-21 18:45:40",
+    "updated_at": "2026-10-21 18:45:40"
+}
