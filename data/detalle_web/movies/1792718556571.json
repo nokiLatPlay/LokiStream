@@ -1,0 +1,152 @@
+{
+    "id": "1792718556571",
+    "tmdb_id": "1153576",
+    "titulo": "Street Fighter",
+    "original_name": "Street Fighter",
+    "imagen": "/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
+    "backdrop_path": "/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg",
+    "type": "movie",
+    "year": "2026",
+    "etiquetas": [
+        "Acción",
+        "Fantasía"
+    ],
+    "calidad": [],
+    "rate": 6.29999999999999982236431605997495353221893310546875,
+    "sinopsis": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
+    "cast": [
+        {
+            "name": "Noah Centineo",
+            "character": "Ken Masters",
+            "profile_path": "/p1bcst401RyxfDGykx2iQLI7CV5.jpg"
+        },
+        {
+            "name": "Andrew Koji",
+            "character": "Ryu",
+            "profile_path": "/oU53nWLQ6wFHzERwSi1fD53LxZB.jpg"
+        },
+        {
+            "name": "Callina Liang",
+            "character": "Chun-Li",
+            "profile_path": "/blJ4iEqMs5oTiKVxUyB9Ky7kNRO.jpg"
+        },
+        {
+            "name": "David Dastmalchian",
+            "character": "M. Bison",
+            "profile_path": "/eLafwcpL64CqzwjjSgKpO7Rv4ae.jpg"
+        },
+        {
+            "name": "Andrew Schulz",
+            "character": "Dan Hibiki",
+            "profile_path": "/fdeYq1EraYvlYM3VmGXjIaSGoTz.jpg"
+        },
+        {
+            "name": "Joe Anoa'i",
+            "character": "Akuma",
+            "profile_path": "/6BKc77eAUBQdL9MmgBorBc4SMdE.jpg"
+        },
+        {
+            "name": "Cody Rhodes",
+            "character": "Guile",
+            "profile_path": "/m9hfLcsQuESprcb7dJUj5lQLWCv.jpg"
+        },
+        {
+            "name": "Jason Momoa",
+            "character": "Blanka",
+            "profile_path": "/3troAR6QbSb6nUFMDu61YCCWLKa.jpg"
+        },
+        {
+            "name": "Eric André",
+            "character": "Don Sauvage",
+            "profile_path": "/e9XlcFnZQiBSQ1vISQVyTOrkIaq.jpg"
+        },
+        {
+            "name": "50 Cent",
+            "character": "Balrog",
+            "profile_path": "/7VfwFIwBxy7qBUErosWRDQOovl9.jpg"
+        },
+        {
+            "name": "Don Lee",
+            "character": "Gouken",
+            "profile_path": "/xqnARIEzfyr3BalhFBWHmCusLKH.jpg"
+        },
+        {
+            "name": "Mel Jarnson",
+            "character": "Cammy",
+            "profile_path": "/8m0gnlADmLXkMkvSzDR2OhBfsCB.jpg"
+        },
+        {
+            "name": "Orville Peck",
+            "character": "Vega",
+            "profile_path": "/oW989m8J8gWGCBDkjplkqQoMob6.jpg"
+        },
+        {
+            "name": "後藤洋央紀",
+            "character": "E. Honda",
+            "profile_path": "/uzqLC7AbKClQzcDPHZVRCyxacLx.jpg"
+        },
+        {
+            "name": "विद्युत जामवाल",
+            "character": "Dhalsim",
+            "profile_path": "/9iBEIKvn1GGzymF3kVPBHtaMkWy.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 125,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "Bysesukior",
+            "url": "https://bysesukior.com/e/pgmdxajolc28",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "CAM"
+        },
+        {
+            "nombre": "Vibuxer",
+            "url": "https://vibuxer.com/e/ggjh2km9ix2z",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "CAM"
+        },
+        {
+            "nombre": "Playmogo",
+            "url": "https://playmogo.com/e/spgssqrxhz8f",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "CAM"
+        },
+        {
+            "nombre": "Morencius",
+            "url": "https://morencius.com/embed/syec8g0vr813",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "CAM"
+        },
+        {
+            "nombre": "Playmogo",
+            "url": "https://playmogo.com/e/82aub7i3ctqr",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "CAM"
+        },
+        {
+            "nombre": "Bysesukior",
+            "url": "https://bysesukior.com/e/abilhnajyamy",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "CAM"
+        },
+        {
+            "nombre": "Bysesukior",
+            "url": "https://bysesukior.com/e/hb22zps9p3bz",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": "CAM"
+        }
+    ],
+    "added_date": "2026-10-22 21:22:36",
+    "created_at": "2026-10-22 21:22:36",
+    "updated_at": "2026-10-22 21:22:36",
+    "update_states": "No actualizado"
+}
