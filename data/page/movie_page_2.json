@@ -1,5 +1,23 @@
 [
     {
+        "id": "1792794919741",
+        "tmdb_id": "1776677",
+        "titulo": "Japan : Toyoko Kids",
+        "imagen": "/mRJbmsogt7Es2z4G3S8GwNo1RLo.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Documental"
+        ],
+        "rate": 7,
+        "added_date": "2026-10-23 18:35:19",
+        "created_at": "2026-10-23 18:35:19",
+        "updated_at": "2026-10-23 18:35:20",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1792741169678",
         "tmdb_id": "1757112",
         "titulo": "Identification",
