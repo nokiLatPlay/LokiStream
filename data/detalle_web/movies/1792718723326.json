@@ -1,0 +1,123 @@
+{
+    "id": "1792718723326",
+    "tmdb_id": "1662858",
+    "titulo": "Marea oscura",
+    "original_name": "EB",
+    "imagen": "/aUUQXiiGA3LFHHemf3UgHVF4y5C.jpg",
+    "backdrop_path": "/vdGafAruKcmtR8jNjk5OpVDXUpX.jpg",
+    "type": "movie",
+    "year": "2026",
+    "etiquetas": [
+        "Suspense"
+    ],
+    "calidad": [],
+    "rate": 6.79999999999999982236431605997495353221893310546875,
+    "sinopsis": "Una ambiciosa ecologista regresa a Ameland, la isla holandesa de su infancia, solo para descubrir una peligrosa red de contrabando de drogas que opera en la zona. Atrapada en una espiral de amenazas y secretos familiares, se verá obligada a tomar una difícil decisión: exponer la verdad a las autoridades o guardar silencio para proteger a sus seres queridos.",
+    "cast": [
+        {
+            "name": "Vajèn van den Bosch",
+            "character": "Lynn",
+            "profile_path": "/qg43H1hFRs3mDHbqfKOEMKtuqqA.jpg"
+        },
+        {
+            "name": "Juvat Westendorp",
+            "character": "Kevin",
+            "profile_path": "/r4K1V17D4VJt9BTuPf1ga2gFpWy.jpg"
+        },
+        {
+            "name": "Mingus Dagelet",
+            "character": "Stefan",
+            "profile_path": "/f7EPspepzyfTiOLZiD6oNNZ29rh.jpg"
+        },
+        {
+            "name": "Bart Harder",
+            "character": "Visser",
+            "profile_path": "/lFDreOj7UopSf6F9Otv9MPl2i8t.jpg"
+        },
+        {
+            "name": "Jord Knotter",
+            "character": "Boris",
+            "profile_path": "/f0ufZ6YbyWnu36kFg1d2OOjcM2S.jpg"
+        },
+        {
+            "name": "Mike Libanon",
+            "character": "Politie chef",
+            "profile_path": "/m7TDUSmnYWJjhgNkcp0czaD8Eqx.jpg"
+        },
+        {
+            "name": "Peter Nillesen",
+            "character": "Man in het zwart",
+            "profile_path": ""
+        },
+        {
+            "name": "Mark Ryan",
+            "character": "Interpol-agent Smith",
+            "profile_path": "/9I0mFMnJJutVwVsCJhh3PtfqtFv.jpg"
+        },
+        {
+            "name": "Raymond Thiry",
+            "character": "Jan",
+            "profile_path": "/eta0sCxA0bTJMIVxkIYFVdwe47S.jpg"
+        },
+        {
+            "name": "Bertrie Wierenga",
+            "character": "Lies",
+            "profile_path": "/p7qQHvTdqyoGOK33svx61jrhiBx.jpg"
+        },
+        {
+            "name": "Ellen Ten Damme",
+            "character": "Moeder van Lynn en Kevin",
+            "profile_path": ""
+        },
+        {
+            "name": "Pim Muda",
+            "character": "Barman",
+            "profile_path": "/paiezhFCcjh74zz0rPvqroA37e7.jpg"
+        },
+        {
+            "name": "Bouke Scholten",
+            "character": "Begrafenisondernemer",
+            "profile_path": ""
+        },
+        {
+            "name": "Andreas Lessig",
+            "character": "Duitse visser",
+            "profile_path": ""
+        },
+        {
+            "name": "Robin Komarowski",
+            "character": "Duitse visser",
+            "profile_path": ""
+        }
+    ],
+    "status": "Released",
+    "runtime": 111,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "Vibuxer",
+            "url": "https://vibuxer.com/e/sxg720osjx1e",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Playmogo",
+            "url": "https://playmogo.com/e/gnd4dbtgd7ie",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": "HD"
+        },
+        {
+            "nombre": "Bysesukior",
+            "url": "https://bysesukior.com/e/inp0d77nhtvj",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": "HD"
+        }
+    ],
+    "added_date": "2026-10-22 21:25:23",
+    "created_at": "2026-10-22 21:25:23",
+    "updated_at": "2026-10-22 21:25:23",
+    "update_states": "No actualizado"
+}
