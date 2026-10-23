@@ -1,0 +1,70 @@
+{
+    "id": "1792741169678",
+    "tmdb_id": "1757112",
+    "titulo": "Identification",
+    "original_name": "Identification",
+    "imagen": "/7z7dLsFQftk6rACoKeWIDEPQq2T.jpg",
+    "backdrop_path": "",
+    "type": "movie",
+    "year": "2025",
+    "etiquetas": [
+        "Acción"
+    ],
+    "calidad": [],
+    "rate": 6,
+    "sinopsis": "Leon despierta sin memoria y con un chip cerebral. Perseguido por una corporación y unos traficantes, deberá descubrir la verdad y encontrar a su hija.",
+    "cast": [
+        {
+            "name": "Виктория Агалакова",
+            "character": "",
+            "profile_path": "/hvpwja9coyNJzsdMEAAO2uubD98.jpg"
+        },
+        {
+            "name": "Антон Пампушный",
+            "character": "",
+            "profile_path": "/beKSCeHtQ1Cn9BtlKhwL6RXQPBg.jpg"
+        },
+        {
+            "name": "Анастасия Резник",
+            "character": "",
+            "profile_path": "/6jmKPmbDb4maAFXZ04pTzNddndl.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 84,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "Bysesukior",
+            "url": "https://bysesukior.com/e/sdpdkmdp9pqm",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Playmogo",
+            "url": "https://playmogo.com/e/rnwsn70popym",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/722fydaa289u",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/embed/0sb39071wqfe",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-10-23 03:39:29",
+    "created_at": "2026-10-23 03:39:29",
+    "updated_at": "2026-10-23 03:39:29",
+    "update_states": "No actualizado"
+}
