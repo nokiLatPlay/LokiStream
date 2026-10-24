@@ -1,5 +1,27 @@
 [
     {
+        "id": "1792881244408",
+        "tmdb_id": "94954",
+        "titulo": "Hazbin Hotel",
+        "imagen": "/aVYHMW8pdzJ9qG1OGRMKyGy9xor.jpg",
+        "type": "serie",
+        "year": "2024",
+        "etiquetas": [
+            "Animación",
+            "Comedia",
+            "Drama",
+            "Sci-Fi & Fantasy"
+        ],
+        "rate": 8.5,
+        "added_date": "2026-10-24 18:34:04",
+        "created_at": "2026-10-24 18:34:04",
+        "updated_at": "2026-10-24 18:34:05",
+        "update_states": "No actualizado",
+        "temporadas": 2,
+        "episodios": 16,
+        "status": "Returning Series"
+    },
+    {
         "id": "1792741744318",
         "tmdb_id": "105248",
         "titulo": "Cyberpunk: Edgerunners",
