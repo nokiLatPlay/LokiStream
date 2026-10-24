@@ -1,5 +1,26 @@
 [
     {
+        "id": "1792881068348",
+        "tmdb_id": "323661",
+        "titulo": "Mune, el guardián de la luna",
+        "imagen": "/1tJdze0OyNmIHlxE7P2rSM9vtA8.jpg",
+        "type": "movie",
+        "year": "2015",
+        "etiquetas": [
+            "Animación",
+            "Familia",
+            "Aventura",
+            "Fantasía"
+        ],
+        "rate": 7.29999999999999982236431605997495353221893310546875,
+        "added_date": "2026-10-24 18:31:08",
+        "created_at": "2026-10-24 18:31:08",
+        "updated_at": "2026-10-24 18:31:10",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1792880938208",
         "tmdb_id": "9543",
         "titulo": "Prince of Persia: Las arenas del tiempo",
