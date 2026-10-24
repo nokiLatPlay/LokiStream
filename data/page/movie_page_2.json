@@ -1,5 +1,25 @@
 [
     {
+        "id": "1792880775365",
+        "tmdb_id": "340442",
+        "titulo": "El guardián de la reliquia",
+        "imagen": "/tIujNNzBxAm37vOPpW4lTJLZpmZ.jpg",
+        "type": "movie",
+        "year": "2017",
+        "etiquetas": [
+            "Acción",
+            "Aventura",
+            "Drama"
+        ],
+        "rate": 6,
+        "added_date": "2026-10-24 18:26:15",
+        "created_at": "2026-10-24 18:26:15",
+        "updated_at": "2026-10-24 18:26:17",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1792795214684",
         "tmdb_id": "354556",
         "titulo": "Guardians",
