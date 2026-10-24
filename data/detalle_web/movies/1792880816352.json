@@ -1,0 +1,167 @@
+{
+    "id": "1792880816352",
+    "tmdb_id": "353491",
+    "titulo": "La Torre Oscura",
+    "original_name": "The Dark Tower",
+    "imagen": "/eVTlk5O6simP30vTd3sA1BNQZgV.jpg",
+    "backdrop_path": "/pVVobDO8cezhVPvwD6EBUN0g3mt.jpg",
+    "type": "movie",
+    "year": "2017",
+    "etiquetas": [
+        "Fantasía",
+        "Acción",
+        "Ciencia ficción"
+    ],
+    "calidad": [],
+    "rate": 5.79999999999999982236431605997495353221893310546875,
+    "sinopsis": "En un mundo extrañamente parecido al nuestro un cowboy de nombre Roland Deschain de Gilead persigue a su eterno enemigo, \"el hombre de negro\". Roland, solitario, quizá maldito, anda sin descanso a través de un paisaje triste y abandonado. Conoce a Jake, un chico de Nueva York pero venido de otro tiempo, y ambos unen sus destinos. Ante ellos están las montañas. Y mucho más allá, la Torre Oscura... Adaptación de la saga literaria de Stephen King.",
+    "cast": [
+        {
+            "name": "Idris Elba",
+            "character": "Roland Deschain",
+            "profile_path": "/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+        },
+        {
+            "name": "Matthew McConaughey",
+            "character": "Walter O’Dim",
+            "profile_path": "/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
+        },
+        {
+            "name": "Tom Taylor",
+            "character": "Jake Chambers",
+            "profile_path": "/pEDSmASONpB9FKLgb354fVpHBm3.jpg"
+        },
+        {
+            "name": "Claudia Kim",
+            "character": "Arra Champignon",
+            "profile_path": "/lIP9G93fPfePB1TaFTlcirEybUq.jpg"
+        },
+        {
+            "name": "Fran Kranz",
+            "character": "Pimli Prentiss",
+            "profile_path": "/hBg88mL38BxMpSjtMjSAz2NnDKg.jpg"
+        },
+        {
+            "name": "Abbey Lee",
+            "character": "Tirana",
+            "profile_path": "/y4ZIuFjtglTjSLxhGTkzsCPFMQZ.jpg"
+        },
+        {
+            "name": "Jackie Earle Haley",
+            "character": "Richard Sayre",
+            "profile_path": "/xDPeiyklN8f9Ilowsti4lGVbioj.jpg"
+        },
+        {
+            "name": "Katheryn Winnick",
+            "character": "Laurie Chambers",
+            "profile_path": "/vQSqH3ybDWZHZIqX4NZKhOCXAhQ.jpg"
+        },
+        {
+            "name": "Dennis Haysbert",
+            "character": "Steven Deschain",
+            "profile_path": "/lcnjaw2CFN6q9eaes1jTYrUB0rb.jpg"
+        },
+        {
+            "name": "Michael Barbieri",
+            "character": "Timmy",
+            "profile_path": "/y1fFGDF3xkuqC0wml47pCFdM80l.jpg"
+        },
+        {
+            "name": "José Zúñiga",
+            "character": "Dr. Hotchkiss",
+            "profile_path": "/r6nFkJkMHP9tFDohwfav9Bf2rCR.jpg"
+        },
+        {
+            "name": "Alex McGregor",
+            "character": "Susan Delgado",
+            "profile_path": "/4DKCaEEUIdka7BXIzbjK13jobAz.jpg"
+        },
+        {
+            "name": "Nicholas Hamilton",
+            "character": "Lucas Hanson",
+            "profile_path": "/6XB730yU5XKJfEhV5W2zV8B9Fmh.jpg"
+        },
+        {
+            "name": "Nicholas Pauling",
+            "character": "Lon",
+            "profile_path": "/kx0eUarVo5nsDHSKlB9wbcTMWBY.jpg"
+        },
+        {
+            "name": "Eva Kaminsky",
+            "character": "Jill",
+            "profile_path": "/bSwBeuDBIhSzBlmzE8ZFOo7Eq9m.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 95,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/54t4f34yky01",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysesukior",
+            "url": "https://bysesukior.com/e/790xxqpif4zf",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/v/0w8r8yajrgxc",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/xtn8yn0n0tss",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysesukior",
+            "url": "https://bysesukior.com/e/oheunl2u9zjx",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Playmogo",
+            "url": "https://playmogo.com/e/xpwqimvmhzhl",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/zuq0ggdyc6p3",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysesukior",
+            "url": "https://bysesukior.com/e/z8csiwznfev7",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Playmogo",
+            "url": "https://playmogo.com/e/kh9dej5mmb2l",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-10-24 18:26:56",
+    "created_at": "2026-10-24 18:26:56",
+    "updated_at": "2026-10-24 18:26:56",
+    "update_states": "No actualizado"
+}
