@@ -1,5 +1,25 @@
 [
     {
+        "id": "1792880909333",
+        "tmdb_id": "1241921",
+        "titulo": "Un gran viaje atrevido y maravilloso",
+        "imagen": "/7Ja9exbCZBl3TEHRTWPESHoiln0.jpg",
+        "type": "movie",
+        "year": "2025",
+        "etiquetas": [
+            "Romance",
+            "Fantasía",
+            "Drama"
+        ],
+        "rate": 6.0999999999999996447286321199499070644378662109375,
+        "added_date": "2026-10-24 18:28:29",
+        "created_at": "2026-10-24 18:28:29",
+        "updated_at": "2026-10-24 18:28:31",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1792880870159",
         "tmdb_id": "81005",
         "titulo": "Jack, el cazagigantes",
