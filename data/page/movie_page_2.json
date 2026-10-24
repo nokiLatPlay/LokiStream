@@ -1,5 +1,25 @@
 [
     {
+        "id": "1792880816352",
+        "tmdb_id": "353491",
+        "titulo": "La Torre Oscura",
+        "imagen": "/eVTlk5O6simP30vTd3sA1BNQZgV.jpg",
+        "type": "movie",
+        "year": "2017",
+        "etiquetas": [
+            "Fantasía",
+            "Acción",
+            "Ciencia ficción"
+        ],
+        "rate": 5.79999999999999982236431605997495353221893310546875,
+        "added_date": "2026-10-24 18:26:56",
+        "created_at": "2026-10-24 18:26:56",
+        "updated_at": "2026-10-24 18:26:58",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1792880775365",
         "tmdb_id": "340442",
         "titulo": "El guardián de la reliquia",
