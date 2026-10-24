@@ -1,0 +1,153 @@
+{
+    "id": "1792880938208",
+    "tmdb_id": "9543",
+    "titulo": "Prince of Persia: Las arenas del tiempo",
+    "original_name": "Prince of Persia: The Sands of Time",
+    "imagen": "/vhATwS2BVbVvu5ltv8F1aodLTPE.jpg",
+    "backdrop_path": "/iP0capCU4w5nxCDl398CH7yR1r9.jpg",
+    "type": "movie",
+    "year": "2010",
+    "etiquetas": [
+        "Aventura",
+        "Fantasía",
+        "Acción"
+    ],
+    "calidad": [],
+    "rate": 6.29999999999999982236431605997495353221893310546875,
+    "sinopsis": "Una aventura que tiene lugar en la mítica tierra de Persia. Un príncipe algo granuja (Jake Gyllenhaal) se ve forzado a unirse a una misteriosa princesa (Gemma Arterton) para enfrentarse a fuerzas oscuras con el fin de salvaguardar una antigua daga capaz de liberar las Arenas del Tiempo -un regalo de los dioses que puede volver atrás el tiempo y otorga a su dueño el poder sobre el mundo.",
+    "cast": [
+        {
+            "name": "Jake Gyllenhaal",
+            "character": "Prince Dastan",
+            "profile_path": "/ct2Gh2sJSxd4yaMrSsqSt1HpIC3.jpg"
+        },
+        {
+            "name": "Gemma Arterton",
+            "character": "Tamina",
+            "profile_path": "/Alfm28oyHNiYweNCUaMmrVjVMAT.jpg"
+        },
+        {
+            "name": "Ben Kingsley",
+            "character": "Nizam",
+            "profile_path": "/k3Dmu49B2akwDvgqy52MOxznI59.jpg"
+        },
+        {
+            "name": "Alfred Molina",
+            "character": "Sheik Amar",
+            "profile_path": "/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
+        },
+        {
+            "name": "Steve Toussaint",
+            "character": "Seso",
+            "profile_path": "/9rJafPDkQP8YuLy9iY5v19ZfMIW.jpg"
+        },
+        {
+            "name": "Toby Kebbell",
+            "character": "Garsiv",
+            "profile_path": "/mlYytYJvoEHmhDH2enLtES1098Q.jpg"
+        },
+        {
+            "name": "Richard Coyle",
+            "character": "Tus",
+            "profile_path": "/pW7dJLmR3PuL4T1eVGa5iixPHGZ.jpg"
+        },
+        {
+            "name": "Ronald Pickup",
+            "character": "King Sharaman",
+            "profile_path": "/9wJtlqBNPPa87UJDfLNnSNQRhEn.jpg"
+        },
+        {
+            "name": "Reece Ritchie",
+            "character": "Bis",
+            "profile_path": "/3HNjAIxn2rLoUH6GswNPtJFoHle.jpg"
+        },
+        {
+            "name": "Gísli Örn Garðarsson",
+            "character": "Hassansin Leader",
+            "profile_path": "/pyvh6WtqwSdvi5kTXufeYsKKnru.jpg"
+        },
+        {
+            "name": "Claudio Pacifico",
+            "character": "Hassansin Porcupine",
+            "profile_path": "/2hBDs10Oc5o7hCjOZlsI5YBXcI2.jpg"
+        },
+        {
+            "name": "Thomas DuPont",
+            "character": "Hassansin Whip Man",
+            "profile_path": "/vVW5VoChsbN4NeYUMKMztwh0IhH.jpg"
+        },
+        {
+            "name": "Dave Pope",
+            "character": "Hassansin Giant Scimitar",
+            "profile_path": ""
+        },
+        {
+            "name": "Párdányi Domonkos",
+            "character": "Hassansin Double-Bladed Sword",
+            "profile_path": "/9zTwg9gBZtsfEGizQeIUn09pWf3.jpg"
+        },
+        {
+            "name": "Massimiliano Ubaldi",
+            "character": "Hassansin Long Razor",
+            "profile_path": ""
+        }
+    ],
+    "status": "Released",
+    "runtime": 116,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/4yxmijbsnydx",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysesukior",
+            "url": "https://bysesukior.com/e/6qerrmnmdry9",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Playmogo",
+            "url": "https://playmogo.com/e/aepiu2ypg0m2",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/v/48n2g1ptqegd",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/s24c4vd3fl5v",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysesukior",
+            "url": "https://bysesukior.com/e/wul350v4jufr",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Playmogo",
+            "url": "https://playmogo.com/e/lpem0f5bootx",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-10-24 18:28:58",
+    "created_at": "2026-10-24 18:28:58",
+    "updated_at": "2026-10-24 18:28:58",
+    "update_states": "No actualizado"
+}
