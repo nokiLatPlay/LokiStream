@@ -1,5 +1,25 @@
 [
     {
+        "id": "1792881095387",
+        "tmdb_id": "11459",
+        "titulo": "Sky High: Una escuela de altos vuelos",
+        "imagen": "/dXtT1o8bLUflTSh1e0XvDSzCFs4.jpg",
+        "type": "movie",
+        "year": "2005",
+        "etiquetas": [
+            "Aventura",
+            "Comedia",
+            "Familia"
+        ],
+        "rate": 6.29999999999999982236431605997495353221893310546875,
+        "added_date": "2026-10-24 18:31:35",
+        "created_at": "2026-10-24 18:31:35",
+        "updated_at": "2026-10-24 18:31:37",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1792881068348",
         "tmdb_id": "323661",
         "titulo": "Mune, el guardián de la luna",
