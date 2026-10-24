@@ -1,5 +1,25 @@
 [
     {
+        "id": "1792880938208",
+        "tmdb_id": "9543",
+        "titulo": "Prince of Persia: Las arenas del tiempo",
+        "imagen": "/vhATwS2BVbVvu5ltv8F1aodLTPE.jpg",
+        "type": "movie",
+        "year": "2010",
+        "etiquetas": [
+            "Aventura",
+            "Fantasía",
+            "Acción"
+        ],
+        "rate": 6.29999999999999982236431605997495353221893310546875,
+        "added_date": "2026-10-24 18:28:58",
+        "created_at": "2026-10-24 18:28:58",
+        "updated_at": "2026-10-24 18:28:59",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1792880909333",
         "tmdb_id": "1241921",
         "titulo": "Un gran viaje atrevido y maravilloso",
