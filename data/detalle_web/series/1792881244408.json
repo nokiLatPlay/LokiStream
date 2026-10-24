@@ -1,0 +1,605 @@
+{
+    "id": "1792881244408",
+    "tmdb_id": "94954",
+    "titulo": "Hazbin Hotel",
+    "original_name": "Hazbin Hotel",
+    "imagen": "/aVYHMW8pdzJ9qG1OGRMKyGy9xor.jpg",
+    "backdrop_path": "/9K6QtLqyocVHgIZe4yqCIl1q2ZR.jpg",
+    "type": "serie",
+    "year": "2024",
+    "etiquetas": [
+        "Animación",
+        "Comedia",
+        "Drama",
+        "Sci-Fi & Fantasy"
+    ],
+    "temporadas_count": 2,
+    "episodios": 16,
+    "status": "Returning Series",
+    "rate": 8.5,
+    "sinopsis": "Charlie Lucero del Alba, la princesa del Infierno, intenta convencer a los demonios y a los ángeles de que toda alma es redimible. Una comedia musical para adultos sobre las segundas oportunidades repleta de canciones y tacos.",
+    "cast": [
+        {
+            "name": "Stephanie Beatriz",
+            "character": "Vaggie (voice)",
+            "profile_path": "/7gNPOlsVIdg7QQOv1gRfHjv1Sdb.jpg"
+        },
+        {
+            "name": "Keith David",
+            "character": "Husk (voice)",
+            "profile_path": "/1x0QXavmIy3QmhyrOsV7gMnJaEx.jpg"
+        },
+        {
+            "name": "Kimiko Glenn",
+            "character": "Niffty (voice)",
+            "profile_path": "/6QnVIyHKbzx0ZsUr3BmIwnZxujL.jpg"
+        },
+        {
+            "name": "Erika Henningsen",
+            "character": "Charlie Morningstar (voice)",
+            "profile_path": "/cRCGw4P4vNw7CJS65eG88k80sba.jpg"
+        },
+        {
+            "name": "Blake Roman",
+            "character": "Angel Dust (voice)",
+            "profile_path": "/lJgLf9gZlpesZbVeaeiC4fDsyEA.jpg"
+        },
+        {
+            "name": "Amir Talai",
+            "character": "Alastor (voice)",
+            "profile_path": "/zg5o41YaOESJF5ExZxsOKLefDFI.jpg"
+        }
+    ],
+    "first_air_date": "2024-01-18",
+    "last_air_date": "2025-11-19",
+    "container_download": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/tmtx477xz3pv",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/embed/6gv33sysfrj0",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/5g4g9sta1pg3",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/f3sbboaw7t7y",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/c7mhwf5oun87",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/embed/79ygrwzf5nyc",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/x1vvzv95cdpq",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/05cn5gwadzv1",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/91i52a73fk46",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/embed/tx1demeuj5xq",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/fn43ulyt750u",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/3z8s976ed4kr",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/a3h8frs0hiks",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/embed/cnx8sid6iwqm",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/yzvslcyg0w9y",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/qwl8waz1q92c",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/yt42xb9x3hq3",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/embed/2fg5z114x83j",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/zgogxvauydlr",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Episodio 6",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/zwd0v1l5iz3j",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/wob9o4ylh9tp",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/embed/by96wu4apbss",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/efzoxg18rpqk",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "Episodio 7",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/h3ehw7q1wiax",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/2gr9i6zb6jjs",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/embed/gcrocecy68v6",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/embed/uaob2uzv2sa1",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/kurajmxv446c",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "Episodio 8",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/kda0m3ecxf4o",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/a9wuxeszjws3",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/embed/4yx9rnoanc83",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/fs0rokly9vgp",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                }
+            ]
+        },
+        {
+            "temporada": "Temporada 2",
+            "season_number": 2,
+            "poster_path": "",
+            "capitulos": [
+                {
+                    "episode_id": "S02E01",
+                    "episode_number": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/embed/12p04uf949ki",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/s7fq1zi2n3vl",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysesukior",
+                            "url": "https://bysesukior.com/e/2glq3p9gekk3",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S02E02",
+                    "episode_number": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/embed/z6xqgiug85gr",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/evjb9q2s2em9",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysesukior",
+                            "url": "https://bysesukior.com/e/iva8sekks28s",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S02E03",
+                    "episode_number": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/embed/1182yon2b8wc",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/ypw940px5cvq",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysesukior",
+                            "url": "https://bysesukior.com/e/0mmi7rsq8qc3",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S02E04",
+                    "episode_number": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/embed/l5885qszxgcw",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/uxyb4i2rl4fl",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysesukior",
+                            "url": "https://bysesukior.com/e/4lop6ginlbr1",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/embed/9075wrjnwvw6",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S02E05",
+                    "episode_number": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/embed/6a1dvp5d3w62",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/t4ul7zvwtly6",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysesukior",
+                            "url": "https://bysesukior.com/e/yxiy1369q1mn",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S02E06",
+                    "episode_number": 6,
+                    "nombre": "Episodio 6",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/embed/6fidn1n8w6pk",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/hhah2zbt606e",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S02E07",
+                    "episode_number": 7,
+                    "nombre": "Episodio 7",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/0iihfenmnxij",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/oikvj6kby3mz",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S02E08",
+                    "episode_number": 8,
+                    "nombre": "Episodio 8",
+                    "portada": "",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/qhcut9bpu086",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/jbh2eqhvjay7",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/embed/4vnc7uyrk1r5",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                }
+            ]
+        }
+    ],
+    "added_date": "2026-10-24 18:34:04",
+    "created_at": "2026-10-24 18:34:04",
+    "updated_at": "2026-10-24 18:34:04",
+    "update_states": "No actualizado"
+}
