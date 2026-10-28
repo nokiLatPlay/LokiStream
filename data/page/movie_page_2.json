@@ -1,5 +1,24 @@
 [
     {
+        "id": "1793198794155",
+        "tmdb_id": "557",
+        "titulo": "Spider-Man",
+        "imagen": "/bCDaKZLRkrVVtPNyHxUfKvepW1N.jpg",
+        "type": "movie",
+        "year": "2002",
+        "etiquetas": [
+            "Acción",
+            "Ciencia ficción"
+        ],
+        "rate": 7.4000000000000003552713678800500929355621337890625,
+        "added_date": "2026-10-28 10:46:34",
+        "created_at": "2026-10-28 10:46:34",
+        "updated_at": "2026-10-28 10:46:36",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1793198443133",
         "tmdb_id": "272878",
         "titulo": "Max",
