@@ -1,5 +1,25 @@
 [
     {
+        "id": "1793193248949",
+        "tmdb_id": "22971",
+        "titulo": "Querido John",
+        "imagen": "/6JXXvv9I7cTHuOPPNd9mGeW9Jx3.jpg",
+        "type": "movie",
+        "year": "2010",
+        "etiquetas": [
+            "Drama",
+            "Romance",
+            "Bélica"
+        ],
+        "rate": 6.79999999999999982236431605997495353221893310546875,
+        "added_date": "2026-10-28 09:14:08",
+        "created_at": "2026-10-28 09:14:08",
+        "updated_at": "2026-10-28 09:14:11",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1793193213560",
         "tmdb_id": "1312946",
         "titulo": "El mapa que me lleva a ti",
