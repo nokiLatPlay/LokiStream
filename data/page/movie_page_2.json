@@ -1,5 +1,25 @@
 [
     {
+        "id": "1793200037449",
+        "tmdb_id": "772",
+        "titulo": "Solo en casa 2: Perdido en Nueva York",
+        "imagen": "/7sdiRUyc0ANHJptPhsgb1KL6hoq.jpg",
+        "type": "movie",
+        "year": "1992",
+        "etiquetas": [
+            "Comedia",
+            "Familia",
+            "Aventura"
+        ],
+        "rate": 6.79999999999999982236431605997495353221893310546875,
+        "added_date": "2026-10-28 11:07:17",
+        "created_at": "2026-10-28 11:07:17",
+        "updated_at": "2026-10-28 11:07:18",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1793200009143",
         "tmdb_id": "771",
         "titulo": "Solo en casa",
