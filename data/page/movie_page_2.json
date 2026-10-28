@@ -1,5 +1,25 @@
 [
     {
+        "id": "1793198443133",
+        "tmdb_id": "272878",
+        "titulo": "Max",
+        "imagen": "/d3ACos3t4YwXML8keTA0wKN8e36.jpg",
+        "type": "movie",
+        "year": "2015",
+        "etiquetas": [
+            "Aventura",
+            "Drama",
+            "Familia"
+        ],
+        "rate": 7.20000000000000017763568394002504646778106689453125,
+        "added_date": "2026-10-28 10:40:43",
+        "created_at": "2026-10-28 10:40:43",
+        "updated_at": "2026-10-28 10:40:47",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1793198416324",
         "tmdb_id": "508763",
         "titulo": "Uno más de la familia",
