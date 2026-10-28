@@ -1,5 +1,23 @@
 [
     {
+        "id": "1793162838139",
+        "tmdb_id": "50014",
+        "titulo": "Criadas y Señoras",
+        "imagen": "/jki2RrXEE4x6RT2qyQzOVIXYlsn.jpg",
+        "type": "movie",
+        "year": "2011",
+        "etiquetas": [
+            "Drama"
+        ],
+        "rate": 8.199999999999999289457264239899814128875732421875,
+        "added_date": "2026-10-28 00:47:18",
+        "created_at": "2026-10-28 00:47:18",
+        "updated_at": "2026-10-28 00:47:19",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1793157215921",
         "tmdb_id": "242",
         "titulo": "El padrino III",
