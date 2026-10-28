@@ -1,0 +1,160 @@
+{
+    "id": "1793200178859",
+    "tmdb_id": "1930",
+    "titulo": "The Amazing Spider-Man",
+    "original_name": "The Amazing Spider-Man",
+    "imagen": "/swjygVNvJ84ztpgfFX9gRr2MPBZ.jpg",
+    "backdrop_path": "/sxskOU71CO8LaNX2LOtjYFUtKv7.jpg",
+    "type": "movie",
+    "year": "2012",
+    "etiquetas": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+    ],
+    "calidad": [],
+    "rate": 6.79999999999999982236431605997495353221893310546875,
+    "sinopsis": "Como la mayoría de los adolescentes de su edad, Peter está intentando descubrir quién es y cómo ha llegado a ser lo que es. En su viaje para atar los cabos de su pasado descubre un secreto que guardaba su padre, un secreto que finalmente dará forma a su destino como Spiderman.",
+    "cast": [
+        {
+            "name": "Andrew Garfield",
+            "character": "Spider-Man / Peter Parker",
+            "profile_path": "/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg"
+        },
+        {
+            "name": "Emma Stone",
+            "character": "Gwen Stacy",
+            "profile_path": "/ak2Y9wOI3wi2pNQU6OWSvVvWPj5.jpg"
+        },
+        {
+            "name": "Rhys Ifans",
+            "character": "The Lizard / Dr. Curt Connors",
+            "profile_path": "/5X8XcIqCDxsQYyHdx7mBwPVkSTs.jpg"
+        },
+        {
+            "name": "Denis Leary",
+            "character": "Captain Stacy",
+            "profile_path": "/tAOziVWQBnrW9eR442M6g9SQkmA.jpg"
+        },
+        {
+            "name": "Martin Sheen",
+            "character": "Uncle Ben",
+            "profile_path": "/m2Y3Q0uyuW6htrn2W9UWCWMkpZu.jpg"
+        },
+        {
+            "name": "Sally Field",
+            "character": "Aunt May",
+            "profile_path": "/iMeq1j9Xwvaf6PbTJ0FQz69fpuA.jpg"
+        },
+        {
+            "name": "Irrfan Khan",
+            "character": "Rajit Ratha",
+            "profile_path": "/qkA9PpWJRw3rNjVkWfNZdwLvRZx.jpg"
+        },
+        {
+            "name": "Campbell Scott",
+            "character": "Richard Parker",
+            "profile_path": "/1kj769jco2U73xasSEu0TyX9I5w.jpg"
+        },
+        {
+            "name": "Embeth Davidtz",
+            "character": "Mary Parker",
+            "profile_path": "/nwsdu9lOsKJ5v9RwOCc7kAiuxSO.jpg"
+        },
+        {
+            "name": "Chris Zylka",
+            "character": "Flash Thompson",
+            "profile_path": "/8ctswPqjqNpDPxW792xnHEZnWwA.jpg"
+        },
+        {
+            "name": "Max Charles",
+            "character": "Peter Parker (Age 4)",
+            "profile_path": "/wVnQgfJ1M7gfJhRSFrAfKZwxNip.jpg"
+        },
+        {
+            "name": "C. Thomas Howell",
+            "character": "Jack's Father",
+            "profile_path": "/739YbFWpAYyo9neHvBGThgmT4YH.jpg"
+        },
+        {
+            "name": "Jake Keiffer",
+            "character": "Jack",
+            "profile_path": "/xrpPkVkFK5efs7WBIQRiMJvuTI8.jpg"
+        },
+        {
+            "name": "Kari Coleman",
+            "character": "Helen Stacy",
+            "profile_path": "/lXUwo3DFAOPPiDbFLSINjqfDVRe.jpg"
+        },
+        {
+            "name": "Michael Barra",
+            "character": "Store Clerk",
+            "profile_path": ""
+        }
+    ],
+    "status": "Released",
+    "runtime": 136,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/v/6j1v8jupgtrl",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/v0qfdhzngjn9",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/d57os15sc6ox",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysesukior",
+            "url": "https://bysesukior.com/e/nug3aumkp1gx",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Playmogo",
+            "url": "https://playmogo.com/e/4ecgw5nb8m2b",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/qrx9hgwptpym",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysesukior",
+            "url": "https://bysesukior.com/e/0gybof6cw42j",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Playmogo",
+            "url": "https://playmogo.com/e/lxvtka518nlq",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-10-28 11:09:38",
+    "created_at": "2026-10-28 11:09:38",
+    "updated_at": "2026-10-28 11:09:38",
+    "update_states": "No actualizado"
+}
