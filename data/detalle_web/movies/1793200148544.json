@@ -1,0 +1,166 @@
+{
+    "id": "1793200148544",
+    "tmdb_id": "428078",
+    "titulo": "Mortal Engines",
+    "original_name": "Mortal Engines",
+    "imagen": "/iGPYOL73rEr9jh5bLljVcIAHyFk.jpg",
+    "backdrop_path": "/rm2oMykm5nX6SzXFr7TGHkO6r8Z.jpg",
+    "type": "movie",
+    "year": "2018",
+    "etiquetas": [
+        "Aventura",
+        "Ciencia ficción"
+    ],
+    "calidad": [],
+    "rate": 6.29999999999999982236431605997495353221893310546875,
+    "sinopsis": "Miles de años después de la destrucción de la civilización por un cataclismo, la humanidad se ha adaptado y, ahora, existen gigantescas ciudades en movimiento que vagan por la tierra sobre enormes ruedas absorbiendo a los pueblos más pequeños para obtener recursos. En una de esas colosales urbes Tom Natsworthy (Robert Sheehan), proveniente de la clase baja de Londres, deberá luchar por su vida junto a la peligrosa fugitiva Hester Shaw (Hera Hilmar). Dos opuestos, cuyos caminos nunca debieron cruzarse, forman una peculiar alianza destinada a cambiar el curso del futuro.",
+    "cast": [
+        {
+            "name": "Hera Hilmar",
+            "character": "Hester Shaw",
+            "profile_path": "/hPrpOpQrJ0Ksh62NHFmKon4vEtr.jpg"
+        },
+        {
+            "name": "Robert Sheehan",
+            "character": "Tom Natsworthy",
+            "profile_path": "/1lCAN0FZeUhXZo5goabMxk5mYDl.jpg"
+        },
+        {
+            "name": "Hugo Weaving",
+            "character": "Thaddeus Valentine",
+            "profile_path": "/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg"
+        },
+        {
+            "name": "Jihae",
+            "character": "Anna Fang",
+            "profile_path": "/aRHd8OWGcrb55s1KKbWgvXd3zBd.jpg"
+        },
+        {
+            "name": "Ronan Raftery",
+            "character": "Bevis Pod",
+            "profile_path": "/mJsDcXA0xKkWuy5VyyZRIugi5Ad.jpg"
+        },
+        {
+            "name": "Leila George",
+            "character": "Katherine Valentine",
+            "profile_path": "/s46DMiPDGSMq6qad5TL8mG5qfdy.jpg"
+        },
+        {
+            "name": "Patrick Malahide",
+            "character": "Magnus Crome",
+            "profile_path": "/ae0AJ8FbJireYPQyglIxNucjqIy.jpg"
+        },
+        {
+            "name": "Stephen Lang",
+            "character": "Shrike",
+            "profile_path": "/gnO5VfkDgA2fsHweD0622LUY3Hu.jpg"
+        },
+        {
+            "name": "Colin Salmon",
+            "character": "Chudleigh Pomeroy",
+            "profile_path": "/mLlAU6Zl2MIL5znp5UHdX3sVTN7.jpg"
+        },
+        {
+            "name": "Mark Mitchinson",
+            "character": "Vambrace",
+            "profile_path": "/dBnuglswEEKSQk6kxbSd6D1uS5j.jpg"
+        },
+        {
+            "name": "Regé-Jean Page",
+            "character": "Captain Khora",
+            "profile_path": "/rR5gFJ5kggfYrpFMxybwLtGPcOw.jpg"
+        },
+        {
+            "name": "Menik Gooneratne",
+            "character": "Sathya",
+            "profile_path": "/5J60j9qkx4gLZJVoS1g1gpbLVlw.jpg"
+        },
+        {
+            "name": "Frankie Adams",
+            "character": "Yasmina Rashid",
+            "profile_path": "/aAUHUSf0lh3OBRoaiCRL9ep8lfL.jpg"
+        },
+        {
+            "name": "Leifur Sigurdarson",
+            "character": "Nils Lindstrom",
+            "profile_path": "/qcsEbKSZLBlV1IqS0OWIaHNp32P.jpg"
+        },
+        {
+            "name": "Kahn West",
+            "character": "Toa Heke",
+            "profile_path": "/1TLBTqVz0JpDbwDqH2nE3FceMU1.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 128,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/fahbm34cpd7y",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysejikuar",
+            "url": "https://bysejikuar.com/e/60wtzp4hrftm",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Playmogo",
+            "url": "https://playmogo.com/e/jttmmu4o3j38",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/wuqjjojtxp81",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysejikuar",
+            "url": "https://bysejikuar.com/e/yjpbb0n71eac",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/v/3t39aevudy1p",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Playmogo",
+            "url": "https://playmogo.com/e/uc8v62k16fvr",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysejikuar",
+            "url": "https://bysejikuar.com/e/475hceldgvmx",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Playmogo",
+            "url": "https://playmogo.com/e/cggkz1hfeo6a",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-10-28 11:09:08",
+    "created_at": "2026-10-28 11:09:08",
+    "updated_at": "2026-10-28 11:09:08",
+    "update_states": "No actualizado"
+}
