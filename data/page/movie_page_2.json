@@ -1,5 +1,24 @@
 [
     {
+        "id": "1793200148544",
+        "tmdb_id": "428078",
+        "titulo": "Mortal Engines",
+        "imagen": "/iGPYOL73rEr9jh5bLljVcIAHyFk.jpg",
+        "type": "movie",
+        "year": "2018",
+        "etiquetas": [
+            "Aventura",
+            "Ciencia ficción"
+        ],
+        "rate": 6.29999999999999982236431605997495353221893310546875,
+        "added_date": "2026-10-28 11:09:08",
+        "created_at": "2026-10-28 11:09:08",
+        "updated_at": "2026-10-28 11:09:10",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1793200121320",
         "tmdb_id": "425274",
         "titulo": "Ahora me ves 3",
