@@ -1,5 +1,24 @@
 [
     {
+        "id": "1793193206732",
+        "tmdb_id": "1312946",
+        "titulo": "El mapa que me lleva a ti",
+        "imagen": "/8gzmyWZX6C29aKNLr5ol17n03nN.jpg",
+        "type": "movie",
+        "year": "2025",
+        "etiquetas": [
+            "Romance",
+            "Drama"
+        ],
+        "rate": 6.70000000000000017763568394002504646778106689453125,
+        "added_date": "2026-10-28 09:13:26",
+        "created_at": "2026-10-28 09:13:26",
+        "updated_at": "2026-10-28 09:13:30",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1793162893338",
         "tmdb_id": "522518",
         "titulo": "Tu mejor amigo: Un nuevo viaje",
