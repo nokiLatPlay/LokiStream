@@ -1,0 +1,131 @@
+{
+    "id": "1793198794155",
+    "tmdb_id": "557",
+    "titulo": "Spider-Man",
+    "original_name": "Spider-Man",
+    "imagen": "/bCDaKZLRkrVVtPNyHxUfKvepW1N.jpg",
+    "backdrop_path": "/zQ8AxTPiCiS5nnwXpwTBPBHSaa5.jpg",
+    "type": "movie",
+    "year": "2002",
+    "etiquetas": [
+        "Acción",
+        "Ciencia ficción"
+    ],
+    "calidad": [],
+    "rate": 7.4000000000000003552713678800500929355621337890625,
+    "sinopsis": "Peter Parker es un joven y tímido estudiante que vive con su tía May y su tío Ben desde la muerte de sus padres. Un día es mordido por una araña que ha sido modificada genéticamente, descubriendo al día siguiente que posee unos poderes poco habituales: tiene la fuerza y agilidad de una araña.",
+    "cast": [
+        {
+            "name": "Tobey Maguire",
+            "character": "Spider-Man / Peter Parker",
+            "profile_path": "/s6PwSvq6gC7PGEjIku69tPbvR8M.jpg"
+        },
+        {
+            "name": "Willem Dafoe",
+            "character": "Green Goblin / Norman Osborn",
+            "profile_path": "/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+        },
+        {
+            "name": "Kirsten Dunst",
+            "character": "Mary Jane Watson",
+            "profile_path": "/yhLKGjuiMMdbGnFrR8AREkCZcVF.jpg"
+        },
+        {
+            "name": "James Franco",
+            "character": "Harry Osborn",
+            "profile_path": "/bjmAntHGiibLZixH8nTNVBzaFQn.jpg"
+        },
+        {
+            "name": "Cliff Robertson",
+            "character": "Ben Parker",
+            "profile_path": "/8pH2RWCPtXKzT9P33MbzgnzPlF0.jpg"
+        },
+        {
+            "name": "Rosemary Harris",
+            "character": "May Parker",
+            "profile_path": "/3Mu02enwaF8dFuT195f7esILXns.jpg"
+        },
+        {
+            "name": "J.K. Simmons",
+            "character": "J. Jonah Jameson",
+            "profile_path": "/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+        },
+        {
+            "name": "Joe Manganiello",
+            "character": "Flash Thompson",
+            "profile_path": "/mTdACmitdrwor0Nrv5sr0u123vZ.jpg"
+        },
+        {
+            "name": "Gerry Becker",
+            "character": "Maximilian Fargas",
+            "profile_path": "/il1r1Iym5WFJyo8SQon60aqu4nC.jpg"
+        },
+        {
+            "name": "Bill Nunn",
+            "character": "Joseph 'Robbie' Robertson",
+            "profile_path": "/trxNvS6g5yvwbXzx2LK6JqutE5z.jpg"
+        },
+        {
+            "name": "Jack Betts",
+            "character": "Henry Balkan",
+            "profile_path": "/aC8uOwxVW2NJ5sYUvQImFZuVKQ7.jpg"
+        },
+        {
+            "name": "Stanley Anderson",
+            "character": "General Slocum",
+            "profile_path": "/6kHp1SlLRw0NobVdY8X6DbBAPt8.jpg"
+        },
+        {
+            "name": "Ron Perkins",
+            "character": "Dr. Mendel Stromm",
+            "profile_path": "/ld3OJ0WpMv0Rcml59WuVzKoQWaB.jpg"
+        },
+        {
+            "name": "Michael Papajohn",
+            "character": "Carjacker",
+            "profile_path": "/hdTJBfIXfvRdlD1p8y6rra207UP.jpg"
+        },
+        {
+            "name": "K.K. Dodds",
+            "character": "Simkins",
+            "profile_path": "/nGou7wXgXAKr5oJEyUIuX9RCgFl.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 121,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/m0t13xtvpdgh",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysesukior",
+            "url": "https://bysesukior.com/e/ysp86gbkk36j",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Playmogo",
+            "url": "https://playmogo.com/e/raw1jbq78abe",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/v/lwcbd6qtt14d",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-10-28 10:46:34",
+    "created_at": "2026-10-28 10:46:34",
+    "updated_at": "2026-10-28 10:46:34",
+    "update_states": "No actualizado"
+}
