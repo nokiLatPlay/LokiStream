@@ -1,5 +1,25 @@
 [
     {
+        "id": "1793162893338",
+        "tmdb_id": "522518",
+        "titulo": "Tu mejor amigo: Un nuevo viaje",
+        "imagen": "/cq7oRDzpSSldtyUuhW8aDL53OCV.jpg",
+        "type": "movie",
+        "year": "2019",
+        "etiquetas": [
+            "Familia",
+            "Aventura",
+            "Drama"
+        ],
+        "rate": 8.0999999999999996447286321199499070644378662109375,
+        "added_date": "2026-10-28 00:48:13",
+        "created_at": "2026-10-28 00:48:13",
+        "updated_at": "2026-10-28 00:48:15",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1793162866173",
         "tmdb_id": "381289",
         "titulo": "Tu mejor amigo",
