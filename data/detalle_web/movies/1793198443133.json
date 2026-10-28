@@ -1,0 +1,125 @@
+{
+    "id": "1793198443133",
+    "tmdb_id": "272878",
+    "titulo": "Max",
+    "original_name": "Max",
+    "imagen": "/d3ACos3t4YwXML8keTA0wKN8e36.jpg",
+    "backdrop_path": "/bxBpDzktYTDMpx7VrS6r6wNDeTk.jpg",
+    "type": "movie",
+    "year": "2015",
+    "etiquetas": [
+        "Aventura",
+        "Drama",
+        "Familia"
+    ],
+    "calidad": [],
+    "rate": 7.20000000000000017763568394002504646778106689453125,
+    "sinopsis": "Un perro que ayudó a los soldados en Afganistán regresa a los Estados Unidos y es adoptado por la familia de su adiestrador después de sufrir una experiencia traumática.",
+    "cast": [
+        {
+            "name": "Thomas Haden Church",
+            "character": "Ray",
+            "profile_path": "/74NK9HCYvNafMggSp1PAK5Nwkpe.jpg"
+        },
+        {
+            "name": "Josh Wiggins",
+            "character": "Justin",
+            "profile_path": "/8ibSjOrx62IRfcBVssu6q3lzlQp.jpg"
+        },
+        {
+            "name": "Lauren Graham",
+            "character": "Pamela",
+            "profile_path": "/3leQVZnthAZwngH7HAD6T7qfsVu.jpg"
+        },
+        {
+            "name": "Robbie Amell",
+            "character": "Kyle Wincott",
+            "profile_path": "/5MPx1TEdgPs9UEXV65nd80JikSH.jpg"
+        },
+        {
+            "name": "Mia Xitlali",
+            "character": "Carmen",
+            "profile_path": "/gu3lL84ZDwuMM5Zx16lI6roH8dI.jpg"
+        },
+        {
+            "name": "Dejon LaQuake",
+            "character": "Chuy",
+            "profile_path": ""
+        },
+        {
+            "name": "Luke Kleintank",
+            "character": "Tyler Harne",
+            "profile_path": "/9iDyOwyeUyXNNjpqNwmXKwmwpTh.jpg"
+        },
+        {
+            "name": "Jay Hernandez",
+            "character": "Sergeant Reyes",
+            "profile_path": "/86mlhxglLYYCac1CWWj4s9uR9U9.jpg"
+        },
+        {
+            "name": "J. J. Soria",
+            "character": "Emilio",
+            "profile_path": "/vcBpEeJLPtOuSnrSuV7oUJKSuY7.jpg"
+        },
+        {
+            "name": "Zeeko Zaki",
+            "character": "Afghan Interpreter",
+            "profile_path": "/r38igYNkkjIYnuZQhFtGV5t8ZLs.jpg"
+        },
+        {
+            "name": "Edgar Arreola",
+            "character": "Cartel leader",
+            "profile_path": "/pUvpVhpU3c68v6qWE1Vysq1MGQY.jpg"
+        },
+        {
+            "name": "Christian Brunetti",
+            "character": "Alpha Team Leader",
+            "profile_path": "/oV36UB4MaYD9GlGAlsUtLX8OUyU.jpg"
+        },
+        {
+            "name": "Jason Davis",
+            "character": "Police Officer",
+            "profile_path": "/thSH5TatER5b1WbgFpGt5YDdOu.jpg"
+        },
+        {
+            "name": "Miles Mussenden",
+            "character": "Captain",
+            "profile_path": "/vigfa905Yp6q6XgyVxrFzFlIqmr.jpg"
+        },
+        {
+            "name": "Nazareth Dairian",
+            "character": "Afghan Village Man",
+            "profile_path": ""
+        }
+    ],
+    "status": "Released",
+    "runtime": 111,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/hfy9mgg5i6uq",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Playmogo",
+            "url": "https://playmogo.com/e/sg0707phtyi7",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/v/s1pni2l4juwz",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-10-28 10:40:43",
+    "created_at": "2026-10-28 10:40:43",
+    "updated_at": "2026-10-28 10:40:43",
+    "update_states": "No actualizado"
+}
