@@ -1,0 +1,131 @@
+{
+    "id": "1793157166209",
+    "tmdb_id": "238",
+    "titulo": "El padrino",
+    "original_name": "The Godfather",
+    "imagen": "/5HlLUsmsv60cZVTzVns9ICZD6zU.jpg",
+    "backdrop_path": "/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg",
+    "type": "movie",
+    "year": "1972",
+    "etiquetas": [
+        "Drama",
+        "Crimen"
+    ],
+    "calidad": [],
+    "rate": 8.699999999999999289457264239899814128875732421875,
+    "sinopsis": "Don Vito Corleone, conocido dentro de los círculos del hampa como \"El Padrino\", es el patriarca de una de las cinco familias que ejercen el mando de la Cosa Nostra en Nueva York (Estados Unidos) durante la década de 1940. Don Corleone tiene cuatro hijos: una chica, Connie, y tres varones; Sonny, Michael y Fredo. Cuando Vito reclina intervenir en el negocio de estupefacientes, empieza una cruenta lucha de violentos episodios entre las distintas familias del crimen organizado.",
+    "cast": [
+        {
+            "name": "Marlon Brando",
+            "character": "Don Vito Corleone",
+            "profile_path": "/yIvLpf9U9NfAvC7fuAgOQ8tu51T.jpg"
+        },
+        {
+            "name": "Al Pacino",
+            "character": "Michael Corleone",
+            "profile_path": "/m8HAAjq1T75JypKk0v1FFQn4ysZ.jpg"
+        },
+        {
+            "name": "James Caan",
+            "character": "Sonny Corleone",
+            "profile_path": "/z2Lz3rtxZ7aJjzBUkCnExvo8stn.jpg"
+        },
+        {
+            "name": "Robert Duvall",
+            "character": "Tom Hagen",
+            "profile_path": "/3tcKxC5Sc3DJ6XPDKKC2EAomEWn.jpg"
+        },
+        {
+            "name": "Richard S. Castellano",
+            "character": "Clemenza",
+            "profile_path": "/1vr75BdHWret81vuSJ3ugiCBkxw.jpg"
+        },
+        {
+            "name": "Diane Keaton",
+            "character": "Kay Adams",
+            "profile_path": "/A8B3BsFgbmw2WEmJuQX38qeU9eR.jpg"
+        },
+        {
+            "name": "Talia Shire",
+            "character": "Connie Corleone Rizzi",
+            "profile_path": "/oktJmlLeyYKBCWPNjHskDwAfjct.jpg"
+        },
+        {
+            "name": "Gianni Russo",
+            "character": "Carlo Rizzi",
+            "profile_path": "/jfeGnQfXMzKXsuSPm9oTxm6FOuz.jpg"
+        },
+        {
+            "name": "Sterling Hayden",
+            "character": "Captain McCluskey",
+            "profile_path": "/dCTe6BsGSp9QTcva2Pz4wbxxYMY.jpg"
+        },
+        {
+            "name": "John Marley",
+            "character": "Jack Woltz",
+            "profile_path": "/xyzwd0CiBjXfowH3HcPhvuWcV5B.jpg"
+        },
+        {
+            "name": "Richard Conte",
+            "character": "Barzini",
+            "profile_path": "/bDegodf4dYGXMejdm4T6XgOJwlr.jpg"
+        },
+        {
+            "name": "Al Lettieri",
+            "character": "Sollozzo",
+            "profile_path": "/fE5mEWPkkVJlCji0EoKht8PYw89.jpg"
+        },
+        {
+            "name": "Abe Vigoda",
+            "character": "Sal Tessio",
+            "profile_path": "/luWKPNb58IgJ2ovrtgPAzHGLLYL.jpg"
+        },
+        {
+            "name": "John Cazale",
+            "character": "Fredo Corleone",
+            "profile_path": "/41wXX1FBalyIuf5eaA4S43Y8IfZ.jpg"
+        },
+        {
+            "name": "Rudy Bond",
+            "character": "Cuneo",
+            "profile_path": "/bd3YONpGsvQrpz6MkhsqsiPSaOD.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 175,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/iuji6p18n7t2",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/v/ly7b57l5p1ur",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/qsjgzv5by5o6",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/t9hkz9cs7xu8",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-10-27 23:12:46",
+    "created_at": "2026-10-27 23:12:46",
+    "updated_at": "2026-10-27 23:12:46",
+    "update_states": "No actualizado"
+}
