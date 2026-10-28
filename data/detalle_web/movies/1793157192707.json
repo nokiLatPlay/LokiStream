@@ -1,0 +1,152 @@
+{
+    "id": "1793157192707",
+    "tmdb_id": "240",
+    "titulo": "El padrino II",
+    "original_name": "The Godfather Part II",
+    "imagen": "/mbry0W5PRylSUHsYzdiY2FSJwze.jpg",
+    "backdrop_path": "/pGzqRKrYeK4LogoysNro0vG8d8N.jpg",
+    "type": "movie",
+    "year": "1974",
+    "etiquetas": [
+        "Drama",
+        "Crimen"
+    ],
+    "calidad": [],
+    "rate": 8.5999999999999996447286321199499070644378662109375,
+    "sinopsis": "Continuación de la saga de los Corleone con dos historias paralelas: la elección de Michael Corleone como jefe de los negocios familiares y los orígenes del patriarca, el ya fallecido Don Vito, primero en Sicilia y luego en Estados Unidos, donde, empezando desde abajo, llegó a ser un poderosísimo jefe de la mafia de Nueva York.",
+    "cast": [
+        {
+            "name": "Al Pacino",
+            "character": "Don Michael Corleone",
+            "profile_path": "/m8HAAjq1T75JypKk0v1FFQn4ysZ.jpg"
+        },
+        {
+            "name": "Robert Duvall",
+            "character": "Tom Hagen",
+            "profile_path": "/3tcKxC5Sc3DJ6XPDKKC2EAomEWn.jpg"
+        },
+        {
+            "name": "Diane Keaton",
+            "character": "Kay Corleone",
+            "profile_path": "/A8B3BsFgbmw2WEmJuQX38qeU9eR.jpg"
+        },
+        {
+            "name": "Robert De Niro",
+            "character": "Vito Corleone",
+            "profile_path": "/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+        },
+        {
+            "name": "John Cazale",
+            "character": "Frederico 'Fredo' Corleone",
+            "profile_path": "/41wXX1FBalyIuf5eaA4S43Y8IfZ.jpg"
+        },
+        {
+            "name": "Talia Shire",
+            "character": "Constanzia 'Connie' Corleone",
+            "profile_path": "/oktJmlLeyYKBCWPNjHskDwAfjct.jpg"
+        },
+        {
+            "name": "Lee Strasberg",
+            "character": "Hyman Roth",
+            "profile_path": "/niSM7ejzddgaTcxjgJMYEFCr9Y2.jpg"
+        },
+        {
+            "name": "Michael V. Gazzo",
+            "character": "Frank Pentangeli",
+            "profile_path": "/cTY2Hlf6sIR9xLI95bBir7eI0N.jpg"
+        },
+        {
+            "name": "G.D. Spradlin",
+            "character": "Senator Pat Geary",
+            "profile_path": "/pWNa9H3ABB3Ug9CwTfVNtHsCFjV.jpg"
+        },
+        {
+            "name": "Richard Bright",
+            "character": "Al Neri",
+            "profile_path": "/potMaJ2u5PRjXZb7qF9lSW1ldNZ.jpg"
+        },
+        {
+            "name": "Gastone Moschin",
+            "character": "Don Fanucci",
+            "profile_path": "/dU58seqJs1NDkNodjwCbGZg3nqT.jpg"
+        },
+        {
+            "name": "Tom Rosqui",
+            "character": "Rocco Lampone",
+            "profile_path": "/idbeKhpuNbc6J6r4LftLhZXIY6r.jpg"
+        },
+        {
+            "name": "Bruno Kirby",
+            "character": "Young Clemenza",
+            "profile_path": "/rCYOMk34rqf28KusLKi002RNbFg.jpg"
+        },
+        {
+            "name": "Frank Sivero",
+            "character": "Genco Abbandando",
+            "profile_path": "/eqvhj0iNtcsN6EJhd21Goqi1DSq.jpg"
+        },
+        {
+            "name": "Francesca De Sapio",
+            "character": "Young Mama Corleone",
+            "profile_path": "/r4lBoLEBwFv1q5BFoqKJX7xQyDm.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 200,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/t2r8ostxeuaf",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/v/dhfubtuhalm8",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Peytonepre",
+            "url": "https://peytonepre.com/v/ewbn14dn9jbr",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/6klznqmpkz7a",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Peytonepre",
+            "url": "https://peytonepre.com/v/tqsde8y9pmbt",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/reb5vdst8fho",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Peytonepre",
+            "url": "https://peytonepre.com/v/hui25ptk28lg",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-10-27 23:13:12",
+    "created_at": "2026-10-27 23:13:12",
+    "updated_at": "2026-10-27 23:13:12",
+    "update_states": "No actualizado"
+}
