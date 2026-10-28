@@ -1,5 +1,25 @@
 [
     {
+        "id": "1793200178859",
+        "tmdb_id": "1930",
+        "titulo": "The Amazing Spider-Man",
+        "imagen": "/swjygVNvJ84ztpgfFX9gRr2MPBZ.jpg",
+        "type": "movie",
+        "year": "2012",
+        "etiquetas": [
+            "Acción",
+            "Aventura",
+            "Ciencia ficción"
+        ],
+        "rate": 6.79999999999999982236431605997495353221893310546875,
+        "added_date": "2026-10-28 11:09:38",
+        "created_at": "2026-10-28 11:09:38",
+        "updated_at": "2026-10-28 11:09:41",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1793200148544",
         "tmdb_id": "428078",
         "titulo": "Mortal Engines",
