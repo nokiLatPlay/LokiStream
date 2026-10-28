@@ -1,0 +1,131 @@
+{
+    "id": "1793200063866",
+    "tmdb_id": "75656",
+    "titulo": "Ahora me ves…",
+    "original_name": "Now You See Me",
+    "imagen": "/iN3fPrPLozgPDrHO1IILh1Cx0C3.jpg",
+    "backdrop_path": "/xEY0MV2jSQBz9iOJfCFvLTiPGMA.jpg",
+    "type": "movie",
+    "year": "2013",
+    "etiquetas": [
+        "Suspense",
+        "Crimen"
+    ],
+    "calidad": [],
+    "rate": 7.29999999999999982236431605997495353221893310546875,
+    "sinopsis": "Un equipo del FBI debe enfrentarse a una banda de criminales expertos en magia. Ellos son 'los cuatro jinetes', un grupo formado por los mejores ilusionistas del mundo, dedicado a realizar grandes robos contra hombres de negocios corruptos. Su gran golpe es pasar desapercibidos para hacer llover el dinero robado a su público. En un mundo de magia y espectáculo, nada es lo que parece.",
+    "cast": [
+        {
+            "name": "Jesse Eisenberg",
+            "character": "J. Daniel Atlas",
+            "profile_path": "/2ojZrkt5rdkUi857WSeCatxXdGS.jpg"
+        },
+        {
+            "name": "Woody Harrelson",
+            "character": "Merritt McKinney",
+            "profile_path": "/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+        },
+        {
+            "name": "Isla Fisher",
+            "character": "Henley Reeves",
+            "profile_path": "/vVeKcMyFMPcIDLYNAnGSGnQrJ3k.jpg"
+        },
+        {
+            "name": "Dave Franco",
+            "character": "Jack Wilder",
+            "profile_path": "/to7ee1xcCOpDSKMXjBIRuYEfbEc.jpg"
+        },
+        {
+            "name": "Mark Ruffalo",
+            "character": "Dylan Rhodes",
+            "profile_path": "/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+        },
+        {
+            "name": "Mélanie Laurent",
+            "character": "Alma Dray",
+            "profile_path": "/i99ogEo4gQyanCmHWYYoS6hsUqL.jpg"
+        },
+        {
+            "name": "Morgan Freeman",
+            "character": "Thaddeus Bradley",
+            "profile_path": "/905k0RFzH0Kd6gx8oSxRdnr6FL.jpg"
+        },
+        {
+            "name": "Michael Caine",
+            "character": "Arthur Tressler",
+            "profile_path": "/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+        },
+        {
+            "name": "Michael Kelly",
+            "character": "Agent Fuller",
+            "profile_path": "/6MI8HhX1GWbcrWG8DiHffzmqaVm.jpg"
+        },
+        {
+            "name": "Common",
+            "character": "Evans",
+            "profile_path": "/eggJAnJxpn8wYraX7ea5svETB54.jpg"
+        },
+        {
+            "name": "David Warshofsky",
+            "character": "Cowan",
+            "profile_path": "/pLABX1wyaVE4CcEZVmoM2Y5XbQU.jpg"
+        },
+        {
+            "name": "José Garcia",
+            "character": "Etienne Forcier",
+            "profile_path": "/ml8JHunZl2TCBrcaseqtiEfpykm.jpg"
+        },
+        {
+            "name": "Jessica Lindsey",
+            "character": "Hermia",
+            "profile_path": "/6YelstecvueLEeYgboUEBMM0fmD.jpg"
+        },
+        {
+            "name": "Caitríona Balfe",
+            "character": "Jasmine Tressler",
+            "profile_path": "/lerCNTjO6FQIam2lF5SXHA4dY7H.jpg"
+        },
+        {
+            "name": "Stephanie Honoré",
+            "character": "Atlas Groupie",
+            "profile_path": "/zndiOCjMjUCvv6toku9ntzkIM3A.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 115,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/j8n5keudyfay",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/v/ect5ag8bkn6o",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/kdeume42krcb",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/oom1pdodj0gb",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-10-28 11:07:43",
+    "created_at": "2026-10-28 11:07:43",
+    "updated_at": "2026-10-28 11:07:43",
+    "update_states": "No actualizado"
+}
