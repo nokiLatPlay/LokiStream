@@ -1,5 +1,25 @@
 [
     {
+        "id": "1793157215921",
+        "tmdb_id": "242",
+        "titulo": "El padrino III",
+        "imagen": "/l2D8Gzuzw8hN41UthdqM9Osu9I3.jpg",
+        "type": "movie",
+        "year": "1990",
+        "etiquetas": [
+            "Crimen",
+            "Drama",
+            "Suspense"
+        ],
+        "rate": 7.4000000000000003552713678800500929355621337890625,
+        "added_date": "2026-10-27 23:13:35",
+        "created_at": "2026-10-27 23:13:35",
+        "updated_at": "2026-10-27 23:13:37",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1793157192707",
         "tmdb_id": "240",
         "titulo": "El padrino II",
