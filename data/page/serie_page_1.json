@@ -1,5 +1,25 @@
 [
     {
+        "id": "1793251139109",
+        "tmdb_id": "124426",
+        "titulo": "Es mío",
+        "imagen": "/or0DiqmxKp7lUj6VG1mrK6PYTKw.jpg",
+        "type": "dorama",
+        "year": "2021",
+        "etiquetas": [
+            "Misterio",
+            "Drama"
+        ],
+        "rate": 7.5,
+        "added_date": "2026-10-29 01:18:59",
+        "created_at": "2026-10-29 01:18:59",
+        "updated_at": "2026-10-29 01:19:01",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 16,
+        "status": "Ended"
+    },
+    {
         "id": "1788020102653",
         "tmdb_id": "73223",
         "titulo": "Black Clover",
