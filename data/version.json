@@ -1,17 +1,15 @@
 {
   "version_code": 2,
-  "version_name": "1.4.0",
+  "version_name": "1.5.0",
   "latest_version": true,
-  "update_required": false,
-  "title": "Nueva versión disponible",
-  "message": "Hemos actualizado Proyect99 con mejoras de rendimiento, nuevos contenidos y una experiencia más fluida.",
+  "update_required": true,
+  "title": "¡Nueva actualización disponible!",
+  "message": "Seguimos mejorando tu experiencia. En esta versión hemos incorporado nuevas mejoras y novedades para ofrecerte un mejor servicio.",
   "changes": [
-    "Nuevo diseño",
-    "Mejoras en el reproductor",
-    "Corrección de errores",
-    "Mejor rendimiento de la aplicación",
-    "Mejoras en la interfaz"
+    "Cambios en los anuncios (Interstitials) (Hemos realizado ajustes y mejoras en los anuncios intersticiales para optimizar su funcionamiento dentro de la aplicación.)",
+    "Nuevos servidores agregados (¡Más opciones para disfrutar de tu contenido favorito! Hemos añadido soporte para nuevos servidores de reproducción, ampliando las alternativas disponibles.)",
+    "Corrección de errores"
   ],
-  "download_url": "https://www.mediafire.com/file/hgbr7to5ql1bil5/Proyect99+[V1.4.0]+oficial.apk/file",
-  "release_date": "2026-10-01"
+  "download_url": "https://www.mediafire.com/file/t3ify196kx7yq9c/Proyect99_%255BV1.5.0%255D_Oficial.apk/file",
+  "release_date": "2026-10-31"
 }
