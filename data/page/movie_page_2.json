@@ -1,5 +1,25 @@
 [
     {
+        "id": "1793602005891",
+        "tmdb_id": "58574",
+        "titulo": "Sherlock Holmes: Juego de sombras",
+        "imagen": "/cDu2Ti4uwF1yq6jgjsybe7UzZDI.jpg",
+        "type": "movie",
+        "year": "2011",
+        "etiquetas": [
+            "Acción",
+            "Aventura",
+            "Misterio"
+        ],
+        "rate": 7.0999999999999996447286321199499070644378662109375,
+        "added_date": "2026-11-02 01:46:45",
+        "created_at": "2026-11-02 01:46:45",
+        "updated_at": "2026-11-02 01:46:47",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1793601980428",
         "tmdb_id": "10528",
         "titulo": "Sherlock Holmes",
