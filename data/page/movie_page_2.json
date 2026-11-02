@@ -1,5 +1,25 @@
 [
     {
+        "id": "1793601866694",
+        "tmdb_id": "944931",
+        "titulo": "Heidi. El rescate del lince",
+        "imagen": "/64ZfqNxyFGql2Tc83PC3iOuxVQk.jpg",
+        "type": "movie",
+        "year": "2025",
+        "etiquetas": [
+            "Animación",
+            "Aventura",
+            "Familia"
+        ],
+        "rate": 7.0999999999999996447286321199499070644378662109375,
+        "added_date": "2026-11-02 01:44:26",
+        "created_at": "2026-11-02 01:44:26",
+        "updated_at": "2026-11-02 01:44:28",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1793601830660",
         "tmdb_id": "1147411",
         "titulo": "Miraculous World: Las Aventuras de Ladybug en Tokio, Stellar Force",
