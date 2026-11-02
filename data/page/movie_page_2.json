@@ -1,5 +1,26 @@
 [
     {
+        "id": "1793601949652",
+        "tmdb_id": "1406492",
+        "titulo": "La venganza del Charro Negro",
+        "imagen": "/k60FyAa1FSBVfQQkJ0gSXZzoD7B.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Animación",
+            "Fantasía",
+            "Familia",
+            "Terror"
+        ],
+        "rate": 4,
+        "added_date": "2026-11-02 01:45:49",
+        "created_at": "2026-11-02 01:45:49",
+        "updated_at": "2026-11-02 01:45:50",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1793601922417",
         "tmdb_id": "1813355",
         "titulo": "La historia de Derry",
