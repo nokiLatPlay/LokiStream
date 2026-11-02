@@ -1,5 +1,25 @@
 [
     {
+        "id": "1793601980428",
+        "tmdb_id": "10528",
+        "titulo": "Sherlock Holmes",
+        "imagen": "/gf4eNEw79XVbKYDBEQKgWPezQNY.jpg",
+        "type": "movie",
+        "year": "2009",
+        "etiquetas": [
+            "Acción",
+            "Misterio",
+            "Crimen"
+        ],
+        "rate": 7.20000000000000017763568394002504646778106689453125,
+        "added_date": "2026-11-02 01:46:20",
+        "created_at": "2026-11-02 01:46:20",
+        "updated_at": "2026-11-02 01:46:21",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1793601949652",
         "tmdb_id": "1406492",
         "titulo": "La venganza del Charro Negro",
