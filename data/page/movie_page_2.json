@@ -1,5 +1,25 @@
 [
     {
+        "id": "1793601672877",
+        "tmdb_id": "27022",
+        "titulo": "El aprendiz de brujo",
+        "imagen": "/uLUv1ZQxECr1tcyGqjirTc4nZtM.jpg",
+        "type": "movie",
+        "year": "2010",
+        "etiquetas": [
+            "Fantasía",
+            "Aventura",
+            "Acción"
+        ],
+        "rate": 6.0999999999999996447286321199499070644378662109375,
+        "added_date": "2026-11-02 01:41:12",
+        "created_at": "2026-11-02 01:41:12",
+        "updated_at": "2026-11-02 01:41:13",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1793214604355",
         "tmdb_id": "326",
         "titulo": "Serpientes en el avión",
