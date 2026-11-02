@@ -1,0 +1,130 @@
+{
+    "id": "1793601766386",
+    "tmdb_id": "80280",
+    "titulo": "[REC]³ Génesis",
+    "original_name": "[REC]³ Génesis",
+    "imagen": "/cRVSZ03HIXKOKfRaKd00gZC5uqA.jpg",
+    "backdrop_path": "/zxPri7LbVdvdwAroeoUp5EXAse1.jpg",
+    "type": "movie",
+    "year": "2012",
+    "etiquetas": [
+        "Terror"
+    ],
+    "calidad": [],
+    "rate": 5.29999999999999982236431605997495353221893310546875,
+    "sinopsis": "Koldo y Clara están hechos el uno para el otro. Van a celebrar su enlace acompañados de sus seres queridos. Pero una negra sombra se cierne sobre ellos. En el día más feliz de sus vidas, el infierno va a desatarse.",
+    "cast": [
+        {
+            "name": "Leticia Dolera",
+            "character": "Clara",
+            "profile_path": "/rzWekaXWoC9HKIZkOf7hddQDtFI.jpg"
+        },
+        {
+            "name": "Diego Martín",
+            "character": "Koldo",
+            "profile_path": "/vLCrfjWAS6cjN3CUE7p3HYPYoev.jpg"
+        },
+        {
+            "name": "Ismael Martínez",
+            "character": "Rafa",
+            "profile_path": "/yCmKNXBSdtBybQrWAIdMfW40fN1.jpg"
+        },
+        {
+            "name": "Àlex Monner",
+            "character": "Adrián",
+            "profile_path": "/t6WJavNR5jXecvEj7YaOSaxmnil.jpg"
+        },
+        {
+            "name": "Borja González Santaolalla",
+            "character": "Atún",
+            "profile_path": ""
+        },
+        {
+            "name": "Emilio Mencheta",
+            "character": "Víctor",
+            "profile_path": "/wJl5wkBVXtRLHgOQptZGP7uVblN.jpg"
+        },
+        {
+            "name": "David Ramírez",
+            "character": "Canon",
+            "profile_path": "/9ShS8pRKb2HWv5OFw2SLu3MRoXz.jpg"
+        },
+        {
+            "name": "Miguel Ángel González",
+            "character": "John Esponja",
+            "profile_path": ""
+        },
+        {
+            "name": "Ramon Agirre",
+            "character": "Danilo",
+            "profile_path": "/iDLBCTz6mANvckYPL3KDkUTLfl6.jpg"
+        },
+        {
+            "name": "Xavier Ruano",
+            "character": "Cura",
+            "profile_path": ""
+        },
+        {
+            "name": "José de la Cruz",
+            "character": "Grandfather Matias",
+            "profile_path": ""
+        },
+        {
+            "name": "Antonio Barroso",
+            "character": "Little Guy",
+            "profile_path": "/6gthANx9sJ27kH2suYUnxH9dcJW.jpg"
+        },
+        {
+            "name": "Toni Sans",
+            "character": "Jumanji",
+            "profile_path": "/oSVzSzvgkpWu5P11QJZTDawM9xz.jpg"
+        },
+        {
+            "name": "Aitor Legardón",
+            "character": "Amigo Fiestero",
+            "profile_path": "/2Fh1H9KnczG1wtsDjnKR0GjxbFP.jpg"
+        },
+        {
+            "name": "Paco Moreno",
+            "character": "Charly",
+            "profile_path": "/vKvIAjoZNcGfnPeqqnAbh0plInw.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 80,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/2rbjf1vyrm7l",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysejikuar",
+            "url": "https://bysejikuar.com/e/28y5fxxghlyl",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/v/epn34yh73hs3",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Playmogo",
+            "url": "https://playmogo.com/e/xknfs5194yxb",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-02 01:42:46",
+    "created_at": "2026-11-02 01:42:46",
+    "updated_at": "2026-11-02 01:42:46",
+    "update_states": "No actualizado"
+}
