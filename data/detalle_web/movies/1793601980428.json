@@ -1,0 +1,153 @@
+{
+    "id": "1793601980428",
+    "tmdb_id": "10528",
+    "titulo": "Sherlock Holmes",
+    "original_name": "Sherlock Holmes",
+    "imagen": "/gf4eNEw79XVbKYDBEQKgWPezQNY.jpg",
+    "backdrop_path": "/85g84VtSf9tu1A9JqqruXEHspb7.jpg",
+    "type": "movie",
+    "year": "2009",
+    "etiquetas": [
+        "Acción",
+        "Misterio",
+        "Crimen"
+    ],
+    "calidad": [],
+    "rate": 7.20000000000000017763568394002504646778106689453125,
+    "sinopsis": "Mostrando unas habilidades para luchar tan letales como su legendaria agudeza intelectual, Holmes peleará como nunca para acabar con un nuevo enemigo y desenmarañar así un complot mortal que podría destruir el país.",
+    "cast": [
+        {
+            "name": "Robert Downey Jr.",
+            "character": "Sherlock Holmes",
+            "profile_path": "/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+        },
+        {
+            "name": "Jude Law",
+            "character": "Dr. John Watson",
+            "profile_path": "/6UadpSbfC39WMChAcdnNunzwDxv.jpg"
+        },
+        {
+            "name": "Rachel McAdams",
+            "character": "Irene Adler",
+            "profile_path": "/2DPh6KoNg0p57vvGc6N468zr3ct.jpg"
+        },
+        {
+            "name": "Mark Strong",
+            "character": "Lord Henry Blackwood",
+            "profile_path": "/3cNmatYsoifytg7TfQhI1EHow3v.jpg"
+        },
+        {
+            "name": "Eddie Marsan",
+            "character": "Inspector Lestrade",
+            "profile_path": "/9atfOgIxhfOKvv2be8HEp6SzOct.jpg"
+        },
+        {
+            "name": "Robert Maillet",
+            "character": "Dredger",
+            "profile_path": "/2P5kMGJm4iIJvocwuwM9IbJqoah.jpg"
+        },
+        {
+            "name": "Geraldine James",
+            "character": "Mrs. Hudson",
+            "profile_path": "/szGMl8MRuOPKb45xH36uH85xNhd.jpg"
+        },
+        {
+            "name": "Kelly Reilly",
+            "character": "Mary Morstan",
+            "profile_path": "/l8aQsryOQvxgX6SdZ4XtzU8KEXn.jpg"
+        },
+        {
+            "name": "William Houston",
+            "character": "Constable Clark",
+            "profile_path": "/4J4TG1dbyJcSs78hP9fU2x8jrJs.jpg"
+        },
+        {
+            "name": "Hans Matheson",
+            "character": "Lord Coward",
+            "profile_path": "/9LDEIOewvv16steeZW4BiwNmpw3.jpg"
+        },
+        {
+            "name": "James Fox",
+            "character": "Sir Thomas Rotheram",
+            "profile_path": "/fO11c8zUNNgNhYu4aLxgYiBoo6R.jpg"
+        },
+        {
+            "name": "William Hope",
+            "character": "Ambassador Standish",
+            "profile_path": "/blKMEeCftWVBPI2hqvzycmdE9nS.jpg"
+        },
+        {
+            "name": "Clive Russell",
+            "character": "Captain Tanner",
+            "profile_path": "/eC37Kmdo5YKNG2MyirCG4tWDxCS.jpg"
+        },
+        {
+            "name": "Oran Gurel",
+            "character": "Reordan",
+            "profile_path": "/8MPij8KedfOfEuDjiUskuRMSZPc.jpg"
+        },
+        {
+            "name": "David Garrick",
+            "character": "McMurdo",
+            "profile_path": "/pEXvS6ze6bKAYuM4EHxDeTXYEw.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 129,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/y8p01ylgpzoj",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysesukior",
+            "url": "https://bysesukior.com/e/a2qsjnqx2szh",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Playmogo",
+            "url": "https://playmogo.com/e/xrn4w4sqthpr",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/v/pkl9o79enmb1",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/uaom1h8b0oln",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/tyayip4prxxd",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Playmogo",
+            "url": "https://playmogo.com/e/whx9xmgc7vs3",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-02 01:46:20",
+    "created_at": "2026-11-02 01:46:20",
+    "updated_at": "2026-11-02 01:46:20",
+    "update_states": "No actualizado"
+}
