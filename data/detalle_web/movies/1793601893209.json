@@ -1,0 +1,127 @@
+{
+    "id": "1793601893209",
+    "tmdb_id": "1119090",
+    "titulo": "Soy Frankelda",
+    "original_name": "Soy Frankelda",
+    "imagen": "/bp7TxHXrUlTfCIiA0z2pdkX9X56.jpg",
+    "backdrop_path": "/pZr3484MENVj3m7toTUk7Cw4bnW.jpg",
+    "type": "movie",
+    "year": "2025",
+    "etiquetas": [
+        "Animación",
+        "Fantasía",
+        "Terror",
+        "Aventura",
+        "Familia"
+    ],
+    "calidad": [],
+    "rate": 8.0999999999999996447286321199499070644378662109375,
+    "sinopsis": "Frankelda, una decidida escritora mexicana del siglo XIX, viaja a su subconsciente para enfrentarse a los monstruos sobre los que ha escrito. Guiada por un príncipe atormentado, deberá restablecer el equilibrio entre ficción y realidad antes de que sea demasiado tarde.",
+    "cast": [
+        {
+            "name": "Mireya Mendoza",
+            "character": "Francisca Imelda / Frankelda (voice)",
+            "profile_path": "/cdXLLB9iA5Sk0oONgrljr9K722o.jpg"
+        },
+        {
+            "name": "Arturo Mercado Jr.",
+            "character": "Herneval (voice)",
+            "profile_path": "/aLNkQw9j3efOrYQ4FypkbjfwnpW.jpg"
+        },
+        {
+            "name": "Luis Leonardo Suarez",
+            "character": "Procustes (voice)",
+            "profile_path": "/tPpAPhd3X14Wow73KgWBca8MBd2.jpg"
+        },
+        {
+            "name": "Gaby Cárdenas",
+            "character": "Reina Veritena (voice)",
+            "profile_path": ""
+        },
+        {
+            "name": "Beto Castillo",
+            "character": "Rey Ficturo (voice)",
+            "profile_path": "/v2AohkP83DjtaZWs4g1UvKO95k9.jpg"
+        },
+        {
+            "name": "Magda Giner",
+            "character": "Abuela / Tololina (voice)",
+            "profile_path": "/oiS9eJGN91mzvf0iyGD4oPRczzV.jpg"
+        },
+        {
+            "name": "Carlos Segundo",
+            "character": "Ceimuth (voice)",
+            "profile_path": "/A5ErOFO68BnBjjAT28dvb3AXhZ0.jpg"
+        },
+        {
+            "name": "Idzi Dutkiewicz",
+            "character": "Mitélitas (voice)",
+            "profile_path": "/pcqmyvTmz1naOGyNbcBpkTRD4dX.jpg"
+        },
+        {
+            "name": "Gaby Cárdenas",
+            "character": "Veritena (voice)",
+            "profile_path": ""
+        },
+        {
+            "name": "Anahí Allue",
+            "character": "Totolina (canto) (voice)",
+            "profile_path": "/mX7yBJx0Uaje6yZey7IU3gWQzC7.jpg"
+        },
+        {
+            "name": "Sergio Carranza",
+            "character": "El Coco (voice)",
+            "profile_path": ""
+        },
+        {
+            "name": "Laura Torres",
+            "character": "ChupaSangre (voice)",
+            "profile_path": "/rgyZmfxigXyWAXoUSEhJFPqRJeI.jpg"
+        },
+        {
+            "name": "Karla Falcón",
+            "character": "Aluxastli (voice)",
+            "profile_path": ""
+        },
+        {
+            "name": "Roy Ambriz",
+            "character": "Dubium (voice)",
+            "profile_path": "/j52vFECWf6YaHGp5QgY7G56a3Rw.jpg"
+        },
+        {
+            "name": "Arturo Ambriz",
+            "character": "Timet (voice)",
+            "profile_path": "/2Bbylu4AwLpxftPsZwT6gcklgnK.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 104,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "Playmogo",
+            "url": "https://playmogo.com/e/xi44lu2zjgg2",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/75fes8dmmm7x",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/v/9fcbpnh21vsn",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-02 01:44:53",
+    "created_at": "2026-11-02 01:44:53",
+    "updated_at": "2026-11-02 01:44:53",
+    "update_states": "No actualizado"
+}
