@@ -1,0 +1,180 @@
+{
+    "id": "1793602034854",
+    "tmdb_id": "36647",
+    "titulo": "Blade",
+    "original_name": "Blade",
+    "imagen": "/dCsTsFX4PT9wewpKYaddwPHYI3A.jpg",
+    "backdrop_path": "/7NKfxJrQn053UJeLftlx4m4NTzo.jpg",
+    "type": "movie",
+    "year": "1998",
+    "etiquetas": [
+        "Terror",
+        "Acción"
+    ],
+    "calidad": [],
+    "rate": 6.9000000000000003552713678800500929355621337890625,
+    "sinopsis": "En un mundo cohabitado en guerra por hombres y vampiros Blade es un vampiro que, al contrario que el resto, no se alimenta de humanos, y que pretende acabar con la raza de \"seres superiores\" que mordieron a su madre cuando estaba embarazada.",
+    "cast": [
+        {
+            "name": "Wesley Snipes",
+            "character": "Blade",
+            "profile_path": "/oOjRfYKQOBS6XsRyXaZktmSQBph.jpg"
+        },
+        {
+            "name": "Stephen Dorff",
+            "character": "Deacon Frost",
+            "profile_path": "/bhlM1xNzBvc8jTw42YloUKlGTCL.jpg"
+        },
+        {
+            "name": "Kris Kristofferson",
+            "character": "Whistler",
+            "profile_path": "/efD2Uu8QYBN7ZWSFa79mm3Pkk4L.jpg"
+        },
+        {
+            "name": "N'Bushe Wright",
+            "character": "Karen",
+            "profile_path": "/jSXuSko6tZQ69LfJEMmNLiXEOS8.jpg"
+        },
+        {
+            "name": "Donal Logue",
+            "character": "Quinn",
+            "profile_path": "/5Rj850yVkIqsgCihtZLbkNSHbFb.jpg"
+        },
+        {
+            "name": "Udo Kier",
+            "character": "Dragonetti",
+            "profile_path": "/lIOGDMvrVHMgPXdhicLI41tY1zf.jpg"
+        },
+        {
+            "name": "Arly Jover",
+            "character": "Mercury",
+            "profile_path": "/zmznPrQ9GSZwcOIUT0c3GyETwrP.jpg"
+        },
+        {
+            "name": "Traci Lords",
+            "character": "Racquel",
+            "profile_path": "/y7xFjyOuxDUuqCGdhtP0Kttigil.jpg"
+        },
+        {
+            "name": "Kevin Patrick Walls",
+            "character": "Krieger",
+            "profile_path": "/9JtB85AKAaOGmNusftHtGsuYpee.jpg"
+        },
+        {
+            "name": "Tim Guinee",
+            "character": "Curtis Webb",
+            "profile_path": "/4ceLJK0hD8DhRBARGxfodluK8Bh.jpg"
+        },
+        {
+            "name": "Sanaa Lathan",
+            "character": "Vanessa",
+            "profile_path": "/t08niOXSbsqPUoUn8NwbjPtycFs.jpg"
+        },
+        {
+            "name": "Eric Edwards",
+            "character": "Pearl",
+            "profile_path": "/19AfQogqljLovvBrm0rIyb6LXKL.jpg"
+        },
+        {
+            "name": "Donna Wong",
+            "character": "Nurse",
+            "profile_path": ""
+        },
+        {
+            "name": "Carmen Thomas",
+            "character": "Senior Resident",
+            "profile_path": "/jNkb8JZStLEFLkkop1cu3XaPe9U.jpg"
+        },
+        {
+            "name": "Shannon Lee",
+            "character": "Resident",
+            "profile_path": "/FG5ZzhP4G94MFBHUTdUw5q6kPM.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 120,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/q379jhz042io",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysesukior",
+            "url": "https://bysesukior.com/e/j76maezcbh4a",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/v/gofyll9f9pir",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Playmogo",
+            "url": "https://playmogo.com/e/u3z78omeqe3r",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/v/xpar795sik6z",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/g7usw2t0br5d",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysesukior",
+            "url": "https://bysesukior.com/e/f3ljcnkada3e",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Playmogo",
+            "url": "https://playmogo.com/e/kzp3r8tr1e85",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/p5lif8j1tyoo",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysesukior",
+            "url": "https://bysesukior.com/e/pizxg6kx7xk8",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Playmogo",
+            "url": "https://playmogo.com/e/0s3yqzw014t6",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-02 01:47:14",
+    "created_at": "2026-11-02 01:47:14",
+    "updated_at": "2026-11-02 01:47:14",
+    "update_states": "No actualizado"
+}
