@@ -1,0 +1,146 @@
+{
+    "id": "1793602164580",
+    "tmdb_id": "105",
+    "titulo": "Regreso al futuro",
+    "original_name": "Back to the Future",
+    "imagen": "/owk40tn1sFJmC7bhamEpmhdZPKa.jpg",
+    "backdrop_path": "/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+    "type": "movie",
+    "year": "1985",
+    "etiquetas": [
+        "Aventura",
+        "Comedia",
+        "Ciencia ficción"
+    ],
+    "calidad": [],
+    "rate": 8.300000000000000710542735760100185871124267578125,
+    "sinopsis": "El adolescente Marty McFly es amigo de Doc, un científico al que todos toman por loco. Cuando Doc crea una máquina para viajar en el tiempo, un error fortuito hace que Marty llegue a 1955, año en el que sus futuros padres aún no se habían conocido. Después de impedir su primer encuentro, deberá conseguir que se conozcan y se casen; de lo contrario, su existencia no sería posible.",
+    "cast": [
+        {
+            "name": "Michael J. Fox",
+            "character": "Marty McFly",
+            "profile_path": "/2JB4FMgQmnhbBlQ4SxWFN9EIVDi.jpg"
+        },
+        {
+            "name": "Christopher Lloyd",
+            "character": "Emmett Brown",
+            "profile_path": "/nxVjpyb3UrfbPZnEyDNlQVlFAs5.jpg"
+        },
+        {
+            "name": "Crispin Glover",
+            "character": "George McFly",
+            "profile_path": "/imBnLpSXvg61qDDdEfvL6R4ITKt.jpg"
+        },
+        {
+            "name": "Lea Thompson",
+            "character": "Lorraine Baines",
+            "profile_path": "/85E9NTEfkRdUdK4kTrrnk5of25w.jpg"
+        },
+        {
+            "name": "Claudia Wells",
+            "character": "Jennifer Parker",
+            "profile_path": "/2VOsPvoV2vmEUd1O2KjW3kcN8JD.jpg"
+        },
+        {
+            "name": "Thomas F. Wilson",
+            "character": "Biff Tannen",
+            "profile_path": "/mVhm65ZVBIRIptWGiMIvoUy0Khi.jpg"
+        },
+        {
+            "name": "Marc McClure",
+            "character": "Dave McFly",
+            "profile_path": "/uscpMlkuwi3sgGJ6Hz8FhwvsrRk.jpg"
+        },
+        {
+            "name": "Wendie Jo Sperber",
+            "character": "Linda McFly",
+            "profile_path": "/dufqiCvSBQUxuHmMXcH6U8fZG4k.jpg"
+        },
+        {
+            "name": "George DiCenzo",
+            "character": "Sam Baines",
+            "profile_path": "/8L9fr5601BbUs3UzoCEELnxEKVm.jpg"
+        },
+        {
+            "name": "Frances Lee McCain",
+            "character": "Stella Baines",
+            "profile_path": "/8KL73kRxsLDdrXPuMfiPET1EqH6.jpg"
+        },
+        {
+            "name": "James Tolkan",
+            "character": "Mr. Strickland",
+            "profile_path": "/euEktcyVXm1pq5UBC16v3zuBq7J.jpg"
+        },
+        {
+            "name": "J.J. Cohen",
+            "character": "Skinhead",
+            "profile_path": "/RHjGEuSnDymcTUfjEvXb9CAQ9B.jpg"
+        },
+        {
+            "name": "Casey Siemaszko",
+            "character": "3-D",
+            "profile_path": "/7Ba8fFtFsh1SX01UxfIADtTTVl9.jpg"
+        },
+        {
+            "name": "Billy Zane",
+            "character": "Match",
+            "profile_path": "/wr4fuwLzQvW1G0MS7cmQ3ObFjvL.jpg"
+        },
+        {
+            "name": "Harry Waters, Jr.",
+            "character": "Marvin Berry",
+            "profile_path": "/leyDoL9wnYRFfUeDyOCourN6wxC.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 116,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/n7e3vtiaqsn1",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/v/g4etwb3llx6c",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/engs24zwi88l",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Playmogo",
+            "url": "https://playmogo.com/e/the0vfrglmmz",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/ui2cnaqgdrgz",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Playmogo",
+            "url": "https://playmogo.com/e/ikf644t097tb",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-02 01:49:24",
+    "created_at": "2026-11-02 01:49:24",
+    "updated_at": "2026-11-02 01:49:24",
+    "update_states": "No actualizado"
+}
