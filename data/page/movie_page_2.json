@@ -1,5 +1,26 @@
 [
     {
+        "id": "1793602109494",
+        "tmdb_id": "36586",
+        "titulo": "Blade II",
+        "imagen": "/4upKg9wQ6P86CjSlqI7wQ3ZM3Dz.jpg",
+        "type": "movie",
+        "year": "2002",
+        "etiquetas": [
+            "Fantasía",
+            "Terror",
+            "Acción",
+            "Suspense"
+        ],
+        "rate": 6.5999999999999996447286321199499070644378662109375,
+        "added_date": "2026-11-02 01:48:29",
+        "created_at": "2026-11-02 01:48:29",
+        "updated_at": "2026-11-02 01:48:30",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1793602034854",
         "tmdb_id": "36647",
         "titulo": "Blade",
