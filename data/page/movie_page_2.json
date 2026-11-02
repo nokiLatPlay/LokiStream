@@ -1,5 +1,25 @@
 [
     {
+        "id": "1793602138113",
+        "tmdb_id": "36648",
+        "titulo": "Blade III. Trinity",
+        "imagen": "/8GiUVbr73cHe68d4ybpxDbeReZP.jpg",
+        "type": "movie",
+        "year": "2004",
+        "etiquetas": [
+            "Acción",
+            "Terror",
+            "Ciencia ficción"
+        ],
+        "rate": 5.9000000000000003552713678800500929355621337890625,
+        "added_date": "2026-11-02 01:48:58",
+        "created_at": "2026-11-02 01:48:58",
+        "updated_at": "2026-11-02 01:49:00",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1793602109494",
         "tmdb_id": "36586",
         "titulo": "Blade II",
