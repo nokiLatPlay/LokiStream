@@ -1,5 +1,24 @@
 [
     {
+        "id": "1793602034854",
+        "tmdb_id": "36647",
+        "titulo": "Blade",
+        "imagen": "/dCsTsFX4PT9wewpKYaddwPHYI3A.jpg",
+        "type": "movie",
+        "year": "1998",
+        "etiquetas": [
+            "Terror",
+            "Acción"
+        ],
+        "rate": 6.9000000000000003552713678800500929355621337890625,
+        "added_date": "2026-11-02 01:47:14",
+        "created_at": "2026-11-02 01:47:14",
+        "updated_at": "2026-11-02 01:47:15",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1793602005891",
         "tmdb_id": "58574",
         "titulo": "Sherlock Holmes: Juego de sombras",
