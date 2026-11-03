@@ -1,5 +1,25 @@
 [
     {
+        "id": "1793687227149",
+        "tmdb_id": "928",
+        "titulo": "Gremlins II. La nueva generación",
+        "imagen": "/yskqXqp4qFUwfrInTleVCRfW1BS.jpg",
+        "type": "movie",
+        "year": "1990",
+        "etiquetas": [
+            "Comedia",
+            "Terror",
+            "Fantasía"
+        ],
+        "rate": 6.5,
+        "added_date": "2026-11-03 01:27:07",
+        "created_at": "2026-11-03 01:27:07",
+        "updated_at": "2026-11-03 01:27:12",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1793687176680",
         "tmdb_id": "927",
         "titulo": "Gremlins",
