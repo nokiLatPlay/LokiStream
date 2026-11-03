@@ -1,0 +1,167 @@
+{
+    "id": "1793687005999",
+    "tmdb_id": "944",
+    "titulo": "Arma letal IV",
+    "original_name": "Lethal Weapon 4",
+    "imagen": "/fXlPJpyxlbFRz0WXhQDoFdYBfXq.jpg",
+    "backdrop_path": "/u4d4vymNPo1UuJ6ihtyy9OQgco2.jpg",
+    "type": "movie",
+    "year": "1998",
+    "etiquetas": [
+        "Acción",
+        "Crimen",
+        "Suspense"
+    ],
+    "calidad": [],
+    "rate": 6.5999999999999996447286321199499070644378662109375,
+    "sinopsis": "La pareja de policías formada por Martin Riggs y Roger Murtaugh vuelve a la carga para enfrentarse a un capo de la mafia asiática que ha extendido sus actividades a Los Angeles. En la investigación les ayudará un joven policía responsable de los quebraderos de cabeza familiares de Murtaugh, ya que ha dejado embarazada a su hija. En casa de Riggs, las cosas también se complican cuando su compañera espera un hijo y amenaza con hacerle pasar por el altar.",
+    "cast": [
+        {
+            "name": "Mel Gibson",
+            "character": "Martin Riggs",
+            "profile_path": "/jnqHMaOslt8cef2atSmOpGRvNla.jpg"
+        },
+        {
+            "name": "Danny Glover",
+            "character": "Roger Murtaugh",
+            "profile_path": "/7ZyztVlG7OpqD0EhzG8iwYNcd1s.jpg"
+        },
+        {
+            "name": "Joe Pesci",
+            "character": "Leo Getz",
+            "profile_path": "/pEHQoL8yOndOq59iXlgsOpUTcTk.jpg"
+        },
+        {
+            "name": "Rene Russo",
+            "character": "Lorna Cole",
+            "profile_path": "/yWPSqrv3nfPPKC6I2S0sRTWZ5Yi.jpg"
+        },
+        {
+            "name": "Chris Rock",
+            "character": "Det.Lee Butters",
+            "profile_path": "/5lILFeBvX3sC0EfbHhrvMEc7bPD.jpg"
+        },
+        {
+            "name": "李连杰",
+            "character": "Wah Sing Ku",
+            "profile_path": "/c4s8INzU0ZAujCQ1YmphCmcsNzl.jpg"
+        },
+        {
+            "name": "Steve Kahan",
+            "character": "Captain Murphy",
+            "profile_path": "/qnarH2PdHTWsG7Hv2DlHSr7rj5h.jpg"
+        },
+        {
+            "name": "Kim Chan",
+            "character": "Benny Chan",
+            "profile_path": "/oV350fpOcbi2O2JVUSFYoz6Utw1.jpg"
+        },
+        {
+            "name": "Darlene Love",
+            "character": "Trish Murtaugh",
+            "profile_path": "/baTsmaZZhZyeBdwWtHcB5Q3rBq2.jpg"
+        },
+        {
+            "name": "Traci Wolfe",
+            "character": "Rianne Murtaugh",
+            "profile_path": "/lvPqdsmm3nYO9xjdH1e9kAMrsdo.jpg"
+        },
+        {
+            "name": "高雄",
+            "character": "Hong",
+            "profile_path": "/1Zsn0zSmo5AS5p527XDaZvD0i3y.jpg"
+        },
+        {
+            "name": "Jack Kehler",
+            "character": "State Department Man",
+            "profile_path": "/5vPBJw92OKtD5pNO0TTPZvvxooV.jpg"
+        },
+        {
+            "name": "Calvin Jung",
+            "character": "Detective Ng",
+            "profile_path": "/kQoOcL8d3R6svosZtgVCskSHS5V.jpg"
+        },
+        {
+            "name": "Damon Hines",
+            "character": "Nick Murtaugh",
+            "profile_path": "/lRAPiS5bAORffiQ8gHmEmP14ww7.jpg"
+        },
+        {
+            "name": "Ebonie Smith",
+            "character": "Carrie Murtaugh",
+            "profile_path": "/itJRhpA4qfkdYvtpfgWc5xRatHX.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 127,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/xkkcznq3j27n",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysesukior",
+            "url": "https://bysesukior.com/e/62t10t6pjru1",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/v/usutxhy1effu",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/biqea9jy0lxa",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysesukior",
+            "url": "https://bysesukior.com/e/qsl2q8ldmcfk",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Playmogo",
+            "url": "https://playmogo.com/e/u0fldbzcrhtt",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/f95drbw34jz0",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysesukior",
+            "url": "https://bysesukior.com/e/3vygja0wgkgn",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Playmogo",
+            "url": "https://playmogo.com/e/9keiumush0e7",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-03 01:23:25",
+    "created_at": "2026-11-03 01:23:25",
+    "updated_at": "2026-11-03 01:23:25",
+    "update_states": "No actualizado"
+}
