@@ -1,5 +1,24 @@
 [
     {
+        "id": "1793686879625",
+        "tmdb_id": "260346",
+        "titulo": "V3nganza",
+        "imagen": "/hCffcXqpH002rvSFt8AUnIC376s.jpg",
+        "type": "movie",
+        "year": "2014",
+        "etiquetas": [
+            "Suspense",
+            "Acción"
+        ],
+        "rate": 6.29999999999999982236431605997495353221893310546875,
+        "added_date": "2026-11-03 01:21:19",
+        "created_at": "2026-11-03 01:21:19",
+        "updated_at": "2026-11-03 01:21:20",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1793686835264",
         "tmdb_id": "82675",
         "titulo": "Venganza: Conexión Estambul",
