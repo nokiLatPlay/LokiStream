@@ -1,5 +1,25 @@
 [
     {
+        "id": "1793686835264",
+        "tmdb_id": "82675",
+        "titulo": "Venganza: Conexión Estambul",
+        "imagen": "/2RQkFjXnqLxc6F8H4VsitxvSyuk.jpg",
+        "type": "movie",
+        "year": "2012",
+        "etiquetas": [
+            "Acción",
+            "Crimen",
+            "Suspense"
+        ],
+        "rate": 6.4000000000000003552713678800500929355621337890625,
+        "added_date": "2026-11-03 01:20:35",
+        "created_at": "2026-11-03 01:20:35",
+        "updated_at": "2026-11-03 01:20:37",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1793686804149",
         "tmdb_id": "8681",
         "titulo": "Venganza",
