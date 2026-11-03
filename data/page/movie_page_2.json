@@ -1,5 +1,24 @@
 [
     {
+        "id": "1793686804149",
+        "tmdb_id": "8681",
+        "titulo": "Venganza",
+        "imagen": "/fO9HTzeL7sd346tybTfbd99Nv3R.jpg",
+        "type": "movie",
+        "year": "2008",
+        "etiquetas": [
+            "Acción",
+            "Suspense"
+        ],
+        "rate": 7.4000000000000003552713678800500929355621337890625,
+        "added_date": "2026-11-03 01:20:04",
+        "created_at": "2026-11-03 01:20:04",
+        "updated_at": "2026-11-03 01:20:07",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1793686775931",
         "tmdb_id": "196",
         "titulo": "Regreso al futuro III",
