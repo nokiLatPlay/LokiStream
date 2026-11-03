@@ -1,5 +1,25 @@
 [
     {
+        "id": "1793686918644",
+        "tmdb_id": "941",
+        "titulo": "Arma letal",
+        "imagen": "/bOmKVohi6yjxBnoP7XvX6tpXR56.jpg",
+        "type": "movie",
+        "year": "1987",
+        "etiquetas": [
+            "Acción",
+            "Suspense",
+            "Crimen"
+        ],
+        "rate": 7.29999999999999982236431605997495353221893310546875,
+        "added_date": "2026-11-03 01:21:58",
+        "created_at": "2026-11-03 01:21:58",
+        "updated_at": "2026-11-03 01:21:59",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1793686879625",
         "tmdb_id": "260346",
         "titulo": "V3nganza",
