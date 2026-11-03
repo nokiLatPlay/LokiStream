@@ -1,0 +1,153 @@
+{
+    "id": "1793687147326",
+    "tmdb_id": "122",
+    "titulo": "El señor de los anillos: El retorno del rey",
+    "original_name": "The Lord of the Rings: The Return of the King",
+    "imagen": "/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg",
+    "backdrop_path": "/ctiw6FZK4N36LmkjSklWEbuvlq9.jpg",
+    "type": "movie",
+    "year": "2003",
+    "etiquetas": [
+        "Aventura",
+        "Fantasía",
+        "Acción"
+    ],
+    "calidad": [],
+    "rate": 8.5,
+    "sinopsis": "Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de que se decida el destino de la Tierra Media, y por primera vez en mucho tiempo, parece que hay una pequeña esperanza. La atención del señor oscuro Sauron se centra ahora en Gondor, el último reducto de los hombres, y del cual Aragorn tendrá que reclamar el trono para ocupar su puesto de rey. Pero las fuerzas de Sauron ya se preparan para lanzar el último y definitivo ataque contra el reino de Gondor, la batalla que decidirá el destino de todos. Mientras tanto, Frodo y Sam continuan su camino hacia Mordor, a la espera de que Sauron no repare en que dos pequeños Hobbits se acercan cada día más al final de su camino, el Monte del Destino.",
+    "cast": [
+        {
+            "name": "Elijah Wood",
+            "character": "Frodo",
+            "profile_path": "/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg"
+        },
+        {
+            "name": "Ian McKellen",
+            "character": "Gandalf",
+            "profile_path": "/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg"
+        },
+        {
+            "name": "Viggo Mortensen",
+            "character": "Aragorn",
+            "profile_path": "/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
+        },
+        {
+            "name": "Sean Astin",
+            "character": "Sam",
+            "profile_path": "/As3ctGUtBYmG4zj4Ifyrcqd71HP.jpg"
+        },
+        {
+            "name": "Andy Serkis",
+            "character": "Gollum / Smeagol",
+            "profile_path": "/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg"
+        },
+        {
+            "name": "Dominic Monaghan",
+            "character": "Merry",
+            "profile_path": "/h3VEhi6cMaEdmmvoH3keWTv4vEb.jpg"
+        },
+        {
+            "name": "Billy Boyd",
+            "character": "Pippin",
+            "profile_path": "/jluumxuDr7rm2f97NFf9LydBdaZ.jpg"
+        },
+        {
+            "name": "John Noble",
+            "character": "Denethor",
+            "profile_path": "/t9dB8uU27sQDaEEFMiQvp5sbrXU.jpg"
+        },
+        {
+            "name": "David Wenham",
+            "character": "Faramir",
+            "profile_path": "/F7CWSqUE75HtrcdqIQ7UMZ9aTX.jpg"
+        },
+        {
+            "name": "Miranda Otto",
+            "character": "Éowyn",
+            "profile_path": "/szME1IBVTLgiKrO5D5wvOGnvUDW.jpg"
+        },
+        {
+            "name": "Bernard Hill",
+            "character": "Théoden",
+            "profile_path": "/5i8bj2nsTrFU2ddSynleOjapxor.jpg"
+        },
+        {
+            "name": "John Rhys-Davies",
+            "character": "Gimli",
+            "profile_path": "/qpXl1YnqQsUKYEDm3BB2zK5wbhe.jpg"
+        },
+        {
+            "name": "Orlando Bloom",
+            "character": "Legolas",
+            "profile_path": "/lwQoA0qJTCZ6l2FH6PjmhRQjiaB.jpg"
+        },
+        {
+            "name": "Hugo Weaving",
+            "character": "Elrond",
+            "profile_path": "/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg"
+        },
+        {
+            "name": "Liv Tyler",
+            "character": "Arwen",
+            "profile_path": "/rC6f9NoDN9l2tMgiEocIvnJi2tW.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 202,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/9sdzf40oj51p",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysesukior",
+            "url": "https://bysesukior.com/e/s9dubn65ck10",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/v/fecoovvft4ko",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/a3aujkg2pajv",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysesukior",
+            "url": "https://bysesukior.com/e/gqrosm1v0neq",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/t41vttvho4ou",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysesukior",
+            "url": "https://bysesukior.com/e/sw4sm69f8e0x",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-03 01:25:47",
+    "created_at": "2026-11-03 01:25:47",
+    "updated_at": "2026-11-03 01:25:47",
+    "update_states": "No actualizado"
+}
