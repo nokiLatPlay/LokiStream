@@ -72,7 +72,43 @@
                     "episode_number": 1,
                     "nombre": "Episodio 1",
                     "portada": "\/t4mOhF9S9GuvBlipTKhTHxfA4Ci.jpg",
-                    "enlaces": []
+                    "enlaces": [
+                        {
+                            "nombre": "Doodstream",
+                            "url": "https://playmogo.com/e/c5mhlon6tvpu",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https://hglamioz.com/e/bnixk7jn05nw",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidhide",
+                            "url": "https://callistanise.com/v/caopvnfzg28v",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Streamwish",
+                            "url": "https://hglamioz.com/e/8fk1ref7qpnv",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vudhide",
+                            "url": "https://callistanise.com/v/jni5drghsv4o",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ]
                 },
                 {
                     "episode_id": "S01E02",
