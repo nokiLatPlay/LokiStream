@@ -1,0 +1,174 @@
+{
+    "id": "1793686918644",
+    "tmdb_id": "941",
+    "titulo": "Arma letal",
+    "original_name": "Lethal Weapon",
+    "imagen": "/bOmKVohi6yjxBnoP7XvX6tpXR56.jpg",
+    "backdrop_path": "/xinJKZQiqkdJhoYc2SXuEnhehXz.jpg",
+    "type": "movie",
+    "year": "1987",
+    "etiquetas": [
+        "Acción",
+        "Suspense",
+        "Crimen"
+    ],
+    "calidad": [],
+    "rate": 7.29999999999999982236431605997495353221893310546875,
+    "sinopsis": "Antiguos soldados de la guerra del Vietnam han creado una poderosa red de tráfico de droga. Dos policias reciben el encargo de esclarecer un asesinato en el que esa peligrosa organización se halla implicada.",
+    "cast": [
+        {
+            "name": "Mel Gibson",
+            "character": "Martin Riggs",
+            "profile_path": "/jnqHMaOslt8cef2atSmOpGRvNla.jpg"
+        },
+        {
+            "name": "Danny Glover",
+            "character": "Roger Murtaugh",
+            "profile_path": "/7ZyztVlG7OpqD0EhzG8iwYNcd1s.jpg"
+        },
+        {
+            "name": "Gary Busey",
+            "character": "Mr. Joshua",
+            "profile_path": "/8H7Hlv6b7ZoK4jZKeLnc2i4pfPL.jpg"
+        },
+        {
+            "name": "Mitchell Ryan",
+            "character": "General Peter McAllister",
+            "profile_path": "/9XrbQfOjDeqjXJUHeSIA6OxJAJa.jpg"
+        },
+        {
+            "name": "Tom Atkins",
+            "character": "Michael Hunsaker",
+            "profile_path": "/HUgpbwK0k9ITvsofuUNloroakT.jpg"
+        },
+        {
+            "name": "Darlene Love",
+            "character": "Trish Murtaugh",
+            "profile_path": "/baTsmaZZhZyeBdwWtHcB5Q3rBq2.jpg"
+        },
+        {
+            "name": "Traci Wolfe",
+            "character": "Rianne Murtaugh",
+            "profile_path": "/lvPqdsmm3nYO9xjdH1e9kAMrsdo.jpg"
+        },
+        {
+            "name": "Jackie Swanson",
+            "character": "Amanda Hunsaker",
+            "profile_path": "/g1KOHjxel96XRpARmCZKiIMGwkK.jpg"
+        },
+        {
+            "name": "Damon Hines",
+            "character": "Nick Murtaugh",
+            "profile_path": "/lRAPiS5bAORffiQ8gHmEmP14ww7.jpg"
+        },
+        {
+            "name": "Ebonie Smith",
+            "character": "Carrie Murtaugh",
+            "profile_path": "/itJRhpA4qfkdYvtpfgWc5xRatHX.jpg"
+        },
+        {
+            "name": "Bill Kalmenson",
+            "character": "Beat Cop",
+            "profile_path": "/oxiwLtPqMle4wgNmgVvst7hXNVu.jpg"
+        },
+        {
+            "name": "Lycia Naff",
+            "character": "Dixie",
+            "profile_path": "/ssr49d7UTiyXmtoqLuo1Nht1Abh.jpg"
+        },
+        {
+            "name": "Patrick Cameron",
+            "character": "Cop #1",
+            "profile_path": "/hpP17378yPqgtnHu5wjEIchciGk.jpg"
+        },
+        {
+            "name": "Don Gordon",
+            "character": "Cop #2",
+            "profile_path": "/sZLQxv3LvUiRaf9XoaTuTbn3fjB.jpg"
+        },
+        {
+            "name": "Jimmie F. Skaggs",
+            "character": "Drug Dealer #1",
+            "profile_path": "/5XvRkiACcVb0D7NYcrFbHvfM0Nl.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 110,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/0yvayv61isne",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysesukior",
+            "url": "https://bysesukior.com/e/vpki2fhh2ud2",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Playmogo",
+            "url": "https://playmogo.com/e/ipvx8pyvfdvj",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/v/s5dc4p1axlkw",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/jjq3ymyw2a3e",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysesukior",
+            "url": "https://bysesukior.com/e/r5meoxigmirl",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Playmogo",
+            "url": "https://playmogo.com/e/wenlr3eqg144",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/fjy61v68knvk",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysesukior",
+            "url": "https://bysesukior.com/e/tozangqz7hsf",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Playmogo",
+            "url": "https://playmogo.com/e/2q5ihbsuu4p6",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-03 01:21:58",
+    "created_at": "2026-11-03 01:21:58",
+    "updated_at": "2026-11-03 01:21:58",
+    "update_states": "No actualizado"
+}
