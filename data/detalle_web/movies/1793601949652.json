@@ -99,7 +99,14 @@
             "type": "streaming",
             "language": "Latino",
             "quality": ""
-        }
+        },
+        {
+            "nombre": "Plexx",
+            "url": "https://plexx.sanzdavis4.workers.dev/?token=aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9lc3RlLW11bmRvLW5vLW1lLWhhcmEtbWFsYS1wZXJzb25hLTF4LTAyLi1jb21vLXVuYS1iYWxsZW5hLXZhcmFkYS16ZXJvY2FsY2FyZS0yMC8lNUJ3d3cubWVnYTEwODAuY29tJTVETEFMRVlFTkRBRUxPUklHRU5IRDEwODBQJTIwLm1wNA==",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+         }
     ],
     "added_date": "2026-11-02 01:45:49",
     "created_at": "2026-11-02 01:45:49",
