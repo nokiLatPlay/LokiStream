@@ -96,13 +96,13 @@
   "first_air_date": "2017-10-03",
   "last_air_date": "2021-03-30",
   "temporadas": [
-     {
+    {
       "temporada": "Temporada 1",
       "season_number": 1,
       "poster_path": "/m3hIaUdltvAjLJIwDrD6W8K26Pn.jpg",
       "capitulos": [
         {
-          "episode_id": "1347640",
+          "episode_id": "S01E01",
           "episode_number": 1,
           "nombre": "Asta y Yuno",
           "portada": "/iqfTpMZgkfNWCuJ5ARP9quFTfCy.jpg",
@@ -131,7 +131,7 @@
           ]
         },
         {
-          "episode_id": "1378799",
+          "episode_id": "S01E02",
           "episode_number": 2,
           "nombre": "El juramento del muchacho",
           "portada": "/mgjnfc5WNJHqc1fcjs142i4FQoV.jpg",
@@ -160,7 +160,7 @@
           ]
         },
         {
-          "episode_id": "1378975",
+          "episode_id": "S01E03",
           "episode_number": 3,
           "nombre": "¡Hacia la capital del Reino del Trébol!",
           "portada": "/lNpLK24kmmBBKagbiUxrjDXXy6e.jpg",
@@ -189,7 +189,7 @@
           ]
         },
         {
-          "episode_id": "1384162",
+          "episode_id": "S01E04",
           "episode_number": 4,
           "nombre": "El examen de caballería",
           "portada": "/lPQ74xbdjcIeAKzTca8lEP2oa6M.jpg",
@@ -225,7 +225,7 @@
           ]
         },
         {
-          "episode_id": "1387474",
+          "episode_id": "S01E05",
           "episode_number": 5,
           "nombre": "El camino hasta ser Rey Mago",
           "portada": "/rz9OAKCRx9MS4jHqPceUa4oChU2.jpg",
@@ -254,7 +254,7 @@
           ]
         },
         {
-          "episode_id": "1390856",
+          "episode_id": "S01E06",
           "episode_number": 6,
           "nombre": "Los Toros Negros",
           "portada": "/8tNu4mIHSzpcf5fsWWmF7lYabsn.jpg",
@@ -290,7 +290,7 @@
           ]
         },
         {
-          "episode_id": "1390857",
+          "episode_id": "S01E07",
           "episode_number": 7,
           "nombre": "La otra novata",
           "portada": "/1Y4O6wSTG1NGfDzaFebcvXDSLnk.jpg",
@@ -326,7 +326,7 @@
           ]
         },
         {
-          "episode_id": "1392855",
+          "episode_id": "S01E08",
           "episode_number": 8,
           "nombre": "La primera misión",
           "portada": "/kJ5jRPh2pCj6Yx6Vl6h27CxwTMF.jpg",
@@ -362,7 +362,7 @@
           ]
         },
         {
-          "episode_id": "1395541",
+          "episode_id": "S01E09",
           "episode_number": 9,
           "nombre": "Bestia",
           "portada": "/7lj3ih6Ox1bYiWyoz8mn10DckX2.jpg",
@@ -391,7 +391,7 @@
           ]
         },
         {
-          "episode_id": "1401846",
+          "episode_id": "S01E10",
           "episode_number": 10,
           "nombre": "Lo que proteger",
           "portada": "/lflcDTxXhLMbVth97l5ZVkBK1Am.jpg",
@@ -427,7 +427,7 @@
           ]
         },
         {
-          "episode_id": "1404851",
+          "episode_id": "S01E11",
           "episode_number": 11,
           "nombre": "Lo sucedido en la ciudad del castillo",
           "portada": "/3V29WNQbIUErUoSZZ8oNZsrjhp7.jpg",
@@ -463,7 +463,7 @@
           ]
         },
         {
-          "episode_id": "1405411",
+          "episode_id": "S01E12",
           "episode_number": 12,
           "nombre": "Lo que ve el Rey Mago",
           "portada": "/fsNSRC15s3AR4LDLsMoQvSqtsa6.jpg",
@@ -492,7 +492,7 @@
           ]
         },
         {
-          "episode_id": "1410602",
+          "episode_id": "S01E13",
           "episode_number": 13,
           "nombre": "Lo que ve el Rey Mago, continuación",
           "portada": "/fCe54JT3DLt75BTA82tTnIbaLwK.jpg",
@@ -528,7 +528,7 @@
           ]
         },
         {
-          "episode_id": "1417303",
+          "episode_id": "S01E14",
           "episode_number": 14,
           "nombre": "Mazmorra",
           "portada": "/dTwAmzPDmYgFY8f93vbuMDH3fJb.jpg",
@@ -557,7 +557,7 @@
           ]
         },
         {
-          "episode_id": "1417304",
+          "episode_id": "S01E15",
           "episode_number": 15,
           "nombre": "El guerrero mágico del Diamante",
           "portada": "/lskySJ0ixxB3fEdkfe7y8xbSAqF.jpg",
@@ -586,7 +586,7 @@
           ]
         },
         {
-          "episode_id": "1422908",
+          "episode_id": "S01E16",
           "episode_number": 16,
           "nombre": "Compañeros",
           "portada": "/qFGrOUls64SLs9mxcYbPD7G1kGp.jpg",
@@ -622,7 +622,7 @@
           ]
         },
         {
-          "episode_id": "1425948",
+          "episode_id": "S01E17",
           "episode_number": 17,
           "nombre": "Destructor",
           "portada": "/k4AItwytmTFZ7vVOOqbp56fv8l.jpg",
@@ -658,7 +658,7 @@
           ]
         },
         {
-          "episode_id": "1426194",
+          "episode_id": "S01E18",
           "episode_number": 18,
           "nombre": "Recuerdos del pasado",
           "portada": "/aLUsnh3kS5jNQ2uKlRBYRYn5Vzr.jpg",
@@ -694,7 +694,7 @@
           ]
         },
         {
-          "episode_id": "1432216",
+          "episode_id": "S01E19",
           "episode_number": 19,
           "nombre": "Destrucción y salvación",
           "portada": "/oTE2JE8KXDAJGfnboNSSyVap1RA.jpg",
@@ -723,7 +723,7 @@
           ]
         },
         {
-          "episode_id": "1432217",
+          "episode_id": "S01E20",
           "episode_number": 20,
           "nombre": "Runión en la capital",
           "portada": "/s0CyH1FCYihQ5blGGGfOKKle9ni.jpg",
@@ -752,7 +752,7 @@
           ]
         },
         {
-          "episode_id": "1432218",
+          "episode_id": "S01E21",
           "episode_number": 21,
           "nombre": "Disturbios en la capital",
           "portada": "/gBCfSSH56cOUrBxXzoHF84fV96d.jpg",
@@ -781,7 +781,7 @@
           ]
         },
         {
-          "episode_id": "1444656",
+          "episode_id": "S01E22",
           "episode_number": 22,
           "nombre": "Danza bulliciosa de magia",
           "portada": "/qafcCaB2VzOoaZEzJktiLks7WR8.jpg",
@@ -810,7 +810,7 @@
           ]
         },
         {
-          "episode_id": "1444716",
+          "episode_id": "S01E23",
           "episode_number": 23,
           "nombre": "El rey león carmesí",
           "portada": "/2xrQPBM9XRvQ0h5xFmOMnVw3CW0.jpg",
@@ -839,7 +839,7 @@
           ]
         },
         {
-          "episode_id": "1444717",
+          "episode_id": "S01E24",
           "episode_number": 24,
           "nombre": "Blackout",
           "portada": "/6YGyGDLZGHpbx8T8OkpxgG28GKv.jpg",
@@ -868,7 +868,7 @@
           ]
         },
         {
-          "episode_id": "1461005",
+          "episode_id": "S01E25",
           "episode_number": 25,
           "nombre": "Adversidad",
           "portada": "/vCNvbxpyYjBYWJ0iHxymUfvv2m2.jpg",
@@ -897,7 +897,7 @@
           ]
         },
         {
-          "episode_id": "1464429",
+          "episode_id": "S01E26",
           "episode_number": 26,
           "nombre": "Bestia herida",
           "portada": "/jOJLsmDooo11MSUeQRHMXwzN1Wr.jpg",
@@ -933,7 +933,7 @@
           ]
         },
         {
-          "episode_id": "1468454",
+          "episode_id": "S01E27",
           "episode_number": 27,
           "nombre": "Luz",
           "portada": "/c91Pd5K7CwwkcHDIxykyA6Iu2vJ.jpg",
@@ -969,7 +969,7 @@
           ]
         },
         {
-          "episode_id": "1472332",
+          "episode_id": "S01E28",
           "episode_number": 28,
           "nombre": "La persona en mi corazón",
           "portada": "/vnBti0nmWaecswtnSDj8wdfJzYa.jpg",
@@ -998,7 +998,7 @@
           ]
         },
         {
-          "episode_id": "1477390",
+          "episode_id": "S01E29",
           "episode_number": 29,
           "nombre": "Camino",
           "portada": "/4EVBZXZbV4HJYjNXkUsQywC0X07.jpg",
@@ -1027,7 +1027,7 @@
           ]
         },
         {
-          "episode_id": "1481023",
+          "episode_id": "S01E30",
           "episode_number": 30,
           "nombre": "El mago del espejo",
           "portada": "/f22BYPzFEJa9ApjsmmQAT9KGTj0.jpg",
@@ -1056,7 +1056,7 @@
           ]
         },
         {
-          "episode_id": "1484640",
+          "episode_id": "S01E31",
           "episode_number": 31,
           "nombre": "Persecución en la nieve",
           "portada": "/4fSeA6UL1yDxa2MYmW6KJzaORog.jpg",
@@ -1092,7 +1092,7 @@
           ]
         },
         {
-          "episode_id": "1489947",
+          "episode_id": "S01E32",
           "episode_number": 32,
           "nombre": "Brotes de tres hojas",
           "portada": "/4CJ2Ex93jov4YSb6jIn9aNjNw5i.jpg",
@@ -1121,7 +1121,7 @@
           ]
         },
         {
-          "episode_id": "1494327",
+          "episode_id": "S01E33",
           "episode_number": 33,
           "nombre": "En el futuro ayudará a alguien",
           "portada": "/lgPOxPFeT9c7OPLxTbdBqMoLNZZ.jpg",
@@ -1157,7 +1157,7 @@
           ]
         },
         {
-          "episode_id": "1497936",
+          "episode_id": "S01E34",
           "episode_number": 34,
           "nombre": "Magia de Luz contra Magia de Oscuridad",
           "portada": "/97EwzWeJMIgExiqQfpm1TrcvI0o.jpg",
@@ -1186,7 +1186,7 @@
           ]
         },
         {
-          "episode_id": "1501126",
+          "episode_id": "S01E35",
           "episode_number": 35,
           "nombre": "Luz del juicio",
           "portada": "/7aVwoJixXXfwDQrYZCmKfx1uhej.jpg",
@@ -1215,7 +1215,7 @@
           ]
         },
         {
-          "episode_id": "1504876",
+          "episode_id": "S01E36",
           "episode_number": 36,
           "nombre": "Los tres ojos",
           "portada": "/40bbQ7PNdsBgn2axrBtlqRoMZXI.jpg",
@@ -1244,7 +1244,7 @@
           ]
         },
         {
-          "episode_id": "1509054",
+          "episode_id": "S01E37",
           "episode_number": 37,
           "nombre": "Aquel sin magia",
           "portada": "/jXAbKGTju1XaKEsk5h8bXMzk6DR.jpg",
@@ -1280,7 +1280,7 @@
           ]
         },
         {
-          "episode_id": "1511583",
+          "episode_id": "S01E38",
           "episode_number": 38,
           "nombre": "Reunión de capitanes",
           "portada": "/6YxXjOQfWoh3hnYp21m168tGsBW.jpg",
@@ -1309,7 +1309,7 @@
           ]
         },
         {
-          "episode_id": "1514966",
+          "episode_id": "S01E39",
           "episode_number": 39,
           "nombre": "Saludo de tres hojas",
           "portada": "/jILMZmhBkAC9aGJBEEmjbOMKnZs.jpg",
@@ -1345,7 +1345,7 @@
           ]
         },
         {
-          "episode_id": "1517794",
+          "episode_id": "S01E40",
           "episode_number": 40,
           "nombre": "Los Toros Negros en la playa",
           "portada": "/dpArb9AnKEAjzoNrajPZ8GZhSiQ.jpg",
@@ -1381,7 +1381,7 @@
           ]
         },
         {
-          "episode_id": "1524130",
+          "episode_id": "S01E41",
           "episode_number": 41,
           "nombre": "El crecimiento de la chica del agua",
           "portada": "/68pxa4X0CsaGFAs5N3T1DNFLEBU.jpg",
@@ -1417,7 +1417,7 @@
           ]
         },
         {
-          "episode_id": "1529283",
+          "episode_id": "S01E42",
           "episode_number": 42,
           "nombre": "Templo Submarino",
           "portada": "/uXzO2MAKRIOGymiKkmiu3sWRRYr.jpg",
@@ -1453,7 +1453,7 @@
           ]
         },
         {
-          "episode_id": "1534524",
+          "episode_id": "S01E43",
           "episode_number": 43,
           "nombre": "Battle Royale en el templo",
           "portada": "/lJmNtOY4Czho7CHZ6JG6AxxdnNo.jpg",
@@ -1489,7 +1489,7 @@
           ]
         },
         {
-          "episode_id": "1541853",
+          "episode_id": "S01E44",
           "episode_number": 44,
           "nombre": "Fuego honesto y rayos salvajes",
           "portada": "/eGaDbKUjBMqPJYLi5e78xwixlhL.jpg",
@@ -1518,7 +1518,7 @@
           ]
         },
         {
-          "episode_id": "1548002",
+          "episode_id": "S01E45",
           "episode_number": 45,
           "nombre": "El hombre que nunca se rinde",
           "portada": "/1tfVhMvsBARdK05dRXOfYf4IbdX.jpg",
@@ -1554,7 +1554,7 @@
           ]
         },
         {
-          "episode_id": "1553830",
+          "episode_id": "S01E46",
           "episode_number": 46,
           "nombre": "Despertar",
           "portada": "/h5R65RxlaavHyINXrBLMCVhp4ZM.jpg",
@@ -1583,7 +1583,7 @@
           ]
         },
         {
-          "episode_id": "1553831",
+          "episode_id": "S01E47",
           "episode_number": 47,
           "nombre": "Arma única",
           "portada": "/sudnNR86qmefBMAy86lUi25f1rQ.jpg",
@@ -1612,7 +1612,7 @@
           ]
         },
         {
-          "episode_id": "1553833",
+          "episode_id": "S01E48",
           "episode_number": 48,
           "nombre": "Desesperación contra esperanza",
           "portada": "/qVxIq5HYOQ9lV5sfvGExTepQitv.jpg",
@@ -1648,7 +1648,7 @@
           ]
         },
         {
-          "episode_id": "1553834",
+          "episode_id": "S01E49",
           "episode_number": 49,
           "nombre": "Más allá del límite",
           "portada": "/sOALwJjY73JOlmvPnirMFYTo2Mz.jpg",
@@ -1677,7 +1677,7 @@
           ]
         },
         {
-          "episode_id": "1553835",
+          "episode_id": "S01E50",
           "episode_number": 50,
           "nombre": "Fin de la batalla, fin de la desesperación",
           "portada": "/7wD74CGeOkVvFkaCG9VnYNdqAH2.jpg",
@@ -1713,7 +1713,7 @@
           ]
         },
         {
-          "episode_id": "1553836",
+          "episode_id": "S01E51",
           "episode_number": 51,
           "nombre": "Señales de justicia",
           "portada": "/tlvWEa9av79sLv3iG4wnUYH7nV7.jpg",
@@ -1735,7 +1735,7 @@
           ]
         },
         {
-          "episode_id": "1583951",
+          "episode_id": "S01E52",
           "episode_number": 52,
           "nombre": "Gana el más fuerte",
           "portada": "/ytwnXZrEjxASActbNhm7fxYBxAC.jpg",
@@ -1764,7 +1764,7 @@
           ]
         },
         {
-          "episode_id": "1591329",
+          "episode_id": "S01E53",
           "episode_number": 53,
           "nombre": "Bajo la máscara",
           "portada": "/kZzMUux5MiSO4orwDWWNDOx5Z9k.jpg",
@@ -1786,7 +1786,7 @@
           ]
         },
         {
-          "episode_id": "1595747",
+          "episode_id": "S01E54",
           "episode_number": 54,
           "nombre": "Nunca más",
           "portada": "/zC0VhvhU8qCpZW7Mp7PyMtXmKyQ.jpg",
@@ -1815,7 +1815,7 @@
           ]
         },
         {
-          "episode_id": "1601736",
+          "episode_id": "S01E55",
           "episode_number": 55,
           "nombre": "El hombre llamado Fanzell",
           "portada": "/34cvG4HHC9uup1KaYOchi7CI0XE.jpg",
@@ -1844,7 +1844,7 @@
           ]
         },
         {
-          "episode_id": "1607959",
+          "episode_id": "S01E56",
           "episode_number": 56,
           "nombre": "El hombre llamado Fanzell, continuación",
           "portada": "/fqOrhYR8RSOZEkySSeSsmFANa4K.jpg",
@@ -1880,7 +1880,7 @@
           ]
         },
         {
-          "episode_id": "1607998",
+          "episode_id": "S01E57",
           "episode_number": 57,
           "nombre": "Infiltración",
           "portada": "/miX63NGwQz8roMPMZ1dKjGZnEzX.jpg",
@@ -1916,7 +1916,7 @@
           ]
         },
         {
-          "episode_id": "1607999",
+          "episode_id": "S01E58",
           "episode_number": 58,
           "nombre": "Decisiones en el campo de batalla",
           "portada": "/2VjXHRetfQX7KTtwMeXzJmpNyay.jpg",
@@ -1945,7 +1945,7 @@
           ]
         },
         {
-          "episode_id": "1613346",
+          "episode_id": "S01E59",
           "episode_number": 59,
           "nombre": "Llamas de odio",
           "portada": "/97reQbDmf7Fh5GQAVYbMyfJTYms.jpg",
@@ -1974,7 +1974,7 @@
           ]
         },
         {
-          "episode_id": "1628989",
+          "episode_id": "S01E60",
           "episode_number": 60,
           "nombre": "La expiación del desertor",
           "portada": "/ylNqQ3naDHG9iXA33RhrD2ZZylw.jpg",
@@ -2010,7 +2010,7 @@
           ]
         },
         {
-          "episode_id": "1634806",
+          "episode_id": "S01E61",
           "episode_number": 61,
           "nombre": "El mundo prometido",
           "portada": "/aJFuN2bjRiTdiWrO3TcaAdLnTS7.jpg",
@@ -2046,7 +2046,7 @@
           ]
         },
         {
-          "episode_id": "1639300",
+          "episode_id": "S01E62",
           "episode_number": 62,
           "nombre": "La persona que te hace mejorar",
           "portada": "/cuMlsSTU6FwaP9OqMunrkqbK08M.jpg",
@@ -2082,7 +2082,7 @@
           ]
         },
         {
-          "episode_id": "1639301",
+          "episode_id": "S01E63",
           "episode_number": 63,
           "nombre": "Desesperación contra esperanza",
           "portada": "/l9vck3EkCbMPBbNg85uQEU9uTK5.jpg",
@@ -2111,7 +2111,7 @@
           ]
         },
         {
-          "episode_id": "1639302",
+          "episode_id": "S01E64",
           "episode_number": 64,
           "nombre": "El hilo rojo del destino",
           "portada": "/pbEcNdqGtkW3fnEToETnFFtIwNQ.jpg",
@@ -2147,7 +2147,7 @@
           ]
         },
         {
-          "episode_id": "1639303",
+          "episode_id": "S01E65",
           "episode_number": 65,
           "nombre": "Regresamos",
           "portada": "/wznXXtrP2Fib68WhMuLi0bxwORd.jpg",
@@ -2176,7 +2176,7 @@
           ]
         },
         {
-          "episode_id": "1673387",
+          "episode_id": "S01E66",
           "episode_number": 66,
           "nombre": "El secreto de Ojo de la Noche Blanca",
           "portada": "/xc0sKTuYyaLK7xxJuQt2JuhKpX5.jpg",
@@ -2205,7 +2205,7 @@
           ]
         },
         {
-          "episode_id": "1673388",
+          "episode_id": "S01E67",
           "episode_number": 67,
           "nombre": "Cita doble en el festival",
           "portada": "/maJslpBLvPiebrmeLUH3PRaPOfu.jpg",
@@ -2234,7 +2234,7 @@
           ]
         },
         {
-          "episode_id": "1673389",
+          "episode_id": "S01E68",
           "episode_number": 68,
           "nombre": "¡¿Batalla a Muerte?! Yami contra Jack",
           "portada": "/8iJBZNECbTGY8My49C4QqhZtWNT.jpg",
@@ -2270,7 +2270,7 @@
           ]
         },
         {
-          "episode_id": "1673390",
+          "episode_id": "S01E69",
           "episode_number": 69,
           "nombre": "La melancolía de la rosa salvaje",
           "portada": "/rpI9hrw51WVmrafdwyiZU8Aa6Ki.jpg",
@@ -2306,7 +2306,7 @@
           ]
         },
         {
-          "episode_id": "1673391",
+          "episode_id": "S01E70",
           "episode_number": 70,
           "nombre": "Dos caras nuevas",
           "portada": "/3C0IWHeQQhv005JZCx30KVKifHF.jpg",
@@ -2335,7 +2335,7 @@
           ]
         },
         {
-          "episode_id": "1710689",
+          "episode_id": "S01E71",
           "episode_number": 71,
           "nombre": "Leona imbatida sin corona",
           "portada": "/2l0W3awVqHNu6ZvMjEy0IlfZUN4.jpg",
@@ -2371,7 +2371,7 @@
           ]
         },
         {
-          "episode_id": "1710690",
+          "episode_id": "S01E72",
           "episode_number": 72,
           "nombre": "El fuego de Santelmo",
           "portada": "/5aOxMuzT8GNjqpub8lT4yLVv63p.jpg",
@@ -2400,7 +2400,7 @@
           ]
         },
         {
-          "episode_id": "1710691",
+          "episode_id": "S01E73",
           "episode_number": 73,
           "nombre": "Examen de selección de los Caballeros Reales",
           "portada": "/y3ATxrLAmtPG1Mr9GqR1nwpUTxM.jpg",
@@ -2436,7 +2436,7 @@
           ]
         },
         {
-          "episode_id": "1725834",
+          "episode_id": "S01E74",
           "episode_number": 74,
           "nombre": "Flor de determinación",
           "portada": "/jtsIUmzOtyPZQi7AeQ4tGpD7SW1.jpg",
@@ -2472,7 +2472,7 @@
           ]
         },
         {
-          "episode_id": "1725835",
+          "episode_id": "S01E75",
           "episode_number": 75,
           "nombre": "Batalla Feroz",
           "portada": "/49Csu7tXP03yqwrlxqu5CE7OSoA.jpg",
@@ -2501,7 +2501,7 @@
           ]
         },
         {
-          "episode_id": "1725836",
+          "episode_id": "S01E76",
           "episode_number": 76,
           "nombre": "El mago X",
           "portada": "/3ypbkrgCjK8kKCzWzWp0f45PmZb.jpg",
@@ -2530,7 +2530,7 @@
           ]
         },
         {
-          "episode_id": "1744670",
+          "episode_id": "S01E77",
           "episode_number": 77,
           "nombre": "El destino",
           "portada": "/lYfdIId9uxQ0OJgUY39RGMf8vgd.jpg",
@@ -2559,7 +2559,7 @@
           ]
         },
         {
-          "episode_id": "1750237",
+          "episode_id": "S01E78",
           "episode_number": 78,
           "nombre": "La Trampa del Plebeyo",
           "portada": "/zXNPqIJhgyfQnec0qIdBTozkuQn.jpg",
@@ -2588,7 +2588,7 @@
           ]
         },
         {
-          "episode_id": "1755075",
+          "episode_id": "S01E79",
           "episode_number": 79,
           "nombre": "El delincuente contra los musculitos",
           "portada": "/dccJ1Gb9X7u7jK5ox8eMIRxsgT3.jpg",
@@ -2624,7 +2624,7 @@
           ]
         },
         {
-          "episode_id": "1767655",
+          "episode_id": "S01E80",
           "episode_number": 80,
           "nombre": "El hermano modelo contra el hermano mediocre",
           "portada": "/tWTrssrgy2wZfveTPNylBQgiUev.jpg",
@@ -2660,7 +2660,7 @@
           ]
         },
         {
-          "episode_id": "1767657",
+          "episode_id": "S01E81",
           "episode_number": 81,
           "nombre": "La forma de vida de cierto hombre",
           "portada": "/eoaG1MsnwJcJSvAd4o5Db1weDr8.jpg",
@@ -2696,7 +2696,7 @@
           ]
         },
         {
-          "episode_id": "1784521",
+          "episode_id": "S01E82",
           "episode_number": 82,
           "nombre": "¡Especial Petit Clover! ¡Charmy la demonio!",
           "portada": "/fjOmOGI8qyVFU5eccjLqkLo2mi4.jpg",
@@ -2725,7 +2725,7 @@
           ]
         },
         {
-          "episode_id": "1784522",
+          "episode_id": "S01E83",
           "episode_number": 83,
           "nombre": "Lo grabaré en vuestra memoria",
           "portada": "/kfWIJLdf1utUS5SLbqO7BK83495.jpg",
@@ -2761,7 +2761,7 @@
           ]
         },
         {
-          "episode_id": "1784523",
+          "episode_id": "S01E84",
           "episode_number": 84,
           "nombre": "Vencedores",
           "portada": "/ssqDBptQyoMGxGTGrGTlMGpW1x6.jpg",
@@ -2790,7 +2790,7 @@
           ]
         },
         {
-          "episode_id": "1799948",
+          "episode_id": "S01E85",
           "episode_number": 85,
           "nombre": "Fraternizar al Desnudo",
           "portada": "/j8036xB728bq3vbigJLak1Z381F.jpg",
@@ -2819,7 +2819,7 @@
           ]
         },
         {
-          "episode_id": "1807850",
+          "episode_id": "S01E86",
           "episode_number": 86,
           "nombre": "Yami y Vangeance",
           "portada": "/lgeS3Py5sZNI4FqbTvza5PBTxFQ.jpg",
@@ -2848,7 +2848,7 @@
           ]
         },
         {
-          "episode_id": "1811175",
+          "episode_id": "S01E87",
           "episode_number": 87,
           "nombre": "Se forman los Caballeros Reales",
           "portada": "/zoEYSZe33EBaeyEKa84stxpUONF.jpg",
@@ -2877,7 +2877,7 @@
           ]
         },
         {
-          "episode_id": "1823554",
+          "episode_id": "S01E88",
           "episode_number": 88,
           "nombre": "¡Entrada a la guardia de Ojo de la Noche Blanca!",
           "portada": "/usWTUBjToEOQlol469b3Mtt4VeA.jpg",
@@ -2913,7 +2913,7 @@
           ]
         },
         {
-          "episode_id": "1823555",
+          "episode_id": "S01E89",
           "episode_number": 89,
           "nombre": "La base de los Toros Negros",
           "portada": "/3VXx5JBX1GbVMwsPJIXrqQchpZL.jpg",
@@ -2949,7 +2949,7 @@
           ]
         },
         {
-          "episode_id": "1823556",
+          "episode_id": "S01E90",
           "episode_number": 90,
           "nombre": "Una batalla mágica demente",
           "portada": "/5fcbB3HVnxqzWnYkqXRMxgjGXWt.jpg",
@@ -2985,7 +2985,7 @@
           ]
         },
         {
-          "episode_id": "1842612",
+          "episode_id": "S01E91",
           "episode_number": 91,
           "nombre": "Mereleona contra Rhya la Perfidia",
           "portada": "/wqrCB7mbOlOWHaSIH0DPn6u8kNG.jpg",
@@ -3021,7 +3021,7 @@
           ]
         },
         {
-          "episode_id": "1847224",
+          "episode_id": "S01E92",
           "episode_number": 92,
           "nombre": "El Rey Mago contra el líder de Ojo de la Noche Blanca",
           "portada": "/e8S6xQv7CNmZTAZe4RrleXmHXl6.jpg",
@@ -3050,7 +3050,7 @@
           ]
         },
         {
-          "episode_id": "1853536",
+          "episode_id": "S01E93",
           "episode_number": 93,
           "nombre": "Julius Novachrono",
           "portada": "/xklcUFWRYbRcNdcCL3KmEdus6WJ.jpg",
@@ -3079,7 +3079,7 @@
           ]
         },
         {
-          "episode_id": "1853537",
+          "episode_id": "S01E94",
           "episode_number": 94,
           "nombre": "NUEVO FUTURO",
           "portada": "/77KuRmcqU48mkTrgXWsCcCdYxL4.jpg",
@@ -3108,7 +3108,7 @@
           ]
         },
         {
-          "episode_id": "1853538",
+          "episode_id": "S01E95",
           "episode_number": 95,
           "nombre": "Reencarnación",
           "portada": "/zc6DFHP7vKg0gpnIN8p5jx1O8cQ.jpg",
@@ -3137,7 +3137,7 @@
           ]
         },
         {
-          "episode_id": "1879028",
+          "episode_id": "S01E96",
           "episode_number": 96,
           "nombre": "El capitán de los Toros Negros contra la Rosa Carmesí",
           "portada": "/7fhP1cMS3xiFLCDTVyYCu3vWYR1.jpg",
@@ -3173,7 +3173,7 @@
           ]
         },
         {
-          "episode_id": "1879029",
+          "episode_id": "S01E97",
           "episode_number": 97,
           "nombre": "En completa desventaja",
           "portada": "/deKEWmFL2zzWq19gtWxKseZBDN1.jpg",
@@ -3202,7 +3202,7 @@
           ]
         },
         {
-          "episode_id": "1895650",
+          "episode_id": "S01E98",
           "episode_number": 98,
           "nombre": "El león durmiente",
           "portada": "/icMR32cRWzS1DLkm0wMKPdklvLH.jpg",
@@ -3238,7 +3238,7 @@
           ]
         },
         {
-          "episode_id": "1916857",
+          "episode_id": "S01E99",
           "episode_number": 99,
           "nombre": "Jugarse la vida para vivir",
           "portada": "/jwDMho8AIpscE1cq8ThVsX4H9td.jpg",
@@ -3267,7 +3267,7 @@
           ]
         },
         {
-          "episode_id": "1918124",
+          "episode_id": "S01E100",
           "episode_number": 100,
           "nombre": "No perderé contra ti",
           "portada": "/jYZV70cPPrdev8dmIAqS4ttj1WR.jpg",
@@ -3296,7 +3296,7 @@
           ]
         },
         {
-          "episode_id": "1918125",
+          "episode_id": "S01E101",
           "episode_number": 101,
           "nombre": "Las vidas de la aldea remota",
           "portada": "/nmxwZ4IkfzdXDtoesVO6oorsoOF.jpg",
@@ -3325,7 +3325,7 @@
           ]
         },
         {
-          "episode_id": "1918126",
+          "episode_id": "S01E102",
           "episode_number": 102,
           "nombre": "Dos milagros",
           "portada": "/6RVcTPx1u8N1udkUZuNRltAwvU6.jpg",
@@ -3354,7 +3354,7 @@
           ]
         },
         {
-          "episode_id": "1918127",
+          "episode_id": "S01E103",
           "episode_number": 103,
           "nombre": "Libre del destino",
           "portada": "/AdBtD5KQdIDabAhG0cAULzQyE15.jpg",
@@ -3390,7 +3390,7 @@
           ]
         },
         {
-          "episode_id": "1943230",
+          "episode_id": "S01E104",
           "episode_number": 104,
           "nombre": "El rayo iracundo contra sus compañeros",
           "portada": "/mm665UsapBErlwzz33BpYPdz5wE.jpg",
@@ -3426,7 +3426,7 @@
           ]
         },
         {
-          "episode_id": "1952843",
+          "episode_id": "S01E105",
           "episode_number": 105,
           "nombre": "Sonrisas y lágrimas",
           "portada": "/j5zkv8MbNhXPrzFnnt28fvPAWSN.jpg",
@@ -3462,7 +3462,7 @@
           ]
         },
         {
-          "episode_id": "1952844",
+          "episode_id": "S01E106",
           "episode_number": 106,
           "nombre": "El camino de la venganza y el de la expiación",
           "portada": "/kMaFdEcxYujKYyEhtkQtofucecs.jpg",
@@ -3498,7 +3498,7 @@
           ]
         },
         {
-          "episode_id": "1952845",
+          "episode_id": "S01E107",
           "episode_number": 107,
           "nombre": "Batalla final en el Castillo Trébol",
           "portada": "/7xyrmZLalMqhlakLm8qBEaWN6PX.jpg",
@@ -3534,7 +3534,7 @@
           ]
         },
         {
-          "episode_id": "1952846",
+          "episode_id": "S01E108",
           "episode_number": 108,
           "nombre": "Bailarina del campo de batalla",
           "portada": "/loCKQ5Mj1LZlSCQdLXSU9OdY0LD.jpg",
@@ -3570,7 +3570,7 @@
           ]
         },
         {
-          "episode_id": "1979402",
+          "episode_id": "S01E109",
           "episode_number": 109,
           "nombre": "Hermanos de magia espacial",
           "portada": "/loA8H9kAmMr6guUZq5AE37U3iaL.jpg",
@@ -3606,7 +3606,7 @@
           ]
         },
         {
-          "episode_id": "1987662",
+          "episode_id": "S01E110",
           "episode_number": 110,
           "nombre": "¡El Toro Negro Embravecido se une a la batalla!",
           "portada": "/l8uA3Oj2HgxvUeEKYUnNHDmQlSf.jpg",
@@ -3635,7 +3635,7 @@
           ]
         },
         {
-          "episode_id": "1994365",
+          "episode_id": "S01E111",
           "episode_number": 111,
           "nombre": "Los ojos del espejo",
           "portada": "/fv4FjqLvjMTXKmiaPWqn97xbiCQ.jpg",
@@ -3671,7 +3671,7 @@
           ]
         },
         {
-          "episode_id": "2002447",
+          "episode_id": "S01E112",
           "episode_number": 112,
           "nombre": "Humanos en quienes confiar",
           "portada": "/5l9Dtb32ylV0VoNhIromSo7Y9rs.jpg",
@@ -3700,7 +3700,7 @@
           ]
         },
         {
-          "episode_id": "2004000",
+          "episode_id": "S01E113",
           "episode_number": 113,
           "nombre": "Entrando al Palacio de las Sombras",
           "portada": "/4L7IQoPcGqoggrkgNJumgkVNmUi.jpg",
@@ -3736,7 +3736,7 @@
           ]
         },
         {
-          "episode_id": "2004001",
+          "episode_id": "S01E114",
           "episode_number": 114,
           "nombre": "Los invasores finales",
           "portada": "/sNQU4dHGEc8WTxDZVAf1d3WUzrL.jpg",
@@ -3772,7 +3772,7 @@
           ]
         },
         {
-          "episode_id": "2004002",
+          "episode_id": "S01E115",
           "episode_number": 115,
           "nombre": "El cerebro",
           "portada": "/bnnLEqmRFS7FFJEpKwa0AbnnL9a.jpg",
@@ -3801,7 +3801,7 @@
           ]
         },
         {
-          "episode_id": "2004003",
+          "episode_id": "S01E116",
           "episode_number": 116,
           "nombre": "El peor enemigo natural",
           "portada": "/68qCFuEYeF5bjKH4ukOk8noXAGt.jpg",
@@ -3830,7 +3830,7 @@
           ]
         },
         {
-          "episode_id": "2047005",
+          "episode_id": "S01E117",
           "episode_number": 117,
           "nombre": "Rompiendo el sello",
           "portada": "/pArp92rlvtsH0ih0A80zhqY7IXP.jpg",
@@ -3859,7 +3859,7 @@
           ]
         },
         {
-          "episode_id": "2048821",
+          "episode_id": "S01E118",
           "episode_number": 118,
           "nombre": "Reencuentro a través del tiempo",
           "portada": "/s8WX6jC0kV8wLtrS64FvMLTtsgr.jpg",
@@ -3895,7 +3895,7 @@
           ]
         },
         {
-          "episode_id": "2058051",
+          "episode_id": "S01E119",
           "episode_number": 119,
           "nombre": "El ataque final",
           "portada": "/oE9WkCeWswjxSuBxj0O4RT5GrtP.jpg",
@@ -3924,7 +3924,7 @@
           ]
         },
         {
-          "episode_id": "2058052",
+          "episode_id": "S01E120",
           "episode_number": 120,
           "nombre": "Amanecer",
           "portada": "/bnduzMHztL0iucZjvV5paVlIsSB.jpg",
@@ -3960,7 +3960,7 @@
           ]
         },
         {
-          "episode_id": "2070839",
+          "episode_id": "S01E121",
           "episode_number": 121,
           "nombre": "Tres problemas",
           "portada": "/jV9HP2ojHs03X84cZYDV4OrirlY.jpg",
@@ -3996,7 +3996,7 @@
           ]
         },
         {
-          "episode_id": "2165233",
+          "episode_id": "S01E122",
           "episode_number": 122,
           "nombre": "Negro absoluto",
           "portada": "/sEjpXcSix7iyKvh44D8P45Ph9B8.jpg",
@@ -4032,7 +4032,7 @@
           ]
         },
         {
-          "episode_id": "2173598",
+          "episode_id": "S01E123",
           "episode_number": 123,
           "nombre": "Los recuerdos de Nero y... (Primera parte)",
           "portada": "/f6cO8OLv0AwCpmFPk9XZz5kc4db.jpg",
@@ -4068,7 +4068,7 @@
           ]
         },
         {
-          "episode_id": "2179680",
+          "episode_id": "S01E124",
           "episode_number": 124,
           "nombre": "Los recuerdos de Nero y… (Segunda parte)",
           "portada": "/7HCCZixPnPmg5pTAJJVyOqTrZJ8.jpg",
@@ -4104,7 +4104,7 @@
           ]
         },
         {
-          "episode_id": "2179681",
+          "episode_id": "S01E125",
           "episode_number": 125,
           "nombre": "De regreso a casa",
           "portada": "/4GlM3Ywt0mYRWTUYMEsKICBsQVT.jpg",
@@ -4140,7 +4140,7 @@
           ]
         },
         {
-          "episode_id": "2191621",
+          "episode_id": "S01E126",
           "episode_number": 126,
           "nombre": "La confesión de la Rosa Azul",
           "portada": "/yQgIz0OTokG155Z2jXmWoUvp03u.jpg",
@@ -4169,7 +4169,7 @@
           ]
         },
         {
-          "episode_id": "2194967",
+          "episode_id": "S01E127",
           "episode_number": 127,
           "nombre": "Pistas",
           "portada": "/f2bUcumTMBLQLxjWbKpDrpb1o46.jpg",
@@ -4198,7 +4198,7 @@
           ]
         },
         {
-          "episode_id": "2203432",
+          "episode_id": "S01E128",
           "episode_number": 128,
           "nombre": "¡Hacia el Reino del Corazón!",
           "portada": "/uW3FPMxZlndqKENTtJIKSo6ikzZ.jpg",
@@ -4227,7 +4227,7 @@
           ]
         },
         {
-          "episode_id": "2206961",
+          "episode_id": "S01E129",
           "episode_number": 129,
           "nombre": "El diablo Megicula",
           "portada": "/gGxgx8kLcN6Ns3W2G65SCFb2qlx.jpg",
@@ -4263,7 +4263,7 @@
           ]
         },
         {
-          "episode_id": "2223054",
+          "episode_id": "S01E130",
           "episode_number": 130,
           "nombre": "Nueva reunión de capitanes de orden",
           "portada": "/f8JMOsn0AnmKZLou1tqRRbMMG9k.jpg",
@@ -4292,7 +4292,7 @@
           ]
         },
         {
-          "episode_id": "2235240",
+          "episode_id": "S01E131",
           "episode_number": 131,
           "nombre": "Una nueva determinación",
           "portada": "/4BTSm1JUaz2Ly1mw4hlXYH4ryWP.jpg",
@@ -4328,7 +4328,7 @@
           ]
         },
         {
-          "episode_id": "2243834",
+          "episode_id": "S01E132",
           "episode_number": 132,
           "nombre": "El despertar del león",
           "portada": "/9R7oLI05RJqZiLuwoJwpaIH7vqo.jpg",
@@ -4364,7 +4364,7 @@
           ]
         },
         {
-          "episode_id": "2251966",
+          "episode_id": "S01E133",
           "episode_number": 133,
           "nombre": "El despertar del león (continuación)",
           "portada": "/E9CJOfuGRh4WHPnY7zEtfPPXJ3.jpg",
@@ -4400,7 +4400,7 @@
           ]
         },
         {
-          "episode_id": "2341247",
+          "episode_id": "S01E134",
           "episode_number": 134,
           "nombre": "Los convocados",
           "portada": "/wrmRkkBlhM3WxSX00rWh2UZA0i7.jpg",
@@ -4436,7 +4436,7 @@
           ]
         },
         {
-          "episode_id": "2351254",
+          "episode_id": "S01E135",
           "episode_number": 135,
           "nombre": "La persona en mi corazón, mi corazón, mi corazón",
           "portada": "/zJpLrkcGZ8kVAyZerDD9H8jJXTb.jpg",
@@ -4465,7 +4465,7 @@
           ]
         },
         {
-          "episode_id": "2360167",
+          "episode_id": "S01E136",
           "episode_number": 136,
           "nombre": "Historia submarina oscura",
           "portada": "/mZyop7dvG1aRkteDZE4P4X3cC9H.jpg",
@@ -4501,7 +4501,7 @@
           ]
         },
         {
-          "episode_id": "2369665",
+          "episode_id": "S01E137",
           "episode_number": 137,
           "nombre": "El hambre centenaria de Charmy y la soledad milenaria de Gordon",
           "portada": "/f8M13K7Q7lcVTiXLCbE2yfji61V.jpg",
@@ -4530,7 +4530,7 @@
           ]
         },
         {
-          "episode_id": "2377168",
+          "episode_id": "S01E138",
           "episode_number": 138,
           "nombre": "El sucesor de Zara",
           "portada": "/iS3knHEdsDGN48QEL9py29gLPqW.jpg",
@@ -4566,7 +4566,7 @@
           ]
         },
         {
-          "episode_id": "2385984",
+          "episode_id": "S01E139",
           "episode_number": 139,
           "nombre": "La bruja vuelve a casa",
           "portada": "/stNsLfhpE10YKNRbhNE1xVfh3m9.jpg",
@@ -4602,7 +4602,7 @@
           ]
         },
         {
-          "episode_id": "2399045",
+          "episode_id": "S01E140",
           "episode_number": 140,
           "nombre": "La petición de Julius",
           "portada": "/z9a1oQ4hglBU1pH8N2lUjgr1Ca2.jpg",
@@ -4638,7 +4638,7 @@
           ]
         },
         {
-          "episode_id": "2403789",
+          "episode_id": "S01E141",
           "episode_number": 141,
           "nombre": "La familia dorada",
           "portada": "/5iANyfgVlGr1Ahi3KFE4cwNxJwQ.jpg",
@@ -4667,7 +4667,7 @@
           ]
         },
         {
-          "episode_id": "2410692",
+          "episode_id": "S01E142",
           "episode_number": 142,
           "nombre": "Los que se quedaron atrás",
           "portada": "/dLZGzbVfolmJTEMpA0Xq9I8Ezvt.jpg",
@@ -4703,7 +4703,7 @@
           ]
         },
         {
-          "episode_id": "2419493",
+          "episode_id": "S01E143",
           "episode_number": 143,
           "nombre": "La balanza decantada",
           "portada": "/gD1ugZDbcxGXtJS26xPscQ5z4G7.jpg",
@@ -4732,7 +4732,7 @@
           ]
         },
         {
-          "episode_id": "2428887",
+          "episode_id": "S01E144",
           "episode_number": 144,
           "nombre": "Por la extinción de los diablos",
           "portada": "/6Wiua7FCQEWTzEfVCO46Ut8SSW2.jpg",
@@ -4768,7 +4768,7 @@
           ]
         },
         {
-          "episode_id": "2435957",
+          "episode_id": "S01E145",
           "episode_number": 145,
           "nombre": "Rescate",
           "portada": "/dSVtWc78EEwNDPzKuEYewaUWpU9.jpg",
@@ -4797,7 +4797,7 @@
           ]
         },
         {
-          "episode_id": "2448652",
+          "episode_id": "S01E146",
           "episode_number": 146,
           "nombre": "Los que veneran a los diablos",
           "portada": "/p8YxGiLdJIcaaapfXTbn6g29lE8.jpg",
@@ -4833,7 +4833,7 @@
           ]
         },
         {
-          "episode_id": "2448653",
+          "episode_id": "S01E147",
           "episode_number": 147,
           "nombre": "De vida o muerte",
           "portada": "/sUiSd6heNKdSvbzHGfAxqbV11yN.jpg",
@@ -4862,7 +4862,7 @@
           ]
         },
         {
-          "episode_id": "2448654",
+          "episode_id": "S01E148",
           "episode_number": 148,
           "nombre": "La luz que ilumina la oscuridad",
           "portada": "/fjRYVXMY4cxKt9n51eXQ3bzfsPu.jpg",
@@ -4891,7 +4891,7 @@
           ]
         },
         {
-          "episode_id": "2448655",
+          "episode_id": "S01E149",
           "episode_number": 149,
           "nombre": "Dos búsquedas",
           "portada": "/A2JuVUwzf1jikwJ9NMxv28gIenw.jpg",
@@ -4920,7 +4920,7 @@
           ]
         },
         {
-          "episode_id": "2489775",
+          "episode_id": "S01E150",
           "episode_number": 150,
           "nombre": "El reto de las damas",
           "portada": "/nZrnDYDJP9MLg4vYdAFjoBY5Rw5.jpg",
@@ -4949,7 +4949,7 @@
           ]
         },
         {
-          "episode_id": "2489776",
+          "episode_id": "S01E151",
           "episode_number": 151,
           "nombre": "¡Choque! ¡Batalla entre capitanes!",
           "portada": "/opY5I9TLW03gBeXu2Dta5ENMsSd.jpg",
@@ -4985,7 +4985,7 @@
           ]
         },
         {
-          "episode_id": "2489777",
+          "episode_id": "S01E152",
           "episode_number": 152,
           "nombre": "¡Hacia el mañana!",
           "portada": "/vKbCWnSD9POhe3QWQM4wsz50Xdw.jpg",
@@ -5014,7 +5014,7 @@
           ]
         },
         {
-          "episode_id": "2489778",
+          "episode_id": "S01E153",
           "episode_number": 153,
           "nombre": "Los elegidos",
           "portada": "/vwtlbFuicpm9Ao0oP4GUKBe1xZh.jpg",
@@ -5043,7 +5043,7 @@
           ]
         },
         {
-          "episode_id": "2538179",
+          "episode_id": "S01E154",
           "episode_number": 154,
           "nombre": "El vicecapitán Langris Vaude",
           "portada": "/iVGVjSGocFtSceWy3fXgQ4X8A8E.jpg",
@@ -5072,7 +5072,7 @@
           ]
         },
         {
-          "episode_id": "2548976",
+          "episode_id": "S01E155",
           "episode_number": 155,
           "nombre": "Los cinco Espíritus Guardianes",
           "portada": "/hpMz7qepTm6ilWvEfyXyVVKxpSt.jpg",
@@ -5108,7 +5108,7 @@
           ]
         },
         {
-          "episode_id": "2550301",
+          "episode_id": "S01E156",
           "episode_number": 156,
           "nombre": "El poder despierta",
           "portada": "/qaSFZ0XqwQUZpagVwXGGvNPRV3M.jpg",
@@ -5144,7 +5144,7 @@
           ]
         },
         {
-          "episode_id": "2550302",
+          "episode_id": "S01E157",
           "episode_number": 157,
           "nombre": "Trébol de cinco hojas",
           "portada": "/yJYbPhc2i4aMECGTEiQmxylb7xd.jpg",
@@ -5173,7 +5173,7 @@
           ]
         },
         {
-          "episode_id": "2590571",
+          "episode_id": "S01E158",
           "episode_number": 158,
           "nombre": "Se abre el telón de esperanza y desesperación",
           "portada": "/7nNYcOMham20GI01Y0BsRllN49X.jpg",
@@ -5209,7 +5209,7 @@
           ]
         },
         {
-          "episode_id": "2618204",
+          "episode_id": "S01E159",
           "episode_number": 159,
           "nombre": "Un lago tranquilo y la sombra del bosque",
           "portada": "/oIm40cgTNGzPT5pNJRQbnKBc6gq.jpg",
@@ -5238,7 +5238,7 @@
           ]
         },
         {
-          "episode_id": "2618250",
+          "episode_id": "S01E160",
           "episode_number": 160,
           "nombre": "El mensajero del Reino de la Pica",
           "portada": "/8k592OBIXuWCaoXs9W2cSMF8jmU.jpg",
@@ -5274,7 +5274,7 @@
           ]
         },
         {
-          "episode_id": "2634982",
+          "episode_id": "S01E161",
           "episode_number": 161,
           "nombre": "El poder de Zenon",
           "portada": "/gUqHBLy1VEVqIvi6028CcteW9Hk.jpg",
@@ -5310,7 +5310,7 @@
           ]
         },
         {
-          "episode_id": "2639536",
+          "episode_id": "S01E162",
           "episode_number": 162,
           "nombre": "Estalla una gran batalla",
           "portada": "/eY8LuM46YCOqokARAx5qPfQPW6f.jpg",
@@ -5346,7 +5346,7 @@
           ]
         },
         {
-          "episode_id": "2639537",
+          "episode_id": "S01E163",
           "episode_number": 163,
           "nombre": "Dante contra el capitán de los Toros Negros",
           "portada": "/6ANoBurvklREeTprTZpQguEULV6.jpg",
@@ -5375,7 +5375,7 @@
           ]
         },
         {
-          "episode_id": "2696187",
+          "episode_id": "S01E164",
           "episode_number": 164,
           "nombre": "Batalla en el Reino del Corazón",
           "portada": "/eQiaPuUuw1MmTN1qJvU6YfVh1DW.jpg",
@@ -5404,7 +5404,7 @@
           ]
         },
         {
-          "episode_id": "2696188",
+          "episode_id": "S01E165",
           "episode_number": 165,
           "nombre": "Cruzada de agua",
           "portada": "/c9wA9WZpGunkrnfbtCkufKPLVd7.jpg",
@@ -5440,7 +5440,7 @@
           ]
         },
         {
-          "episode_id": "2701436",
+          "episode_id": "S01E166",
           "episode_number": 166,
           "nombre": "El capitán Yami Sukehiro",
           "portada": "/5uaf2gPmaKRrUcdZs03fbk07BmT.jpg",
@@ -5469,7 +5469,7 @@
           ]
         },
         {
-          "episode_id": "2701437",
+          "episode_id": "S01E167",
           "episode_number": 167,
           "nombre": "La promesa negra",
           "portada": "/k1S7G5hJjQpbes99ZwjcBXyQtBY.jpg",
@@ -5498,7 +5498,7 @@
           ]
         },
         {
-          "episode_id": "2701438",
+          "episode_id": "S01E168",
           "episode_number": 168,
           "nombre": "Movimientos superiores",
           "portada": "/kgabVYAX1KvaMV9Hy0N0Wp6cn0c.jpg",
@@ -5534,7 +5534,7 @@
           ]
         },
         {
-          "episode_id": "2701439",
+          "episode_id": "S01E169",
           "episode_number": 169,
           "nombre": "Ritual de obediencia",
           "portada": "/dhjRfk9fFPaHREMHQzoVfRXP1JL.jpg",
@@ -5570,7 +5570,7 @@
           ]
         },
         {
-          "episode_id": "2701440",
+          "episode_id": "S01E170",
           "episode_number": 170,
           "nombre": "El futuro distante",
           "portada": "/ceVorBj8hp6RFF8ez3fcFEVgwr5.jpg",
@@ -5605,8 +5605,7 @@
             }
           ]
         }
-      ],
-      "nombre": "Temporada 1"
+      ]
     },
   {
     "temporada": "Temporada 2",
