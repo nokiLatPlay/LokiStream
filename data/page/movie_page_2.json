@@ -1,5 +1,23 @@
 [
     {
+        "id": "1793943451983",
+        "tmdb_id": "10647",
+        "titulo": "Cadena de favores",
+        "imagen": "/8MFVGTbYnOqAmwq6tLz8NUE5bZC.jpg",
+        "type": "movie",
+        "year": "2000",
+        "etiquetas": [
+            "Drama"
+        ],
+        "rate": 7.4000000000000003552713678800500929355621337890625,
+        "added_date": "2026-11-06 00:37:31",
+        "created_at": "2026-11-06 00:37:31",
+        "updated_at": "2026-11-06 00:37:33",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1793833620749",
         "tmdb_id": "251",
         "titulo": "Ghost (Más allá del amor)",
