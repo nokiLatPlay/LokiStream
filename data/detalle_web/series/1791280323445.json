@@ -71,6 +71,7 @@
     ],
     "first_air_date": "2026-10-02",
     "last_air_date": "2026-10-02",
+    "container_download": [],
     "temporadas": [
         {
             "temporada": "Temporada 1",
@@ -122,21 +123,21 @@
                             "nombre": "Mp4upload",
                             "url": "https:\/\/www.mp4upload.com\/embed-pxv4k3631gsq.html",
                             "type": "streaming",
-                            "language": "Unknown",
+                            "language": "Castellano",
                             "quality": ""
                         },
                         {
                             "nombre": "Mp4upload",
                             "url": "https:\/\/www.mp4upload.com\/embed-xuyw5138icyi.html",
                             "type": "streaming",
-                            "language": "Unknown",
+                            "language": "Castellano",
                             "quality": ""
                         },
                         {
                             "nombre": "Yourupload",
                             "url": "https:\/\/www.yourupload.com\/embed\/4A7l0q24auBQ",
                             "type": "streaming",
-                            "language": "Unknown",
+                            "language": "Castellano",
                             "quality": ""
                         },
                         {
@@ -221,21 +222,21 @@
                             "nombre": "Mp4upload",
                             "url": "https:\/\/www.mp4upload.com\/embed-wrirb0bic7rs.html",
                             "type": "streaming",
-                            "language": "Unknown",
+                            "language": "Castellano",
                             "quality": ""
                         },
                         {
                             "nombre": "Mp4upload",
                             "url": "https:\/\/www.mp4upload.com\/embed-m18l8sjya9su.html",
                             "type": "streaming",
-                            "language": "Unknown",
+                            "language": "Castellano",
                             "quality": ""
                         },
                         {
                             "nombre": "Yourupload",
                             "url": "https:\/\/www.yourupload.com\/embed\/mD8wn67HdTHe",
                             "type": "streaming",
-                            "language": "Unknown",
+                            "language": "Castellano",
                             "quality": ""
                         },
                         {
@@ -273,5 +274,6 @@
     ],
     "added_date": "2026-10-06 05:52:03",
     "created_at": "2026-10-06 05:52:03",
-    "updated_at": "2026-10-06 05:52:03"
+    "updated_at": "2026-11-06 00:46:00",
+    "update_states": "No actualizado"
 }
