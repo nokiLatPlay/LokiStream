@@ -1,0 +1,168 @@
+{
+    "id": "1793943770960",
+    "tmdb_id": "68724",
+    "titulo": "Elysium",
+    "original_name": "Elysium",
+    "imagen": "/aRjuJuPXHtVs6YegfeeQWXGRs1E.jpg",
+    "backdrop_path": "/oo9GyiNKvR4CU1etuYl081UJ1LE.jpg",
+    "type": "movie",
+    "year": "2013",
+    "etiquetas": [
+        "Ciencia ficción",
+        "Acción",
+        "Drama",
+        "Suspense"
+    ],
+    "calidad": [],
+    "rate": 6.5,
+    "sinopsis": "En el año 2159 existen dos clases de personas, los ricos que viven en una estación espacial llamada Elysium, y el resto, que viven en un superpoblada y en ruinas Tierra. La secretaria Rhodes, una dura gobernante oficial, no parará ante nada para reforzar la ley anti-migración y preservar así el lujoso estilo de vida de los ciudadanos de Elysium. Pero eso no detendrá a las personas de la Tierra de intentar entrar, por cualquier medio posible. Max acepta una misión casi utópica, pero que, si tuviera éxito, significaría la conquista de la igualdad entre las personas de esos dos mundos tan opuestos.",
+    "cast": [
+        {
+            "name": "Matt Damon",
+            "character": "Max",
+            "profile_path": "/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
+        },
+        {
+            "name": "Jodie Foster",
+            "character": "Delacourt",
+            "profile_path": "/5emVgsLFlU6SmeBIFsF2Y7aqwtG.jpg"
+        },
+        {
+            "name": "Sharlto Copley",
+            "character": "Kruger",
+            "profile_path": "/em89OJJvBRX7kNJJPASmNKQujsC.jpg"
+        },
+        {
+            "name": "Diego Luna",
+            "character": "Julio",
+            "profile_path": "/qwbjcyDN37OHiln4a6P4LP31o7F.jpg"
+        },
+        {
+            "name": "Wagner Moura",
+            "character": "Spider",
+            "profile_path": "/53IbAed4t1dOWxY3iygbRYZBBnm.jpg"
+        },
+        {
+            "name": "Alice Braga",
+            "character": "Frey",
+            "profile_path": "/d9JdgvUiqyWuGQLmozNfGZOpIBz.jpg"
+        },
+        {
+            "name": "William Fichtner",
+            "character": "John Carlyle",
+            "profile_path": "/wWtJOoaNAwPparpzMNuRBjvxwEf.jpg"
+        },
+        {
+            "name": "Jose Pablo Cantillo",
+            "character": "Sandro",
+            "profile_path": "/qtNesvN1bAQ779gJBt3LYDsm8f7.jpg"
+        },
+        {
+            "name": "Faran Tahir",
+            "character": "President Patel",
+            "profile_path": "/eVYiHKj9OGRn3MeRqJuwROFqIkg.jpg"
+        },
+        {
+            "name": "Maxwell Perry Cotton",
+            "character": "Young Max",
+            "profile_path": "/mk4x51e1a1vTF3KiOt8AtnN7jRh.jpg"
+        },
+        {
+            "name": "Brandon Auret",
+            "character": "Drake",
+            "profile_path": "/7MjyB6s1LGzDbcvm4dwKRi0QLzq.jpg"
+        },
+        {
+            "name": "Josh Blacker",
+            "character": "Crowe",
+            "profile_path": "/uBfmWlJ85bY9u6fq7F2c3G41Yir.jpg"
+        },
+        {
+            "name": "Emma Tremblay",
+            "character": "Matilda",
+            "profile_path": "/bZxNL9cLr8IttSHiS1rF3hTULY6.jpg"
+        },
+        {
+            "name": "Adrian Holmes",
+            "character": "Manuel",
+            "profile_path": "/aKtB0wGk4PTzNTZ4HKagUfDwcWr.jpg"
+        },
+        {
+            "name": "Jared Keeso",
+            "character": "Rico",
+            "profile_path": "/8otnzB0CmGpYr9EExYQ5YU2mibc.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 109,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/w2o5hl4pcr9t",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/sw63dojkp48g",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysejikuar",
+            "url": "https://bysejikuar.com/e/seo2ld830cz6",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/mraqj9qzwdu0",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/8enbzzzwtdik",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysejikuar",
+            "url": "https://bysejikuar.com/e/t1hi2o1wok0q",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/r01y7qd8h6s2",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/kscg38yavqob",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysejikuar",
+            "url": "https://bysejikuar.com/e/cmxfqc0nq07e",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-06 00:42:50",
+    "created_at": "2026-11-06 00:42:50",
+    "updated_at": "2026-11-06 00:42:50",
+    "update_states": "No actualizado"
+}
