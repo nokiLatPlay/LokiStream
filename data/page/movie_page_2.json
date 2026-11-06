@@ -1,5 +1,26 @@
 [
     {
+        "id": "1793943487648",
+        "tmdb_id": "98027",
+        "titulo": "Siete muertos en el ojo del gato",
+        "imagen": "/cSra5NgnJsccgE6MjVi7q3S61sm.jpg",
+        "type": "movie",
+        "year": "1973",
+        "etiquetas": [
+            "Terror",
+            "Misterio",
+            "Suspense",
+            "Crimen"
+        ],
+        "rate": 5.5,
+        "added_date": "2026-11-06 00:38:07",
+        "created_at": "2026-11-06 00:38:07",
+        "updated_at": "2026-11-06 00:38:09",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1793943451983",
         "tmdb_id": "10647",
         "titulo": "Cadena de favores",
