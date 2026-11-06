@@ -3,8 +3,8 @@
     "tmdb_id": "283692",
     "titulo": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
     "original_name": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい",
-    "imagen": "\/l2bXeBO6f2ZXgKh0ipYKyeMT98v.jpg",
-    "backdrop_path": "\/xqil5t29q1k6reedUlMy4nYd9f7.jpg",
+    "imagen": "/l2bXeBO6f2ZXgKh0ipYKyeMT98v.jpg",
+    "backdrop_path": "/xqil5t29q1k6reedUlMy4nYd9f7.jpg",
     "type": "anime",
     "year": "2026",
     "etiquetas": [
@@ -13,7 +13,7 @@
         "Sci-Fi & Fantasy"
     ],
     "temporadas_count": 1,
-    "episodios": 1,
+    "episodios": 5,
     "status": "Returning Series",
     "rate": 0,
     "sinopsis": "Sato Takahiro, un oficinista y jugador aficionado, despierta en una nave espacial similar a su juego favorito. Con una tripulación de chicas y un universo por descubrir, aprovecha la oportunidad para vivir la aventura de sus sueños.",
@@ -21,32 +21,32 @@
         {
             "name": "Makoto Furukawa",
             "character": "Captain Hiro (voice)",
-            "profile_path": "\/inLmBZhrqXeE9wlViyK28ocKJSw.jpg"
+            "profile_path": "/inLmBZhrqXeE9wlViyK28ocKJSw.jpg"
         },
         {
             "name": "Konomi Inagaki",
             "character": "Mimi (voice)",
-            "profile_path": "\/qYizWDjykF0j5foMvKGYyRta037.jpg"
+            "profile_path": "/qYizWDjykF0j5foMvKGYyRta037.jpg"
         },
         {
             "name": "Anna Nagase",
             "character": "Elma (voice)",
-            "profile_path": "\/gFKRUlUlqTD7jGdysg5IWIvgoCH.jpg"
+            "profile_path": "/gFKRUlUlqTD7jGdysg5IWIvgoCH.jpg"
         },
         {
             "name": "Haruka Shiraishi",
             "character": "Serena Holz (voice)",
-            "profile_path": "\/hrQxTVNGLi3jXC7v4kETArpA0dV.jpg"
+            "profile_path": "/hrQxTVNGLi3jXC7v4kETArpA0dV.jpg"
         },
         {
             "name": "Saori Onishi",
             "character": "Shoko (voice)",
-            "profile_path": "\/cziKB19QMFJ6DQDtxTn07uRY2hq.jpg"
+            "profile_path": "/cziKB19QMFJ6DQDtxTn07uRY2hq.jpg"
         },
         {
             "name": "Kana Ueda",
             "character": "Mei (voice)",
-            "profile_path": "\/us6FMwXCeSUR2YyByxVcgOUjiIA.jpg"
+            "profile_path": "/us6FMwXCeSUR2YyByxVcgOUjiIA.jpg"
         }
     ],
     "first_air_date": "2026-10-04",
@@ -55,90 +55,400 @@
         {
             "temporada": "Temporada 1",
             "season_number": 1,
-            "poster_path": "\/ccLkKM9nZ4eR2ZjDg2vpOCInZro.jpg",
+            "poster_path": "/ccLkKM9nZ4eR2ZjDg2vpOCInZro.jpg",
             "capitulos": [
                 {
                     "episode_id": "S01E01",
                     "episode_number": 1,
                     "nombre": "La primera vez en una colonia espacial",
-                    "portada": "\/kkDx2SP47tzylSIadCemWp6vUX9.jpg",
+                    "portada": "/kkDx2SP47tzylSIadCemWp6vUX9.jpg",
                     "enlaces": [
                         {
                             "nombre": "Jkanime",
-                            "url": "https:\/\/jkanime.net\/jkplayer\/um?e=ZUIxbjN0V0xEdnV6N1ROSDAra2I3bWVDWVNOMitWY1NKZzBLRnhIV2dYclZLVnZuTnNDaDZjbUNxRERzK1dVYkhNRkNqUXZOVDB4eWtNd3djRllHYkFEUVh6Z3pWVm8zNWt2b2lqdFFDZ2JFZi9FMGZrYXFQWERSOEQrTWJublQ6OtxAd_xp1tngcJ7lPxC4III-&t=17e06cdf18bf5da02708af9a27e369f6&op=NzgzOTY=",
+                            "url": "https://jkanime.net/jkplayer/um?e=ZUIxbjN0V0xEdnV6N1ROSDAra2I3bWVDWVNOMitWY1NKZzBLRnhIV2dYclZLVnZuTnNDaDZjbUNxRERzK1dVYkhNRkNqUXZOVDB4eWtNd3djRllHYkFEUVh6Z3pWVm8zNWt2b2lqdFFDZ2JFZi9FMGZrYXFQWERSOEQrTWJublQ6OtxAd_xp1tngcJ7lPxC4III-&t=17e06cdf18bf5da02708af9a27e369f6&op=NzgzOTY=",
                             "type": "streaming",
                             "language": "Sub",
                             "quality": ""
                         },
                         {
                             "nombre": "Jkanime",
-                            "url": "https:\/\/jkanime.net\/jkplayer\/umv?e=b3BabEYyeUdjU243SVpXd3ROa1BUMmNGSU1jZFhUTGNBYU1OQkNOSmY5aWkwbXRaM0luQSs4dVFFQWFQOHNSd1BDZXdCUlJRM2tQajNndHNUYzBYRjZ5bm1FOHZxd1Rlakk1YUtyRTJNY3BGc09FdS9WN2tWOTRMd1BXdGVqVGI6OtSANjB9U1oVNoh9al0rXCo-&t=17e06cdf18bf5da02708af9a27e369f6",
+                            "url": "https://jkanime.net/jkplayer/umv?e=b3BabEYyeUdjU243SVpXd3ROa1BUMmNGSU1jZFhUTGNBYU1OQkNOSmY5aWkwbXRaM0luQSs4dVFFQWFQOHNSd1BDZXdCUlJRM2tQajNndHNUYzBYRjZ5bm1FOHZxd1Rlakk1YUtyRTJNY3BGc09FdS9WN2tWOTRMd1BXdGVqVGI6OtSANjB9U1oVNoh9al0rXCo-&t=17e06cdf18bf5da02708af9a27e369f6",
                             "type": "streaming",
                             "language": "Sub",
                             "quality": ""
                         },
                         {
                             "nombre": "Mp4upload",
-                            "url": "https:\/\/www.mp4upload.com\/embed-a7ste5l6ytna.html",
+                            "url": "https://www.mp4upload.com/embed-a7ste5l6ytna.html",
                             "type": "streaming",
                             "language": "Sub",
                             "quality": ""
                         },
                         {
                             "nombre": "Mp4upload",
-                            "url": "https:\/\/www.mp4upload.com\/embed-aowevdi6myxt.html",
+                            "url": "https://www.mp4upload.com/embed-aowevdi6myxt.html",
                             "type": "streaming",
                             "language": "Sub",
                             "quality": ""
                         },
                         {
                             "nombre": "Streamwish",
-                            "url": "https:\/\/hglamioz.com\/e\/zmqp5vqm37lr",
+                            "url": "https://hglamioz.com/e/zmqp5vqm37lr",
                             "type": "streaming",
                             "language": "Sub",
                             "quality": ""
                         },
                         {
                             "nombre": "Yourupload",
-                            "url": "https:\/\/www.yourupload.com\/embed\/niOD3fQ2s365",
+                            "url": "https://www.yourupload.com/embed/niOD3fQ2s365",
                             "type": "streaming",
                             "language": "Sub",
                             "quality": ""
                         },
                         {
                             "nombre": "Mp4upload",
-                            "url": "https:\/\/www.mp4upload.com\/embed-wzcs08pckvul.html",
+                            "url": "https://www.mp4upload.com/embed-wzcs08pckvul.html",
                             "type": "streaming",
                             "language": "Latino",
                             "quality": ""
                         },
                         {
                             "nombre": "Mp4upload",
-                            "url": "https:\/\/www.mp4upload.com\/embed-vo79og9dbfmq.html",
+                            "url": "https://www.mp4upload.com/embed-vo79og9dbfmq.html",
                             "type": "streaming",
                             "language": "Latino",
                             "quality": ""
                         },
                         {
                             "nombre": "Mp4upload",
-                            "url": "https:\/\/www.mp4upload.com\/embed-ulku8v6377d5.html",
+                            "url": "https://www.mp4upload.com/embed-ulku8v6377d5.html",
                             "type": "streaming",
                             "language": "Latino",
                             "quality": ""
                         },
                         {
                             "nombre": "Yourupload",
-                            "url": "https:\/\/www.yourupload.com\/embed\/8N00EAS2eaVS",
+                            "url": "https://www.yourupload.com/embed/8N00EAS2eaVS",
                             "type": "streaming",
                             "language": "Latino",
                             "quality": ""
                         }
                     ]
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Mimi, la chica",
+                    "portada": "/y20tsuAVOiDEVtuSFSxhTh0PLMi.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=ZDg2WEpuK3ptK0ZPTWxUS3JhblpQOVd6aDNmT0ZIeHpDTnlnQTNCbzhCa1BZSmxCUDljQjM4bU9jb3hvSHdJVEZxU0pWSTc4NnN2QTYzazVvL284TUxubXZSWTBRRUJmcnlZZk1MakIwSWc9Ojrs6i8DZrHedulNmSsbaGrx&t=02297e71d87482cc8e8a4f8a18cc1754&op=Nzg1MzQ=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=bm9tb1l1SGF6Ukl4bHFEMUs5NGI4NVpiSjU4TmdCbDdsUitJeUQxaFhabnBRb3dlT2xxK25ieXp0VHQ4cGdUWG9CU1dvUDNrYnV5MCtQV01sWTN3b0IwaERWcE9FOW5KUWlhZndVTTRnT1U9Ojqpnm_H2KbT6dGyKKQVNgrx&t=02297e71d87482cc8e8a4f8a18cc1754",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/8k6fijjmlkrc",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-4nd7x172f5u4.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysekoze",
+                            "url": "https://bysekoze.com/e/jzwht68vcbhs/",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Byselapuix",
+                            "url": "https://byselapuix.com/e/vr8vd2mwcci7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-cvlqkldsgibm.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysezoxexe",
+                            "url": "https://bysezoxexe.com/e/ekb1fehtze3q",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysezoxexe",
+                            "url": "https://bysezoxexe.com/e/rxc8u7mxm9wf",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Byselapuix",
+                            "url": "https://byselapuix.com/e/xeys1lf7n09x",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Elma",
+                    "portada": "/x3LHeh7rAqITJrtzH9FuxOB1OCD.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=S2UzbFlHU2ZxTzhvWFowNUYrd0ZiOUFDMlhyQ1pNTExXcmJ4bVMzUTgwc2Q3Z3VzUGViNi9KZjZYaFQ4dDVzdy9ieDh3bGNPeUxqY2MwR2piS3B3ODNPeVVkem54amh0RWpLSTIreE1zSFk9OjpNPVLOiSKMUN1npfwBA.0q&op=Nzg2NDg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=OE5UNVZmRkx5OVlpbDBlVFkwM0hjZGtlYzlCc0JHeXIrb3IxQWdxb1JsWUNIK0V3ekxDVmJqOUFCVzJoNWozSXZxMFh5Y0FhcmlEVXUzVGMyRlVLVElMK3dpdXNaYXk4YVZiUU5ubk1VOEk9Ojq.HQJNXiEy1t.G7KpIAHyA",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-3wgcjeowcgsf.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysekoze",
+                            "url": "https://bysekoze.com/e/tieyt58gcgcb/",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Byselapuix",
+                            "url": "https://byselapuix.com/e/t27ljniq5usc",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-vpkls47x2ybq.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysezoxexe",
+                            "url": "https://bysezoxexe.com/e/srydz1wrfx4k",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysezoxexe",
+                            "url": "https://bysezoxexe.com/e/45b02jh76j69",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Byselapuix",
+                            "url": "https://byselapuix.com/e/2fx8vrmv7c2o",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "Un nuevo día a día",
+                    "portada": "/wVqpyOVfxJBjJVfNXRmIChPBgON.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=Y3lmS3ZuY3BLOUtkZzVHRFJNMlhXMUJZMS96MzJZWGFmMjVrQVVVUHBmbmdqQWhuK3FiWEZsWHZXemFYRlhmK08zY1YvbWx0ZGhaZnZ5NFl3WTRDdE9NLzgyL001a09XZTNBWGFsWFh2WERJb0xqQ3FvTUFxZTZtN09Ob0w4emw6Or7AYY4Urtd0S17ADvPeClw-&t=43c3c93e32364abdc7482b3ebbd5ffef&op=Nzg4NjI=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=MjFtZUd5eDRDZG1JVUdjTEw0YnczTkVOdzF4U1RnM3UrWVMydDdJYzZUU1FRMUFTVlRBc205aHRpWVlIaUFnSHdNVG83dll6SkRXUEl6bS9ObVY5OU9TeGtXTUg0anVzak5nZ0VwKzBaQU0yS1hhMS9uclVCZnRlRzZWZ3RZNUw6OjBCDFJCyJDwtKbeYlXVrLI-&t=43c3c93e32364abdc7482b3ebbd5ffef",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-3519eg7vr4z0.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-jlejoqi5kfmp.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Byselapuix",
+                            "url": "https://byselapuix.com/e/1p2xa6iq2cy3",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-5yg5077vcfkp.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysezoxexe",
+                            "url": "https://bysezoxexe.com/e/xwelkmy91u9j",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysezoxexe",
+                            "url": "https://bysezoxexe.com/e/2xk071njeccz",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Byselapuix",
+                            "url": "https://byselapuix.com/e/txv67zuupfgq",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "El cristal cantor",
+                    "portada": "/hmOgMRjNXW5aqt6leKFKaMJV5qC.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=ZlF5VHZlSFl5OWVNM1R5WW8zdnFzUlUvemZnejU2Q091M0NJSkhWTDNFN1Mxdk0yWDE4aGY2c1BBQm03N0pZTHB4dGtJb0VDM09uUzJ5V28zalA0S2FNTlJWemxIYmFha25xeXMwbWgwSUdOOFlmTEx3dDI3U0MzMThvOXVwNW46OkbL3QWGT4fzfTt92z9Rrlc-&t=decc981c1534ab67939bc6942d6ef911&op=Nzg5NzE=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=RFBBdEs1SHhyYWZVeXN2ZUxQSHF0emwrMlZKSmVrNkxoN1JoWEpBSnpnaWF6amtoT211czRrNVl4TDZpM0d2VjQzT3ZOM0wwU3dVRnN5MUJlUTF5ZGtjYXlPUEtxbm9QcTdhbE5ORmYxd3U2b2VPRkdKbkFoU1NVbGtPWlRaaUI6Oj24JNY.Z2mh.R7uwWwESr0-&t=decc981c1534ab67939bc6942d6ef911",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-5q3bs7n01cia.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-db7uib33onsl.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Byselapuix",
+                            "url": "https://byselapuix.com/e/vacil896r4tv",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-ubxhwcbbf2yz.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-jwnrrz5r8gmt.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-w4regn4d8e5u.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysezoxexe",
+                            "url": "https://bysezoxexe.com/e/5ysqud2hqccu",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysezoxexe",
+                            "url": "https://bysezoxexe.com/e/mlialtwiikkq",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Byselapuix",
+                            "url": "https://byselapuix.com/e/6dgjy8b7g05s",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
                 }
-            ]
+            ],
+            "nombre": "Temporada 1"
         }
     ],
     "added_date": "2026-10-06 05:52:31",
     "created_at": "2026-10-06 05:52:31",
-    "updated_at": "2026-10-06 05:52:31"
+    "updated_at": "2026-11-06 00:54:15"
 }
