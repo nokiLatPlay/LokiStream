@@ -1,0 +1,181 @@
+{
+    "id": "1793943547137",
+    "tmdb_id": "39254",
+    "titulo": "Acero puro",
+    "original_name": "Real Steel",
+    "imagen": "/gqjKG4Z24pjYxcOfCd9p6WAnYlG.jpg",
+    "backdrop_path": "/pjlxrd646cBYznHoPBWTzz6FujX.jpg",
+    "type": "movie",
+    "year": "2011",
+    "etiquetas": [
+        "Acción",
+        "Ciencia ficción",
+        "Drama"
+    ],
+    "calidad": [],
+    "rate": 7.20000000000000017763568394002504646778106689453125,
+    "sinopsis": "En un futuro no muy lejano, el boxeo es robótico: en los combates ya no se enfrentan seres humanos, sino robots humanoides, sofisticadas máquinas diseñadas para luchar. Charlie Kenton, un antiguo púgil que casi llegó a alcanzar la gloria, está pasando una mala racha como promotor de combates. Un día, encuentra un viejo robot desechado y, al comprobar que es un gran boxeador, decide entrenarlo.",
+    "cast": [
+        {
+            "name": "Hugh Jackman",
+            "character": "Charlie Kenton",
+            "profile_path": "/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg"
+        },
+        {
+            "name": "Dakota Goyo",
+            "character": "Max Kenton",
+            "profile_path": "/xHfxZDILa8JRZu5OoaXKiDa781o.jpg"
+        },
+        {
+            "name": "Evangeline Lilly",
+            "character": "Bailey Tallet",
+            "profile_path": "/pJHX2jd7ytre3NQbF9nlyWUqxH3.jpg"
+        },
+        {
+            "name": "Kevin Durand",
+            "character": "Ricky",
+            "profile_path": "/hINvryvce5tpod6kTnUg9ZTH8wg.jpg"
+        },
+        {
+            "name": "Anthony Mackie",
+            "character": "Finn",
+            "profile_path": "/vecvTm7SimizluJkyIwBxeLbvRm.jpg"
+        },
+        {
+            "name": "Hope Davis",
+            "character": "Aunt Debra",
+            "profile_path": "/t2cuZK3D4x2j2DaDbD5lu0SM2Lv.jpg"
+        },
+        {
+            "name": "James Rebhorn",
+            "character": "Marvin",
+            "profile_path": "/jRdR3q28gTPQU6eWRgiIqzGuMKU.jpg"
+        },
+        {
+            "name": "Karl Yune",
+            "character": "Tak Mashido",
+            "profile_path": "/4GI4p5aPfW0vI20IdJOcxD5BEqr.jpg"
+        },
+        {
+            "name": "Sophie Levy",
+            "character": "Big Sister",
+            "profile_path": "/ytDkZ3NrpxWayURhHuI2Dtp29TM.jpg"
+        },
+        {
+            "name": "Tess Levy",
+            "character": "Little Sister",
+            "profile_path": "/xHNZkN4KhVa4ehiHnmJy6MeHia7.jpg"
+        },
+        {
+            "name": "Olga Fonda",
+            "character": "Farra Lemkova",
+            "profile_path": "/rlcWonih6aWd3oXJ19LjZzKia9s.jpg"
+        },
+        {
+            "name": "John Gatins",
+            "character": "Kingpin",
+            "profile_path": "/pFtxpu4aGb6H2RgVKwHNrT10CPn.jpg"
+        },
+        {
+            "name": "Gregory Sims",
+            "character": "Bill Panner",
+            "profile_path": "/ga8OK0cQlEZLMxTjOKX6ypkVW3Z.jpg"
+        },
+        {
+            "name": "Torey Adkins",
+            "character": "Large Texan Man",
+            "profile_path": "/95ETrrwCHoq2TfmEq7Wi5dWBrC5.jpg"
+        },
+        {
+            "name": "Phil LaMarr",
+            "character": "ESPN Boxing Commentator",
+            "profile_path": "/xP2kNlsmXtzXq0geutflO4K9mSE.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 126,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/etvv46zne2m5",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/fm7ozcaucg3g",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/v/5kt4za5uw4kn",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysejikuar",
+            "url": "https://bysejikuar.com/e/ttwn34ddy852",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/6jri8ru1fgs4",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/cejnifl911ov",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysejikuar",
+            "url": "https://bysejikuar.com/e/rmp5iudrlcwu",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/ztvmyf1yyz6m",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/li7gs835nx89",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/v/ze6fqoyfd1hq",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysejikuar",
+            "url": "https://bysejikuar.com/e/5oqdw872q5z9",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-06 00:39:07",
+    "created_at": "2026-11-06 00:39:07",
+    "updated_at": "2026-11-06 00:39:07",
+    "update_states": "No actualizado"
+}
