@@ -1,0 +1,153 @@
+{
+    "id": "1793943708887",
+    "tmdb_id": "241554",
+    "titulo": "Una noche para sobrevivir",
+    "original_name": "Run All Night",
+    "imagen": "/iSjOGNQY34qIOfYk5heCc1gAlEY.jpg",
+    "backdrop_path": "/dqTvzfXhUWPoBuIbQInOBmYvEL4.jpg",
+    "type": "movie",
+    "year": "2015",
+    "etiquetas": [
+        "Acción",
+        "Crimen",
+        "Suspense"
+    ],
+    "calidad": [],
+    "rate": 6.4000000000000003552713678800500929355621337890625,
+    "sinopsis": "Al veterano mercenario Jimmy Conlon, conocido como El Cavatumbas, lo persiguen los crímenes del pasado, pero tambien el policía que le ha seguido la pista durante 30 años. Cuando se entera de que su hijo Mike corre peligro, Jimmy tiene que elegir entre el clan criminal al que ha pertenecido siempre y su familia, a la que había abandonado hace mucho tiempo. Sólo dispone de una noche para averiguar a quién debe su lealtad.",
+    "cast": [
+        {
+            "name": "Liam Neeson",
+            "character": "Jimmy Conlon",
+            "profile_path": "/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg"
+        },
+        {
+            "name": "Joel Kinnaman",
+            "character": "Mike Conlon",
+            "profile_path": "/cVfYzTyQdJ4xtxKPZe7IcW3BJN4.jpg"
+        },
+        {
+            "name": "Ed Harris",
+            "character": "Shawn Maguire",
+            "profile_path": "/kUbUA70WPiosPT4kBJMWtGk0ASd.jpg"
+        },
+        {
+            "name": "Vincent D'Onofrio",
+            "character": "Detective Harding",
+            "profile_path": "/qkyiLolEqYMGH25xD4sFIXAjZQB.jpg"
+        },
+        {
+            "name": "Bruce McGill",
+            "character": "Pat Mullen",
+            "profile_path": "/j4mn0fPdhhXfRqQwheAwCU8Hwrm.jpg"
+        },
+        {
+            "name": "Genesis Rodriguez",
+            "character": "Gabriela Conlon",
+            "profile_path": "/gUI9KADVjfHiI8nMc87hkeaWEF3.jpg"
+        },
+        {
+            "name": "Boyd Holbrook",
+            "character": "Danny Maguire",
+            "profile_path": "/xmkpedcct3ey1d1HGDNsUMQPHcB.jpg"
+        },
+        {
+            "name": "Holt McCallany",
+            "character": "Frank",
+            "profile_path": "/b1FEXFQ8ZnvXhVrMqCv5mTJ8aW3.jpg"
+        },
+        {
+            "name": "Common",
+            "character": "Mr. Price",
+            "profile_path": "/eggJAnJxpn8wYraX7ea5svETB54.jpg"
+        },
+        {
+            "name": "Nick Nolte",
+            "character": "Eddie Conlon",
+            "profile_path": "/jpYzFBi6zfn8CHVaXmqgiOTas4V.jpg"
+        },
+        {
+            "name": "Lois Smith",
+            "character": "Margaret Conlon",
+            "profile_path": "/unvPSZshdNoj7c5wl6D30gPwKtS.jpg"
+        },
+        {
+            "name": "Beau Knapp",
+            "character": "Kenan Boyle",
+            "profile_path": "/6OWe75RIFETlY3iqvTjswcXRc33.jpg"
+        },
+        {
+            "name": "Daniel Stewart Sherman",
+            "character": "Brendan",
+            "profile_path": "/h7NusO0qQb1EA6fOQbu5yGfb3Wu.jpg"
+        },
+        {
+            "name": "James Martinez",
+            "character": "Detective Jose Flores",
+            "profile_path": "/xWGHtcBUmNO9MBqoDHPtetQZ3k7.jpg"
+        },
+        {
+            "name": "Радивоје Буквић",
+            "character": "Victor Grezda",
+            "profile_path": "/64B4gbIM5RsoPDBhKcMa0AmN8xQ.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 114,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/4qgx6vurtlms",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/b051c80rit7s",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysejikuar",
+            "url": "https://bysejikuar.com/e/wwd5rlt9vvog",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/m2yfj1dgxa4n",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/cxfxj5k9wa0o",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysejikuar",
+            "url": "https://bysejikuar.com/e/ac2p3zvgtfyf",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/zwevahyg7bkj",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-06 00:41:48",
+    "created_at": "2026-11-06 00:41:48",
+    "updated_at": "2026-11-06 00:41:48",
+    "update_states": "No actualizado"
+}
