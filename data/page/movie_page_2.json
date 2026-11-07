@@ -1,5 +1,24 @@
 [
     {
+        "id": "1794035181844",
+        "tmdb_id": "1053059",
+        "titulo": "Cold Road",
+        "imagen": "/805xmoyQEOizXQTZ4z0xaAsNUKc.jpg",
+        "type": "movie",
+        "year": "2024",
+        "etiquetas": [
+            "Suspense",
+            "Acción"
+        ],
+        "rate": 5,
+        "added_date": "2026-11-07 02:06:21",
+        "created_at": "2026-11-07 02:06:21",
+        "updated_at": "2026-11-07 02:06:23",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1794035144269",
         "tmdb_id": "1081680",
         "titulo": "Jackdaw",
