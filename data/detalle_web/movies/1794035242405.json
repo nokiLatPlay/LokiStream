@@ -1,0 +1,167 @@
+{
+    "id": "1794035242405",
+    "tmdb_id": "9802",
+    "titulo": "La roca",
+    "original_name": "The Rock",
+    "imagen": "/l6PuNPsNFx1UFWfQwjk1McPce4y.jpg",
+    "backdrop_path": "/qDVdTL1KqGmGLGsy7UPA3vksku7.jpg",
+    "type": "movie",
+    "year": "1996",
+    "etiquetas": [
+        "Acción",
+        "Aventura",
+        "Suspense"
+    ],
+    "calidad": [],
+    "rate": 7.20000000000000017763568394002504646778106689453125,
+    "sinopsis": "Un grupo de soldados renegados roba un arma química y toma la antigua cárcel de Alcatraz con 81 turistas como rehenes. Su líder, un general del ejército muy condecorado, pide 100 millones de dólares para entregárselos a las familias de los soldados muertos en operaciones secretas llevadas a cabo por el ejército. Un equipo de élite y un recluso, que en su día pudo huir de Alcatraz, y que conoce los pasadizos que pueblan la prisión, tratarán de evitar que una gran catástrofe se produzca.",
+    "cast": [
+        {
+            "name": "Sean Connery",
+            "character": "John Patrick Mason",
+            "profile_path": "/cd0zKpYJ6eSutkrZkLFxQCGjhnF.jpg"
+        },
+        {
+            "name": "Nicolas Cage",
+            "character": "Dr. Stanley Goodspeed",
+            "profile_path": "/y1RtezurZYveYkVNRht7CwEgSYY.jpg"
+        },
+        {
+            "name": "Ed Harris",
+            "character": "Brigadier General Francis X. Hummel, USMC",
+            "profile_path": "/kUbUA70WPiosPT4kBJMWtGk0ASd.jpg"
+        },
+        {
+            "name": "John Spencer",
+            "character": "FBI Director James Womack",
+            "profile_path": "/8AZRfw1vqdsw7tOIK03LSQlphW.jpg"
+        },
+        {
+            "name": "David Morse",
+            "character": "Major Tom Baxter",
+            "profile_path": "/A6zGbkFjM3uajIakgsSeNTmSKqY.jpg"
+        },
+        {
+            "name": "William Forsythe",
+            "character": "Special Agent Ernest Paxton",
+            "profile_path": "/g9lvl6Gz8Tbx4Uxd4FwFxJKpduY.jpg"
+        },
+        {
+            "name": "Michael Biehn",
+            "character": "Commander Charles Anderson",
+            "profile_path": "/9oFLsADWQm2TvU8XzLIzBbjdMkU.jpg"
+        },
+        {
+            "name": "Vanessa Marcil",
+            "character": "Carla Pestalozzi",
+            "profile_path": "/e2bgnPVavuJfFyO84ny8eGhQ6iP.jpg"
+        },
+        {
+            "name": "John C. McGinley",
+            "character": "Marine Captain Hendrix",
+            "profile_path": "/a9Oc7STg83syQh3X22u2TroAifk.jpg"
+        },
+        {
+            "name": "Gregory Sporleder",
+            "character": "Captain Frye",
+            "profile_path": "/qcCA7hMP8rEEGQDfNCKKl3XZrHn.jpg"
+        },
+        {
+            "name": "Tony Todd",
+            "character": "Captain Darrow",
+            "profile_path": "/cNUIRoewwiLi8JxyA1J2zb1z5SN.jpg"
+        },
+        {
+            "name": "Bokeem Woodbine",
+            "character": "Sergeant Crisp",
+            "profile_path": "/pnPyA5pJn94zUzuLWTNkGBNZxza.jpg"
+        },
+        {
+            "name": "Jim Maniaci",
+            "character": "Private Scarpetti",
+            "profile_path": ""
+        },
+        {
+            "name": "Greg Collins",
+            "character": "Private Gamble",
+            "profile_path": "/42p7hsOck2OzIkr4b9Wtp0HckkG.jpg"
+        },
+        {
+            "name": "Brendan Kelly",
+            "character": "Private Cox",
+            "profile_path": "/nJXxgwcGdAL5P1KfgcGrjDaCbsY.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 136,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/ccrplzvo335q",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/oeixrrubfidu",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysejikuar",
+            "url": "https://bysejikuar.com/e/7ur90902j15b",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/tctcuadumotg",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/44dqfk4kouy5",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysejikuar",
+            "url": "https://bysejikuar.com/e/yhhkzilqary7",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/y7taiaejm4sr",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/hiyq1pw1lx0o",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysejikuar",
+            "url": "https://bysejikuar.com/e/qjrswut4ekmk",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-07 02:07:22",
+    "created_at": "2026-11-07 02:07:22",
+    "updated_at": "2026-11-07 02:07:22",
+    "update_states": "No actualizado"
+}
