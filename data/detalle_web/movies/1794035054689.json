@@ -1,0 +1,167 @@
+{
+    "id": "1794035054689",
+    "tmdb_id": "50456",
+    "titulo": "Hanna",
+    "original_name": "Hanna",
+    "imagen": "/6QDeHwBXDHbCbuzStgUpuUAqnap.jpg",
+    "backdrop_path": "/qq39KWLKBBJmOtj54grO58XyoXG.jpg",
+    "type": "movie",
+    "year": "2011",
+    "etiquetas": [
+        "Acción",
+        "Suspense",
+        "Aventura"
+    ],
+    "calidad": [],
+    "rate": 6.5999999999999996447286321199499070644378662109375,
+    "sinopsis": "Hanna tiene 16 años. Es brillante, curiosa y una devota hija. Excepcionalmente, tiene la fuerza y la energía de un soldado; esto se debe a que fue criada por su padre viudo, Erik, un ex hombre de la CIA, en las salvajes tierras del norte de Finlandia. Erik ha enseñado a Hanna a cazar, le ha entrenado con un duro programa de autodefensa y le ha enseñado a leer y escribir con tan solo una enciclopedia y un libro de cuentos de hadas. Hanna ha vivido una vida muy diferente a la de cualquier otra adolescente; toda su educación y entrenamiento se reduce a un objetivo, convertirla en la perfecta asesina. Pero en el mundo real hay una cuenta pendiente con la familia de Hanna, y con una mezcla de orgullo paternal y temor Erik se da cuenta de que ya no puede retener más a su hija. Este momento crucial cambia bruscamente la adolescencia de Hanna y se embarca en la misión para que estaba destinada.",
+    "cast": [
+        {
+            "name": "Saoirse Ronan",
+            "character": "Hanna",
+            "profile_path": "/9buDPdqKN9vbnQLLkHEinDtMrCG.jpg"
+        },
+        {
+            "name": "Eric Bana",
+            "character": "Erik",
+            "profile_path": "/l9yoDgw3YFC2gMD1HTo5djGOwSY.jpg"
+        },
+        {
+            "name": "Cate Blanchett",
+            "character": "Marissa",
+            "profile_path": "/1Rd567YFdGfkJjSlhNPR8joYkaX.jpg"
+        },
+        {
+            "name": "Tom Hollander",
+            "character": "Isaacs",
+            "profile_path": "/cqZiJsImFZ6TaeShRRg49AZ9TyT.jpg"
+        },
+        {
+            "name": "Jessica Barden",
+            "character": "Sophie",
+            "profile_path": "/yff76hxi2Y2yjezWZQ7jAWmbeGk.jpg"
+        },
+        {
+            "name": "Olivia Williams",
+            "character": "Rachel",
+            "profile_path": "/gnL7XGfLiAbhqIjV4jAGIZgySJh.jpg"
+        },
+        {
+            "name": "Jason Flemyng",
+            "character": "Sebastian",
+            "profile_path": "/nYl0180ACnLzVlGbaAfuPtdGr9K.jpg"
+        },
+        {
+            "name": "Aldo Maland",
+            "character": "Miles",
+            "profile_path": "/2DN8LtncbEyarpYLQLQWalmz7hd.jpg"
+        },
+        {
+            "name": "Tim Beckmann",
+            "character": "Walt",
+            "profile_path": "/4u9cCTDSsgoKeX9eRKTppYGPW6D.jpg"
+        },
+        {
+            "name": "John Macmillan",
+            "character": "Lewis",
+            "profile_path": "/o9Jtr3vLCF3ZNPaQ7oMM4oLtmLh.jpg"
+        },
+        {
+            "name": "Vicky Krieps",
+            "character": "Johanna Zadeck",
+            "profile_path": "/9laK3w40qBnE5UY41wJfnUAYMmC.jpg"
+        },
+        {
+            "name": "Martin Wuttke",
+            "character": "Knepfler",
+            "profile_path": "/sywdmaZIpQOOCzAymFixwypDe1g.jpg"
+        },
+        {
+            "name": "Paris Arrowsmith",
+            "character": "CIA Tech 1",
+            "profile_path": "/lRwDTA59HmhO4q5Zr2swfuqub6g.jpg"
+        },
+        {
+            "name": "Paul Birchard",
+            "character": "Bob",
+            "profile_path": "/lJUcOGz448DtoFJAQ35UwHCGJDl.jpg"
+        },
+        {
+            "name": "Christian Malcolm",
+            "character": "Head of Ops",
+            "profile_path": "/hm6VUqMgt8vlcT1b2kdm6cma1oS.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 111,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/i1d9qdtm58h6",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/yvw0uawrpdbd",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysejikuar",
+            "url": "https://bysejikuar.com/e/0ciybahrmuws",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/nthi0oljchx8",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/ikhp0qety2vz",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysejikuar",
+            "url": "https://bysejikuar.com/e/el7pecygxlos",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/ieyrmuqeakd8",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/rd2leuai8hy0",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysejikuar",
+            "url": "https://bysejikuar.com/e/7w5h8ah4fg1b",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-07 02:04:14",
+    "created_at": "2026-11-07 02:04:14",
+    "updated_at": "2026-11-07 02:04:14",
+    "update_states": "No actualizado"
+}
