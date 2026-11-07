@@ -1,5 +1,25 @@
 [
     {
+        "id": "1791282056739",
+        "tmdb_id": "247718",
+        "titulo": "Tierra de mafiosos",
+        "imagen": "/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+        "type": "serie",
+        "year": "2025",
+        "etiquetas": [
+            "Crimen",
+            "Drama"
+        ],
+        "rate": 8.5,
+        "added_date": "2026-10-06 06:20:56",
+        "created_at": "2026-10-06 06:20:56",
+        "updated_at": "2026-11-07 05:28:18",
+        "update_states": "No actualizado",
+        "temporadas": 2,
+        "episodios": 18,
+        "status": "Returning Series"
+    },
+    {
         "id": "1794046930393",
         "tmdb_id": "213375",
         "titulo": "VisionQuest",
@@ -809,26 +829,6 @@
         "update_states": "No actualizado",
         "temporadas": 1,
         "episodios": 26,
-        "status": "Returning Series"
-    },
-    {
-        "id": "1791282056739",
-        "tmdb_id": "247718",
-        "titulo": "Tierra de mafiosos",
-        "imagen": "/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-        "type": "serie",
-        "year": "2025",
-        "etiquetas": [
-            "Crimen",
-            "Drama"
-        ],
-        "rate": 8.5,
-        "added_date": "2026-10-06 06:20:56",
-        "created_at": "2026-10-06 06:20:56",
-        "updated_at": "2026-10-06 06:29:30",
-        "update_states": "No actualizado",
-        "temporadas": 2,
-        "episodios": 13,
         "status": "Returning Series"
     },
     {
