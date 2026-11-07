@@ -1,0 +1,320 @@
+{
+    "id": "1794048159645",
+    "tmdb_id": "303044",
+    "titulo": "Campus Drivers",
+    "original_name": "Campus Drivers",
+    "imagen": "/oPltcyfWWfVmxB6lV8JZZJV3m7Q.jpg",
+    "backdrop_path": "/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
+    "type": "serie",
+    "year": "2026",
+    "etiquetas": [
+        "Drama"
+    ],
+    "temporadas_count": 1,
+    "episodios": 6,
+    "status": "Returning Series",
+    "rate": 7.79999999999999982236431605997495353221893310546875,
+    "sinopsis": "Loïs llega a Belrose junto a Max, el amor de su vida. Allí conoce a Lane, famoso por no comprometerse con nadie y el creador de Campus Drivers, la aplicación más popular del campus. Sus caminos nunca debieron cruzarse, pero ciertos encuentros lo cambian todo y reabren viejas heridas. Cuando el amor aparece donde menos te lo esperas, nada volverá a ser igual.",
+    "cast": [
+        {
+            "name": "Carmen Kassovitz",
+            "character": "Loïs",
+            "profile_path": "/iNLGKtgKWrnHjfZtUbLEwTjJPlf.jpg"
+        },
+        {
+            "name": "Baptiste Masseline",
+            "character": "Lane",
+            "profile_path": "/yfTgeK8drcv5uEKi0ZS1a3tDy0s.jpg"
+        },
+        {
+            "name": "Prune Pauchet",
+            "character": "",
+            "profile_path": "/vBUANoC8vmMRBe7CGeMFV8juWst.jpg"
+        },
+        {
+            "name": "Esteban Vial",
+            "character": "Lewis",
+            "profile_path": "/bS61EfCCt77ZpG2fRYZm8cOdVTY.jpg"
+        },
+        {
+            "name": "Madior Fall",
+            "character": "Donovan",
+            "profile_path": "/aHEr670j2N4VZuai0mF6XhkR9mY.jpg"
+        },
+        {
+            "name": "Félix Nebel",
+            "character": "Adam",
+            "profile_path": "/4hRE5xTDVrn7VlXL9hb3YBTSQW3.jpg"
+        },
+        {
+            "name": "Cassandra Cano",
+            "character": "Emma",
+            "profile_path": "/wlFpi2eNsrRdMET9nrIRI2262vd.jpg"
+        },
+        {
+            "name": "Eloïse Rey",
+            "character": "Carrie",
+            "profile_path": "/xY9uPf0PGBAxgjXPObGLk6c5GIh.jpg"
+        },
+        {
+            "name": "Enzo Lorente",
+            "character": "Max",
+            "profile_path": ""
+        },
+        {
+            "name": "Paolo Luka Noé",
+            "character": "Aaron",
+            "profile_path": "/3Whc0yseMikmH4wKM06ccSf3TEH.jpg"
+        },
+        {
+            "name": "Louna Balavoine",
+            "character": "Becca",
+            "profile_path": ""
+        },
+        {
+            "name": "Eva Hatik",
+            "character": "",
+            "profile_path": ""
+        },
+        {
+            "name": "Laetitia Rosier",
+            "character": "",
+            "profile_path": "/vDv7Ct2hxiL9C8ZrbwDDpayYXs8.jpg"
+        },
+        {
+            "name": "Oumar Diaw",
+            "character": "",
+            "profile_path": "/4BDALPowe7zFg9T65Dh4YHUfKHI.jpg"
+        },
+        {
+            "name": "Annick Roux",
+            "character": "",
+            "profile_path": "/3uiYyVYoYdDD80uCOBLJewPj6VW.jpg"
+        }
+    ],
+    "first_air_date": "2026-11-06",
+    "last_air_date": "2026-11-06",
+    "container_download": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "/oPltcyfWWfVmxB6lV8JZZJV3m7Q.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Corazón roto",
+                    "portada": "/eDJVd7nuO9GvFsl3QEG5jTeZjrJ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/vih9q5q8aigh",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/e47plr0bixmi",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/xaipo8u5smtd",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https://vidara.to/e/sphisntTfOmJa",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Recién llegada",
+                    "portada": "/6Fd5N1Zvh8EXV52ka6vrRQlSaxR.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/f3grr3xl9ib5",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/9mkvufb4avko",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/k6xa6njhbmah",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https://vidara.to/e/1Vt2rOYdoAR3F",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Chica zombi",
+                    "portada": "/gHvNGegL7MIxl7E2F3Rya8JOsCR.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/ehg74no23mmq",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/1ygts534ich5",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/bmbt4vxxx7am",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https://vidara.to/e/uwGA5J0ea2gZ6",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "Vacaciones de invierno",
+                    "portada": "/wD8p2sOW1PYySB15hdYKqAR14fD.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/btjb3d5f76o2",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/t30g4n41efrd",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/2c5yki5ys7rw",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https://vidara.to/e/cGCgNMKJApjDV",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "Se acabó el juego",
+                    "portada": "/5eINTiEo1jaXYGSocwNG37geCVe.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Bysesukior",
+                            "url": "https://bysesukior.com/e/8lojqq762cfz",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/7b8d738p6qay",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https://vidara.to/e/8EsbNgNWE5avR",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Sin freno",
+                    "portada": "/d3S0IoOkWq2DAOxOBzIBAYD8UHE.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Bysesukior",
+                            "url": "https://bysesukior.com/e/0qvtl9kzdmwd",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/j3wxrunhsip3",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https://vidara.to/e/VP1anZHqftnaB",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                }
+            ],
+            "nombre": "Temporada 1"
+        }
+    ],
+    "added_date": "2026-11-07 05:42:39",
+    "created_at": "2026-11-07 05:42:39",
+    "updated_at": "2026-11-07 05:42:39",
+    "update_states": "No actualizado"
+}
