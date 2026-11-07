@@ -1,5 +1,26 @@
 [
     {
+        "id": "1794035144269",
+        "tmdb_id": "1081680",
+        "titulo": "Jackdaw",
+        "imagen": "/m3OwT2vQ468E6b05pNCcCKY0Q7u.jpg",
+        "type": "movie",
+        "year": "2024",
+        "etiquetas": [
+            "Acción",
+            "Drama",
+            "Crimen",
+            "Suspense"
+        ],
+        "rate": 4.5999999999999996447286321199499070644378662109375,
+        "added_date": "2026-11-07 02:05:44",
+        "created_at": "2026-11-07 02:05:44",
+        "updated_at": "2026-11-07 02:05:46",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1794035091552",
         "tmdb_id": "503",
         "titulo": "Poseidón",
