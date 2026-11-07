@@ -1,0 +1,102 @@
+{
+    "id": "1794035181844",
+    "tmdb_id": "1053059",
+    "titulo": "Cold Road",
+    "original_name": "Cold Road",
+    "imagen": "/805xmoyQEOizXQTZ4z0xaAsNUKc.jpg",
+    "backdrop_path": "/raZXXe1Pj4K42uS9aJkZQvbcill.jpg",
+    "type": "movie",
+    "year": "2024",
+    "etiquetas": [
+        "Suspense",
+        "Acción"
+    ],
+    "calidad": [],
+    "rate": 5,
+    "sinopsis": "",
+    "cast": [
+        {
+            "name": "Roseanne Supernault",
+            "character": "Tracy",
+            "profile_path": "/s1R6y1u2vEffqlhaDERU5tPFeh.jpg"
+        },
+        {
+            "name": "Taylor Kinequon",
+            "character": "Eve",
+            "profile_path": "/2TrgoIvd7rbfMIEIGqHqd3PQ6Tr.jpg"
+        },
+        {
+            "name": "Samuel Hoeksema",
+            "character": "Officer Romer",
+            "profile_path": "/6TEscmA3aFBkdWX2DuozcUhHkBK.jpg"
+        },
+        {
+            "name": "Cassandra Phillips-Grande",
+            "character": "Barista",
+            "profile_path": "/kt2jzCR2D2AdmCSW5Slj3LpPTE1.jpg"
+        },
+        {
+            "name": "Chad Cosgrave",
+            "character": "Semi Truck Driver",
+            "profile_path": "/xItofTMxTsDMfHBDMMo1vp3z3GS.jpg"
+        },
+        {
+            "name": "Kim Faires",
+            "character": "Waitress",
+            "profile_path": ""
+        },
+        {
+            "name": "Carla Fox",
+            "character": "Linda",
+            "profile_path": ""
+        },
+        {
+            "name": "C. Blake Evernden",
+            "character": "Semi Truck Driver",
+            "profile_path": ""
+        },
+        {
+            "name": "Nora Mcadam",
+            "character": "Grandma",
+            "profile_path": ""
+        },
+        {
+            "name": "William Louttit",
+            "character": "Frank",
+            "profile_path": ""
+        },
+        {
+            "name": "Peter Redvers",
+            "character": "Cashier",
+            "profile_path": ""
+        },
+        {
+            "name": "Lisa Pantherbone",
+            "character": "Mom",
+            "profile_path": ""
+        }
+    ],
+    "status": "Released",
+    "runtime": 100,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/utrnx4iskgt8",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysejikuar",
+            "url": "https://bysejikuar.com/e/s7o1p102sj2b",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-07 02:06:21",
+    "created_at": "2026-11-07 02:06:21",
+    "updated_at": "2026-11-07 02:06:21",
+    "update_states": "No actualizado"
+}
