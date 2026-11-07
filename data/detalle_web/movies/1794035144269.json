@@ -1,0 +1,119 @@
+{
+    "id": "1794035144269",
+    "tmdb_id": "1081680",
+    "titulo": "Jackdaw",
+    "original_name": "Jackdaw",
+    "imagen": "/m3OwT2vQ468E6b05pNCcCKY0Q7u.jpg",
+    "backdrop_path": "/5GPPGvLJmOg18TOPhQj8YK6PeBg.jpg",
+    "type": "movie",
+    "year": "2024",
+    "etiquetas": [
+        "Acción",
+        "Drama",
+        "Crimen",
+        "Suspense"
+    ],
+    "calidad": [],
+    "rate": 4.5999999999999996447286321199499070644378662109375,
+    "sinopsis": "",
+    "cast": [
+        {
+            "name": "Oliver Jackson-Cohen",
+            "character": "Jack Dawson",
+            "profile_path": "/dd84B5U7Zd2kAh7is35Yhn1qTZK.jpg"
+        },
+        {
+            "name": "Jenna Coleman",
+            "character": "Bo",
+            "profile_path": "/9W77ENR6EAFbg8UjgeAl3F43rFy.jpg"
+        },
+        {
+            "name": "Thomas Turgoose",
+            "character": "Craig",
+            "profile_path": "/3PsCUvclNzVrjDGg69Q3blw83ei.jpg"
+        },
+        {
+            "name": "Joe Blakemore",
+            "character": "Silas",
+            "profile_path": "/aOQvPN905z41pW2fgiAuEH9IIih.jpg"
+        },
+        {
+            "name": "Rory McCann",
+            "character": "Armstrong",
+            "profile_path": "/meEHyiCRXTTCiYQMzP4VEdvEuD0.jpg"
+        },
+        {
+            "name": "Allan Mustafa",
+            "character": "William",
+            "profile_path": "/z21an6lzcd5CPtuBxNoxs1e9LEX.jpg"
+        },
+        {
+            "name": "Vivienne Acheampong",
+            "character": "Eddy",
+            "profile_path": "/1VqJnnimdMwuje0ttU2SsKSuy3S.jpg"
+        },
+        {
+            "name": "Leon Harrop",
+            "character": "Simon",
+            "profile_path": ""
+        },
+        {
+            "name": "Rochelle Goldie",
+            "character": "Mia",
+            "profile_path": ""
+        },
+        {
+            "name": "Racheal Ofori",
+            "character": "Dani",
+            "profile_path": "/eSyj6uX3K57ssIBZRnLnEmX3iGN.jpg"
+        },
+        {
+            "name": "India Rae Moat",
+            "character": "Amy",
+            "profile_path": ""
+        },
+        {
+            "name": "Jack Newhouse",
+            "character": "Policeman",
+            "profile_path": "/iWYl8EBl7gO7Hj0CQMcri0uTCcX.jpg"
+        },
+        {
+            "name": "Dean Brunton",
+            "character": "Armed Policeman",
+            "profile_path": "/gukIJ30fETJWH2ielRo3PnYOWM8.jpg"
+        },
+        {
+            "name": "Damian Edward Shanahan",
+            "character": "Riot Police",
+            "profile_path": ""
+        },
+        {
+            "name": "Joshua Brennan",
+            "character": "Jason",
+            "profile_path": "/cGLxd8W5BvnkEHPSKCOMndMVCRi.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 97,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/xreq2mngh86j",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysejikuar",
+            "url": "https://bysejikuar.com/e/sumyyelfknsh",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-07 02:05:44",
+    "created_at": "2026-11-07 02:05:44",
+    "updated_at": "2026-11-07 02:05:44",
+    "update_states": "No actualizado"
+}
