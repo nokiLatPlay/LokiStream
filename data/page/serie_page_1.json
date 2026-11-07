@@ -1,5 +1,26 @@
 [
     {
+        "id": "1787086438264",
+        "tmdb_id": "314554",
+        "titulo": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
+        "imagen": "https://image.tmdb.org/t/p/w500/b2FoMcfgBuCYvRUbZ1zjNNbGAa6.jpg",
+        "type": "anime",
+        "year": "2026",
+        "etiquetas": [
+            "Animación",
+            "Action & Adventure",
+            "Sci-Fi & Fantasy"
+        ],
+        "rate": 6,
+        "added_date": "2026-08-18 16:53:58",
+        "created_at": "2026-08-18 16:53:58",
+        "updated_at": "2026-11-07 05:55:22",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 12,
+        "status": "Returning Series"
+    },
+    {
         "id": "1794048159645",
         "tmdb_id": "303044",
         "titulo": "Campus Drivers",
@@ -2586,26 +2607,5 @@
         "temporadas": 2,
         "episodios": 24,
         "status": "Ended"
-    },
-    {
-        "id": "1787086438264",
-        "tmdb_id": "314554",
-        "titulo": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
-        "imagen": "https://image.tmdb.org/t/p/w500/b2FoMcfgBuCYvRUbZ1zjNNbGAa6.jpg",
-        "type": "anime",
-        "year": "2026",
-        "etiquetas": [
-            "Animación",
-            "Action & Adventure",
-            "Sci-Fi & Fantasy"
-        ],
-        "rate": 6,
-        "added_date": "2026-08-18 16:53:58",
-        "created_at": "2026-08-18 16:53:58",
-        "updated_at": "2026-08-18 16:53:59",
-        "update_states": "No actualizado",
-        "temporadas": 1,
-        "episodios": 8,
-        "status": "Returning Series"
     }
 ]
