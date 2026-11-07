@@ -1,5 +1,25 @@
 [
     {
+        "id": "1794035242405",
+        "tmdb_id": "9802",
+        "titulo": "La roca",
+        "imagen": "/l6PuNPsNFx1UFWfQwjk1McPce4y.jpg",
+        "type": "movie",
+        "year": "1996",
+        "etiquetas": [
+            "Acción",
+            "Aventura",
+            "Suspense"
+        ],
+        "rate": 7.20000000000000017763568394002504646778106689453125,
+        "added_date": "2026-11-07 02:07:22",
+        "created_at": "2026-11-07 02:07:22",
+        "updated_at": "2026-11-07 02:07:26",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1794035211854",
         "tmdb_id": "157350",
         "titulo": "Divergente",
