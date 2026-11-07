@@ -1,0 +1,181 @@
+{
+    "id": "1794035211854",
+    "tmdb_id": "157350",
+    "titulo": "Divergente",
+    "original_name": "Divergent",
+    "imagen": "/libmZ7xJBkVWmoixPyF3EdTmNtt.jpg",
+    "backdrop_path": "/bgkFOoXEQMRjKkCvgoj7smdGbuh.jpg",
+    "type": "movie",
+    "year": "2014",
+    "etiquetas": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+    ],
+    "calidad": [],
+    "rate": 6.9000000000000003552713678800500929355621337890625,
+    "sinopsis": "\"Divergente\" es la historia de una sociedad que se divide en cinco categorías: Verdad, Abnegación, Osadía, Cordialidad y Erudición. Todos los miembros de esta sociedad tienen que elegir a una edad temprana, los dieciséis años, a qué bando creen pertenecer, atendiendo a sus virtudes personales más destacadas. En este dilema se encuentra la protagonista, Beatrice, que sorprende a todos sus allegados y amigos con la decisión que toma. Beatrice, que pasa a llamarse más tarde Tris, tiene que buscar su lugar adecuado, pero ella no es como el resto. Guarda un secreto que podría ser definitivo para mantener el orden social descrito y también para salvar su propia vida.",
+    "cast": [
+        {
+            "name": "Shailene Woodley",
+            "character": "Tris",
+            "profile_path": "/gL2NvHKW9wAH3qkZuJ76ULUiArB.jpg"
+        },
+        {
+            "name": "Theo James",
+            "character": "Four",
+            "profile_path": "/g4yeW1EgIpyht0fy1stv7EXUmPC.jpg"
+        },
+        {
+            "name": "Ashley Judd",
+            "character": "Natalie",
+            "profile_path": "/5771ZxVIs5rQbI1SV8TOlAFcF15.jpg"
+        },
+        {
+            "name": "Jai Courtney",
+            "character": "Eric",
+            "profile_path": "/6vEaNwbOKov6yzQx15CdtrqfK3L.jpg"
+        },
+        {
+            "name": "Ray Stevenson",
+            "character": "Marcus",
+            "profile_path": "/msafbswGI6uisRuNvQ8a1wMF5Ca.jpg"
+        },
+        {
+            "name": "Zoë Kravitz",
+            "character": "Christina",
+            "profile_path": "/n0mhAgmY6eJQmA7kaugsTZEJgHo.jpg"
+        },
+        {
+            "name": "Miles Teller",
+            "character": "Peter",
+            "profile_path": "/kDf3sW3USjEBDQ3Ua7lbwOfwty6.jpg"
+        },
+        {
+            "name": "Tony Goldwyn",
+            "character": "Andrew",
+            "profile_path": "/A3hXimbzDtFxQ1PXNo8gG7RZeN4.jpg"
+        },
+        {
+            "name": "Ansel Elgort",
+            "character": "Caleb",
+            "profile_path": "/pbU6qz8eudly20UE6u9T7jUXTgT.jpg"
+        },
+        {
+            "name": "Maggie Q",
+            "character": "Tori",
+            "profile_path": "/1Z0A8axunWqZrskGkfANv6W5qCl.jpg"
+        },
+        {
+            "name": "Mekhi Phifer",
+            "character": "Max",
+            "profile_path": "/jCvF0bpi9emIWBnu20MCMU0bwrf.jpg"
+        },
+        {
+            "name": "Kate Winslet",
+            "character": "Jeanine",
+            "profile_path": "/6qNnMsKtKz9si5rabpUEG85UfHp.jpg"
+        },
+        {
+            "name": "Ben Lloyd-Hughes",
+            "character": "Will",
+            "profile_path": "/cEsPLtLwCneRE99VkNIKUri5rk0.jpg"
+        },
+        {
+            "name": "Christian Madsen",
+            "character": "Al",
+            "profile_path": "/3j8ZaqJktp2eRGB8hgiYqoFBxAW.jpg"
+        },
+        {
+            "name": "Amy Newbold",
+            "character": "Molly",
+            "profile_path": "/7u06DAwLGEvsvgoo10qNb0FxqCd.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 139,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/jlcpeb5foqwu",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/52bfgtkhzqwy",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/v/ni9l50hde90n",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysejikuar",
+            "url": "https://bysejikuar.com/e/czo8jgktpw5a",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/n2atgkbwbm9v",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/u8p1374b90st",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysejikuar",
+            "url": "https://bysejikuar.com/e/lrnawqbnv264",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/xrhusz9o2lje",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/1324y6shc2wq",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/v/fuqru6uk1yvw",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Bysejikuar",
+            "url": "https://bysejikuar.com/e/5o46qz6evj9g",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-07 02:06:51",
+    "created_at": "2026-11-07 02:06:51",
+    "updated_at": "2026-11-07 02:06:51",
+    "update_states": "No actualizado"
+}
