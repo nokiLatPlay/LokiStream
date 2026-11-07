@@ -1,5 +1,25 @@
 [
     {
+        "id": "1794035211854",
+        "tmdb_id": "157350",
+        "titulo": "Divergente",
+        "imagen": "/libmZ7xJBkVWmoixPyF3EdTmNtt.jpg",
+        "type": "movie",
+        "year": "2014",
+        "etiquetas": [
+            "Acción",
+            "Aventura",
+            "Ciencia ficción"
+        ],
+        "rate": 6.9000000000000003552713678800500929355621337890625,
+        "added_date": "2026-11-07 02:06:51",
+        "created_at": "2026-11-07 02:06:51",
+        "updated_at": "2026-11-07 02:06:52",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1794035181844",
         "tmdb_id": "1053059",
         "titulo": "Cold Road",
