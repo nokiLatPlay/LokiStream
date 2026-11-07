@@ -1,5 +1,25 @@
 [
     {
+        "id": "1794035054689",
+        "tmdb_id": "50456",
+        "titulo": "Hanna",
+        "imagen": "/6QDeHwBXDHbCbuzStgUpuUAqnap.jpg",
+        "type": "movie",
+        "year": "2011",
+        "etiquetas": [
+            "Acción",
+            "Suspense",
+            "Aventura"
+        ],
+        "rate": 6.5999999999999996447286321199499070644378662109375,
+        "added_date": "2026-11-07 02:04:14",
+        "created_at": "2026-11-07 02:04:14",
+        "updated_at": "2026-11-07 02:04:16",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1793943770960",
         "tmdb_id": "68724",
         "titulo": "Elysium",
