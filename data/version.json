@@ -1,15 +1,15 @@
 {
-  "version_code": 2,
-  "version_name": "1.5.0",
+  "version_code": 1,
+  "version_name": "1.5.1",
   "latest_version": true,
   "update_required": true,
   "title": "¡Nueva actualización disponible!",
-  "message": "Seguimos mejorando tu experiencia. En esta versión hemos incorporado nuevas mejoras y novedades para ofrecerte un mejor servicio.",
+  "message": "Seguimos trabajando para mejorar tu experiencia. En esta versión hemos optimizado el Reproductor y solucionado problemas en algunos servidores para que puedas disfrutar de una reproducción más estable y fluida.",
   "changes": [
-    "Cambios en los anuncios (Interstitials) (Hemos realizado ajustes y mejoras en los anuncios intersticiales para optimizar su funcionamiento dentro de la aplicación.)",
-    "Nuevos servidores agregados (¡Más opciones para disfrutar de tu contenido favorito! Hemos añadido soporte para nuevos servidores de reproducción, ampliando las alternativas disponibles.)",
+    "Mejoras en el Reproductor (Hemos optimizado el funcionamiento del reproductor para una experiencia más estable y rápida.)",
+    "Servidores mejorados (Corregimos y mejoramos varios servidores que presentaban problemas, para que vuelvan a funcionar correctamente.)",
     "Corrección de errores"
   ],
-  "download_url": "https://www.mediafire.com/file/t3ify196kx7yq9c/Proyect99_%255BV1.5.0%255D_Oficial.apk/file",
-  "release_date": "2026-10-31"
+  "download_url": "https://www.mediafire.com/file/687f03qvacjgfgz/Proyect99+[V1.5.1]+Oficial.apk/file",
+  "release_date": "2026-11-08"
 }
