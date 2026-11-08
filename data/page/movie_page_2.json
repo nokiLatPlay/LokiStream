@@ -1,5 +1,25 @@
 [
     {
+        "id": "1793943741206",
+        "tmdb_id": "198184",
+        "titulo": "Chappie",
+        "imagen": "/g2kVBpRljENCi8KskBi0tedK3UE.jpg",
+        "type": "movie",
+        "year": "2015",
+        "etiquetas": [
+            "Crimen",
+            "Acción",
+            "Ciencia ficción"
+        ],
+        "calidad": [],
+        "rate": 6.79999999999999982236431605997495353221893310546875,
+        "status": "Released",
+        "added_date": "2026-11-06 00:42:21",
+        "created_at": "2026-11-06 00:42:21",
+        "updated_at": "2026-11-07 19:18:12",
+        "update_states": "No actualizado"
+    },
+    {
         "id": "1794035242405",
         "tmdb_id": "9802",
         "titulo": "La roca",
@@ -136,26 +156,6 @@
         "added_date": "2026-11-06 00:42:50",
         "created_at": "2026-11-06 00:42:50",
         "updated_at": "2026-11-06 00:42:52",
-        "update_states": "No actualizado",
-        "calidad": [],
-        "status": "Released"
-    },
-    {
-        "id": "1793943741206",
-        "tmdb_id": "198184",
-        "titulo": "Chappie",
-        "imagen": "/g2kVBpRljENCi8KskBi0tedK3UE.jpg",
-        "type": "movie",
-        "year": "2015",
-        "etiquetas": [
-            "Crimen",
-            "Acción",
-            "Ciencia ficción"
-        ],
-        "rate": 6.79999999999999982236431605997495353221893310546875,
-        "added_date": "2026-11-06 00:42:21",
-        "created_at": "2026-11-06 00:42:21",
-        "updated_at": "2026-11-06 00:42:24",
         "update_states": "No actualizado",
         "calidad": [],
         "status": "Released"
