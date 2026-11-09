@@ -1,5 +1,25 @@
 [
     {
+        "id": "1794201123171",
+        "tmdb_id": "117251",
+        "titulo": "Asalto al poder",
+        "imagen": "/7Ri9YvVFMsTsBCZphs13sEIvU5H.jpg",
+        "type": "movie",
+        "year": "2013",
+        "etiquetas": [
+            "Acción",
+            "Drama",
+            "Suspense"
+        ],
+        "rate": 6.5,
+        "added_date": "2026-11-09 00:12:03",
+        "created_at": "2026-11-09 00:12:03",
+        "updated_at": "2026-11-09 00:12:04",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1794201096999",
         "tmdb_id": "1780005",
         "titulo": "Contra el huracán",
