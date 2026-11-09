@@ -1,0 +1,125 @@
+{
+    "id": "1794202437373",
+    "tmdb_id": "718930",
+    "titulo": "Bullet Train",
+    "original_name": "Bullet Train",
+    "imagen": "/kM6iLHkDfyoMsTIm567mUFzFO9e.jpg",
+    "backdrop_path": "/y2Ca1neKke2mGPMaHzlCNDVZqsK.jpg",
+    "type": "movie",
+    "year": "2022",
+    "etiquetas": [
+        "Acción",
+        "Comedia",
+        "Suspense"
+    ],
+    "calidad": [],
+    "rate": 7.4000000000000003552713678800500929355621337890625,
+    "sinopsis": "Cinco asesinos a sueldo se encuentran a bordo de un tren bala que viaja de Tokio a Morioka con unas pocas paradas intermedias. Descubren que sus misiones no son ajenas entre sí. La pregunta es quién saldrá vivo del tren y qué les espera en la estación final.",
+    "cast": [
+        {
+            "name": "Brad Pitt",
+            "character": "Ladybug",
+            "profile_path": "/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+        },
+        {
+            "name": "Joey King",
+            "character": "Prince",
+            "profile_path": "/94c69mPYSK9jFsAEu0OKB7Qs684.jpg"
+        },
+        {
+            "name": "Aaron Taylor-Johnson",
+            "character": "Tangerine",
+            "profile_path": "/pFtHhih2XEaFaD3qOFyQW6q83br.jpg"
+        },
+        {
+            "name": "Brian Tyree Henry",
+            "character": "Lemon",
+            "profile_path": "/2MsJh0bpyzwvOUnXOltHp3j85Pb.jpg"
+        },
+        {
+            "name": "Andrew Koji",
+            "character": "Kimura",
+            "profile_path": "/oU53nWLQ6wFHzERwSi1fD53LxZB.jpg"
+        },
+        {
+            "name": "Hiroyuki Sanada",
+            "character": "The Elder",
+            "profile_path": "/SOwDxhGnRccP2lAtssQ7TxCzOe.jpg"
+        },
+        {
+            "name": "Michael Shannon",
+            "character": "White Death",
+            "profile_path": "/6mMczfjM8CiS1WuBOgo5Xom1TcR.jpg"
+        },
+        {
+            "name": "Sandra Bullock",
+            "character": "Maria",
+            "profile_path": "/4rfjISL3Flx16jfiusXoHbpt87X.jpg"
+        },
+        {
+            "name": "Bad Bunny",
+            "character": "Wolf",
+            "profile_path": "/r70aP80HleYJYVScjDhenNCeeWX.jpg"
+        },
+        {
+            "name": "Logan Lerman",
+            "character": "The Son",
+            "profile_path": "/ckcpgSvSWOhi8mvAfR1Cpsakg3S.jpg"
+        },
+        {
+            "name": "Zazie Beetz",
+            "character": "The Hornet",
+            "profile_path": "/sgxzT54GnvgeMnOZgpQQx9csAdd.jpg"
+        },
+        {
+            "name": "Masi Oka",
+            "character": "Conductor",
+            "profile_path": "/hNBA8J45AY2djhPbLXP3sbXgygI.jpg"
+        },
+        {
+            "name": "Karen Fukuhara",
+            "character": "Kayda Izumi Concession Girl",
+            "profile_path": "/sG6CWLdENCtzukNFkFYyPxqyRmS.jpg"
+        },
+        {
+            "name": "Kevin Akiyoshi Ching",
+            "character": "Wataru",
+            "profile_path": ""
+        },
+        {
+            "name": "Minchi Murakami",
+            "character": "Tokyo Zookeeper",
+            "profile_path": ""
+        }
+    ],
+    "status": "Released",
+    "runtime": 126,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/kut2h7e71zry",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/y3yon4utp9zu",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/x5r5624zqjsh",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-09 00:33:57",
+    "created_at": "2026-11-09 00:33:57",
+    "updated_at": "2026-11-09 00:33:57",
+    "update_states": "No actualizado"
+}
