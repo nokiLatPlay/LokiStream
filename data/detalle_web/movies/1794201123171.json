@@ -1,0 +1,139 @@
+{
+    "id": "1794201123171",
+    "tmdb_id": "117251",
+    "titulo": "Asalto al poder",
+    "original_name": "White House Down",
+    "imagen": "/7Ri9YvVFMsTsBCZphs13sEIvU5H.jpg",
+    "backdrop_path": "/eVidMQ5eXDhRizo9ig1X4iWCDqe.jpg",
+    "type": "movie",
+    "year": "2013",
+    "etiquetas": [
+        "Acción",
+        "Drama",
+        "Suspense"
+    ],
+    "calidad": [],
+    "rate": 6.5,
+    "sinopsis": "John Cale, un policía del Capitolio, ve rechazada su petición de entrar en el Servicio Secreto para proteger al Presidente de los Estados Unidos James Sawyer. Para no decepcionar a su hija, la lleva a hacer un tour por la Casa Blanca. En ese momento, un comando paramilitar fuertemente armado asalta el edificio. Con el Gobierno de la nación sumido en el caos, Cale intentará salvar al Presidente, a su hija y al país.",
+    "cast": [
+        {
+            "name": "Channing Tatum",
+            "character": "Cale",
+            "profile_path": "/4TpgnS6l8YUXSne9Av9nda6mjxY.jpg"
+        },
+        {
+            "name": "Jamie Foxx",
+            "character": "President Sawyer",
+            "profile_path": "/zD8Nsy4Xrghp7WunwpCj5JKBPeU.jpg"
+        },
+        {
+            "name": "Maggie Gyllenhaal",
+            "character": "Finnerty",
+            "profile_path": "/vsfkWdYWmA9CpzMHTJzrFxlDnEZ.jpg"
+        },
+        {
+            "name": "Jason Clarke",
+            "character": "Stenz",
+            "profile_path": "/quH4y2dto3UAgZOfaM0QriyRLPN.jpg"
+        },
+        {
+            "name": "Richard Jenkins",
+            "character": "Raphelson",
+            "profile_path": "/muT3RZG9hiKaKojD751RcQ5tGEy.jpg"
+        },
+        {
+            "name": "Joey King",
+            "character": "Emily",
+            "profile_path": "/94c69mPYSK9jFsAEu0OKB7Qs684.jpg"
+        },
+        {
+            "name": "James Woods",
+            "character": "Walker",
+            "profile_path": "/tLH7mpH4KqkWL5VgjueTbewGsfK.jpg"
+        },
+        {
+            "name": "Nicolas Wright",
+            "character": "Donnie the Guide",
+            "profile_path": "/cYG8YI40q1YtOAsl5oGWqcUPCzJ.jpg"
+        },
+        {
+            "name": "Jimmi Simpson",
+            "character": "Tyler",
+            "profile_path": "/gerE8VqXfFyAs3QhbUlwEuZllKq.jpg"
+        },
+        {
+            "name": "Michael Murphy",
+            "character": "Vice President Hammond",
+            "profile_path": "/3quWjoqh8vKoSXE9Ll3AC7pgsRh.jpg"
+        },
+        {
+            "name": "Rachelle Lefevre",
+            "character": "Melanie",
+            "profile_path": "/5ETzDBwbCZ9xYLMmD5c39snVsoQ.jpg"
+        },
+        {
+            "name": "Lance Reddick",
+            "character": "General Caulfield",
+            "profile_path": "/22mVtEXZbpt0J7S0LhIhdkfRrZV.jpg"
+        },
+        {
+            "name": "Matt Craven",
+            "character": "Agent Kellerman",
+            "profile_path": "/tWF8B3Dj7zvKRmkTplp7ice6Wo9.jpg"
+        },
+        {
+            "name": "Jake Weber",
+            "character": "Agent Hope",
+            "profile_path": "/z1RTh4qvyMFha8nKd5Uw1dKwkZz.jpg"
+        },
+        {
+            "name": "Peter Jacobson",
+            "character": "Wallace",
+            "profile_path": "/pGi9CnzEG4cLa2viUP89yvlPCyR.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 131,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/r99hrbx1fm7b",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/saixw69xik51",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/qca25e06xm31",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/946z3dh74ddi",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/39b187sf8r7f",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-09 00:12:03",
+    "created_at": "2026-11-09 00:12:03",
+    "updated_at": "2026-11-09 00:12:03",
+    "update_states": "No actualizado"
+}
