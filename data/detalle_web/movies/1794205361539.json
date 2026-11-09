@@ -1,0 +1,117 @@
+{
+    "id": "1794205361539",
+    "tmdb_id": "1294203",
+    "titulo": "Culpa mía: Londres",
+    "original_name": "My Fault: London",
+    "imagen": "/q0HxfkF9eoa6wSVnzwMhuDSK7ba.jpg",
+    "backdrop_path": "/uJK0jjJ8QDOQw5lcNBwu059ht4D.jpg",
+    "type": "movie",
+    "year": "2025",
+    "etiquetas": [
+        "Drama",
+        "Romance"
+    ],
+    "calidad": [],
+    "rate": 7.4000000000000003552713678800500929355621337890625,
+    "sinopsis": "Noah, de 18 años, se traslada de Estados Unidos a Londres con su madre, que se ha enamorado recientemente de William, un adinerado hombre de negocios británico. Noah conoce al hijo de William, el malote Nick. Pese a los esfuerzos de ambos por evitarlo, se sienten atraídos. Mientras Noah pasa el verano adaptándose a su nueva vida, su doloroso pasado la irá atrapando a la vez que se va enamorando.",
+    "cast": [
+        {
+            "name": "Asha Banks",
+            "character": "Noah",
+            "profile_path": "/vZi45Xn17QMaOXmAOvkCEjB3QFr.jpg"
+        },
+        {
+            "name": "Matthew Broome",
+            "character": "Nick",
+            "profile_path": "/nSjPuDG5IVQfyMU8TkZl0ZQkLu6.jpg"
+        },
+        {
+            "name": "Eve Macklin",
+            "character": "Ella",
+            "profile_path": "/7e1bpd3iTst0PvCk4A7LVfUgNut.jpg"
+        },
+        {
+            "name": "Ray Fearon",
+            "character": "William",
+            "profile_path": "/ou2cqhqdhfQoKVEBpIh0P3sKZti.jpg"
+        },
+        {
+            "name": "Enva Lewis",
+            "character": "Jenna",
+            "profile_path": "/hFBuqi7NFiFgHho2J2IM43nZcrG.jpg"
+        },
+        {
+            "name": "Jason Flemyng",
+            "character": "Travis",
+            "profile_path": "/nYl0180ACnLzVlGbaAfuPtdGr9K.jpg"
+        },
+        {
+            "name": "Kerim Hassan",
+            "character": "Lion",
+            "profile_path": "/b1LNPysqfX5XmCkF8En67RR3aPI.jpg"
+        },
+        {
+            "name": "Sam Buchanan",
+            "character": "Ronnie",
+            "profile_path": "/au5WjiUcUjheDEJ8BEXRFXhsIS8.jpg"
+        },
+        {
+            "name": "Amelia Kenworthy",
+            "character": "Anna",
+            "profile_path": "/3QgUXGc7iOEHDlK7MQhTBmkKpP.jpg"
+        },
+        {
+            "name": "Harry Gilby",
+            "character": "Dan",
+            "profile_path": "/4rORd6r6Ts4eYWVhbP9iIsE4CEo.jpg"
+        },
+        {
+            "name": "Christina Cole",
+            "character": "Bethan",
+            "profile_path": "/lOcjHQgXg5rgM6zOr4k7SsMoABV.jpg"
+        },
+        {
+            "name": "Sekou Diaby",
+            "character": "Zach",
+            "profile_path": "/hMMfgROdg2PCnShii47JyRUAnHC.jpg"
+        },
+        {
+            "name": "Tommy Belshaw",
+            "character": "Giles",
+            "profile_path": "/zZ8wYfxEio1y3npqH5NlScDfN4E.jpg"
+        },
+        {
+            "name": "Harvey Almond",
+            "character": "Tom",
+            "profile_path": "/wD1I53ej2ggLO42WPTv2fJyzuu7.jpg"
+        },
+        {
+            "name": "George Robinson",
+            "character": "JP",
+            "profile_path": "/yElCccmUOTagCRg5EQoasyrbWVA.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 119,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/v/2rio0ondbt16",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/embed/z4os0bdazz1l",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-09 01:22:41",
+    "created_at": "2026-11-09 01:22:41",
+    "updated_at": "2026-11-09 01:22:41",
+    "update_states": "No actualizado"
+}
