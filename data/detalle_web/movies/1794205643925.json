@@ -1,0 +1,146 @@
+{
+    "id": "1794205643925",
+    "tmdb_id": "20526",
+    "titulo": "TRON: Legacy",
+    "original_name": "TRON: Legacy",
+    "imagen": "/m3tkTgatN1IuwKGAFnsiLakRQLh.jpg",
+    "backdrop_path": "/uUa6jgSr5BQpcBhhaz1PV1JhSa4.jpg",
+    "type": "movie",
+    "year": "2010",
+    "etiquetas": [
+        "Aventura",
+        "Acción",
+        "Ciencia ficción"
+    ],
+    "calidad": [],
+    "rate": 6.5999999999999996447286321199499070644378662109375,
+    "sinopsis": "Cuando Sam Flynn, programador experto en tecnología de 27 años e hijo de Kevin Flynn, investiga la desaparición de su padre, se encuentra de repente inmerso en un peligroso y salvaje mundo surreal donde existen feroces luchas a muerte, un lugar paralelo donde su padre ha estado viviendo durante 25 años. Con la ayuda de una joven, padre e hijo se embarcarán en un viaje a vida o muerte a través de un universo cibernético, que con el tiempo se ha convertido en mucho más avanzado y peligroso.",
+    "cast": [
+        {
+            "name": "Garrett Hedlund",
+            "character": "Sam Flynn",
+            "profile_path": "/9zec61HuFJgiUEzPSt0NfPIj0Xv.jpg"
+        },
+        {
+            "name": "Olivia Wilde",
+            "character": "Quorra",
+            "profile_path": "/eODi1QKamyVa41eSK2SjU20VAZS.jpg"
+        },
+        {
+            "name": "Jeff Bridges",
+            "character": "Kevin Flynn / Clu",
+            "profile_path": "/xms1RAY6q7Lzp7wNeRCB0kzhucn.jpg"
+        },
+        {
+            "name": "Bruce Boxleitner",
+            "character": "Alan Bradley / Tron",
+            "profile_path": "/fff4NtuRhJbKUrIHCo96X9XAh4z.jpg"
+        },
+        {
+            "name": "James Frain",
+            "character": "Jarvis",
+            "profile_path": "/1KnxsxRbVZkh5bdY3gA8v4YKhKR.jpg"
+        },
+        {
+            "name": "Beau Garrett",
+            "character": "Gem",
+            "profile_path": "/Avwi2Brbb6GgxrU337u6zAbGvj.jpg"
+        },
+        {
+            "name": "Michael Sheen",
+            "character": "Castor / Zuse",
+            "profile_path": "/nGxIcIcfJjdPN3k8zFabtA1gRqL.jpg"
+        },
+        {
+            "name": "Anis Cheurfa",
+            "character": "Rinzler",
+            "profile_path": "/sToFORAIVPHffNHKcsIYjEISMv0.jpg"
+        },
+        {
+            "name": "Serinda Swan",
+            "character": "Siren #2",
+            "profile_path": "/mA4qtNZnn0A2oT1s4IIHseO8oiu.jpg"
+        },
+        {
+            "name": "Yaya DaCosta",
+            "character": "Siren #3",
+            "profile_path": "/nbkbw9fjaAxFPscnY8xcqAi5TCs.jpg"
+        },
+        {
+            "name": "Elizabeth Mathis",
+            "character": "Siren #4",
+            "profile_path": "/20JIjwt09fOzcN9LjVOGdWLrgqP.jpg"
+        },
+        {
+            "name": "Kis Yurij",
+            "character": "Half Faced Man",
+            "profile_path": "/sYzIkFxoWW0walcqk7urZILq05M.jpg"
+        },
+        {
+            "name": "Conrad Coates",
+            "character": "Bartik",
+            "profile_path": "/synctEI6SoicViRJxHupyQgs6zv.jpg"
+        },
+        {
+            "name": "Thomas Bangalter",
+            "character": "Masked DJ",
+            "profile_path": "/w961KKic96EBX5gGHMEjahfKuDI.jpg"
+        },
+        {
+            "name": "Guy-Manuel de Homem-Christo",
+            "character": "Masked DJ",
+            "profile_path": "/4AuuH8o7OcoflG6IU17n1HrRXHU.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 125,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/hivpizzxhv9r",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/zdbbt6x9j9k5",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/rvzoe88583p6",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/6vx7b900xeg9",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/r56p1know8s2",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/kgjxjor7uc78",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-09 01:27:23",
+    "created_at": "2026-11-09 01:27:23",
+    "updated_at": "2026-11-09 01:27:23",
+    "update_states": "No actualizado"
+}
