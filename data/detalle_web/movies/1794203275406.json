@@ -1,0 +1,134 @@
+{
+    "id": "1794203275406",
+    "tmdb_id": "8965",
+    "titulo": "Atlantis: El regreso de Milo",
+    "original_name": "Atlantis: Milo's Return",
+    "imagen": "/cGL75ElUUClVs8kpXbVcaUxmgbd.jpg",
+    "backdrop_path": "/3raqIytmaDD9AkAWh8W0FYtx3gX.jpg",
+    "type": "movie",
+    "year": "2003",
+    "etiquetas": [
+        "Fantasía",
+        "Animación",
+        "Ciencia ficción",
+        "Familia",
+        "Acción"
+    ],
+    "calidad": [],
+    "rate": 6.29999999999999982236431605997495353221893310546875,
+    "sinopsis": "En la primera expedición (Atlantis: El Imperio Perdido), Milo y sus acompañantes encontraron la famosa ciudad perdida de Atlantis y salvaron al misterioso reino y a sus habitantes. Ahora, Milo, Kida y su equipo vivirán nuevas aventuras y descubrirán que poseen nuevos poderes. En su nueva misión, el equipo se enfrentará a enormes monstruos marinos, a espíritus espectaculares y poderosas leyendas recorriendo desde el polvoriento desierto del sudoeste hasta las heladas montañas nórdicas. A lo largo de esta aventura, Kida descubre el increíble poder de los cristales encantados de su ciudad y tiene que decidir si oculta ese poder en el Corazón de Atlantis o lo comparte con el resto del mando... Secuela directa a vídeo de la película de Disney de 2001.",
+    "cast": [
+        {
+            "name": "James Arnold Taylor",
+            "character": "Milo (voice)",
+            "profile_path": "/A6J14W5kxsuEKXaRkiOXBIROO9t.jpg"
+        },
+        {
+            "name": "Cree Summer",
+            "character": "Kida (voice)",
+            "profile_path": "/7DRq0zPUUWu55pUbnc2roVnzOJ9.jpg"
+        },
+        {
+            "name": "John Mahoney",
+            "character": "Whitmore (voice)",
+            "profile_path": "/paVSw7Brdp6MKa2j4UPukA0KHs3.jpg"
+        },
+        {
+            "name": "Jacqueline Obradors",
+            "character": "Audrey / Nurse (voice)",
+            "profile_path": "/ehB4tbbnfOcWGtvz4aNdYUzUZhZ.jpg"
+        },
+        {
+            "name": "Don Novello",
+            "character": "Vinny (voice)",
+            "profile_path": "/bbpgxoJRexVFpCDEqtOJYaRH4zQ.jpg"
+        },
+        {
+            "name": "Corey Burton",
+            "character": "Mole (voice)",
+            "profile_path": "/wcpFwdL7m01cZoBJiUSMQVakK2G.jpg"
+        },
+        {
+            "name": "Phil Morris",
+            "character": "Sweet (voice)",
+            "profile_path": "/iZADKc1QdCFpTvu0KnU3BZBwtrE.jpg"
+        },
+        {
+            "name": "Florence Stanley",
+            "character": "Packard (voice)",
+            "profile_path": "/yTntdhPTbELMrqjgdEftDFw8WSD.jpg"
+        },
+        {
+            "name": "Steven Barr",
+            "character": "Cookie (voice)",
+            "profile_path": "/aZyyrfL7Sutv5dTCcXKPlZZwGDL.jpg"
+        },
+        {
+            "name": "Frank Welker",
+            "character": "Obby / Mantell (voice)",
+            "profile_path": "/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg"
+        },
+        {
+            "name": "Clancy Brown",
+            "character": "Volgud (voice)",
+            "profile_path": "/1JeBRNG7VS7r64V9lOvej9bZXW5.jpg"
+        },
+        {
+            "name": "Jean Gilpin",
+            "character": "Inger (voice)",
+            "profile_path": "/8NRvEevVGpG0y5gSb7SvBMiUfur.jpg"
+        },
+        {
+            "name": "Kai Rune Larsen",
+            "character": "Seaman / Gunnar (voice)",
+            "profile_path": ""
+        },
+        {
+            "name": "Bill Fagerbakke",
+            "character": "Sven (voice)",
+            "profile_path": "/zntKKc1uT53BnIihmzbq601eWKZ.jpg"
+        },
+        {
+            "name": "Thomas F. Wilson",
+            "character": "Carnaby (voice)",
+            "profile_path": "/mVhm65ZVBIRIptWGiMIvoUy0Khi.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 70,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/f1wn0qxow1td",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/feobg8vtjvlu",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/yw6tsv58nyj2",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/mxhwwlyj03ga",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-09 00:47:55",
+    "created_at": "2026-11-09 00:47:55",
+    "updated_at": "2026-11-09 00:47:55",
+    "update_states": "No actualizado"
+}
