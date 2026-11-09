@@ -1,0 +1,140 @@
+{
+    "id": "1794205562318",
+    "tmdb_id": "77931",
+    "titulo": "Los pitufos 2",
+    "original_name": "The Smurfs 2",
+    "imagen": "/vjb5WNkwZJDIcmVrzR4GyPmPRZo.jpg",
+    "backdrop_path": "/aIyvMthA7UGV6ix6AUUM88ZXfeU.jpg",
+    "type": "movie",
+    "year": "2013",
+    "etiquetas": [
+        "Fantasía",
+        "Familia",
+        "Comedia",
+        "Animación"
+    ],
+    "calidad": [],
+    "rate": 5.70000000000000017763568394002504646778106689453125,
+    "sinopsis": "Secuela de \"Los pitufos\", adaptación del cómic homónimo realizada en 2011 por Raja Gosnell. En esta secuela, el cruel y malvado Gargamel regresa con más fuerza que nunca para poder robar a los Pitufos la más pura esencia de su magia y para ello, fabrica dos pequeños Pitufos falsos llamados Naughties. Pero Gargamel, no tardará en darse cuenta de que no servirá de nada porque la magia que él anhela, sólo se la puede proporcionar un Pitufo verdadero, por eso decide secuestrar a la Pitufina y trasladarla a París, donde se ha ganado la admiración de miles de personas como el mejor mago del mundo. Ahora todo queda en manos de Papa pitufo y sus camaradas, quienes tendrán que volver al mundo de los humanos para salvar a la Pitufina.",
+    "cast": [
+        {
+            "name": "Katy Perry",
+            "character": "Smurfette (voice)",
+            "profile_path": "/9U2JJMSlM8mDNSmEWNPvHFcUatl.jpg"
+        },
+        {
+            "name": "Hank Azaria",
+            "character": "Gargamel",
+            "profile_path": "/yFDw4b0jucuFWNnGcBPfpYUtn16.jpg"
+        },
+        {
+            "name": "Neil Patrick Harris",
+            "character": "Patrick Winslow",
+            "profile_path": "/r2twLWLwDpKJ7JyhWsD1YsL7rJV.jpg"
+        },
+        {
+            "name": "Jayma Mays",
+            "character": "Grace Winslow",
+            "profile_path": "/n8tY5eVXje0vXTws66YAdEeHMy5.jpg"
+        },
+        {
+            "name": "Brendan Gleeson",
+            "character": "Victor Doyle",
+            "profile_path": "/ctPPJu5ZYDZr1IPmzoNpezczrm0.jpg"
+        },
+        {
+            "name": "Jacob Tremblay",
+            "character": "Blue Winslow",
+            "profile_path": "/h8CXDp86Y36CUENF4SXJq5ZRTsf.jpg"
+        },
+        {
+            "name": "Nancy O'Dell",
+            "character": "Nancy O'Dell",
+            "profile_path": "/qFC3ROhvQJFdvjpHB6XRMFVn1RI.jpg"
+        },
+        {
+            "name": "Karim Babin",
+            "character": "Room Service Waiter",
+            "profile_path": "/evZe74rOE7HfazIVTxbSFm4nDho.jpg"
+        },
+        {
+            "name": "Gaston Morrison",
+            "character": "New York Taxi Driver",
+            "profile_path": "/zhX2yH6UqJTXjNvPYsmONnSHwrz.jpg"
+        },
+        {
+            "name": "Jocelyn Blanchard",
+            "character": "Toad Man",
+            "profile_path": "/5g91i6TKYfkBadojFoc5ag3yvZ1.jpg"
+        },
+        {
+            "name": "Erika Rosenbaum",
+            "character": "Pregnant Mom",
+            "profile_path": "/9wDv693GRtAxiThxrfWoBtCHRVE.jpg"
+        },
+        {
+            "name": "Carolina Bartczak",
+            "character": "Peanut Mom",
+            "profile_path": "/tQumydKvy6B2egz70Yd73kgokyP.jpg"
+        },
+        {
+            "name": "James A. Woods",
+            "character": "Peanut Father",
+            "profile_path": "/4ommjenbzX7DLRnB46wYZbDanBv.jpg"
+        },
+        {
+            "name": "Henri Pardo",
+            "character": "Father-to-Be",
+            "profile_path": "/rWL3smsYhOuGkMs1sJk6Mc8msIF.jpg"
+        },
+        {
+            "name": "Vanessa Matsui",
+            "character": "Mother with Camera",
+            "profile_path": "/7FjPxobiTy6F92PGlpcTzxD8M7X.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 115,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/vffq7i5q07go",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/r64c4i8r89nh",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/mqam8hs3ihug",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/7ehric5ed39n",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/ihzv4lag8sat",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-09 01:26:02",
+    "created_at": "2026-11-09 01:26:02",
+    "updated_at": "2026-11-09 01:26:02",
+    "update_states": "No actualizado"
+}
