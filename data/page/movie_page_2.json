@@ -1,5 +1,27 @@
 [
     {
+        "id": "1794205540912",
+        "tmdb_id": "41513",
+        "titulo": "Los pitufos",
+        "imagen": "/ufpzGicM1hZQMzRzTRHAcIQXjXi.jpg",
+        "type": "movie",
+        "year": "2011",
+        "etiquetas": [
+            "Animación",
+            "Familia",
+            "Aventura",
+            "Comedia",
+            "Fantasía"
+        ],
+        "rate": 5.79999999999999982236431605997495353221893310546875,
+        "added_date": "2026-11-09 01:25:40",
+        "created_at": "2026-11-09 01:25:40",
+        "updated_at": "2026-11-09 01:25:42",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1794205510375",
         "tmdb_id": "1311031",
         "titulo": "Guardianes de la noche: Kimetsu no Yaiba La fortaleza infinita",
