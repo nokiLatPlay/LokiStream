@@ -1,5 +1,26 @@
 [
     {
+        "id": "1794205562318",
+        "tmdb_id": "77931",
+        "titulo": "Los pitufos 2",
+        "imagen": "/vjb5WNkwZJDIcmVrzR4GyPmPRZo.jpg",
+        "type": "movie",
+        "year": "2013",
+        "etiquetas": [
+            "Fantasía",
+            "Familia",
+            "Comedia",
+            "Animación"
+        ],
+        "rate": 5.70000000000000017763568394002504646778106689453125,
+        "added_date": "2026-11-09 01:26:02",
+        "created_at": "2026-11-09 01:26:02",
+        "updated_at": "2026-11-09 01:26:03",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1794205540912",
         "tmdb_id": "41513",
         "titulo": "Los pitufos",
