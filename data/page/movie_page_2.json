@@ -1,5 +1,25 @@
 [
     {
+        "id": "1794205510375",
+        "tmdb_id": "1311031",
+        "titulo": "Guardianes de la noche: Kimetsu no Yaiba La fortaleza infinita",
+        "imagen": "/lYnhd124Fi3vVYlh6qmItxpGZXd.jpg",
+        "type": "movie",
+        "year": "2025",
+        "etiquetas": [
+            "Animación",
+            "Acción",
+            "Fantasía"
+        ],
+        "rate": 8.800000000000000710542735760100185871124267578125,
+        "added_date": "2026-11-09 01:25:10",
+        "created_at": "2026-11-09 01:25:10",
+        "updated_at": "2026-11-09 01:25:12",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1794205482748",
         "tmdb_id": "1216221",
         "titulo": "Guardianes de la noche: Kimetsu no Yaiba - Rumbo al Entrenamiento de los Pilares",
