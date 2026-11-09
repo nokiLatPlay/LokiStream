@@ -1,5 +1,26 @@
 [
     {
+        "id": "1794205482748",
+        "tmdb_id": "1216221",
+        "titulo": "Guardianes de la noche: Kimetsu no Yaiba - Rumbo al Entrenamiento de los Pilares",
+        "imagen": "/8g56u2k9CvMHP5IG257QVj9gj1b.jpg",
+        "type": "movie",
+        "year": "2024",
+        "etiquetas": [
+            "Acción",
+            "Animación",
+            "Fantasía",
+            "Aventura"
+        ],
+        "rate": 6.5,
+        "added_date": "2026-11-09 01:24:42",
+        "created_at": "2026-11-09 01:24:42",
+        "updated_at": "2026-11-09 01:24:44",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1794205419289",
         "tmdb_id": "97",
         "titulo": "TRON",
