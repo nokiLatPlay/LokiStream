@@ -1,5 +1,25 @@
 [
     {
+        "id": "1794205419289",
+        "tmdb_id": "97",
+        "titulo": "TRON",
+        "imagen": "/jJ8eBV407GHn6q0nIvSsnt0C6vV.jpg",
+        "type": "movie",
+        "year": "1982",
+        "etiquetas": [
+            "Ciencia ficción",
+            "Acción",
+            "Aventura"
+        ],
+        "rate": 6.5999999999999996447286321199499070644378662109375,
+        "added_date": "2026-11-09 01:23:39",
+        "created_at": "2026-11-09 01:23:39",
+        "updated_at": "2026-11-09 01:23:41",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1794205390171",
         "tmdb_id": "1156594",
         "titulo": "Culpa nuestra",
