@@ -1,5 +1,25 @@
 [
     {
+        "id": "1794195015552",
+        "tmdb_id": "791523",
+        "titulo": "Wildwood: El Bosque Salvaje",
+        "imagen": "/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Animación",
+            "Aventura",
+            "Fantasía"
+        ],
+        "rate": 8.5,
+        "added_date": "2026-11-08 22:30:15",
+        "created_at": "2026-11-08 22:30:15",
+        "updated_at": "2026-11-08 22:30:17",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1794194987236",
         "tmdb_id": "698948",
         "titulo": "Trece vidas",
