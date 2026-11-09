@@ -1,0 +1,145 @@
+{
+    "id": "1794203688412",
+    "tmdb_id": "1409853",
+    "titulo": "Neglected",
+    "original_name": "Neglected",
+    "imagen": "/ecUjyPn3MtcDb4JMVLoefpDdsU8.jpg",
+    "backdrop_path": "/5nilYwx9jH6P27pnORwlrRdtCwZ.jpg",
+    "type": "movie",
+    "year": "2026",
+    "etiquetas": [
+        "Acción",
+        "Suspense"
+    ],
+    "calidad": [],
+    "rate": 6.4000000000000003552713678800500929355621337890625,
+    "sinopsis": "El detective Shaw descubre que un asesino en serie ha enterrado vivo a su hijo. Debe resolver tres asesinatos para encontrarle antes de que muera.",
+    "cast": [
+        {
+            "name": "Josh Duhamel",
+            "character": "Shaw",
+            "profile_path": "/5Rp9aeWdN2S623KCjwfii9MhDK1.jpg"
+        },
+        {
+            "name": "Dylan Sprouse",
+            "character": "AJ",
+            "profile_path": "/gpfMji2v7BXtovSptxTkrk88s89.jpg"
+        },
+        {
+            "name": "David Lipper",
+            "character": "Mayor Richards",
+            "profile_path": "/apAgZr1qU5Q99RFR1xCrpZ1CUL9.jpg"
+        },
+        {
+            "name": "Elena Sanchez",
+            "character": "Keyes",
+            "profile_path": "/prhbHW3WWqnbpChZZIKPsdzS7ny.jpg"
+        },
+        {
+            "name": "Jason London",
+            "character": "Deacon",
+            "profile_path": "/bFkC2ZRcurTQzbjBuuMljFCKfEv.jpg"
+        },
+        {
+            "name": "Jeremy London",
+            "character": "Sloan",
+            "profile_path": "/2eSv6kcfWinz0xDoAclyCVsArhu.jpg"
+        },
+        {
+            "name": "Til Schweiger",
+            "character": "Haas",
+            "profile_path": "/3Jk7y4sKgckrN9RzAAt0drlR0QG.jpg"
+        },
+        {
+            "name": "María Camila Giraldo",
+            "character": "Maria Hernandez",
+            "profile_path": "/lXAL1DTMYJo4JWH3sKaGm80X1fs.jpg"
+        },
+        {
+            "name": "Corbin Pitts",
+            "character": "Aaron",
+            "profile_path": "/kL87wIiTEpHfz5HOIRcNle33TgU.jpg"
+        },
+        {
+            "name": "Kristin Wollett",
+            "character": "Mandy",
+            "profile_path": "/2T0mTHzQRb3A5l4a7Dj4QPxtMcT.jpg"
+        },
+        {
+            "name": "Sherri Eakin",
+            "character": "Claudia Richards",
+            "profile_path": "/21SymCBUIDtYxvuPvjNopWisnNp.jpg"
+        },
+        {
+            "name": "Kipp Tribble",
+            "character": "O'Grady",
+            "profile_path": "/9wrmzDG37Aann9h8h1xOcNKRjDE.jpg"
+        },
+        {
+            "name": "George Moore",
+            "character": "Moore",
+            "profile_path": ""
+        },
+        {
+            "name": "Chelsea Kater",
+            "character": "Secretary",
+            "profile_path": ""
+        },
+        {
+            "name": "Savannah Belcher",
+            "character": "Reporter",
+            "profile_path": ""
+        }
+    ],
+    "status": "Released",
+    "runtime": 92,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/obgz7da4sfl2",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/r8omtnyqnk0e",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/v/4d44okdgdios",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/0hq22xg1ytss",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/agtnispn7o2d",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/v/wr6vz842agac",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-09 00:54:48",
+    "created_at": "2026-11-09 00:54:48",
+    "updated_at": "2026-11-09 00:54:48",
+    "update_states": "No actualizado"
+}
