@@ -1,0 +1,101 @@
+{
+    "id": "1794203789765",
+    "tmdb_id": "1284777",
+    "titulo": "Oscar: El regreso del mamut",
+    "original_name": "أوسكار: عودة الماموث",
+    "imagen": "/oIMZzqP9scAxPOrlOYA5Vw9nlZn.jpg",
+    "backdrop_path": "/6BnaQXB9C48LaPw0WaKr05W3d0I.jpg",
+    "type": "movie",
+    "year": "2025",
+    "etiquetas": [
+        "Fantasía",
+        "Familia",
+        "Ciencia ficción",
+        "Acción"
+    ],
+    "calidad": [],
+    "rate": 8.4000000000000003552713678800500929355621337890625,
+    "sinopsis": "",
+    "cast": [
+        {
+            "name": "أحمد صلاح حسني",
+            "character": "Adam",
+            "profile_path": "/gGR1ZmdJmRdhBXJkQG90yVPQWZ4.jpg"
+        },
+        {
+            "name": "Hanady Mhana",
+            "character": "Dr.Arwa",
+            "profile_path": "/42bF9WJX77hPFCkj4GS35YwHggu.jpg"
+        },
+        {
+            "name": "Mohamed Tharwat",
+            "character": "Dr. Saad Al-Sharbini",
+            "profile_path": "/3uqttDmL1KH7811E3plwINeGtUs.jpg"
+        },
+        {
+            "name": "Leah Suwaidan",
+            "character": "Leila",
+            "profile_path": "/5hSLO6IZugTA9K0UCr0ttfW6nqr.jpg"
+        },
+        {
+            "name": "Ahmed Al-Bayed",
+            "character": "",
+            "profile_path": "/dNZ9QunnP1NtbtFonwmLpu4MUDB.jpg"
+        },
+        {
+            "name": "Mai Elkady",
+            "character": "",
+            "profile_path": "/3vJ9tqCgl0vztpJbzeN8o3nzstw.jpg"
+        },
+        {
+            "name": "Ezzat Zain",
+            "character": "Adam's father",
+            "profile_path": "/gNSDE13OC1MIi5BHA3XfYCYcI0u.jpg"
+        },
+        {
+            "name": "Mahmoud Abdel Moghny",
+            "character": "Guest",
+            "profile_path": "/78NvDJqQ2X71GDKXDIpH0kqEdvp.jpg"
+        },
+        {
+            "name": "Sandy Tawfik",
+            "character": "",
+            "profile_path": ""
+        },
+        {
+            "name": "Chris Larter",
+            "character": "",
+            "profile_path": "/jR9EXykhj6MvhVaPsgp7ZGtuwdB.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 110,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/uikkc7e3pvl2",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/hyb9nlugfn4x",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/v/9bxqjozyzvad",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-09 00:56:29",
+    "created_at": "2026-11-09 00:56:29",
+    "updated_at": "2026-11-09 00:56:29",
+    "update_states": "No actualizado"
+}
