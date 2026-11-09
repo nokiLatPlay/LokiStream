@@ -1,5 +1,26 @@
 [
     {
+        "id": "1791280294311",
+        "tmdb_id": "285899",
+        "titulo": "Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu",
+        "imagen": "/4WfTtcDLBycYQzryGYwZRpyxBvZ.jpg",
+        "type": "anime",
+        "year": "2026",
+        "etiquetas": [
+            "Animación",
+            "Action & Adventure",
+            "Sci-Fi & Fantasy"
+        ],
+        "rate": 3,
+        "added_date": "2026-10-06 05:51:34",
+        "created_at": "2026-10-06 05:51:34",
+        "updated_at": "2026-11-09 00:27:54",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 6,
+        "status": "Returning Series"
+    },
+    {
         "id": "1789468188810",
         "tmdb_id": "3570",
         "titulo": "Sailor Moon",
@@ -1240,27 +1261,6 @@
         "update_states": "No actualizado",
         "temporadas": 1,
         "episodios": 1,
-        "status": "Returning Series"
-    },
-    {
-        "id": "1791280294311",
-        "tmdb_id": "285899",
-        "titulo": "Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu",
-        "imagen": "/4WfTtcDLBycYQzryGYwZRpyxBvZ.jpg",
-        "type": "anime",
-        "year": "2026",
-        "etiquetas": [
-            "Animación",
-            "Action & Adventure",
-            "Sci-Fi & Fantasy"
-        ],
-        "rate": 3,
-        "added_date": "2026-10-06 05:51:34",
-        "created_at": "2026-10-06 05:51:34",
-        "updated_at": "2026-10-06 05:51:36",
-        "update_states": "No actualizado",
-        "temporadas": 1,
-        "episodios": 2,
         "status": "Returning Series"
     },
     {
