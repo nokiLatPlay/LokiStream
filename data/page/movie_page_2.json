@@ -1,5 +1,25 @@
 [
     {
+        "id": "1794202642179",
+        "tmdb_id": "218043",
+        "titulo": "Desaparecidos sin rastro",
+        "imagen": "/d2OrXUnS5K2haCvtGLHxYjuSlDJ.jpg",
+        "type": "movie",
+        "year": "2014",
+        "etiquetas": [
+            "Suspense",
+            "Acción",
+            "Ciencia ficción"
+        ],
+        "rate": 4.29999999999999982236431605997495353221893310546875,
+        "added_date": "2026-11-09 00:37:22",
+        "created_at": "2026-11-09 00:37:22",
+        "updated_at": "2026-11-09 00:37:25",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1794202437373",
         "tmdb_id": "718930",
         "titulo": "Bullet Train",
