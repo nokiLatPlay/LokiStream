@@ -1,5 +1,24 @@
 [
     {
+        "id": "1794205390171",
+        "tmdb_id": "1156594",
+        "titulo": "Culpa nuestra",
+        "imagen": "/6kmi6vmp6iOn4KzI7WfnVtAeJhU.jpg",
+        "type": "movie",
+        "year": "2025",
+        "etiquetas": [
+            "Romance",
+            "Drama"
+        ],
+        "rate": 7.4000000000000003552713678800500929355621337890625,
+        "added_date": "2026-11-09 01:23:10",
+        "created_at": "2026-11-09 01:23:10",
+        "updated_at": "2026-11-09 01:23:13",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1794205361539",
         "tmdb_id": "1294203",
         "titulo": "Culpa mía: Londres",
