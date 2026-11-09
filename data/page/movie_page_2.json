@@ -1,5 +1,25 @@
 [
     {
+        "id": "1794205643925",
+        "tmdb_id": "20526",
+        "titulo": "TRON: Legacy",
+        "imagen": "/m3tkTgatN1IuwKGAFnsiLakRQLh.jpg",
+        "type": "movie",
+        "year": "2010",
+        "etiquetas": [
+            "Aventura",
+            "Acción",
+            "Ciencia ficción"
+        ],
+        "rate": 6.5999999999999996447286321199499070644378662109375,
+        "added_date": "2026-11-09 01:27:23",
+        "created_at": "2026-11-09 01:27:23",
+        "updated_at": "2026-11-09 01:27:26",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1794205607810",
         "tmdb_id": "137116",
         "titulo": "Los Pitufos: La aldea escondida",
