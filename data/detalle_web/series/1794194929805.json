@@ -1,0 +1,520 @@
+{
+    "id": "1794194929805",
+    "tmdb_id": "221310",
+    "titulo": "Doctor Elise: The Royal Lady with the Lamp",
+    "original_name": "外科医エリーゼ",
+    "imagen": "/7WfU7lHVTS5kEPTZrglfChlkOBs.jpg",
+    "backdrop_path": "/htJef5Rp7z1vMEuCV3SRdVIHr2x.jpg",
+    "type": "anime",
+    "year": "2024",
+    "etiquetas": [
+        "Animación",
+        "Drama"
+    ],
+    "temporadas_count": 1,
+    "episodios": 12,
+    "status": "Ended",
+    "rate": 7.5,
+    "sinopsis": "Aoi Takamoto compensa los pecados cometidos en su vida pasada como la malvada princesa Elise y se dedica a salvar a la gente como médica. Sin embargo, un fatídico accidente trunca su expiación y, de repente, regresa a su vida anterior, 10 años antes de su muerte. ¿Su anticipación y su destreza médica la ayudarán a cambiar su pasado y a restaurar un imperio enfermo, o estará el destino condenado a repetirse?",
+    "cast": [
+        {
+            "name": "Yui Ishikawa",
+            "character": "Elise de Clorence (voice)",
+            "profile_path": "/zptGIN1iklKJL1xrfHKOpxR2qJ9.jpg"
+        },
+        {
+            "name": "Yohei Azakami",
+            "character": "Linden de Romanoff (voice)",
+            "profile_path": "/rLIqw8pIjVIxPb5engrTbu9iOex.jpg"
+        },
+        {
+            "name": "Yoshimasa Hosoya",
+            "character": "Graham de Fallon (voice)",
+            "profile_path": "/lUR5oN1LrqGgp25IOcI1qOH1Ud5.jpg"
+        },
+        {
+            "name": "Satoshi Hino",
+            "character": "Ron (voice)",
+            "profile_path": "/8ZJIiwIVF2zDyyFr7oXewj0eEuu.jpg"
+        },
+        {
+            "name": "Daisuke Ono",
+            "character": "Ren de Clorence (voice)",
+            "profile_path": "/5rjl28lx84JjRS0hzq3Ajvx2dhp.jpg"
+        },
+        {
+            "name": "Hiro Shimono",
+            "character": "Chris de Clorence (voice)",
+            "profile_path": "/yrSDcgFefHtWkFmLnTrcw2t0MV.jpg"
+        },
+        {
+            "name": "Megumi Han",
+            "character": "Juliane de Child (voice)",
+            "profile_path": "/cwnwrPg1YvB19TbfouC4ShGPmbQ.jpg"
+        },
+        {
+            "name": "Soma Saito",
+            "character": "Mikhail de Romanoff (voice)",
+            "profile_path": "/8W8Y02Jmjivw0kk5PDih9dqiyd9.jpg"
+        },
+        {
+            "name": "Kazuhiko Inoue",
+            "character": "Minchester de Romanoff (voice)",
+            "profile_path": "/3BpYtYRiLAmTNbCm2LXlXnkMRit.jpg"
+        }
+    ],
+    "first_air_date": "2024-01-10",
+    "last_air_date": "2024-03-27",
+    "container_download": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "/3C7AUgSxaqZEZn4aFb979q8FVJN.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Expiación",
+                    "portada": "/sOZ5ES6YDIX01BxEJrHuTNsvbaQ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=QUxuN0oyR2RteVBkUGFuUlBNQmcrYlZBbnJWUmE3eVZMNjhlRHpzZDdsYzErTWpWZnpyTnVmeVhEY2VIQmRQYUJ6bmsrWnRXSHdRaFA0NUFpbVg1WFBvaWVSd1N6elBXbUpNZ1RjWE5ONnM9OjpQqGTcDy7dtmGUx8zNa0nR&t=5f8a0bef69505fe1c9aafcde16b6b076&op=NTU1NDU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=SlBiekh3UmtLRXpHQlpROHNLRVA3aVBuUnZJdWpoejM5eVVPOVBlM2lPSjhpWVVqM3VGSUNUOWNCNlZjMmIwRWYxVE9hdXdxcDZrTXJpcThQcEY0VDlVQnNqbXN4dTlWSXF4Um15bHlDeGM9OjqGYerEbQZt0vN7FQcEiIvZ&t=5f8a0bef69505fe1c9aafcde16b6b076",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysekoze",
+                            "url": "https://bysekoze.com/e/rptggry8kura/",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-7s0wl1qiyv5z.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Una apuesta",
+                    "portada": "/wKBGiVeqXHfcTf4xov5IDRkZ3xi.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=djdVeHMyampwN0NsSEt3TGptbTkxV2Y4L0FRK2lXMkdPM085RVJqRUY0WC9QY2ozcFROaVRnZTVNRFc3OHk3bHJ0RkRFcDBzVlo3VmV2Wkx5clVwd0E9PTo6nCCwqTkkOKaeNFl8G4o3Rg--&t=1dff90b75dfe0e6c1caf84a16505aa25&op=NTU2MTg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=WVVOY1BUZEZiMUdncE0wNktmNjhLSGJqNzQwclBKMEZMZDVlYTlVd25ZQWpoNFRoY0pkY3VISkZLeXVYcm9QT0UrVytTQlU0NnQxQ2hFRkk1dXJOM0E9PTo6sZ0_FXFf9jXRnunjtmX4GA--&t=1dff90b75dfe0e6c1caf84a16505aa25",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysekoze",
+                            "url": "https://bysekoze.com/e/3i095a9bb2gp/",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-cxm293opyurg.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "La santa",
+                    "portada": "/iOaFW0bZALRqbWmmutsrQVNKM4E.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=cXZXdDNzNDFCZ0hJQnF0VVhidGpTcUhjYmowSTFUUWdFb21GTkZmcW5JbTBIWG91ZnZ4KzZzNXNORktXSnMyM05la21DSHdjSllsUUI3WktHUzVOVW5RaTBRbm9WK3Q2RVpZdzQxTGhrME09OjrpkHERAP_fz4CtYtk5dB94&t=66d6ef523045d65325d17a152c481494&op=NTU3MTk=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=ck8xTDlGODBSdUVaaUdBYlRDQXBhbk5ub2t3NDd0dnJmcFQxY1EydWwxRnN6RW13NkJhSUpHdURZYnZhK05wMEVVYjV5VEpDMGlDbHhYWlN3UWVOQzIyYzVydkdZbjRCZHNvN1ZCVjJweTg9OjoOvm1uawVZenaaIJgHi4fI&t=66d6ef523045d65325d17a152c481494",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysekoze",
+                            "url": "https://bysekoze.com/e/lqkwpuye5skb/",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "Por dónde van los tiros",
+                    "portada": "/dIHBlpu8XgwLNM6KozVeWvmy4Gn.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=eVluTG13QVNJbEZ5aU1SeU56clV1emozSzNqSlArWXdKZUZ0REcrT20yUFhNZHhEWXFIVWZNRTlSMzZNdGJaNmY3YVJaZmJ0MFpCR3pkditJbEQ1aXc9PTo6hkD37msRo7e5JOaVB1W4xg--&t=067b1c9c737ff2c6e1cb903133219deb&op=NTU4MDQ=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=c0JjbWpyV0FUTHZ4aDBWWGZDdzVIMmVpWGJMVFYzQk1JSGs2ZWdIYW15Y3g4VVFNYXVQaTJNT1ptSXFKTlBLQ2JRUTZLY1plelRWT1E5aW5qT3RGdlE9PTo6Xvba.8Xvi.ctPbw_xQrF2Q--&t=067b1c9c737ff2c6e1cb903133219deb",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysekoze",
+                            "url": "https://bysekoze.com/e/5pet4xa50jsy/",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-9pe60urdtorj.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "Prueba",
+                    "portada": "/a3p8z3dRsCQPHrYpJg1MCzF5RhO.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=T0VVQ3IvWnlKVkxHSElQNk1Eb2xlNXFyZ2NFYzNDbUVYNFMyUlA3cE94dGQyYXdDMEVKeHUxNDN6ZlVaaHdhMmNSNERJeDlwZWNsVE9ubUpJV1JtTG1BVGJnRmhlbUJWMkxiOTk4eTVQNlk9Ojrn5PrbXz8y4oaNuBLZphAc&t=0c0501657cc3452a4093c2d4bf7eafca&op=NTU4ODk=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=cVVuNHpNNytXVk5PUDZDSXJtTW1uZGd6K2dqQVNuaGNkMXZTaHF1Qk41blppMnpkMzdXYzFzRER6d0NRTlMwK21Ja2N5YmdpdzQvQ1pDdnBVRngrcUROaTBZUmpQU1UyaFFRSjJkR1FYWU09OjpavkgGncYg8Vrg5ZID9fgz&t=0c0501657cc3452a4093c2d4bf7eafca",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysekoze",
+                            "url": "https://bysekoze.com/e/5tt9nexzr9ku/",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-zxqrrovi8n8x.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Fantasías de día, sueños de noche",
+                    "portada": "/fGqOHPutowK6Nl4sn2ltUNTH2Js.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=VVlObUJ4T25KKzZpM01yempNRHMrM0h4Y0pvd0FXZDF3aUNZU3gycU1KendLRHVjUVpscGVqbGhibnZLUndxTG1yVzdEdDZ2VTYwd1pESXlOb3VKK3c9PTo6_s8.3VJpX5mRVkzGwnB5kg--&t=a7d0647591cca56097ecefbe735dfcf5&op=NTU5Nzg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=UHNERm44cDQ5eXEybGdVQnkrSVhndGRyS3Z5Yzk4MWh2Z1cxK3l0Ym5MbFNPWCsyVytobjU3TmpCWkVGSW1VVkxLMktZSGhjQmpxZHEzaXFua3ZpTEE9PTo6jkvRRksf4_hiuxqQPBZXzA--&t=a7d0647591cca56097ecefbe735dfcf5",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysekoze",
+                            "url": "https://bysekoze.com/e/tao4hawmjhrz/",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-cslla4sdeli6.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "Recuerdos",
+                    "portada": "/pEA6Rzlkigb1xf6SMDbsZpVunCd.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=TUJWeXVUUUxBOHptWlArUVF6b3ZYa1FJRHFXV3NtdnRBQ0JuYlN6Ymo0bnRES1FmejkvVDFtdWNSNmZWT1RoNXBuY1JYV1ZEVFZDNlhtTWtqYUhxZ3g3M0tUdjRuSi9QUk9EQkxNVEY1MDQ9OjqaeB.o5Gy2qerRgLjIcieF&t=63b3eccd06dab90263438e1c65f4d1b9&op=NTYwNzQ=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=M1BqZXY4U0EySGQ4dithQjd4UVh0dEw0YmxEWG9WV05oTEsxV3NjNlZhQSt3ZGhEa1NZamY0bmlYWmRUTlcyL2dhQ1VyWERhTGpqeTRodnRFSUV4dHN4T3R1QXdTWUpPOVY3di9wNDBFbTA9OjoNjHeCDTAR7kTpMSLViEAT&t=63b3eccd06dab90263438e1c65f4d1b9",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysekoze",
+                            "url": "https://bysekoze.com/e/mws53nb83414/",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-7z7u405g3rff.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "Días de un pasado lejano",
+                    "portada": "/iUSXUXCBD6FfJQKezQOmf3IVPkx.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=SFFaa3MxckV2RFVTTW92c3MrM1ZEc0M1VG8wMnNTall5U0lCenZZeU1nOVU3V1BJZ3kvcHQyVGhkNGYyd0toZmFoNmpIOTN6bnlaZTZZL3JjUnAwMkFhaU8ybWFCZjJUZDZkKzhpc1ZpNUk9Ojp_SA6do.gh7YBf27I.36m.&t=bbdcc483f78e4b36c0af227496c9c627&op=NTYxNjU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=SWwxWHk1Z2FIK3BFYWtZcjBZS1pRbmRkd0tSU2Y5L25sdDlvTEhHTFFKSnpyd09uWjNTa3Y5WTNZdnhqM0FNemhHUkpXa1NXSEY5aVRwQzN4Q2pTZFByMExpb052am1lS05GaHd2NzVKN0E9OjppWkDs_niKlJHridPNUJMB&t=bbdcc483f78e4b36c0af227496c9c627",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysekoze",
+                            "url": "https://bysekoze.com/e/1da00d3ynmno/",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-ee1hf25dfo4j.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E09",
+                    "episode_number": 9,
+                    "nombre": "Tras la tormenta",
+                    "portada": "/9Lmlgo5bfjf9HpecAw9AbA3MhKd.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=Y0Q1Y2hRMkc0a2FMbnpMd0VXME9DRjBxSGtFL0k4dVhWK1ZKWTlLZGtZR2RFRlpRY1R4TFpqM2cvRG5JVFpXTUIyOUx3T2tvVjNGL1NqYitKclVjTDdYQVF6NElTMlNwbGhzM0hzRThZM289OjqiswL7allhzXtfxnE4cmO_&t=5eadb79ce28c55a3b743381be5b8df16&op=NTYyNDM=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=aWFsbHcwMW9xbE5zQ1FMN05IN3ZhbjFoT1RRZFBpdzhrNXQ5YUVTbWY4dUNkS1NMZUZZTlN0MlBWS0lNYlFXcmd2eXBDYTNaWVpxU1EwVmVpRHlwV2xjcWE0a2htNDNYM0ZLUzdqTjNtV0U9OjqMQUF6BNCI8_5F_qb5kD_U&t=5eadb79ce28c55a3b743381be5b8df16",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysekoze",
+                            "url": "https://bysekoze.com/e/d24v04ixqimh/",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-ohv2sy4sf562.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E10",
+                    "episode_number": 10,
+                    "nombre": "Por un breve instante",
+                    "portada": "/fbwcNmA9U0jeh9oBdtPdZUbpSaI.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=ZHN3RnRlUm1sNG9iRUxwTHV1QmtmVERSdzFkMDRVZ2JBQmdHSDVqd1N6WmZXWlphRlBQVXpBek9NaVpQMkZFcXFHWE95a0JUbzVlS2pJNXhnaUZCdGxZcm5IdWVSVEI5bDg4UEtYWnI5dm89Ojpa_gUH34N1XQpFMr_CSGfj&t=b85722e5473dec59c3402ff67715bebd&op=NTYzODU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=VmVsSVlodXlKV3h0bVBUbERWMUhjeExJNzE2bjFVTE1VWEUrd3ZuQm5hd3JJRWtzNlE3YjMvMUVQQy9DZVZXZmdtSVk1Q052QTRGRnJOVS9HQjZ1OUhPTWZGeDBoMjFxODl5V2lDSnN1ckE9OjpOs43opRpF4AQ0dFn6LfjV&t=b85722e5473dec59c3402ff67715bebd",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysekoze",
+                            "url": "https://bysekoze.com/e/a9gfi9v1b0qt/",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-4nndvc7jalrn.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E11",
+                    "episode_number": 11,
+                    "nombre": "Un deseo",
+                    "portada": "/aE2XrI98mr1EGSxxVhBDk24pxdB.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=OFB3ZG1vUUZlc01KY3BCUEJKQUtNSUN5T0NiRGFGejhoMG1TMmFUTjREcUQySGRDeTNnTmQ5ekcwYlZRd2wwMXV2WmRwSU1EalNwWjEzb0NCanFvYVE9PTo6JcGV3MZKVMsflJBXeoigLA--&t=365cb52e142ef9c27343fb75fe988e16&op=NTY0NTY=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=YnhIZEdRcWFYUFhxWUV3eWxpNnRWWitOUm1SVmlmZDJHbDdocHRPVCthWWdnUUFaREtYQmkxMjJ5djMrSGVmM3RiSk1UVkk3Y1Q1L0NPejloMExrSEE9PTo6PyLWdunLkMI8PYOsKrS2OQ--&t=365cb52e142ef9c27343fb75fe988e16",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysekoze",
+                            "url": "https://bysekoze.com/e/s19adpelup50/",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-l0zkgkw80p7j.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E12",
+                    "episode_number": 12,
+                    "nombre": "Un camino",
+                    "portada": "/nToyjgXL0SKE7JexjI4XBGairK7.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=SG9hc1pWa1JnZmRXZlRWTFcraUhjNW1qTlpoMXRDb0JPc21vTmVzQytFc0ZmUElXcXEweXNWWmtTWFZ3aUcxbG1yV2FWRFN1NS9mLy9PUFJ0YUYxY0E9PTo6FwOfy3lCc2DJ0zeFr3bi1Q--&t=3a15af90464bc5ae1b3778ee0b717cbb&op=NTY2NDQ=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=RE92VWRpY3VmaVg0NTBFbWFyQzdqT2hrOGZ2dWg0M1VRN28yeEVmMEcyc09GaTFkOGU4ZGpuQWZtOEtKK1F2c0tCdGUwSHVnMTl0Q2Q4VS91NjFpR3c9PTo67g5U1akw1Iq8YTIgS2airQ--&t=3a15af90464bc5ae1b3778ee0b717cbb",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Bysekoze",
+                            "url": "https://bysekoze.com/e/ftx0edgpzkis/",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-x6y3rz2x8yxz.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                }
+            ],
+            "nombre": "Temporada 1"
+        }
+    ],
+    "added_date": "2026-11-08 22:28:49",
+    "created_at": "2026-11-08 22:28:49",
+    "updated_at": "2026-11-08 22:28:49",
+    "update_states": "No actualizado"
+}
