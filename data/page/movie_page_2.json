@@ -1,5 +1,25 @@
 [
     {
+        "id": "1794202437373",
+        "tmdb_id": "718930",
+        "titulo": "Bullet Train",
+        "imagen": "/kM6iLHkDfyoMsTIm567mUFzFO9e.jpg",
+        "type": "movie",
+        "year": "2022",
+        "etiquetas": [
+            "Acción",
+            "Comedia",
+            "Suspense"
+        ],
+        "rate": 7.4000000000000003552713678800500929355621337890625,
+        "added_date": "2026-11-09 00:33:57",
+        "created_at": "2026-11-09 00:33:57",
+        "updated_at": "2026-11-09 00:33:58",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1794202143372",
         "tmdb_id": "285423",
         "titulo": "Jarhead 2: Tormenta de Fuego",
