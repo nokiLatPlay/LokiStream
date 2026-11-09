@@ -1,5 +1,25 @@
 [
     {
+        "id": "1794201253894",
+        "tmdb_id": "656908",
+        "titulo": "Ramayana: El Nacimiento de una Leyenda",
+        "imagen": "/nzL1ySE6vdmR6RxXhE7gLggkp41.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Fantasía",
+            "Acción",
+            "Aventura"
+        ],
+        "rate": 7.5,
+        "added_date": "2026-11-09 00:14:13",
+        "created_at": "2026-11-09 00:14:13",
+        "updated_at": "2026-11-09 00:14:15",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1794201220989",
         "tmdb_id": "8247",
         "titulo": "Jumper",
