@@ -1,5 +1,24 @@
 [
     {
+        "id": "1794203455522",
+        "tmdb_id": "204082",
+        "titulo": "El protector (Homefront)",
+        "imagen": "/3epke5oOH7WRWvaFJeH9SsibBW4.jpg",
+        "type": "movie",
+        "year": "2013",
+        "etiquetas": [
+            "Acción",
+            "Suspense"
+        ],
+        "rate": 6.9000000000000003552713678800500929355621337890625,
+        "added_date": "2026-11-09 00:50:55",
+        "created_at": "2026-11-09 00:50:55",
+        "updated_at": "2026-11-09 00:50:59",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1794203275406",
         "tmdb_id": "8965",
         "titulo": "Atlantis: El regreso de Milo",
