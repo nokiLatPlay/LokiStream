@@ -1,5 +1,24 @@
 [
     {
+        "id": "1794194987236",
+        "tmdb_id": "698948",
+        "titulo": "Trece vidas",
+        "imagen": "/ggeL3pdF7FGyRARcCXYBwM87J4h.jpg",
+        "type": "movie",
+        "year": "2022",
+        "etiquetas": [
+            "Drama",
+            "Suspense"
+        ],
+        "rate": 7.79999999999999982236431605997495353221893310546875,
+        "added_date": "2026-11-08 22:29:47",
+        "created_at": "2026-11-08 22:29:47",
+        "updated_at": "2026-11-08 22:29:49",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1793943741206",
         "tmdb_id": "198184",
         "titulo": "Chappie",
