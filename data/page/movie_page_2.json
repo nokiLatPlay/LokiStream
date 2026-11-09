@@ -1,5 +1,25 @@
 [
     {
+        "id": "1794195036829",
+        "tmdb_id": "1404304",
+        "titulo": "El último invierno",
+        "imagen": "/nlH6zZZR7joehD5plDEVFDSww8Z.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Acción",
+            "Drama",
+            "Western"
+        ],
+        "rate": 7.0999999999999996447286321199499070644378662109375,
+        "added_date": "2026-11-08 22:30:36",
+        "created_at": "2026-11-08 22:30:36",
+        "updated_at": "2026-11-08 22:30:37",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1794195015552",
         "tmdb_id": "791523",
         "titulo": "Wildwood: El Bosque Salvaje",
