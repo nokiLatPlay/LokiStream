@@ -1,5 +1,25 @@
 [
     {
+        "id": "1794205235380",
+        "tmdb_id": "1010581",
+        "titulo": "Culpa mía",
+        "imagen": "/gp31EwMH5D2bftOjscwkgTmoLAB.jpg",
+        "type": "movie",
+        "year": "2023",
+        "etiquetas": [
+            "Drama",
+            "Romance",
+            "Suspense"
+        ],
+        "rate": 7.70000000000000017763568394002504646778106689453125,
+        "added_date": "2026-11-09 01:20:35",
+        "created_at": "2026-11-09 01:20:35",
+        "updated_at": "2026-11-09 01:20:36",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1794203789765",
         "tmdb_id": "1284777",
         "titulo": "Oscar: El regreso del mamut",
