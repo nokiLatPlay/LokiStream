@@ -1,0 +1,167 @@
+{
+    "id": "1794201220989",
+    "tmdb_id": "8247",
+    "titulo": "Jumper",
+    "original_name": "Jumper",
+    "imagen": "/jtd5jdh3rquFMr25qoRAENwlwa7.jpg",
+    "backdrop_path": "/1R4DZbEwWTPnRShBumJsOwsfAiB.jpg",
+    "type": "movie",
+    "year": "2008",
+    "etiquetas": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+    ],
+    "calidad": [],
+    "rate": 6.20000000000000017763568394002504646778106689453125,
+    "sinopsis": "David Rice ha crecido con el misterioso poder que casi todos sueñan poseer: teletransportarse a cualquier lugar del mundo que imagine. Hasta ahora ha utilizado sus poderes para escapar de su pasado, alimentar su inmensa fortuna y permanecer completamente independiente. Nunca ha conocido límites, fronteras ni consecuencias. Pero cuando David descubre a otro joven igual que él, un exaltado trotamundos rebelde llamado Griffin, la verdad de su existencia se revela. Ya no es un curioso fenómeno singular de la naturaleza, sino parte de una larga línea de anomalías genéticas conocidas como \"saltadores\", que además nunca están a salvo.",
+    "cast": [
+        {
+            "name": "Hayden Christensen",
+            "character": "David Rice",
+            "profile_path": "/hqEgJYEUvZvL9ytmmiYBbbt63qd.jpg"
+        },
+        {
+            "name": "Jamie Bell",
+            "character": "Griffin",
+            "profile_path": "/xAfNYOJYOy5ee9PHbBF8Y6xzZ9I.jpg"
+        },
+        {
+            "name": "Samuel L. Jackson",
+            "character": "Roland",
+            "profile_path": "/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+        },
+        {
+            "name": "Rachel Bilson",
+            "character": "Millie Harris",
+            "profile_path": "/jlacH60rFke82EfuvFqgjcxPIx0.jpg"
+        },
+        {
+            "name": "Michael Rooker",
+            "character": "William Rice",
+            "profile_path": "/ngOuHNIAGrKyY1O7F0f9C5Q9ONg.jpg"
+        },
+        {
+            "name": "Diane Lane",
+            "character": "Mary Rice",
+            "profile_path": "/6OfP3vFMuCL51zamFKgb8aS74hs.jpg"
+        },
+        {
+            "name": "AnnaSophia Robb",
+            "character": "Young Millie Harris",
+            "profile_path": "/mJawWikGXsSLA79mZ9xqhn0B9gI.jpg"
+        },
+        {
+            "name": "Max Thieriot",
+            "character": "Young David Rice",
+            "profile_path": "/aBiTMI3qB6FPOVhXw7b15pjJkmL.jpg"
+        },
+        {
+            "name": "Jesse James",
+            "character": "Young Mark",
+            "profile_path": "/ebT4hnQ1VPtm9itUNp74Yj6Sx4o.jpg"
+        },
+        {
+            "name": "Tom Hulce",
+            "character": "Mr. Bowker",
+            "profile_path": "/sQslzbyYZr4Qjv55VseLbbjpuMY.jpg"
+        },
+        {
+            "name": "Kristen Stewart",
+            "character": "Sophie",
+            "profile_path": "/xldswdQ1VnpcOf2wZMPguZ3avgO.jpg"
+        },
+        {
+            "name": "Teddy Dunn",
+            "character": "Mark Kobold",
+            "profile_path": ""
+        },
+        {
+            "name": "Barbara Garrick",
+            "character": "Ellen",
+            "profile_path": "/i41Z1pwl9GpobFrjISQSkqwyCAB.jpg"
+        },
+        {
+            "name": "Michael Winther",
+            "character": "Day Bank Manager",
+            "profile_path": "/j1hR6RkN8BsgNm9T2yOwjqkAukD.jpg"
+        },
+        {
+            "name": "Massimiliano Pazzaglia",
+            "character": "Italian Desk Cop",
+            "profile_path": "/okFsthpJzibGx6VSFZI0aejzXHS.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 85,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/lzbumbylazv8",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/n3tb1ihmvlii",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/v/vtgnly5rlgsr",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Vidara",
+            "url": "https://vidara.to/e/54eqCHVXD1BdD",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/v0js84lgo9af",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/nsnhca7hamqp",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/pwqv0h7cavlb",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/v/6mam1bgcc6zm",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Vidara",
+            "url": "https://vidara.to/e/wkOLdn06DCI7G",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-09 00:13:40",
+    "created_at": "2026-11-09 00:13:40",
+    "updated_at": "2026-11-09 00:13:40",
+    "update_states": "No actualizado"
+}
