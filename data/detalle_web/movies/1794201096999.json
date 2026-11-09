@@ -1,0 +1,83 @@
+{
+    "id": "1794201096999",
+    "tmdb_id": "1780005",
+    "titulo": "Contra el huracán",
+    "original_name": "Contra el huracán",
+    "imagen": "/lFaMt4I8LiQAGW9Rb5gfGFXbvOY.jpg",
+    "backdrop_path": "/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
+    "type": "movie",
+    "year": "2026",
+    "etiquetas": [
+        "Drama"
+    ],
+    "calidad": [],
+    "rate": 7.5,
+    "sinopsis": "En medio del mar, Wirpul y su hermanastro Candi luchan por sobrevivir cuando una inesperada tormenta se convierte en el huracán Otis, de categoría 5, frente a las costas de Acapulco.",
+    "cast": [
+        {
+            "name": "Benny Emmanuel",
+            "character": "Wirpul",
+            "profile_path": "/rSqiumttAOg08Auypm5Z7FpdvMS.jpg"
+        },
+        {
+            "name": "Kristyan Ferrer",
+            "character": "Candi",
+            "profile_path": "/kTZDvbShqP4nd0UfzDphZsTR2KU.jpg"
+        },
+        {
+            "name": "Mónica del Carmen",
+            "character": "",
+            "profile_path": "/mMVTISzRtJWG8z7YEVfJrikkvLF.jpg"
+        },
+        {
+            "name": "Mónica Jiménez",
+            "character": "",
+            "profile_path": ""
+        },
+        {
+            "name": "Andrew Leland Rogers",
+            "character": "Nico",
+            "profile_path": "/uURYtlsWZbQBm2QyEvhnkreJfNy.jpg"
+        },
+        {
+            "name": "Gonzalo Vega Jr.",
+            "character": "Napo",
+            "profile_path": "/538VabzHzFWhqNXv5I854QVq51e.jpg"
+        },
+        {
+            "name": "Daira Mendoza",
+            "character": "Mujer Turista",
+            "profile_path": "/lKollsJc72yC9M5Oe1bCS8H77UF.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 97,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/a7gccg5wd3xa",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/v/ztlc2o6ebie4",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/2ysxshuekht5",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-09 00:11:36",
+    "created_at": "2026-11-09 00:11:36",
+    "updated_at": "2026-11-09 00:11:36",
+    "update_states": "No actualizado"
+}
