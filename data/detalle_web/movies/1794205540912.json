@@ -1,0 +1,155 @@
+{
+    "id": "1794205540912",
+    "tmdb_id": "41513",
+    "titulo": "Los pitufos",
+    "original_name": "The Smurfs",
+    "imagen": "/ufpzGicM1hZQMzRzTRHAcIQXjXi.jpg",
+    "backdrop_path": "/iYLimHUF0C0R61v1ofg79SUIja9.jpg",
+    "type": "movie",
+    "year": "2011",
+    "etiquetas": [
+        "Animación",
+        "Familia",
+        "Aventura",
+        "Comedia",
+        "Fantasía"
+    ],
+    "calidad": [],
+    "rate": 5.79999999999999982236431605997495353221893310546875,
+    "sinopsis": "Gargamel descubre la aldea mágica de los Pitufos y provoca con sus malas artes que la abandonen y se dispersen por el bosque. Por desgracia, Tontín se equivoca de camino y, junto con otros pitufos, entrará en una ruta prohibida. La luna azul y un portal mágico los transportarán a Central Park, en Nueva York. Sin embargo, Gargamel sigue persiguiéndolos, por lo que los Pitufos buscarán refugio en casa de un matrimonio...",
+    "cast": [
+        {
+            "name": "Katy Perry",
+            "character": "Smurfette (voice)",
+            "profile_path": "/9U2JJMSlM8mDNSmEWNPvHFcUatl.jpg"
+        },
+        {
+            "name": "Jonathan Winters",
+            "character": "Papa Smurf (voice)",
+            "profile_path": "/H30ihPYfmh6MzDCo03wsncSrAv.jpg"
+        },
+        {
+            "name": "Hank Azaria",
+            "character": "Gargamel",
+            "profile_path": "/yFDw4b0jucuFWNnGcBPfpYUtn16.jpg"
+        },
+        {
+            "name": "Neil Patrick Harris",
+            "character": "Patrick Winslow",
+            "profile_path": "/r2twLWLwDpKJ7JyhWsD1YsL7rJV.jpg"
+        },
+        {
+            "name": "Jayma Mays",
+            "character": "Grace Winslow",
+            "profile_path": "/n8tY5eVXje0vXTws66YAdEeHMy5.jpg"
+        },
+        {
+            "name": "Anton Yelchin",
+            "character": "Clumsy Smurf (voice)",
+            "profile_path": "/uOMWKYOLezo4ETMtrQt7uQBLSBh.jpg"
+        },
+        {
+            "name": "Sofía Vergara",
+            "character": "Odile Anjelou",
+            "profile_path": "/l79eVtn6bSOaiq7R0UGu60foMrK.jpg"
+        },
+        {
+            "name": "Tim Gunn",
+            "character": "Henri",
+            "profile_path": "/dnBt0B29w7M0YvzzM0advaAnY81.jpg"
+        },
+        {
+            "name": "Frank Welker",
+            "character": "Azrael (voice)",
+            "profile_path": "/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg"
+        },
+        {
+            "name": "Madison McKinley",
+            "character": "Model",
+            "profile_path": "/Ar3v9nvBrUS4SSWQlmdNEtfLGbP.jpg"
+        },
+        {
+            "name": "Meg Phillips",
+            "character": "Model",
+            "profile_path": "/3SIt7Ga152mJKfQqxH5DofNuN1D.jpg"
+        },
+        {
+            "name": "Mahadeo Shivraj",
+            "character": "Cabbie",
+            "profile_path": "/eoucIegYIsgLbvh8cEJqJPeh3qz.jpg"
+        },
+        {
+            "name": "Julie Chang",
+            "character": "Newscaster",
+            "profile_path": ""
+        },
+        {
+            "name": "Mark Doherty",
+            "character": "Bluetooth Businessman",
+            "profile_path": "/aerxMLeQ8qdjfl4Is3X1V7ccNM1.jpg"
+        },
+        {
+            "name": "Minglie Chen",
+            "character": "Young Woman",
+            "profile_path": "/b0Pl3X95aAkBj5S8GQtDaZq5loU.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 86,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/c3casbaxh736",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/ouds6u1kudnh",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/v/k4o46wb1cpmr",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/1kmpfdq6rj92",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/mtrvl5f3hbci",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/6dyi67c9o1ql",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/82lj4049qsi3",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-09 01:25:40",
+    "created_at": "2026-11-09 01:25:40",
+    "updated_at": "2026-11-09 01:25:40",
+    "update_states": "No actualizado"
+}
