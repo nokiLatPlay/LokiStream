@@ -1,5 +1,25 @@
 [
     {
+        "id": "1794203527152",
+        "tmdb_id": "9679",
+        "titulo": "60 segundos",
+        "imagen": "/48a89gSBAu52u6VpcAdRyV5sNJI.jpg",
+        "type": "movie",
+        "year": "2000",
+        "etiquetas": [
+            "Acción",
+            "Crimen",
+            "Suspense"
+        ],
+        "rate": 6.5,
+        "added_date": "2026-11-09 00:52:07",
+        "created_at": "2026-11-09 00:52:07",
+        "updated_at": "2026-11-09 00:52:08",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1794203455522",
         "tmdb_id": "204082",
         "titulo": "El protector (Homefront)",
