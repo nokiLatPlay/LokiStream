@@ -1,5 +1,26 @@
 [
     {
+        "id": "1794201058162",
+        "tmdb_id": "136797",
+        "titulo": "Need for Speed",
+        "imagen": "/mbVd0dXD21BxVGlmW4GyeGIR01l.jpg",
+        "type": "movie",
+        "year": "2014",
+        "etiquetas": [
+            "Acción",
+            "Crimen",
+            "Drama",
+            "Suspense"
+        ],
+        "rate": 6.5,
+        "added_date": "2026-11-09 00:10:58",
+        "created_at": "2026-11-09 00:10:58",
+        "updated_at": "2026-11-09 00:11:00",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1794195036829",
         "tmdb_id": "1404304",
         "titulo": "El último invierno",
