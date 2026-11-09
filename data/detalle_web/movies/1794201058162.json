@@ -1,0 +1,147 @@
+{
+    "id": "1794201058162",
+    "tmdb_id": "136797",
+    "titulo": "Need for Speed",
+    "original_name": "Need for Speed",
+    "imagen": "/mbVd0dXD21BxVGlmW4GyeGIR01l.jpg",
+    "backdrop_path": "/syVAWAnY6fTBDDFntHsM8vFjKex.jpg",
+    "type": "movie",
+    "year": "2014",
+    "etiquetas": [
+        "Acción",
+        "Crimen",
+        "Drama",
+        "Suspense"
+    ],
+    "calidad": [],
+    "rate": 6.5,
+    "sinopsis": "El más famoso de los videojuegos de carreras llega a la gran pantalla para dejar a los más fanáticos boquiabiertos. Need for Speed cuenta la historia de un experto en automovilismo (Aaron Paul), el cual tiene un garage en dónde transforma coches para hacerlos más rápidos de lo que son para poder competir en carreras ilegales. Entró en la cárcel por un delito que no había cometido, justo cuando su mejor amigo muere en una carrera, y ahora sale de allí para vengarse.",
+    "cast": [
+        {
+            "name": "Aaron Paul",
+            "character": "Tobey Marshall",
+            "profile_path": "/8Ac9uuoYwZoYVAIJfRLzzLsGGJn.jpg"
+        },
+        {
+            "name": "Dominic Cooper",
+            "character": "Dino Brewster",
+            "profile_path": "/wFPdARerxpaAaHucYGTSNqViWpn.jpg"
+        },
+        {
+            "name": "Imogen Poots",
+            "character": "Julia Maddon",
+            "profile_path": "/7uMFX0ecPZT2tc8L5DFFNbUckc9.jpg"
+        },
+        {
+            "name": "Kid Cudi",
+            "character": "Benny Jackson",
+            "profile_path": "/z5TRmx4WQB9Ge1WQa6VdxBKnwmC.jpg"
+        },
+        {
+            "name": "Rami Malek",
+            "character": "Finn",
+            "profile_path": "/8ykTeTRSYd2MKF5uLBvD93X5KMJ.jpg"
+        },
+        {
+            "name": "Ramón Rodríguez",
+            "character": "Joe Peck",
+            "profile_path": "/1gobmVevxCWVhV7s6J2B0oWPDZj.jpg"
+        },
+        {
+            "name": "Harrison Gilbertson",
+            "character": "Little Pete Coleman",
+            "profile_path": "/qlB00ZkN8LCReIje5PGDJ2UeCAg.jpg"
+        },
+        {
+            "name": "Dakota Johnson",
+            "character": "Anita Coleman",
+            "profile_path": "/bSfVBJ8S3F1MPpCmIWb8UJcUZGP.jpg"
+        },
+        {
+            "name": "Stevie Ray Dallimore",
+            "character": "Bill Ingram",
+            "profile_path": "/xThcZPkoq18Z6Z3kFZqb3U7IVtJ.jpg"
+        },
+        {
+            "name": "Michael Keaton",
+            "character": "Monarch",
+            "profile_path": "/tYSja1KByFnZ4Hkp3stPqkKHnNL.jpg"
+        },
+        {
+            "name": "Alan Pflueger",
+            "character": "Flyin' Hawaiian",
+            "profile_path": ""
+        },
+        {
+            "name": "Brian Keaulana",
+            "character": "Right Seater",
+            "profile_path": "/xRoaLgxMzyXN4cvR4UZF6mkfc8E.jpg"
+        },
+        {
+            "name": "Logan Holladay",
+            "character": "'DJ' Joseph",
+            "profile_path": ""
+        },
+        {
+            "name": "Carmela Zumbado",
+            "character": "Jeny B",
+            "profile_path": "/fGH4gA2wssENiYfKbXLrTgaVXMD.jpg"
+        },
+        {
+            "name": "Jalil Jay Lynch",
+            "character": "Jimmy MacIntosh",
+            "profile_path": "/lpU7fTd5MTv4nXcmmr1WdPcKnVN.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 131,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/rsdw6cgtwwdz",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/ju5irjbi3mm6",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/ypjs9s9kdjwb",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/rrembyoxjzw7",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/sdbae1wrg373",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/c99z3p724m9t",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-09 00:10:58",
+    "created_at": "2026-11-09 00:10:58",
+    "updated_at": "2026-11-09 00:10:58",
+    "update_states": "No actualizado"
+}
