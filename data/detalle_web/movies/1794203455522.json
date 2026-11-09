@@ -1,0 +1,145 @@
+{
+    "id": "1794203455522",
+    "tmdb_id": "204082",
+    "titulo": "El protector (Homefront)",
+    "original_name": "Homefront",
+    "imagen": "/3epke5oOH7WRWvaFJeH9SsibBW4.jpg",
+    "backdrop_path": "/kT8orKwz2bmRdHBLnG44yucYtFy.jpg",
+    "type": "movie",
+    "year": "2013",
+    "etiquetas": [
+        "Acción",
+        "Suspense"
+    ],
+    "calidad": [],
+    "rate": 6.9000000000000003552713678800500929355621337890625,
+    "sinopsis": "Un exagente de la DEA (Agencia Antidroga) que está viudo se retira a un pequeño pueblo para empezar una nueva vida con su hija de diez años. El único problema es que ha elegido el pueblo equivocado.",
+    "cast": [
+        {
+            "name": "Jason Statham",
+            "character": "Phil Broker",
+            "profile_path": "/8l6lmrmKFDvhDjMJPj6tBpJdhaA.jpg"
+        },
+        {
+            "name": "James Franco",
+            "character": "Morgan 'Gator' Bodine",
+            "profile_path": "/bjmAntHGiibLZixH8nTNVBzaFQn.jpg"
+        },
+        {
+            "name": "Izabela Vidovic",
+            "character": "Maddy Broker",
+            "profile_path": "/kG8Gp7BJZfKt4GP8cmYNOmrNyxV.jpg"
+        },
+        {
+            "name": "Kate Bosworth",
+            "character": "Cassie Bodine Klum",
+            "profile_path": "/ezaM2jsyrxXWVFN1SbH3UfAgZaG.jpg"
+        },
+        {
+            "name": "Marcus Hester",
+            "character": "Jimmy Klum",
+            "profile_path": "/kKI5yoVZeruhOXx5fiFhW4WSLQ2.jpg"
+        },
+        {
+            "name": "Clancy Brown",
+            "character": "Sheriff Keith Rodriguez",
+            "profile_path": "/1JeBRNG7VS7r64V9lOvej9bZXW5.jpg"
+        },
+        {
+            "name": "Winona Ryder",
+            "character": "Sheryl Marie Mott",
+            "profile_path": "/8RVrlgtua8b53wmK7oZAAkm0N5O.jpg"
+        },
+        {
+            "name": "Omar Benson Miller",
+            "character": "Teedo",
+            "profile_path": "/adlrkEpxDIcpxF7bpzMGErLxeHP.jpg"
+        },
+        {
+            "name": "Rachelle Lefevre",
+            "character": "Susan Hetch",
+            "profile_path": "/5ETzDBwbCZ9xYLMmD5c39snVsoQ.jpg"
+        },
+        {
+            "name": "Frank Grillo",
+            "character": "Cyrus Hanks",
+            "profile_path": "/kuEco4vo1xrsM8DyrNSZUEi593P.jpg"
+        },
+        {
+            "name": "Chuck Zito",
+            "character": "'Danny T' Turrie",
+            "profile_path": "/rB29MLnNm3edynrGVVMTGcwcMxA.jpg"
+        },
+        {
+            "name": "Pruitt Taylor Vince",
+            "character": "Werks",
+            "profile_path": "/jqC1v8tF92QcmkQycnaLSuJiQfl.jpg"
+        },
+        {
+            "name": "Linds Edwards",
+            "character": "Jojo Turrie",
+            "profile_path": "/xCUqvvOWLJ2KZzJ52SRRuuD5uyV.jpg"
+        },
+        {
+            "name": "Austin Craig",
+            "character": "Teddy Klum",
+            "profile_path": "/wPfPFrniDcCB9DpdWyUg3ipmccJ.jpg"
+        },
+        {
+            "name": "Owen Harn",
+            "character": "Clay",
+            "profile_path": "/i6ZmP06Wk6SOqUPi67pcttA6rgc.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 100,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/jqas4qmqbjzq",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/bnk8ww4a68mv",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/1gqnsq7oajil",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/6wa7q26igryk",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/ahur8nhty825",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/65x283rwq826",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-09 00:50:55",
+    "created_at": "2026-11-09 00:50:55",
+    "updated_at": "2026-11-09 00:50:55",
+    "update_states": "No actualizado"
+}
