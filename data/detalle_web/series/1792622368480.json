@@ -125,6 +125,13 @@
                             "type": "streaming",
                             "language": "Sub",
                             "quality": ""
+                        },
+                        {
+                            "nombre": "Vimeos",
+                            "url": "https://vimeos.net/embed-x1t1bbwoi9x1.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
                         }
                     ],
                     "container_download": []
