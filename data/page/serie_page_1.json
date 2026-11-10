@@ -1,5 +1,24 @@
 [
     {
+        "id": "1794279511432",
+        "tmdb_id": "307853",
+        "titulo": "El sol entre la lluvia",
+        "imagen": "/reDzSqynyCv734aXv9NflnpflMo.jpg",
+        "type": "dorama",
+        "year": "2026",
+        "etiquetas": [
+            "Drama"
+        ],
+        "rate": 9,
+        "added_date": "2026-11-09 21:58:31",
+        "created_at": "2026-11-09 21:58:31",
+        "updated_at": "2026-11-09 21:58:37",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 6,
+        "status": "Returning Series"
+    },
+    {
         "id": "1791280294311",
         "tmdb_id": "285899",
         "titulo": "Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu",
