@@ -1,5 +1,25 @@
 [
     {
+        "id": "1794279544627",
+        "tmdb_id": "279246",
+        "titulo": "La emperatriz divorciada",
+        "imagen": "/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
+        "type": "dorama",
+        "year": "2026",
+        "etiquetas": [
+            "Drama",
+            "Sci-Fi & Fantasy"
+        ],
+        "rate": 7.9000000000000003552713678800500929355621337890625,
+        "added_date": "2026-11-09 21:59:04",
+        "created_at": "2026-11-09 21:59:04",
+        "updated_at": "2026-11-09 21:59:08",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 4,
+        "status": "Returning Series"
+    },
+    {
         "id": "1794279511432",
         "tmdb_id": "307853",
         "titulo": "El sol entre la lluvia",
