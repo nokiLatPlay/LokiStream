@@ -1,5 +1,25 @@
 [
     {
+        "id": "1794279670628",
+        "tmdb_id": "65708",
+        "titulo": "Taboo",
+        "imagen": "/om1wVOuEtwH3krHutIWO9sJzkS5.jpg",
+        "type": "serie",
+        "year": "2017",
+        "etiquetas": [
+            "Drama",
+            "Misterio"
+        ],
+        "rate": 7.9000000000000003552713678800500929355621337890625,
+        "added_date": "2026-11-09 22:01:10",
+        "created_at": "2026-11-09 22:01:10",
+        "updated_at": "2026-11-09 22:01:13",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 8,
+        "status": "Ended"
+    },
+    {
         "id": "1794279635268",
         "tmdb_id": "258989",
         "titulo": "El más grande",
