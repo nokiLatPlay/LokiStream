@@ -1,0 +1,277 @@
+{
+    "id": "1794279635268",
+    "tmdb_id": "258989",
+    "titulo": "El más grande",
+    "original_name": "The Greatest",
+    "imagen": "/anGICExgOPbBjobnoJzNrTriEmL.jpg",
+    "backdrop_path": "/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
+    "type": "serie",
+    "year": "2026",
+    "etiquetas": [
+        "Drama"
+    ],
+    "temporadas_count": 1,
+    "episodios": 3,
+    "status": "Ended",
+    "rate": 5,
+    "sinopsis": "Tras ganar el oro en las Olimpiadas de 1960, el joven boxeador Muhammad Ali (por aquel entonces conocido como Cassius Clay) se propone ganar el título de campeón de los pesos pesados. Debiendo lidiar con su nueva fama, conflictos familiares y la política de EE. UU. el prodigio descubre que su mayor contrincante no será otro púgil, sino una sociedad que no quiere que sea él mismo.",
+    "cast": [
+        {
+            "name": "Jaalen Best",
+            "character": "Cassius Clay / Muhammad Ali",
+            "profile_path": "/qD1RCdmW9kxACsmnW84JJuVMgnb.jpg"
+        },
+        {
+            "name": "Omari Hardwick",
+            "character": "Cassius 'Cash' Clay Sr.",
+            "profile_path": "/acUogRPe6eyhiK33EavBk3SWGlB.jpg"
+        },
+        {
+            "name": "Dana Gourrier",
+            "character": "Odessa 'Bird' Clay",
+            "profile_path": "/v3krc3R7LKMsHJEm8esPqEa7CR.jpg"
+        },
+        {
+            "name": "Amin Joseph",
+            "character": "Sonny Liston",
+            "profile_path": "/kTr5Lf7NUullsj0g1klTOScwzRp.jpg"
+        },
+        {
+            "name": "Kai Parham",
+            "character": "Rudy Clay",
+            "profile_path": "/xkQmzVAJhBLmRueNjVggqcznYQY.jpg"
+        },
+        {
+            "name": "Giovanni Ribisi",
+            "character": "Angelo Dundee",
+            "profile_path": "/8EAiS9D3YtGOrwNM0OrwmDpWK7s.jpg"
+        },
+        {
+            "name": "Reno Wilson",
+            "character": "Drew 'Bundini' Brown",
+            "profile_path": "/odYnlRblq5nQHqFgOAu5zPUJCde.jpg"
+        },
+        {
+            "name": "Erica Tazel",
+            "character": "Geraldine Liston",
+            "profile_path": "/9EWz9rv8cN5Xpd7ZPfXY29NeDqc.jpg"
+        },
+        {
+            "name": "Aleks Paunovic",
+            "character": "William Faversham Jr.",
+            "profile_path": "/k8j9Nr0xS2vEUMV8Wl0y5cC2NeB.jpg"
+        }
+    ],
+    "first_air_date": "2026-11-04",
+    "last_air_date": "2026-11-04",
+    "container_download": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "/anGICExgOPbBjobnoJzNrTriEmL.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Oro parece",
+                    "portada": "/rnDQi9BEmpkOsU0LnxWKdBbFt6D.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/wp90z49mik1e",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/le7z0quu8y0t",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/xxmw5sdbiqs3",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https://vidara.to/e/e7lZb57vaD4UP",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/iihpbkw5c7ol",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/6w6aacyyjvb2",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/d9e7isqado4k",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https://vidara.to/e/OaP95TzvEqpAZ",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "La tierra prometida",
+                    "portada": "/xAflnwnz6Y7CORIErZwi1KuaS3q.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/td0wu8cklrpo",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/dxuv9tnbkyrl",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/dsg5n2156dv8",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https://vidara.to/e/jKS5LxRpg1j1E",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/qwmzuyku25g2",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/5caqjjxiiroj",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/7smv5ecu3279",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https://vidara.to/e/BpZSlwv6q5xdB",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "El nuevo negro",
+                    "portada": "/rPHuWZEKApf4GS2xWAE9Tl3lVaT.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/wcqacfayacnb",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/lv95106v5pcq",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/2sqh31hyh4et",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https://vidara.to/e/LLwdgm6A4dSBG",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/bvt2jzkk6p65",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/zxqjjv7vm20k",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/2qswq7klx58b",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https://vidara.to/e/HYetpZKgpAOuv",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                }
+            ],
+            "nombre": "Temporada 1"
+        }
+    ],
+    "added_date": "2026-11-09 22:00:35",
+    "created_at": "2026-11-09 22:00:35",
+    "updated_at": "2026-11-09 22:00:35",
+    "update_states": "No actualizado"
+}
