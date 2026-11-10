@@ -1,0 +1,311 @@
+{
+    "id": "1794279544627",
+    "tmdb_id": "279246",
+    "titulo": "La emperatriz divorciada",
+    "original_name": "재혼 황후",
+    "imagen": "/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
+    "backdrop_path": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+    "type": "dorama",
+    "year": "2026",
+    "etiquetas": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+    ],
+    "temporadas_count": 1,
+    "episodios": 4,
+    "status": "Returning Series",
+    "rate": 7.9000000000000003552713678800500929355621337890625,
+    "sinopsis": "Navier, la querida emperatriz del Imperio Oriental, gobierna junto al emperador Sovieshu. Pero cuando Sovieshu se enamora de una esclava fugitiva y pide el divorcio, Navier accede con la condición de poder volver a casarse con su rival, el príncipe Heinrey del Reino Occidental.",
+    "cast": [
+        {
+            "name": "Shin Min-a",
+            "character": "Navier Ellie Trovi",
+            "profile_path": "/6CjxjYvZBuvbAQTcuoPb8EeVrUI.jpg"
+        },
+        {
+            "name": "Ju Ji-hoon",
+            "character": "Sovieshu Vict",
+            "profile_path": "/7PYfUrBBXhYv5PIsTalJhjbRteg.jpg"
+        },
+        {
+            "name": "이종석",
+            "character": "Heinrey Alles Lazlo",
+            "profile_path": "/eW73DbmKQrqb6xDC52oMbVehw6G.jpg"
+        },
+        {
+            "name": "이세영",
+            "character": "Rashta Isqua",
+            "profile_path": "/58jlu0lSO0rWEzsWPjGLoEI0NWr.jpg"
+        }
+    ],
+    "first_air_date": "2026-11-03",
+    "last_air_date": "2026-11-03",
+    "container_download": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "/9wAmryTiNyosAe9doSibzCaAqQw.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/hdyrbgjoskd8",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/odlbt8j7n50r",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/ky6r92xlkcda",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https://vidara.to/e/MSXt5RH39Vo9V",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/vtawoqn0ou7a",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/dhkcku3wz8sn",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https://vidara.to/e/VnZyPvwuxYMAi",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "/j3gB3FEwcqmg6dFunYrlGoky8Mq.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/61hpov75d8xa",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/0ozr606x84yz",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/k6rzj4x38hmv",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https://vidara.to/e/tw6qMwEirVYta",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/su9zzvfvqamc",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/t1k1ok01n1em",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/13ejjzhlgsly",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https://vidara.to/e/DjN1bV3V43WwL",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "/9sIZnnI2UKFjNUyjoYOlNiSUiS5.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/g037qvedozvh",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/tdagqyx94oct",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/d6eyqokdon0s",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https://vidara.to/e/zfriieeeodz6o",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/pvqveyvvduws",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/7o3pejnlw3y7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/nnpsuovb81s8",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https://vidara.to/e/B2jF9wVW5XMp7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "/2CmZPwmhMdcROMfTqkonReOrozL.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/ahz2njuvanaj",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/bjrf05svlso3",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/dhw4m3xc06uc",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https://vidara.to/e/eVKKnbOimrlde",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/s8lafiwddmbl",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/t8i5fwcq3asz",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/6n09cdt52aom",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https://vidara.to/e/db7uBZNyyifBP",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                }
+            ],
+            "nombre": "Temporada 1"
+        }
+    ],
+    "added_date": "2026-11-09 21:59:04",
+    "created_at": "2026-11-09 21:59:04",
+    "updated_at": "2026-11-09 21:59:04",
+    "update_states": "No actualizado"
+}
