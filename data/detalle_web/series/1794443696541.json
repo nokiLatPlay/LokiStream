@@ -1,0 +1,456 @@
+{
+    "id": "1794443696541",
+    "tmdb_id": "307106",
+    "titulo": "Between steps",
+    "original_name": "연애박사",
+    "imagen": "/yA4jv2ZJSVCbJ1s5F8oEpmhHxu2.jpg",
+    "backdrop_path": "/wwSoLQrLyiXXUbRnZq1eWBbHaRR.jpg",
+    "type": "dorama",
+    "year": "2026",
+    "etiquetas": [
+        "Drama",
+        "Comedia"
+    ],
+    "temporadas_count": 1,
+    "episodios": 8,
+    "status": "Ended",
+    "rate": 9.0999999999999996447286321199499070644378662109375,
+    "sinopsis": "Minjae, un antiguo nadador que perdió una pierna debido a una enfermedad, lleva una vida tranquila y controlada mientras estudia un doctorado. Sin embargo, todo cambia cuando conoce a Yujin, una estudiante de máster que intenta empezar de nuevo tras perder el rumbo de su vida. En un laboratorio de robótica, surge entre ellos un romance apasionado, agridulce y lleno de ternura.",
+    "cast": [
+        {
+            "name": "Choo Young-woo",
+            "character": "Park Min-jae",
+            "profile_path": "/nGICKq8yq7G6nDUNVjrUoMe4iQ0.jpg"
+        },
+        {
+            "name": "김소현",
+            "character": "Lim You-jin",
+            "profile_path": "/jrRXistOzBtfRkvf3WrxSmyDKBY.jpg"
+        }
+    ],
+    "first_air_date": "2026-10-05",
+    "last_air_date": "2026-11-10",
+    "container_download": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "/iwpbhVz6DjgWzZeCMMslYmJ7Bks.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "/xZL2i9M1Ui5LW13i5s3poYoyyBS.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/q8uvixzqbp2z",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/d8j1c93w7a7p",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/dre4rm85ffam",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/9ow4eopr3lt9",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/qjzvmmrczoeh",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/fmxcyu60ysny",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "/xYFZhhfTUwilt4UlO0AfkMV40Ws.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/1xdpn10f71gy",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/mpr1a0cfyyar",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/pvl1l56hrnxo",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/vvsr36xv67ui",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/gfzvqylqxk00",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/nphfha54wt0g",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "/mPAg671xAOWWza1ORWCAWClnUAG.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/rfagjwxg8zr1",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/lm8cs0czo3rn",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/7rjz0rc2kkgt",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/5dev7b2phjbq",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/hnf5lfm3undx",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/ojrxy9jnwque",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "/vJJCU46XdteGESsaZKG3Xz5kuai.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/yjdia4ymvgwp",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/k9ngbz1smk4b",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/8i9b059jgvdz",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/e5nuyomiz99d",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/7700pvcexvua",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/6ot51q5rwre0",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "/u7OckcRztUNAukPFDLJPq4Zaimn.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/k7clwr51rhc7",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/rxdf0ijio69q",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/vi6epn5v2v7m",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/kra1cwz19f2g",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/trlmle5q32fu",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/gnw221wo93h9",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Episodio 6",
+                    "portada": "/feKmGTFBbreUiiq19hGb5qRIPIE.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/7t5pyh8krojk",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/n3iyw9jnx0dy",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/w4rssiqzpdz4",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/6qj3l6gz1cdz",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/5qbbs6nncien",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/jokv108bm5cr",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "Episodio 7",
+                    "portada": "/oc5bVnSU4MisCsMaWkyTnsVBZgR.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/9zfdjhpnxp38",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/k5th5r6eipq3",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/u1ls6jn1at2a",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/9dnp76ydggky",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/j48lyrum6z03",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/pl3fpq60dqfs",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "Episodio 8",
+                    "portada": "/5XFPLrI2ritxisEuvVQpEZ6JoRX.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/5h1oyxhj1zbe",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/wok6r4yvdaus",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/5vog9omgdbq1",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/a99divxku72l",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/t14x8bdhryr7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/zgk4itr4ulqi",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                }
+            ],
+            "nombre": "Temporada 1"
+        }
+    ],
+    "added_date": "2026-11-11 19:34:56",
+    "created_at": "2026-11-11 19:34:56",
+    "updated_at": "2026-11-11 19:34:56",
+    "update_states": "No actualizado"
+}
