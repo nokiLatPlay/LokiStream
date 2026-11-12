@@ -1,5 +1,26 @@
 [
     {
+        "id": "1794279578728",
+        "tmdb_id": "316197",
+        "titulo": "Volveré Por Ti",
+        "imagen": "/uESOe2QeEFf8m6QYw6DoNw8oupY.jpg",
+        "type": "dorama",
+        "year": "2026",
+        "etiquetas": [
+            "Comedia",
+            "Drama",
+            "Sci-Fi & Fantasy"
+        ],
+        "rate": 6.4000000000000003552713678800500929355621337890625,
+        "added_date": "2026-11-09 21:59:38",
+        "created_at": "2026-11-09 21:59:38",
+        "updated_at": "2026-11-11 19:33:32",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 10,
+        "status": "Ended"
+    },
+    {
         "id": "1794443571985",
         "tmdb_id": "314939",
         "titulo": "Un amor distinto al tuyo",
@@ -96,27 +117,6 @@
         "update_states": "No actualizado",
         "temporadas": 1,
         "episodios": 3,
-        "status": "Ended"
-    },
-    {
-        "id": "1794279578728",
-        "tmdb_id": "316197",
-        "titulo": "Volveré Por Ti",
-        "imagen": "/uESOe2QeEFf8m6QYw6DoNw8oupY.jpg",
-        "type": "dorama",
-        "year": "2026",
-        "etiquetas": [
-            "Comedia",
-            "Drama",
-            "Sci-Fi & Fantasy"
-        ],
-        "rate": 6.4000000000000003552713678800500929355621337890625,
-        "added_date": "2026-11-09 21:59:38",
-        "created_at": "2026-11-09 21:59:38",
-        "updated_at": "2026-11-09 21:59:41",
-        "update_states": "No actualizado",
-        "temporadas": 1,
-        "episodios": 10,
         "status": "Ended"
     },
     {
