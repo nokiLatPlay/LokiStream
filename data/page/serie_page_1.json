@@ -1,5 +1,26 @@
 [
     {
+        "id": "1794443800498",
+        "tmdb_id": "99995",
+        "titulo": "100-man no Inochi no Ue ni Ore wa Tatteiru",
+        "imagen": "/fbBY1UEW7Vx2alMrjg6xNNM3Pv9.jpg",
+        "type": "anime",
+        "year": "2020",
+        "etiquetas": [
+            "Animación",
+            "Action & Adventure",
+            "Sci-Fi & Fantasy"
+        ],
+        "rate": 6.5,
+        "added_date": "2026-11-11 19:36:40",
+        "created_at": "2026-11-11 19:36:40",
+        "updated_at": "2026-11-11 19:36:43",
+        "update_states": "No actualizado",
+        "temporadas": 2,
+        "episodios": 24,
+        "status": "Ended"
+    },
+    {
         "id": "1794443734364",
         "tmdb_id": "315054",
         "titulo": "The Duke's Son Claims He Won't Love Me, But Showers Me with Adoration",
