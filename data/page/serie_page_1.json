@@ -1,5 +1,27 @@
 [
     {
+        "id": "1794443526841",
+        "tmdb_id": "303745",
+        "titulo": "Un amor infiltrado",
+        "imagen": "/rElWNrEbdYyPg1opWTtNiYm3ut5.jpg",
+        "type": "dorama",
+        "year": "2026",
+        "etiquetas": [
+            "Comedia",
+            "Drama",
+            "Crimen",
+            "Action & Adventure"
+        ],
+        "rate": 9,
+        "added_date": "2026-11-11 19:32:06",
+        "created_at": "2026-11-11 19:32:06",
+        "updated_at": "2026-11-11 19:32:08",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 5,
+        "status": "Returning Series"
+    },
+    {
         "id": "1794279670628",
         "tmdb_id": "65708",
         "titulo": "Taboo",
