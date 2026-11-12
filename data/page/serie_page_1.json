@@ -1,5 +1,25 @@
 [
     {
+        "id": "1794443661823",
+        "tmdb_id": "289517",
+        "titulo": "Un trabajo maldito",
+        "imagen": "/vxXNPQjCZkdTWmXZEkgxVVrftex.jpg",
+        "type": "dorama",
+        "year": "2026",
+        "etiquetas": [
+            "Misterio",
+            "Drama"
+        ],
+        "rate": 7.5,
+        "added_date": "2026-11-11 19:34:21",
+        "created_at": "2026-11-11 19:34:21",
+        "updated_at": "2026-11-11 19:34:25",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 8,
+        "status": "Ended"
+    },
+    {
         "id": "1794279578728",
         "tmdb_id": "316197",
         "titulo": "Volveré Por Ti",
