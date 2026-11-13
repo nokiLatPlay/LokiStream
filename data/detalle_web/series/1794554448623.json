@@ -1,0 +1,511 @@
+{
+    "id": "1794554448623",
+    "tmdb_id": "46184",
+    "titulo": "Campione!",
+    "original_name": "カンピオーネ!",
+    "imagen": "/jCuU95wiqJLsdLEb2elZZmluAZE.jpg",
+    "backdrop_path": "/iF3rO2sP624GSgZtsou5hmROm8t.jpg",
+    "type": "anime",
+    "year": "2012",
+    "etiquetas": [
+        "Animación",
+        "Comedia",
+        "Sci-Fi & Fantasy"
+    ],
+    "temporadas_count": 1,
+    "episodios": 13,
+    "status": "Ended",
+    "rate": 7.9000000000000003552713678800500929355621337890625,
+    "sinopsis": "Godo Kusanagi, un estudiante de secundaria que mata a un dios, reclamando su poder y el título de Campione, para matar a otros dioses.",
+    "cast": [
+        {
+            "name": "Eri Kitamura",
+            "character": "Liliana Kranjčar",
+            "profile_path": "/oZuKOoiqUsZZcgO5wqlUoZQUPfw.jpg"
+        },
+        {
+            "name": "三澤紗千香",
+            "character": "Arianna Hayama Arialdi",
+            "profile_path": "/oahBkfiUX5VyeA5VOZEBTGu3aG8.jpg"
+        },
+        {
+            "name": "Rina Hidaka",
+            "character": "Shizuka Kusanagi",
+            "profile_path": "/7JupZGvqcq4dRxiTKpPxzg8NUS4.jpg"
+        },
+        {
+            "name": "斉藤佑圭",
+            "character": "Ena Seishuin",
+            "profile_path": "/rUF0jJ6Ig0RBD0VGehBpxiMPdDI.jpg"
+        },
+        {
+            "name": "Yui Ogura",
+            "character": "Athena",
+            "profile_path": "/vUuyLWde2CEd5G0oqeEzzFE6qqA.jpg"
+        },
+        {
+            "name": "Nobutoshi Canna",
+            "character": "Perseus",
+            "profile_path": "/oYexnQo5k8MY2iYztDlr403H8rx.jpg"
+        },
+        {
+            "name": "皆川純子",
+            "character": "Verethragna",
+            "profile_path": "/vylNOlXVmYFW8TJgq3Dvgoq1dy5.jpg"
+        },
+        {
+            "name": "Takuya Eguchi",
+            "character": "Salvatore Doni",
+            "profile_path": "/hPPhUp0mM65Lc87Q8WXUEmGQAXx.jpg"
+        },
+        {
+            "name": "Yuiko Tatsumi",
+            "character": "Pandora",
+            "profile_path": "/3bLpouZ8983S9HkMaiuVTAZ5Obf.jpg"
+        },
+        {
+            "name": "Yoko Hikasa",
+            "character": "Erica Blandelli",
+            "profile_path": "/mP3bj0s1gqJ6tCKFLhu4b1CkJj7.jpg"
+        },
+        {
+            "name": "Unsho Ishizuka",
+            "character": "Sasha Dejanstahl Voban",
+            "profile_path": "/nmj1vTrJc0zvuUYqxSyWXmIGBlP.jpg"
+        },
+        {
+            "name": "Shinobu Matsumoto",
+            "character": "Touma Amakasu",
+            "profile_path": "/AiEkq6NPXndpE0EhhfEFjlvRCNF.jpg"
+        },
+        {
+            "name": "Kana Hanazawa",
+            "character": "Yuri Mariya",
+            "profile_path": "/9UTBlNRopSOKyoWnCm74tyHOfR1.jpg"
+        },
+        {
+            "name": "David Golinkin",
+            "character": "Godōu Kusanagi",
+            "profile_path": ""
+        },
+        {
+            "name": "Atsuko Tanaka",
+            "character": "Lucretia Zola",
+            "profile_path": "/pacuup8TMK9SFsSJOY8jlbyzkFt.jpg"
+        }
+    ],
+    "first_air_date": "2012-07-06",
+    "last_air_date": "2012-09-28",
+    "container_download": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "/dcqX64gJ6ADqTv3TLAEBveuehxr.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "/4kfeFrx7F5GB0u4NCqkaZhe7UNM.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=bGx4QmFMWmN5T1pEcnFGNnVTZmZOMFhUTHMxS29XdnRDSVUwNnJqTFhTKzBSU09jY2FFVS9lMmJZRUZOQ2ttdjo6Qpb4y_DKTnvgDXFIAawDTw--&t=19a87049ef104ba10d1a7aa3d70ad59a&op=MTYxNTQ=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=RkQzV1RuYnNmRzBHSFVQbVNsSUlaWWNUKzJoem03SFA0V2FhL3RSZEZ3V2M5VWNrNWIrK0NPdjk5Y3dLeXZ6ODo6vb6PGHD_bULT9cdZeRjdfg--&t=19a87049ef104ba10d1a7aa3d70ad59a",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/vzjcmzykodfh",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "/mpLCAyEmSpPua1KqPncpt91jWEB.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=TTRDL1gwYWx4TXJHVGtRY2pGZTBQR21IYmJvcjVmSTFodkpBeTNDQUt3R01YVXVuemxzR2xEMVNhVkJveWhRcDo6DD3OPVg3GS6A3S.EUJWu0w--&t=5e04a15b7c5a842cfed6457d8490bfdc&op=MTYyNzI=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=ajU0TDVPRzhNbzJuVmFlZS9ZQjdSWHg3Ym5Ncko4a2s2dlpCeVpuYXFYcndwTmFNS2Jub240QlgzbTc5VmxYdTo63wjYn8qEIgmwSqvuB__sAA--&t=5e04a15b7c5a842cfed6457d8490bfdc",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/bdu2uys0dd3p",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "/wNXnMc2zaEOoTFKBvIushC71YFL.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=VnlsREhFWGF2bkZwZGFGdWxYenhnREZkZ3IwcndSYlo4N05YSXFkSTc0WGZsbUc1R1JvV2M4d2hDOHRJc0dLVjo6nqx.rjhaegI5F5MDzP9efA--&t=3b5f4f19719aa9a67efe63169ce94037&op=MTY0MDY=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=Y1d4YmRRVVhhUkFUNVd0T0Q1c3l4N1gyeGZ2c1Rxc2hJRmpOMEdrc25kNVJHZVdPZDF4aHVCUW43RkJucmFhVzo6ZDf42Gu74fThlnEiPr630g--&t=3b5f4f19719aa9a67efe63169ce94037",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/aixft8wuc0ax",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "/iuD97W0HODyMje1LGk7KA6PGoub.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=bE8vaEdCNXhBQy9EcDgyTEJKNHB3d2xNbVBEaWFIckNTS0tPRFR4TGI3bU1xUDk1QlRvMmVRNWhibXFsalNJZDo6sevBtyeK5oxxDL5dkEtGbA--&t=49d7d1860f0dc2bfcb95ea0fe787c98b&op=MTY0MjU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=MmY0eDNpbCtFbldXRklIL3puZzZDT1F3dUxYTE1qSGl5b2ozUEJERm1TNEpxQnVmMmpWbCtsMzVsbHdBVWFzNDo6W0q99Re6ibrEpOlLMjNKCQ--&t=49d7d1860f0dc2bfcb95ea0fe787c98b",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/fxqeqfoza1ql",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "/4h74mHhB7tqDcoE4yNW3CbfCGmO.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=WTFyZll6alVQZE5QdWQwOEZvaHR2enVZd1BUTmZvTTRkWkdwb1BxbEZGa0QwVFR5Z3hIL2tNb0JUekM5K0M4ejo60eDlqtCfj9b77AAdYpV7PA--&t=8ef0d9f2c0327a0045e2e92a80cd9f8a&op=MTY1MTQ=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=ZGhnRE9Ha3QyOUJES1BnSDFsQ1VNUVVkSlI1SHVvTk1idkZ0d2FJVWNkQmQxelE0MTV2aWtBV2p2Z3B2SVpXRjo6CXwY5vaVS7bqBKrJf6b4dw--&t=8ef0d9f2c0327a0045e2e92a80cd9f8a",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/7h002fclyx6d",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Episodio 6",
+                    "portada": "/nfU4TngnhIy9FyOTeXkgSgfcg6s.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=QnJ4V2hBL2ZXdExUcnh1Z1lGK29pL043UklkUDVFZks4Y3dYYVFFYVZmZ3oxM0hETURjOWxIdFJIVXpGU3ZQLzo63L6ZY7RaWxnoGLatgQ8FlQ--&t=e4cd3a630ddf5462537c9bfb9e8ab0ec&op=MTY1NDA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=NWdzRnNTeVVzYTBBbkM4ejY3cHI4ejIxemthSjc2MW9UblRuKzk1eGhzUWxpdDlZQWxSSnNqUUx5cTFqSFZtNDo6.oPsY1zu2XvYKDUqqP3CjA--&t=e4cd3a630ddf5462537c9bfb9e8ab0ec",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/5j4deh7d3a89",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "Episodio 7",
+                    "portada": "/uFryWjAUEc2oTIQae7zZfsHHija.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=ekxwUDNVYS9BblEvdDhuc2J5ZmpRdmNvSVV6eFRtMlRmZU41VGp5bC9yNzI4N3FROUl5eVlZdnVLTkZ4azJGNTo6R7MJMAw85j7Z8vZPCm_vuA--&t=744fdcec411a347b4504b01683c985f0&op=MTY1NjU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=WnIvMWM5UzRxQXFRd3hYeEpGYVBhMytXTzkxQWFncUxXeDV1dkR0cFRvVFM0M1Q5STdFdkhaQUdYYVIvOTFadTo6DgSYdcFMXJ6AM_SCapr5PQ--&t=744fdcec411a347b4504b01683c985f0",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/jcixod1uihbc",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "Episodio 8",
+                    "portada": "/lSSUiSvsWInQdWfIknNXBDymaPx.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=SHR2RlZVMXp6WnA0a1RBM1FKZTJ0dVIxNWlHdVpSMDZWZytEeXRmckxUY0VEMVlaUExpYWdLQjFMSFNqNCtLSDo6x86GemWNBB8qXAbWPjH6sA--&t=b0ea65d0755634f5b2400f9925ad392b&op=MTY2NjM=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=OGt1SVFodzhiWVRwbUMzVUp5Yi9GUkxGd1FreHArMmRNQmpmZEtFcDljcVo3bzFoVnhwd1cvR3BWWU1OU2JZZTo6ChTz2cTFf4PCYthWcyNtTQ--&t=b0ea65d0755634f5b2400f9925ad392b",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/80urnne2lfum",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E09",
+                    "episode_number": 9,
+                    "nombre": "Episodio 9",
+                    "portada": "/gPR1R8bE6x2P12uyfIGYPCs2PPR.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=OGdVY3VIMktQYjNNM2ZHWkxUNFgvWXNxMWpQL2NSLzJDcDJRTzRNbU9jRnhpL3MwTzJMWTUvc3BOTDVMNDArQzo60H0hT0.pIYwdRAmdWTIXPw--&t=521eae94653641ec7be496db736ce3f6&op=MTY5MjY=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=Y0ZJb2xCdGs5SysvWmI5RTlPMmJKWVprV0xtc2tZWVV3Yk9DcFJUM3gzaFM3a256cThma0xiUzJQNXNJNVFCSzo62MTyYVN_rah7xVrDZIigNw--&t=521eae94653641ec7be496db736ce3f6",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/vvyaofl3pqa7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E10",
+                    "episode_number": 10,
+                    "nombre": "Episodio 10",
+                    "portada": "/2HfBvkxamIBZRNOK8bhazpsjkhh.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=ZUFSVE1ZZE5ydFk2VzhwOGZiYnVkM2Z5R1pRVWdCamdHWktKU0hVN1RBeTc1cGlsQmt4V0JlcnlXTVZuV1l1eTo6QoskeZPXdzjPeWsyMDBkHw--&t=1f49216e5390c53da48b0e5a77a5c48c&op=MTY5ODg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=VlNmVW9OYjhsdmwyNDgrbCtIcmJTTUc4T3VLdlJ2WVNzNlZhbHBkY292dkliNW55NnFaYjFGd1orWXduOFMrRTo6a7sz6egK3xJUNlSaCYkt_w--&t=1f49216e5390c53da48b0e5a77a5c48c",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/u0qzng9hnsxu",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E11",
+                    "episode_number": 11,
+                    "nombre": "Episodio 11",
+                    "portada": "/gCZuHm7sqpOWImcbVB9NPFOpLJW.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=K2dqTFBQT05GZlNvcTUvaHRWb1IvSE14a0R3Ly9CYzJ0OFNPOWhucjRESytlVS9odDdnY2RHSGJIZUdiYlEvNjo6PgAsJtI.GoeCKHV_7W3r9g--&t=00b4cca849ad2b96d2b193f453785a13&op=MTcxOTU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=SXlOeU9DWndsT3pGUXFhc0M0OG5TYjNCSnlpaWo3RW9CLzl4djB6bnBsWFkrRkRiczBTZmFkYkdhRS8rSWlwdDo6exXVBdFj61EgP05o57TuAA--&t=00b4cca849ad2b96d2b193f453785a13",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/497k7rx6253s",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E12",
+                    "episode_number": 12,
+                    "nombre": "Episodio 12",
+                    "portada": "/cr9t33HcGspq998eSi9YIPrxJbf.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=UXpoc29PZHBEVXBSWGlWa3RHZDhQQWlYY3V0Z2JIM3lhOXJ5TUJuZEdhT1BQSloxazlLKzVGV3V3bU5rYmFDaDo6gtvFta_6IXCHzl0kbo2uIw--&t=0b823d8b45ee3eaf26e538b6cff6f451&op=MTcyNjI=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=TzdxeTFvUjhjMzA1dkQxWmVNbkN2VzR1VGYrMVZTTUJEYzlSaElWZmlCQ0laQVcrZHc5Wi9Ycng5TlpLK2d6STo64PTLTEljsHLTNBtCymvyuA--&t=0b823d8b45ee3eaf26e538b6cff6f451",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/1pzfs1uyugid",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-a2qse8h16r8t.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E13",
+                    "episode_number": 13,
+                    "nombre": "Episodio 13",
+                    "portada": "/n4a8JHSHGBJMhTJoGgl8yUp4TD8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=OUdKZm5CQkMxRVhVWjZFckoxQjJvNkNXQklDakRGYmtVeUhxSUQ5VVBoMEdVSXptazRtV0UwVDlRdWkvRTZLcDo6n4AE6kwuOLFYDW5vSXdTnQ--&t=8efa2947340ebba3304c9a0374a037e7&op=MTc1OTU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=NVhHd0dsSmtGS3RwRnYrNVd6cDZLMUtHZnp3NnNnN2dRY0h0L2JiZTdyUVVNYytMMUlaUVpVNU42M0RacDM3RDo6ja.4yWaG06ErPDoTMMEE_A--&t=8efa2947340ebba3304c9a0374a037e7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/bbfl128tuvx8",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                }
+            ],
+            "nombre": "Temporada 1"
+        }
+    ],
+    "added_date": "2026-11-13 02:20:48",
+    "created_at": "2026-11-13 02:20:48",
+    "updated_at": "2026-11-13 02:20:48",
+    "update_states": "No actualizado"
+}
