@@ -1,5 +1,25 @@
 [
     {
+        "id": "1794552648674",
+        "tmdb_id": "9349",
+        "titulo": "Soldado universal",
+        "imagen": "/f0Z5q8HMksgmNkAtNEaY7h7c1lx.jpg",
+        "type": "movie",
+        "year": "1992",
+        "etiquetas": [
+            "Suspense",
+            "Acción",
+            "Ciencia ficción"
+        ],
+        "rate": 6.29999999999999982236431605997495353221893310546875,
+        "added_date": "2026-11-13 01:50:48",
+        "created_at": "2026-11-13 01:50:48",
+        "updated_at": "2026-11-13 01:50:49",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1794552625460",
         "tmdb_id": "28510",
         "titulo": "Soldado universal III. Regeneración",
