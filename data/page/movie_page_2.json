@@ -1,5 +1,24 @@
 [
     {
+        "id": "1794552675958",
+        "tmdb_id": "10222",
+        "titulo": "Kickboxer",
+        "imagen": "/tXSD8U5aVdGscQNcyY6C2ANVEuh.jpg",
+        "type": "movie",
+        "year": "1989",
+        "etiquetas": [
+            "Acción",
+            "Suspense"
+        ],
+        "rate": 6.79999999999999982236431605997495353221893310546875,
+        "added_date": "2026-11-13 01:51:15",
+        "created_at": "2026-11-13 01:51:15",
+        "updated_at": "2026-11-13 01:51:18",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1794552648674",
         "tmdb_id": "9349",
         "titulo": "Soldado universal",
