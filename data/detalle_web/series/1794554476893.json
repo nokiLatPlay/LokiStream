@@ -1,0 +1,625 @@
+{
+    "id": "1794554476893",
+    "tmdb_id": "62171",
+    "titulo": "Hagure Yuusha no Estetica",
+    "original_name": "はぐれ勇者の鬼畜美学",
+    "imagen": "/9liqeO3WE6g0tqyXJbsyEGbnkgv.jpg",
+    "backdrop_path": "/iw1yuLpwSJ39DyhJICVLwnnSmov.jpg",
+    "type": "anime",
+    "year": "2012",
+    "etiquetas": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Comedia"
+    ],
+    "temporadas_count": 1,
+    "episodios": 12,
+    "status": "Ended",
+    "rate": 6.9000000000000003552713678800500929355621337890625,
+    "sinopsis": "La historia sigue a una organización internacional llamada Babel que protege a jóvenes reclutas en entrenamiento cuando vuelven de otros mundos. Un héroe reconocido llamado Akatsuki vuelve al mundo real desde un mundo de magia y espada llamado Areizaado acompañado, y nada más y nada menos de una preciosa chica que es la hija del Rey Demonio de ese mundo.",
+    "cast": [
+        {
+            "name": "Yoko Hikasa",
+            "character": "Miu \"Myuu\" Ousawa",
+            "profile_path": "/mP3bj0s1gqJ6tCKFLhu4b1CkJj7.jpg"
+        },
+        {
+            "name": "Kana Hanazawa",
+            "character": "Kuzuha Doumoto",
+            "profile_path": "/9UTBlNRopSOKyoWnCm74tyHOfR1.jpg"
+        },
+        {
+            "name": "Kana Ueda",
+            "character": "Chikage Izumi",
+            "profile_path": "/us6FMwXCeSUR2YyByxVcgOUjiIA.jpg"
+        },
+        {
+            "name": "Takahiro Sakurai",
+            "character": "Kyoya Hikami",
+            "profile_path": "/8s8owcKmpRAuhzEGjSdRpztthUg.jpg"
+        },
+        {
+            "name": "Marina Inoue",
+            "character": "Haruka Nagase",
+            "profile_path": "/f7PuEx1h2g4FLgMzk9wCrWuS9Eu.jpg"
+        },
+        {
+            "name": "Satoshi Hino",
+            "character": "Ryouhei Uesaki",
+            "profile_path": "/8ZJIiwIVF2zDyyFr7oXewj0eEuu.jpg"
+        },
+        {
+            "name": "Ayana Taketatsu",
+            "character": "Minami Aihara",
+            "profile_path": "/7p9BhK5EZtHvXWhFa1WejhoNst3.jpg"
+        },
+        {
+            "name": "Rina Sato",
+            "character": "Listy El Da Sherfied",
+            "profile_path": "/kk0Tir25lDqdqYHHnYCpknGgZCa.jpg"
+        },
+        {
+            "name": "Noriaki Sugiyama",
+            "character": "Phil Burnett",
+            "profile_path": "/szqqQ8T0gzuSxjU2rnWcthsaSJT.jpg"
+        },
+        {
+            "name": "Nobuhiko Okamoto",
+            "character": "Akatsuki Ousawa",
+            "profile_path": "/7s1K2yQVF5iIWILaOfG7QrMZkXA.jpg"
+        }
+    ],
+    "first_air_date": "2012-07-06",
+    "last_air_date": "2012-09-21",
+    "container_download": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "/a66yVE0hdCOW4ymW9ReUNzdh5yc.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Nuevo juego plus",
+                    "portada": "/pupxSNjp9tSp96x1dFi1si9OfCz.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=RjVHUzNGUjJMYys1T3NlcGVhNUNDSndNdDdadlJQUmxTOCtFR2FCN0NxeDhxMzE5Y3Y3QnZjNHBZRm5STm9tZy9BUDdDSmpHVXVJa3BwOXZkRmVaMXc9PTo6A_psSG5hjryduz8tXIm6Bg--&t=51983dde7c26cc63f4c0bdbc9903e636&op=MTYyMzg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=enlIc3ArZmw0aCtvWnBPa3VjbTFySElScjFXNm5FdldaQ0NrZ0hSQnpYRWx5cmtaOGcvT0tDOWFwM2RaZXEvaWIxeWdWbFo2STFUZW1wTURMUmdKYUE9PTo66sUtPNXlNRtX199odypkQQ--&t=51983dde7c26cc63f4c0bdbc9903e636",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/lfi39hajuxtj",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-xglp30lw51ss.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-swdqxfa4u9wx.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Bono de agua santa",
+                    "portada": "/tW5HaetAVz9lQfbqMo630s0tL8B.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=bFJIZjRZNFRtNVYwRm5HajZ1dmZtUGhPdlpvNGEvTC9IamJuSmJKS05tRzlKL1VQZnBaSjdaY3J6a1gwS1RFK3hWM0wvcUdicERINGpsOFptbk9LYWc9PTo6BXJJz4C2izagR95xKtHaGQ--&t=1feee423953de9328419f5ad5d608425&op=MTYyNzQ=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=Wkt6TFhZanFsbTlYd1ZrTDQrZzhTTzdycDNhR1JTT3ZlanJkWE9PeHQxM05qVWxWYy9WSytTdG5BZ3FWNnEzRUZWL0RNQWs0eXV3R28yVTZFUUU2ZGc9PTo6Nt.XpRYcNvXtHwLLNVyc1A--&t=1feee423953de9328419f5ad5d608425",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/v0yyp2ts7cdf",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-lig7pvoofjaw.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-ym5hgb210nkj.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Para convertirse en un adulto...",
+                    "portada": "/mN5QWA4DtG9MhnYTrvchdK2k9Jw.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=M0hub0ZScitPSDh5L01IMG1TVGZORHgyTy9yR0xVTzhvYlluckU3RlRTbnAzci9uY2tBKzFNL1M1SFpjbGxIR0FXdW4zTHVpekJQVHo1bE5NZXBYS3c9PTo6UUUMh0j8sKUrK4j6fODDEg--&t=3be4d3f098a8da78f521afe939a92f1c&op=MTY0MTA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=dEdYRmJNeXJuMjNuekdNZlBFU0xqNlRKZFZqTG9ZZzRmOWhhdkNmZ3JCN2lsSTJZTE9HQ0U2ZHpwSGIyelNlbTMvQm0ya2NIVEJkUm9BckFWVVVLK1E9PTo6TfKbX43x.x1h_DgnI.sYDA--&t=3be4d3f098a8da78f521afe939a92f1c",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/t8i67nk4h6gu",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-v76n7ncxm5aa.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-2cnhhebqj3cp.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "El regreso del héroe",
+                    "portada": "/bTBM9nmrXCUOJpp0fpFIfVuWqYg.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=UFVudzc0Yk9laEdIdGpMOVNGdlBlbmhEbkZKR3hLOTEvd0dBWEtseFNQVEdpdzVDTnNPbi8wd2NjbW9lVXVmL08yb2Z4UFcxVFJ3M3F1czVlcnZETXc9PTo6D9Vg52bw8eDXGJQdXVCcMw--&t=960c30fa8429c4bedee945d0896d2351&op=MTY0MjY=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=aG10d3hRb1hCY0NQRkgyck43WmZzQ0dTQjNOSEZCQkp0akRWQ0owUnRIV05ySXd0Zk1xYjI1Y1JCVHJlWkl6SHlaVTk4WHZyb0lMRmp2K0JtV0QxcEE9PTo6VJprexseudyXWfB4GrH.ng--&t=960c30fa8429c4bedee945d0896d2351",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/p1h99nneher4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-829oy3tht30v.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-kklac74nfajr.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "Es sólo ese tipo de momento en un día libre",
+                    "portada": "/spwxpROjwH8cBQpMjKTFNIdUpGP.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=TmowTHlGUXAxb0s0VVE5MVZELytTcjB0M2JnbkVNSUIxMFVhRVkwN3hTeW9US0FPTjhicjJ1QzNZdmJvdW9LT1gwT2FITnM3TzkzNWl5L05jZ21TL2c9PTo6kVh38eMIJeJur612Al76_Q--&t=40e1ada2c00e13a09e88143934e76efa&op=MTY1MTg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=OTR4Z1FtSDZWWHRiUXZIcXVJT1NiVndRbWgrVUpCYWV4OEx2KzNCUitLM2FhcmU1R2pQcjhqNjlDRXRGYUlmNXNnWXZSMGZ3eFZkTGtsa1ZsWTZwWHc9PTo63dobuSP3tRLZxeKezD9vxA--&t=40e1ada2c00e13a09e88143934e76efa",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/6s07rtgd0d54",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-rykzarnwrvj0.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-th4j0fat47co.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Velocidad supersónica! Sleipnir!",
+                    "portada": "/goFdGxa71zgPbnCV9Z5aRPjDMfK.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=b2pxMjNCb2RNMWo1YURNUjZwb2Rub1lhSDNPY2pIV0EyR2VudVFxODJTclYwQnFYR2IwMFVBVzZPRW5YaVRUVWFnNXdSNi9wQjl4K0haWktlZkoxcWc9PTo6PZuG4G2NMSprpXoJiR82yQ--&t=eb51bae453607697419719dfa9f33e36&op=MTY1NDI=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=cEtNRjBLNDd5ODJQTmFhejBjS3JRUjVpcWQyTnpnY3MyYUM1N3BLd2VoQkdOc1o3V1gvSW15QjZ2ekFDTGxzTFQzUUdUMy90THFHdFhVRTB2VmJ5OEE9PTo60kM2_oItVlEE5fcTCMff2A--&t=eb51bae453607697419719dfa9f33e36",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/zaacaa0udgmo",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-hh893wxn38y8.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-fbvxemxlsitw.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "Pánico en la playa!",
+                    "portada": "/pNkXgIdfE2V2CAztu83tEmiYCQz.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=YTIyczByWUVRRExzOWpYRTc4d2tRbjhTUG5jRCtIaVpHYkZYWmlZdm5BNDQ0c1lqbzhPYzljUWNkeVpBa1V0TDNWS28rTjFlU1BLcnlyUjFSOWdUQ2c9PTo6xL6usrewJeeh3lCJSrVi4w--&t=05b0f710bc289f9c061e6d052ee60de7&op=MTY1NzU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=UkRZdjFlZFVYTVpkMTFKa2M2ZWhWUytZcWgxbXVWWVpnU2xVdk1sV0ZzV05xcm9CSzlXUUVFZnpRaHUzK0Z5VWpWNURQRnlRSlVsMU9ObGh4UXg2NXc9PTo6QaHgIZL53J4FVmQ.0WBtMQ--&t=05b0f710bc289f9c061e6d052ee60de7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/7dkd8nzm849t",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-hoco7682qgmr.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-5maele2lbzks.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "Torneo de Babel, comienza",
+                    "portada": "/tH1ZxwX7CCckSOQFVjlFwDFLW3H.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=bkcrMks1UHFvNHJraGEvdmoxeGxBcTlvT3YyWDlXd0c1MDM2MmtGeXdMcmxGRmtRbk9tV3QzUzgyVURybkFpNmxtalBrQjJqNlJtWi9lTUFWOHo1MEE9PTo6Mm6HPC4wy3EcXDOt85hJLA--&t=ef05e93f3eb69985c3dcc58b11aac369&op=MTY2OTI=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=MU00ZGNYZHV3MlZsZ3RhWkYrZGhZOU5Pc04rU3kwRmhYRnp0VlJjRDFDMlNBNFNSKy9LRUpDR0Z1U0RscEVlNnBmQ3JaNXhoTVB0SHlRcHRhdS9ZZ1E9PTo6qDttbYJM7L15ROjDeJS1BA--&t=ef05e93f3eb69985c3dcc58b11aac369",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/ntiaa7ai6nf2",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-1lqsj6qxg1ta.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-ofnbr4qh65p6.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E09",
+                    "episode_number": 9,
+                    "nombre": "En una noche iluminada por una luna hermosa",
+                    "portada": "/uKyZEd81XGzqXsJJotrreWjnGDB.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=d3ZtOU9RMXVDLzc0VGNzT3R6ZzhEeFZrSkZ6cUtxYm1HR21XRmdoWDZ2RTd5bDdGQ0JWcEVtK3lBT0daSVJNOVpQOGVrazhKZTJ2N1d4Zk5nUjRvRWc9PTo6C7BfRyGVn9wqJLDYv9atnw--&t=2d261a6e0cf7a273f9d1ddbb31799a9c&op=MTY5MzE=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=L2p6V3k3bmdXeUc0MjBJUGdQOXhtaVVVbU5HbHNNeTlEODdzMmEyZVBRM2V5aDFPYjRHM1JmVnR0eU85ZTVLNG1pYVVIRG1iY09kK0ZCVFdZeTVreWc9PTo6CyoApMIH.08Z9IkanhwMYA--&t=2d261a6e0cf7a273f9d1ddbb31799a9c",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/p2fmc7di77z0",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-5s67vx6vreh0.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-q8ijh7ccgdtn.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E10",
+                    "episode_number": 10,
+                    "nombre": "A donde pertenezco",
+                    "portada": "/kQZt9ob46zpfMwmuu1BDNMLBUrV.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=NkgzS1dQQ01oM0tnM2RXZnNyc05TQ0NZQTBnaTBQSVBSZEs1RE5NTEkzSmVqRzcvMlhla0I0b09GVkJTU0U3aE9HbXFCOGVTbi9FSm43RDkzNitDOGc9PTo6PcW7FF_eg5eWy1O4EzLwVg--&t=5d7ada35204d7dd09cf8990cd0a2df2e&op=MTcwNjQ=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=RkpiRWhyY1NxVFNkUlVDYTZxZWQrU1ZZa2ZxcEtycy9RTDNyNkR1ei9FcWRnS0VvVzRITEVPNmliMUQwVVY0UVR5Q0I1eW42TW1yRElTV01lSHdJb0E9PTo6TKJUvgrpojSsQkhtkH4u7g--&t=5d7ada35204d7dd09cf8990cd0a2df2e",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/lcow8shsyjc3",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-yoy55no6fdd8.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-lsotxj0luida.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E11",
+                    "episode_number": 11,
+                    "nombre": "Después del amanecer",
+                    "portada": "/34NHe9mk5Q9btzEni6bynzYnf8b.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=OXplRGFwVWY2N0lrWmFRSUk1VWFKWmRVYmw4dUloZjBSK3BMNkNNMGdwemZCaFltOElzVU1UQkNFaE9Rb09yS1Z0WkszZjFvekN2VWhJZG9ZMTl0SVE9PTo6iIhSVjvzV4a1HkDJsjCgSw--&t=f7c0dc716cd86f8d162c366d370baf14&op=MTcxOTk=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=RWRybE1aaFNyWTJFakNZeE9XV1VYWFZIWG92T0JEVmt4cE8yV2FQOVl5ZmNUZzkwWnlaVVdwM3FjZ3JEK0ZoNlpUeVphMUdiTEZkdURTM1VURWZsZWc9PTo6JiEJB__JucHdZyl5Tzzf0A--&t=f7c0dc716cd86f8d162c366d370baf14",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/si4uh4aru8so",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-2h1iiwgelj4r.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-0gri4y7wt3m8.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-0iyszovt43ex.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E12",
+                    "episode_number": 12,
+                    "nombre": "El mundo te está mirando",
+                    "portada": "/jS1CdzzbkgFlbYri9TsGxdavE9v.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=RXlzbGtiYWtBNk94eTd0SFR1cUJ2enVzTnpETnZZUzYrRTBJNTBxb2pHdG5Nb0lxZC92a3BtM0R2TXlLRzJRSnRpZGFlK2RkN0V6WFBwMzk5UzNVMWc9PTo6LhXuKySYfoSHQ.M_vAzlCg--&t=ab43c4e87d82d0c6b0f9b02654aaf23c&op=MTcyNjU=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=ZDhBWHcrSkU0RFV6OGpaclVONnY1bVM0aDE3TUpuQXhCSEdTS29PUFpZL2hrZWN5S2ZWN1crdTRCR3AxRUp0Z3NzczcvWitNdldBTjdTYmRXRkEwcWc9PTo6n5yRXj2eX9Gb_xKEBLeN4w--&t=ab43c4e87d82d0c6b0f9b02654aaf23c",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/04jfzp0hzvli",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-lzd0xvv4emwz.html",
+                            "type": "streaming",
+                            "language": "Castellano",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-lxb3n72hd6nx.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                }
+            ],
+            "nombre": "Temporada 1"
+        }
+    ],
+    "added_date": "2026-11-13 02:21:16",
+    "created_at": "2026-11-13 02:21:16",
+    "updated_at": "2026-11-13 02:21:16",
+    "update_states": "No actualizado"
+}
