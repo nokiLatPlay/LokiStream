@@ -1,0 +1,174 @@
+{
+    "id": "1794552648674",
+    "tmdb_id": "9349",
+    "titulo": "Soldado universal",
+    "original_name": "Universal Soldier",
+    "imagen": "/f0Z5q8HMksgmNkAtNEaY7h7c1lx.jpg",
+    "backdrop_path": "/505LZxTJd2o7BqpispO427M9bPI.jpg",
+    "type": "movie",
+    "year": "1992",
+    "etiquetas": [
+        "Suspense",
+        "Acción",
+        "Ciencia ficción"
+    ],
+    "calidad": [],
+    "rate": 6.29999999999999982236431605997495353221893310546875,
+    "sinopsis": "Siguiendo un programa altamente secreto, el ejército está trabajando con cadáveres a los que transforma en soldados invencibles. Una pareja de reporteros se aproxima a la base en la que se realiza el experimento y toma fotografías del lugar.",
+    "cast": [
+        {
+            "name": "Jean-Claude Van Damme",
+            "character": "Luc Deveraux / GR44",
+            "profile_path": "/7DP3bm3MS0qa0L8tBLHGebbCu6H.jpg"
+        },
+        {
+            "name": "Dolph Lundgren",
+            "character": "Andrew Scott / GR13",
+            "profile_path": "/fB1tOws6Gav0xE8LYlELEb82hJt.jpg"
+        },
+        {
+            "name": "Ally Walker",
+            "character": "Veronica Roberts",
+            "profile_path": "/kuR6HUF1D0Xk5o5nShgWDBMV2gx.jpg"
+        },
+        {
+            "name": "Ed O'Ross",
+            "character": "Colonel Perry",
+            "profile_path": "/6hzovUAs5hFcrZvPdk84NR3KcHU.jpg"
+        },
+        {
+            "name": "Ralf Moeller",
+            "character": "GR76",
+            "profile_path": "/lfx7pAL0einahCePvn10SmMCfoU.jpg"
+        },
+        {
+            "name": "Jerry Orbach",
+            "character": "Dr. Christopher Gregor",
+            "profile_path": "/C0n4GfMUoesutHPbquKw9JANtW.jpg"
+        },
+        {
+            "name": "Leon Rippy",
+            "character": "Woodward",
+            "profile_path": "/jJfrzZ5BlJoWyU8JHbdnPxyGGf8.jpg"
+        },
+        {
+            "name": "Tico Wells",
+            "character": "Garth",
+            "profile_path": "/y5cUCmTgNC0CvDGuvRyDGlXR6v7.jpg"
+        },
+        {
+            "name": "Robert Trebor",
+            "character": "Motel Owner",
+            "profile_path": "/2oUhMyFu5HcYFR4Paq7ifqfId3z.jpg"
+        },
+        {
+            "name": "Tommy Lister Jr.",
+            "character": "GR55",
+            "profile_path": "/kHrfRLYyLhwfJEHHH8VNK9SyxpO.jpg"
+        },
+        {
+            "name": "Simon Rhee",
+            "character": "GR61",
+            "profile_path": "/ffic6wucnGrVdq884RguSQCCXeW.jpg"
+        },
+        {
+            "name": "Rance Howard",
+            "character": "John Devreux",
+            "profile_path": "/rYejoZAvgvy0jyRu9fMH9PBKOWM.jpg"
+        },
+        {
+            "name": "Lilyan Chauvin",
+            "character": "Mrs. John Devreux",
+            "profile_path": "/XUGyxAQHL52cteFsdDD7sMr0HU.jpg"
+        },
+        {
+            "name": "Thomas Rosales Jr.",
+            "character": "Wagner",
+            "profile_path": "/tlJzLctGc6UmB7JQrkFcdMEuRx3.jpg"
+        },
+        {
+            "name": "Ned Bellamy",
+            "character": "FBI Agent",
+            "profile_path": "/9qj6thu0g6iUc2hvfoEYlO4GSbY.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 102,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/dw4dg8ss5ffx",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/src2m19nfe3t",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/v/eta9442efdkb",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Vidara",
+            "url": "https://vidara.to/e/o2vmeWNHPEk7R",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/i0i3f6u9jqrw",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/ahas14netg86",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/e0ugbjfg9y5t",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/e3jcxk1bb8f4",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/v/5m57jautjkka",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Vidara",
+            "url": "https://vidara.to/e/peyQFcgohp0Rv",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-13 01:50:48",
+    "created_at": "2026-11-13 01:50:48",
+    "updated_at": "2026-11-13 01:50:48",
+    "update_states": "No actualizado"
+}
