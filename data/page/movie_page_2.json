@@ -1,5 +1,26 @@
 [
     {
+        "id": "1794552759415",
+        "tmdb_id": "812225",
+        "titulo": "Black Clover: La espada del rey mago",
+        "imagen": "/jm2BckEhy1upr4iPpOZ6WTx1tWw.jpg",
+        "type": "movie",
+        "year": "2023",
+        "etiquetas": [
+            "Animación",
+            "Fantasía",
+            "Acción",
+            "Aventura"
+        ],
+        "rate": 8.0999999999999996447286321199499070644378662109375,
+        "added_date": "2026-11-13 01:52:39",
+        "created_at": "2026-11-13 01:52:39",
+        "updated_at": "2026-11-13 01:52:40",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1794552731192",
         "tmdb_id": "357390",
         "titulo": "Ajin: Demi-Human - Compel",
