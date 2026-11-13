@@ -1,0 +1,897 @@
+{
+    "id": "1794554176951",
+    "tmdb_id": "36089",
+    "titulo": "伝説の勇者の伝説",
+    "original_name": "伝説の勇者の伝説",
+    "imagen": "/lPprgRBG1hwrgC8YzhhrTSU00FO.jpg",
+    "backdrop_path": "/1qxFtePUVvX0dMMzBEMGhB2Oc7u.jpg",
+    "type": "anime",
+    "year": "2010",
+    "etiquetas": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+    ],
+    "temporadas_count": 1,
+    "episodios": 24,
+    "status": "Ended",
+    "rate": 8,
+    "sinopsis": "",
+    "cast": [
+        {
+            "name": "Saki Fujita",
+            "character": "Milk Callaud (voice)",
+            "profile_path": "/pTHZZTerlaIHXOJkIzodMr1cfH0.jpg"
+        },
+        {
+            "name": "Miyuki Sawashiro",
+            "character": "Calne Kaiwal (voice)",
+            "profile_path": "/11mGqwpmu8CoEy1YJgabj2g7MIv.jpg"
+        },
+        {
+            "name": "Anri Katsu",
+            "character": "Lir Orla (voice)",
+            "profile_path": "/fXfYqB9QT5sBw0ooAvUSy4uccfD.jpg"
+        },
+        {
+            "name": "Satoshi Hino",
+            "character": "Luke Stokkart (voice)",
+            "profile_path": "/8ZJIiwIVF2zDyyFr7oXewj0eEuu.jpg"
+        },
+        {
+            "name": "Atsushi Imaruoka",
+            "character": "Claugh Klom (voice)",
+            "profile_path": "/wh1k6kZlFCwFG00993HWMmDYJVK.jpg"
+        },
+        {
+            "name": "Ayahi Takagaki",
+            "character": "Ferris Eris (voice)",
+            "profile_path": "/lvROZLr3kQHuD5hJsaEkclns9tc.jpg"
+        },
+        {
+            "name": "Jun Fukuyama",
+            "character": "Ryner Lute (voice)",
+            "profile_path": "/eT9eloyIaIkTvTqMmpcsAleP2hM.jpg"
+        },
+        {
+            "name": "Mikako Takahashi",
+            "character": "Noa Ehn (voice)",
+            "profile_path": "/5Cnw3N4vrr1HSrBYx6DHJiJifc4.jpg"
+        },
+        {
+            "name": "Takuma Terashima",
+            "character": "Sui Orla (voice)",
+            "profile_path": "/n5uCihb318AzQCT9gieMlI2ueYL.jpg"
+        },
+        {
+            "name": "Miyu Irino",
+            "character": "Fiole Folkal (voice)",
+            "profile_path": "/8qEEhHUObNvGQr4e6eqLu5z4qTz.jpg"
+        },
+        {
+            "name": "Mariya Ise",
+            "character": "Kuu Orla (voice)",
+            "profile_path": "/uMHWTKGolzzjXCiv20F0n8h2Pqu.jpg"
+        },
+        {
+            "name": "小田久史",
+            "character": "Lach Velariore (voice)",
+            "profile_path": "/6KZamqwlgirNXVXG2vHcqRxdawj.jpg"
+        },
+        {
+            "name": "村田知沙",
+            "character": "Iris Eris (voice)",
+            "profile_path": "/2R3zb5lo3VLitJQkZS7kIowGjiu.jpg"
+        },
+        {
+            "name": "Tomokazu Sugita",
+            "character": "Lucile Eris (voice)",
+            "profile_path": "/cv5zuPZySNsHXu24pjKLYCRzJ2J.jpg"
+        },
+        {
+            "name": "Daisuke Ono",
+            "character": "Sion Astal (voice)",
+            "profile_path": "/5rjl28lx84JjRS0hzq3Ajvx2dhp.jpg"
+        }
+    ],
+    "first_air_date": "2010-06-26",
+    "last_air_date": "2010-12-17",
+    "container_download": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "/vauIjapyb5btFTr7quI3nAZ5ECr.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "/55n2tHgADbEXeHszGZLh6YYECm1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=eUhpSWdTazVyN1lmZzlOcVNYNEJmTUVNMmpEM2FxY1EwaWFOaDRjelZoYldWeURVeUNtN2U1aEZOKy94NXR5TWEwQUphWUhrYlJidCtWamdlTHZWZnc9PTo6xSrCF1C2Mx771oGF827SBw--&t=a7282c84a4c2109c3697b6aca8b86aba&op=MjcxMjk=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=T0QrangrS2lGVWZmYVBCZHljUmRFWGh0N0NqZEpIOEt1MDRoZCtLTWl3YmdiRGFzOWZzNkhiUXp4QldGbzVMSnVYNzc4TXU0RTgvQmpqWFBFZWFFb3c9PTo6sLEV6HQT0mbm50zXrq4p2w--&t=a7282c84a4c2109c3697b6aca8b86aba",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/nnp9ga3d32e6",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-f809rqy8ax38.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/B2rehjeoh7e0",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "/srIyBwUL9Un5YxbMA8Qka0XSsBO.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=VTdDNjAxYW1mVGtHQlVzTmpiME5pMkJyMDNnVC9hY1IrWDVmaDI0dW81QytBZFdZUVlMb0NsZytONUhReStiQWY3ZTNXbGVDa3ZaamV3VkhSOW9CWlE9PTo6iDRRt5wo9EyYSh57iNI22g--&t=64998e5967db4db4bf25df2128c87c10&op=MjcxMzA=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=SGpTQ1hETlo4ZFJlZTJONklLM3RLMGtRZTFrbnJmMTZKc0tia3JNSndHUVRMOE9iSHBmQitLdzBudC9HRTdwK0Y1WG1ia2JIQ0dLdTQycXVpS3hMdUE9PTo6NURivwXCMRQ9dGid_EZJnQ--&t=64998e5967db4db4bf25df2128c87c10",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/o9tfa38uu69a",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/ij5d2crmrkb3",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-3mxwje7jzjwh.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/FH114a1880wx",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "/gDF4IkxaG6prTTRGCg44Bg88J9p.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=dDIxOVMxZXlyNE1qZEM1L1k0R1FvNFRYd2dKR09JcDhNTDk3SVdzQ3BKT0kwbFdodDNVQmNnbEhnTGs4RzZ6dmF6dUlqMXk1ZW5US0NyMDRKSDM5Unc9PTo6pJfuSR9rEIUsblOABU7vqA--&t=6a7c8b3c6b0ecb1b72233e98c09793f4&op=MjcxMzE=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=d1U3WkdTMGhOZXlTRlQ2QXlSMUNlVE5Fa25EakU5Q09nY3k5bHJ6QzFjckJxUnVlZmd1ay8yZFg3ZXh5QXpHSGRmMWd0SXdFWlozTERoZEpkQW4vOWc9PTo6TeiJjRcJWVrL0jtlJeKb5g--&t=6a7c8b3c6b0ecb1b72233e98c09793f4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/1vqk6mvq9t2n",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-waiynxc36yq5.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/2vB8CauGIRNR",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "/hgOMgxo9zXUOTIoZxr1XdLNpEa3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=VkFaMlYrWUtaanFndW9zeHNHSWU3WkZJTzZFWStyZVRMalozcUx3V2NGTHlSZEJvTmd2TDcrMlBlVE5pbi82OFVmbXRYWTBHbDJVYVY2WkJLUmJMakE9PTo6ft7epF4dRjfUdj9EoM.FyA--&t=73847751ae607f99a9bbed87f731338c&op=MjcxMzI=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=NHg4TzR0Q1ByNDlRZFBVTHFhM2NhZmdrS3JCSXFhZktiRlVacHhadzdjdkNTYzE4RjNXcnZQYit4TkZPTkdGSUJhTXZKVE4vUVZLMW1idURtczdwaEE9PTo6FXD5O_rE4j.ONxs13DyWXw--&t=73847751ae607f99a9bbed87f731338c",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/bw3d76rq9z8m",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/1e890pdf63o4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-wypkwadiaxz4.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/24k1X8BxBbfc",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "/faWcGjVO3D7OAIVnhAoxNOF6vUQ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/kwsqu8kbk1ke",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-ardq2kixtv0t.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/3X7Xw8rDTEmW",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Episodio 6",
+                    "portada": "/fNz9G8hZfoB2ETTB1CNPHpmHpVz.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/dlok7obr52r3",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-flkeuv2nydg6.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/03lpJbK4N0L4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "Episodio 7",
+                    "portada": "/y73MlfTj01NBU6T6Ru26Fck2cut.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/67zfpr6f8yyo",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-43l10ty2szex.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/86PQNTUoihdc",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "Episodio 8",
+                    "portada": "/sfOFsaeTTqj8rQ2SyKhP0Y3xgFU.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-vvxf3ogvux97.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/c7CDsdu8kx62",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E09",
+                    "episode_number": 9,
+                    "nombre": "Episodio 9",
+                    "portada": "/5PBDCTFTNEVu2HXOAjmmG4fdZ4s.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/krzj8tnoc2wk",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-279vyy8g83kv.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/LBgujD4p7daK",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E10",
+                    "episode_number": 10,
+                    "nombre": "Episodio 10",
+                    "portada": "/cf0B870yGAJqpO653txc4oaUqWo.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/wgx3skpucxnx",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-h6om4try68ga.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/30h716Oy45rl",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E11",
+                    "episode_number": 11,
+                    "nombre": "Episodio 11",
+                    "portada": "/uIHuOoHTYGXj7ZOcM7o4uM1NAZR.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/8njzwmc7ykt1",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-la674q5eds2p.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/la0b2261VPe8",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E12",
+                    "episode_number": 12,
+                    "nombre": "Episodio 12",
+                    "portada": "/ptht4ttaRYset7ZxZGmQLa3zhMs.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/qn2ghw42qqjr",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-gfmpv2p7b2v6.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/pP8R1KR6lrmA",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E13",
+                    "episode_number": 13,
+                    "nombre": "Episodio 13",
+                    "portada": "/zKf5cnesCbKlnCsfcQbFo8FgAIH.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/lgyhqb662pu7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-t3947esv6f23.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/d0hTYPPjBLR5",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E14",
+                    "episode_number": 14,
+                    "nombre": "Episodio 14",
+                    "portada": "/t63n2L02XMXEHvxiL8498Zogf5s.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/959qbp9pispp",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-e4edru3ppuq7.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/fm55IRaE5Ug4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E15",
+                    "episode_number": 15,
+                    "nombre": "Episodio 15",
+                    "portada": "/1zTbI3eVxRyLxTeFqYIjqq70Wag.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/llvxfcqlxltx",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-p1j97tr5qchd.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/vqg8QBURgLg7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E16",
+                    "episode_number": 16,
+                    "nombre": "Episodio 16",
+                    "portada": "/enG0IIf2AbcJu7IZ94k6x3KDzLw.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/c1bwnmi2qaoz",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-bv3ysrw90lgq.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/fi4go283UV1Q",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E17",
+                    "episode_number": 17,
+                    "nombre": "Episodio 17",
+                    "portada": "/9xzLQ8VdhpjwqJLSejaBaNf4Ddq.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/fqj61pwc8eow",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-bdp2wfew5lyk.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/8oWHJ3hk1GF0",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E18",
+                    "episode_number": 18,
+                    "nombre": "Episodio 18",
+                    "portada": "/t0LyUFDtSJf1my41IfiKpT3vXrj.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/a6waq87wndx0",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-xjm2xt49zo0r.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/XLfu36CL3xcw",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E19",
+                    "episode_number": 19,
+                    "nombre": "Episodio 19",
+                    "portada": "/3fGai6bV4cqH8WOD5UOHp3reE0i.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/znworm1l15r3",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-ea1okbggllkp.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/TeQO5HaXu203",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E20",
+                    "episode_number": 20,
+                    "nombre": "Episodio 20",
+                    "portada": "/vLNeCFv7EZUcr6RfaCKtp9IZD1V.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/j2tsnng4ui2j",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-ul1ezh2v7cga.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/5I4mchTKj3Bt",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E21",
+                    "episode_number": 21,
+                    "nombre": "Episodio 21",
+                    "portada": "/juUZJstAtac2tnxtxtE00cNoA3r.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/4647o2vb2zo2",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-qiy080tm6yf5.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/8w6A57rO0G7n",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E22",
+                    "episode_number": 22,
+                    "nombre": "Episodio 22",
+                    "portada": "/6tcYwzcQly7Yv4m9CVTy9Ne782j.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/0mdar04rtobv",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-0wwfivrghbmy.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/Nj51nsXD2Y0G",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E23",
+                    "episode_number": 23,
+                    "nombre": "Episodio 23",
+                    "portada": "/zqBIbydkVZcfAp9LAGMv6nwAf6N.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/vrk6j4hcqlwj",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-a66xwn7entrs.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/snLQa2wdBCx0",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E24",
+                    "episode_number": 24,
+                    "nombre": "Episodio 24",
+                    "portada": "/zgrLSQkPMWLTtpeug659vmlWSDq.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/egxoq8s3pg9g",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-rode4z17pbub.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/VGLrC2Nf2bLB",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                }
+            ],
+            "nombre": "Temporada 1"
+        }
+    ],
+    "added_date": "2026-11-13 02:16:16",
+    "created_at": "2026-11-13 02:16:16",
+    "updated_at": "2026-11-13 02:16:16",
+    "update_states": "No actualizado"
+}
