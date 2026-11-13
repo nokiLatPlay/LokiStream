@@ -1,5 +1,27 @@
 [
     {
+        "id": "1794554476893",
+        "tmdb_id": "62171",
+        "titulo": "Hagure Yuusha no Estetica",
+        "imagen": "/9liqeO3WE6g0tqyXJbsyEGbnkgv.jpg",
+        "type": "anime",
+        "year": "2012",
+        "etiquetas": [
+            "Animación",
+            "Action & Adventure",
+            "Sci-Fi & Fantasy",
+            "Comedia"
+        ],
+        "rate": 6.9000000000000003552713678800500929355621337890625,
+        "added_date": "2026-11-13 02:21:16",
+        "created_at": "2026-11-13 02:21:16",
+        "updated_at": "2026-11-13 02:21:18",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 12,
+        "status": "Ended"
+    },
+    {
         "id": "1794554448623",
         "tmdb_id": "46184",
         "titulo": "Campione!",
