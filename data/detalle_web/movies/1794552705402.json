@@ -1,0 +1,139 @@
+{
+    "id": "1794552705402",
+    "tmdb_id": "106747",
+    "titulo": "Machete Kills",
+    "original_name": "Machete Kills",
+    "imagen": "/uAl0YzUf2NHm7PqjsilmeCDbQNb.jpg",
+    "backdrop_path": "/8xmIvGTLusGm5bqKaZr2E9QRoCa.jpg",
+    "type": "movie",
+    "year": "2013",
+    "etiquetas": [
+        "Acción",
+        "Crimen",
+        "Suspense"
+    ],
+    "calidad": [],
+    "rate": 5.5999999999999996447286321199499070644378662109375,
+    "sinopsis": "Tras ser contratado por el presidente de Estados Unidos (Charlie Sheen), Machete (Dany Trejo) se embarca en una peligrosa misión: acabar con el líder de un cartel y un traficante de armas multimillonario y excéntrico llamado Luther Voz (Mel Gibson), quien ha ideado un plan para llevar el caos y la destrucción a todo el planeta con una potente arma espacial.",
+    "cast": [
+        {
+            "name": "Danny Trejo",
+            "character": "Machete",
+            "profile_path": "/7JrUkRGBscZ1Hy5JinaaXjjzSCF.jpg"
+        },
+        {
+            "name": "Mel Gibson",
+            "character": "Voz",
+            "profile_path": "/jnqHMaOslt8cef2atSmOpGRvNla.jpg"
+        },
+        {
+            "name": "Demián Bichir",
+            "character": "Mendez",
+            "profile_path": "/pnp0AGmWu9yaT8HSyYG9VFhYw45.jpg"
+        },
+        {
+            "name": "Amber Heard",
+            "character": "Miss San Antonio",
+            "profile_path": "/vnDolRlZWiOLBg1N0hsUTz4OH4C.jpg"
+        },
+        {
+            "name": "Michelle Rodríguez",
+            "character": "Luz",
+            "profile_path": "/wVcbrae4eRqGMFZz8Eh52Dl1biP.jpg"
+        },
+        {
+            "name": "Sofía Vergara",
+            "character": "Desdemona",
+            "profile_path": "/l79eVtn6bSOaiq7R0UGu60foMrK.jpg"
+        },
+        {
+            "name": "Charlie Sheen",
+            "character": "Mr. President",
+            "profile_path": "/48GB5aISoibd9IYXBO40jrSgFRl.jpg"
+        },
+        {
+            "name": "Lady Gaga",
+            "character": "La Camaleón",
+            "profile_path": "/9Y4Pz7AEXhB9qNar2tMsx5EVXML.jpg"
+        },
+        {
+            "name": "Antonio Banderas",
+            "character": "El Camaleón 4",
+            "profile_path": "/lpzfDt22374NPhOXZpUq74e9mfw.jpg"
+        },
+        {
+            "name": "Walton Goggins",
+            "character": "El Camaleón 1",
+            "profile_path": "/5lcVMJbWrNDFiWa1WxK4oR8zwev.jpg"
+        },
+        {
+            "name": "Cuba Gooding Jr.",
+            "character": "El Camaleón 2",
+            "profile_path": "/2JguzbpOXoTGzSmLbWFlulKyyAe.jpg"
+        },
+        {
+            "name": "Vanessa Hudgens",
+            "character": "Cereza",
+            "profile_path": "/lZQPTRoJLgfsARWdpxQid2dDzhr.jpg"
+        },
+        {
+            "name": "Alexa PenaVega",
+            "character": "Killjoy",
+            "profile_path": "/11m8ff0YwS64Z04DJhupNQpwmCZ.jpg"
+        },
+        {
+            "name": "Marko Zaror",
+            "character": "Zaror",
+            "profile_path": "/rQ8XFdLmnfXs5x8FsttdOUrFLWa.jpg"
+        },
+        {
+            "name": "Tom Savini",
+            "character": "Osiris Amanpour",
+            "profile_path": "/zBYnzxzlAIEoanEU00bGYJmRS6k.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 107,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/8x0vkqq79rgd",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/er4l4uka7x8b",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/j0vrizc7e7yj",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/o9duugskqx24",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/zhbubxr6ilft",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-13 01:51:45",
+    "created_at": "2026-11-13 01:51:45",
+    "updated_at": "2026-11-13 01:51:45",
+    "update_states": "No actualizado"
+}
