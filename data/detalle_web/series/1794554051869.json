@@ -1,0 +1,930 @@
+{
+    "id": "1794554051869",
+    "tmdb_id": "43318",
+    "titulo": "Koukaku no Regios",
+    "original_name": "鋼殻のレギオス",
+    "imagen": "/plEeQh43tGHlIeeMvoIXbdtgFrv.jpg",
+    "backdrop_path": "/80ceIROspsra5q30XUpToRAev07.jpg",
+    "type": "anime",
+    "year": "2009",
+    "etiquetas": [
+        "Animación",
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Action & Adventure"
+    ],
+    "temporadas_count": 1,
+    "episodios": 24,
+    "status": "Ended",
+    "rate": 5.9000000000000003552713678800500929355621337890625,
+    "sinopsis": "La historia está ambientada en un futuro dónde las criaturas contaminadas por la polución de un “agente contaminante” han forzado a la humanidad a vivir aislada en ciudades móviles y cerradas llamadas “Regios”. Este agente generó, al mismo tiempo, bestias contaminadas y personas con poderes especiales. En la ciudad de “Czerni”, el joven Reifon Aruseifu, tras la desaparición de su amiga de la infancia, acaba de ingresar en la escuela y se enrola en la “Unidad Especial de Artes Marciales - Pelotón 17º” para explorar el planeta combatiendo a las “Bestias Contaminadas”",
+    "cast": [
+        {
+            "name": "Nobuhiko Okamoto",
+            "character": "Layfon Alseif (voice)",
+            "profile_path": "/7s1K2yQVF5iIWILaOfG7QrMZkXA.jpg"
+        },
+        {
+            "name": "Ayahi Takagaki",
+            "character": "Nina Antalk (voice)",
+            "profile_path": "/lvROZLr3kQHuD5hJsaEkclns9tc.jpg"
+        },
+        {
+            "name": "Mai Nakahara",
+            "character": "Felli Loss (voice)",
+            "profile_path": "/s8DBmM540SRlRzUplaapMaDo8vV.jpg"
+        },
+        {
+            "name": "Kisho Taniyama",
+            "character": "Sharnid Elipton (voice)",
+            "profile_path": "/9lOnUF6C6xEhZ0FQmYNzNZhcUpd.jpg"
+        },
+        {
+            "name": "Takehito Koyasu",
+            "character": "Karian Loss (voice)",
+            "profile_path": "/8uBkNDKPNmp9JWgMUI02NVyfhi1.jpg"
+        },
+        {
+            "name": "Daisuke Sakaguchi",
+            "character": "Harley Sutton (voice)",
+            "profile_path": "/cP9lnoYSCyIpSlUkZN4k6RoD7fF.jpg"
+        }
+    ],
+    "first_air_date": "2009-01-11",
+    "last_air_date": "2009-06-21",
+    "container_download": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "/7iOFH1qZtixv1HMvUgL8V3mj4RH.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "/2SdxFhjeARLg0hByBQf2ay72JdK.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=OVZ1ejNJcGtOU0x0dUROYnhmblc3NTQ1YVBQM1V4TnovSlkrNkFtMWd3TkJBbFhSUVBnQ2dJd2dyVG1pMVZqWlJhVFF4SEhvYXNid0t2a0dlTEZwNkE9PTo6SVrpRT.eOygR5zNP2M2IdQ--&t=f47d0ad31c4c49061b9e505593e3db98&op=OTA0",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=NXdZUTVpV3liTVFWRlZRL1dhN01iR3JtcXkvZ2RsVVpnTmFnQi9LQmFjZHhuTElxd0c1cGtNK09QeVBoRE5PRnc0Nm9CUENFekpUM2NSVmZ0bG9TY1E9PTo6YZZfacmFzCeBbcIC1xIRfw--&t=f47d0ad31c4c49061b9e505593e3db98",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/d0tkprwd1yi8",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/tk4OUdwsaBwO",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "/v3A6pf38Y4zMYY9yuMgZfBfrule.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=YUJZQXNOMHdGMWRrYXVZemQ1N2tYcjJwNUh0YTBob0hNTGNDbjdiTzRmQWVKY3VWdXVVUFR6UXZMdTR6RFpyUU5YQjg1MjdpOGxTTlplK0htZGcrSVE9PTo61gWela9pgBYbP1EFRhRYwQ--&t=f57a2f557b098c43f11ab969efe1504b&op=OTA1",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=ZWszWUZLVlNabFBDQ1dydWdpQUlUb3B2aklaK29qakh0M1NjTVhOeXdXdCtRYlAvYjdXRVBDVmtKNUVONE9McXNNZGlLeHRXYXJHVHBkNlhIY2ZXYXc9PTo6VJopMKrvXKfuKYHAY81wQQ--&t=f57a2f557b098c43f11ab969efe1504b",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/m5c9ided9qz9",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/7XMP77PuX7S6",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "/wglFPWcacozoZOOUiPrweE1RhD3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=eVNZekRjTlBtanhjbjBuZldzUUh5aUt0ajJocFh0L3hkNzZlRDNBWDFFWjcyMFZQS21Kd0FBUEpRUVZTejZFWjlMWlR4ODdRbHllNExmbDdOODhmcVE9PTo6mGqU3e1hs4AmjmFxB78tjA--&t=c8fbbc86abe8bd6a5eb6a3b4d0411301&op=OTA2",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=UXFQMmhvb1J3RC9LanlQUU1OdkxxUk5JUEh0blU5YnE2bzZ0dFh1LytSSUg0NlI4U3NIVXdXUmZzL2ZOTlhheHBFK1VkcHVDTFRQTXMvSlZyaGROY3c9PTo6e6.gsV8QHf2CPK.IpYWoEQ--&t=c8fbbc86abe8bd6a5eb6a3b4d0411301",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/ocvfpxh163dj",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/7BIuo5Q2756w",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "/l9KMT1cmXpdsygT402roawARhEe.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=SUxBVUJidWJHc1JHZ0F2MGNNc0xrMTFNbXMxbzhnTXVFOWN5ZjdQeDUyUzgzTFJ5VnhoTjlhWlNsZzFVQUt2dDR2QXRtcHpoYTB6RkZjM2dvVVVmWkE9PTo6awJFa5j6y.M.oRw7yFgYtQ--&t=621461af90cadfdaf0e8d4cc25129f91&op=OTA3",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=UGMxbnlTbmFjZGl1a2ZNR2VrY0laTm5saWtWSGZyZ1hpOTVwTnZOc3RXSlZGeitvdEx3c1JqVFdFL296UGpiLzlWMTE3ZEM4WnlTM0duNEEwMFl3b3c9PTo6lvqRg2e2MTpSflDrJ_lm7w--&t=621461af90cadfdaf0e8d4cc25129f91",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/8msv9us3ih3v",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/jePU34Pc7E0r",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "/zq0LJd59UfuULnIQL3KHT0gXD7g.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=OWpPVEJIQ1ZyZE4zbU9GS3BrVS8wclR3U0xkM3dCZjhuT21acVA1UStYNmtkYlNEU21TT3dUeEcxM21nelZvRExtMFR1T0JjU0lSemFLQ0dUdU9SMmc9PTo6Hp7CLlCshUje.9spU.pZxQ--&t=8b6dd7db9af49e67306feb59a8bdc52c&op=OTA4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=MEFJOEZGWWJER0duQnJ6NWxDbVc5ZkM4THd2RFdZdmRFU3h0SnZHOG5rVHVZWEVOd1J1SHZZWlY1eEVDd2Fra2JEcXZIMTduaXpORExjc3prMEVXbnc9PTo6FK5ZfXIdDTadzXTAwf9lCg--&t=8b6dd7db9af49e67306feb59a8bdc52c",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/6z65r3gyhph5",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/rf4K7a87T2aH",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-uks89rq1ju3u.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Episodio 6",
+                    "portada": "/qfRdMURly5KwSWrXPc1R7UeSbP0.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=V1JvOXJQRXBYYzNKVzgvRHJBL20xNjhJR3RBbVdYSW9sMjJ4ZnZTNW9GQUtuL05sM09wdHdzREcvUDdIcWdIcUdERDcvUVRwZlpuYStlYzZIUldtaGc9PTo6iMdomG4P5drTp4yuJ6Km3A--&t=a4300b002bcfb71f291dac175d52df94&op=OTA5",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=Z1U1N2JiZWNsODRXenZ1YTNvQ3NBc2dZd1FCUUtVUTl5TmJ1d0svcG5kanUvTlBWakhJUmN4ajE3aFJ4M2hwcExnbVQ4ZFNhM1NXNXZjdXpPSDZoZHc9PTo6OjfPEzCX6gkM2ddl.R3QrQ--&t=a4300b002bcfb71f291dac175d52df94",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/u0qczrv6lpuq",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/B3mLl3M8MD1k",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "Episodio 7",
+                    "portada": "/fftotUPqMQbNBTgMM3B1tq72Qc3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=bkNLbnp4TUk2alBOd3oramlTemJ2ZmMxOUFWSWVKYTdvcTNUOTE5SS80WE1wVDlMeG5oc3dNS1VqRlp4QzFZNWJ4TDF6NTM5L3NKelBCcHZpeE5zblE9PTo6hwPTrIr4CJ3QYohfkNZQNg--&t=e205ee2a5de471a70c1fd1b46033a75f&op=OTEw",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=SW5GQTRKYzA4cSsxV2x2RHppcEJ1czd1VzNBNmtwTG9aVnpRRU05MHdnWTNqczZiVWxJc1RYZU5HSXpzcVl1T25WeDM4QzlwVjMxQVBHSlBsTlJuNWc9PTo6WtpZXlvCbAlDN88bRMeahg--&t=e205ee2a5de471a70c1fd1b46033a75f",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/3qKm4x4740B8",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "Episodio 8",
+                    "portada": "/d7UBmYxvgXiYBiPClrozb32ChrP.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=NTNnMGZOWjQ5ZDFZOVl5VTNhVU9ZWndTZFJBRG5ZUlM4RGlxV2FZNEdKenc5S1ZXc0FHc1hJbkx4M1d3MUpxRzFDcVlKRmFWZ2hCMVFvQWdJSnpTVWc9PTo6iqwjfBEWp7XzaTez0vSPBQ--&t=b56a18e0eacdf51aa2a5306b0f533204&op=OTEx",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=UnM3L2pMNXVDaXV3aGQrcjN1cXluTzdUSWRNQmV5b2hqSzdRdVMzaGtQSU1oR2pDemFxRlVwdlExWVhCcWl3aEI3MTRtL3BsR29ua2RleHRDUWFySVE9PTo6PS6XQeNWn9bZ2HSgaBKAKA--&t=b56a18e0eacdf51aa2a5306b0f533204",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/we2uty0vwlh4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/O7Bybn1quItY",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E09",
+                    "episode_number": 9,
+                    "nombre": "Episodio 9",
+                    "portada": "/uhnJGc2hJk8RjoFxMwxMpny2ne9.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=d2FWVkF6RVZvdFk3dzdBWFA0OUlkV0laZStBZW5lMHNhOEhmalBpSEVJNUZjWEJtMkY5NGFvYUZJYkoyeldDQlFZZTJ3MCtzUktySU91Z0U2clVvdUE9PTo6w7WR3ZTbFpjbSJGBQX6JtA--&t=2a9d121cd9c3a1832bb6d2cc6bd7a8a7&op=OTEy",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=NDZNVnNnSFlPUVVjUDg4UFBrOW1FS21BYzdtbjBpbWNDWjBoQlFuZFUwZmRpMHE4cjM3emttekw0ZjhzTUxWM3ZDaGtnTEMzbXdZUTBtelpGOU9iaXc9PTo6rBC4WscSur1h0Hz.9jwCbQ--&t=2a9d121cd9c3a1832bb6d2cc6bd7a8a7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/ixg1z44sjl43",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/06y1c78B6cNY",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E10",
+                    "episode_number": 10,
+                    "nombre": "Episodio 10",
+                    "portada": "/sfQYWrj0rRhTrEwoaos1NtsIq9K.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=RjI0SjQ2MWxiUXpEMEVablFYSThyelpVdWNBQzFRcU5SWXVPWjc5ZTlPR0Y4NGdGNDhIV1pBSS9pdWRNTG80VXlMR0t0aFFqMjZCTU1OL3NkVCtkV0E9PTo6AFwzpDSBKwoOWqeQiK_x3w--&t=8b5040a8a5baf3e0e67386c2e3a9b903&op=OTEz",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=WXVXUDZleUlrNlIycjJwMk0xbnpNdW0rODdGT0prNDA1SXJDYkNVQ3VycVpHd1lNUC84SXNiQUZONjMraVN0VTN3OGFvbnVmTHdVNmdla1hnS0NYQVE9PTo6N4qCkDSc78pQNiR5uP3HGQ--&t=8b5040a8a5baf3e0e67386c2e3a9b903",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/n5xf7s0h0tyn",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/2H88SEfibCb4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E11",
+                    "episode_number": 11,
+                    "nombre": "Episodio 11",
+                    "portada": "/ygaceiaOGJkYRHHoWgVzhNUYKFt.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=L1lFUHhyVUxvVG1ZVVowQnBSaWZWMzJtaWlmUEZmWUowajFrY2R1MG1IY1FzdTNUUkpJeWRzYmRrOS9YcW5peXdvTm1sdkdGZ21MeE5iRmwxaXVOemc9PTo6tjbcp0aoIetIdefjfqwDTQ--&t=7634ea65a4e6d9041cfd3f7de18e334a&op=OTE0",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=eUhsRXV2NmNKRlVOMDhZRm5mS0tqellRY1krbmk4QS9aV0JrYzA3ZUFJRFdKcFRpTllldDJ4S0kzS1ptNXhhNFR0Mm5EcklLbkxhQlJrdGZHVFhOY1E9PTo65UG56DHmPoauiCmjG2rT_Q--&t=7634ea65a4e6d9041cfd3f7de18e334a",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/gblvx4a56z66",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/yRO8aSy8GxKA",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E12",
+                    "episode_number": 12,
+                    "nombre": "Episodio 12",
+                    "portada": "/yEv1UzrzkkiosnQJJcQeQwQiqup.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=RVBQSWRzQWZyOFF0bXlFOE1lNHU5OW8vcEo1Qko1YW1SS2E0Y0daSmphNmpqRkVVTzg1eTVTTno3bTk2UzJ1MHlmT2p6MngrWTVxdTdFaXZhNzdzV3c9PTo6jGWJkzl0ga9PrwuQ6focEA--&t=24896ee4c6526356cc127852413ea3b4&op=OTE1",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=LzlSV04yempMdnNLcTNMK2c5OGdnV2NqM0U0YVNLMTVaSmRTeXo1OGlpUmZrMHdOKzlWRDdkVnl1akxuL2FjcVpFYVJGTld5Z2tCSmk2YjNvdDB0Snc9PTo6TTW1MoHTe7d2GZYcFizegg--&t=24896ee4c6526356cc127852413ea3b4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/gicmm1wwh62m",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-d1zz6k4s0pwv.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/B3apJ5Jreyse",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E13",
+                    "episode_number": 13,
+                    "nombre": "Episodio 13",
+                    "portada": "/ynvtfTpQFQZGur8s9BuGlVdp3EM.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=N2xuaGlTbHRmZWlwYmFwVjlMYllZL1I2czZ2RFZqVWxCSDNDZEdybEFjdHBTT3VTQk5sMW5obDVkT2NnUVhUcU9jVHBseWozczZMMm9ONlB2S0xmNlE9PTo64pxhe7Z5MNqIRqcOtJV84g--&t=23ce1851341ec1fa9e0c259de10bf87c&op=OTE2",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=NXVjcnpRV2hwK3hTMVFJQlE4cDZ3TEdWOEdiL3lxak8vdUFvK3hYOHMrM3QvM1hzWmRqMENJQk5NQ1RCZURRUXY4c1pwbEhla3pYRU96Z0JBSHJyVEE9PTo68zNTmw3yw3RZGX8zp.9Wqw--&t=23ce1851341ec1fa9e0c259de10bf87c",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/92eyjjomve52",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/QVQX8310OoQ5",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E14",
+                    "episode_number": 14,
+                    "nombre": "Episodio 14",
+                    "portada": "/71N1B4Heicn16rAKBpuqhkZY0PG.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=WDZtbHNmZ0h0Ri9vdEZmOFpFeU91V21GbUg4UysyQjQwLzlGbjNIbmFRYXk5cGsrVUZsZ1lLb2daQ0h4ZWdoYWpUUm5HQXp6a3BqOTZkeDBacWwva1E9PTo6YKbY98vErK_kQ4c5pXgIbg--&t=da0d1111d2dc5d489242e60ebcbaf988&op=OTE3",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=M3AzTUhwMGs1aFdZKzk1dGJWckZzWVlvdm5SNE1JSTlvK3pIbzFyMFlrNkRla2IvRGpNRHJGVmQ4WWFiQTZOVnc0akc5WDE1OGRKNkpHU3F5TWRRL0E9PTo6sbqkZGJFkFk7IDlZ5J9X5Q--&t=da0d1111d2dc5d489242e60ebcbaf988",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/O6Y0bkJ70ePK",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E15",
+                    "episode_number": 15,
+                    "nombre": "Episodio 15",
+                    "portada": "/d2CgLGINAPlt4reljgktqHwHq4F.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=ZHUvVUVDa21uNlo1Nm1LUkdkNzgzNVRlWjRjaDhJcTFRWWdQMGNMQnAyYXBCME1lL1oyelRQTCtBdXlMN2xocU9wWThZY0JIYkp0TUlvdlNGUTF2Wmc9PTo6ynNlkYvUszj08hOtlBiCLg--&t=1e056d2b0ebd5c878c550da6ac5d3724&op=OTE4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=MndvR1pTVU9DYW5oa0N5cE5iU2JRdVZvVTVyaVBDRlhvckdqZnBQWXJnSFVHNU5ldCt6VDZVZFo5V2cybzRBU2UvME03S0x4YmFtYm5adXRJWG4yWUE9PTo6ZSIMgb0W2a3O0YAYp19rsA--&t=1e056d2b0ebd5c878c550da6ac5d3724",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/g24x2w0eslz6",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/roBPT5oIaET3",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E16",
+                    "episode_number": 16,
+                    "nombre": "Episodio 16",
+                    "portada": "/smhmR60smT7F8dcAJWK6CqjlJDw.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=NEJUZUVSRVE2OVlIM3F0TTgyMjQxdldRWGRkRllmZXBkeGRJWlpQaEs1RXBQcjRWQWhYS1dzMkV3MDZkOSsrZFpRQUJsYUh4TVY3N2d2Q0VIb25rS3c9PTo6RFFcfEP4xgibbwodBN0txw--&t=3e89ebdb49f712c7d90d1b39e348bbbf&op=OTE5",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=a3NmcitsNlJWcXlUblROUDJ3TGtWVFVldi9yTXJOR2gxV3pYQys5amIvZ0RsUnZKdEk5VWxuMk96cnd1U0dBTGFPRnRIckcyN01HR1lkMVF5Y0wvd2c9PTo6yFeGTyVcb6f8qywZ3TAY9A--&t=3e89ebdb49f712c7d90d1b39e348bbbf",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/op2fpua6g1uf",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/n4uF81pYXc42",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E17",
+                    "episode_number": 17,
+                    "nombre": "Episodio 17",
+                    "portada": "/xWKHq0agGkavToIAavSKo5BeZgm.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=RnIyblFLb0NBRDRaOHBWbjh4eGhodTBWbGN4TWJRN0ZHYmpSLzNpcHh1N3dhNWNVQjVKMzdIeW1PMEI5U0JtM0tmRGdvTE9TRnhOTUYrREF3RjV1T1E9PTo6p22Iww_BfSIk3hXJV5r6Qw--&t=6d0f846348a856321729a2f36734d1a7&op=OTIw",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=R1ZXcnFWZHhDWmQwdkVWQmQ3OVZEaEhzTWxoZjZXaHE4akVNclo5Yzc4bmpLV0tzWisvU1RSRngrYyt5ODJSTDdLMmNQaWY4dXhPTVpTNWNaTkh4a2c9PTo6zJcSqhXMau_jB2Aezcz33g--&t=6d0f846348a856321729a2f36734d1a7",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/n6kQ21oaokp3",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E18",
+                    "episode_number": 18,
+                    "nombre": "Episodio 18",
+                    "portada": "/r1IbHSAGlk64awaBrlPaXdDCKYc.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=Y0tHWFduNFRLWHNOVmc3OWh4UlJjQWgvNXZuMDFkQU5zOFhIbVViRGNTVENva1ovZTNJQmpHK2FpRktrbXltTlBqdDBRYUFWQ2RkMlh0OVhtQk1zK1E9PTo6kibMYkn.qT9RZWUYBHNdSA--&t=430c3626b879b4005d41b8a46172e0c0&op=OTIx",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=azZTOUJaSDBUWGszL0RIWmFMMU5reFpONU9RUDRubDcxZFh3S1NUNmNmSEVqNGRvOTlKWXVlbmxmSE5rY3g0Z0xBMldVMUtUM2poMTN4R2JSUnlRcXc9PTo6H1zICKa5jxgjitZKhlGQrw--&t=430c3626b879b4005d41b8a46172e0c0",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/8nIO3uNH2u2y",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E19",
+                    "episode_number": 19,
+                    "nombre": "Episodio 19",
+                    "portada": "/zX738ZkqVllF4kPEWgOsDyRg5re.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=KytBZS9RdUVFY3NBSmtCRUJLd0dMaXBiRjB1VGFYUE9GdlJJc1laVFNrY1NlOEdvcUpoMjFYZEVIKzV4M2ZESWNraGtSMk5sVkUzdFM5UFpRaVl2enc9PTo6MyMpLAdtkdqdNGKII9RbgA--&t=ccc0aa1b81bf81e16c676ddb977c5881&op=OTIy",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=alRFMlNIYWZwcmxLL0kyMGh4Wld3ejlvNk9qYmQ4N0ZPalBrYjNBcnQrRkpNV0FQNWRNNDlqTHpBT0p2R25RUFlIdDFDdDVCVWVVV0tzVmhtb0xJVkE9PTo6DbJvC6uhCsV0yml947frrA--&t=ccc0aa1b81bf81e16c676ddb977c5881",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/onc6lsX732vF",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E20",
+                    "episode_number": 20,
+                    "nombre": "Episodio 20",
+                    "portada": "/xTQktjzLRD24kIrPnf6kSEyuhjv.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=MW42Ui9EMG1uS3NRZjZGblpkMFBkbVYvUXVPa1NMTnI2R3NmZDYyK3NCK2RDV1kwbld5bGJhcW5WWlp4ZDRmMHJZbWVyK2tnN3ZCYnVtZTN3ZnBaeHc9PTo6GOe6NzVtGuG_21qgk8eXFA--&t=c4015b7f368e6b4871809f49debe0579&op=OTIz",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=aldVSXdrQmhzS3JrdlpLOUs4dmNkSytnQ2JPazZZR0VoYzlHcjZhT3VuYU03VFcwSC9lck1RYkNGSmRFRko3TURhTWFWTUFFRnhoTko4RHdHUm5tb0E9PTo6DSArXN8M5UMedP8OD86DLw--&t=c4015b7f368e6b4871809f49debe0579",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/2zallpkiin7k",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://www.mp4upload.com/embed-gzhofpqmrlwd.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/h44r0816O3N6",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E21",
+                    "episode_number": 21,
+                    "nombre": "Episodio 21",
+                    "portada": "/wfvUMGB9PG8LiFT7STgZhfzztkZ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=dEQwK1g3a2lMQ1NMeXlENW1HM05qb3g0VUM4VnpQZDA0Tm43dEY0TlNxSlE5WjZmVDZVQnEybzB5Y2lJTm8wV2ErUlFaTzNkS0lRcVRHVFltbmVyVFE9PTo6.0LqhEAJTylMfRu.H9JQrw--&t=bea5955b308361a1b07bc55042e25e54&op=OTI0",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=ZjVpS1JnZXhjb1NlVWpUVkVveGw3YkM0dzlyNmt0TFVkaVp6bnhWZHZTWGN5bmZYVVd6V2FjeFNLMFV5a3JZdUhvN2VvWnYzOEpHbzVlTHZLM2xWcnc9PTo60wlWt5dukGrf2sv2HvOIBA--&t=bea5955b308361a1b07bc55042e25e54",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/VI7hlw6q6Vsb",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E22",
+                    "episode_number": 22,
+                    "nombre": "Episodio 22",
+                    "portada": "/6tlzxiE8kPvoyfO1vcQLTSW8lnI.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=ZkJrUkRjbmF6N1duOHMwa3lKTHR4ZUVLbjR4a2lNVGxoK0lhQUcxZGx0QkVHTGIwQ1dmUlRRc3BTejUvU1JxWE9rbzBER1paVGdrV2R2TW5JRFIrTmc9PTo6r1KFeXaqyIVhSYykyXeeKQ--&t=7fa732b517cbed14a48843d74526c11a&op=OTI1",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=K2NJQjJ1dS9nM0x3RWQ3d2Z1SjBmaDNoaURqaGFNMk55Wm5KdWpKV2VCQTFrRUxBNWFYT1N4S3dON1hVb2RoRFRmcDlkbzQxT1dVcjJGbTFPZGNZTUE9PTo6s8rcg_5xajW10dCsX5duXQ--&t=7fa732b517cbed14a48843d74526c11a",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/fyalib3m2tmr",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/Yy85aNP75rvy",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E23",
+                    "episode_number": 23,
+                    "nombre": "Episodio 23",
+                    "portada": "/oF3HqVay6U2KA8Lcy8JR45hK0vi.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=OGRBSFdzQ0ZGejUxTEdZMVE4MEVJbTlQY1BGL3diMnBIQVBJYzhaSDgwdnQxUkFJLzJFU0J5Q0xhN1JiV2lGZ1JFUGMvWnFhWjVRQVdvUzRCRXhOUWc9PTo6I3rko1k2xaiYJqv5_gHvrw--&t=cbb6a3b884f4f88b3a8e3d44c636cbd8&op=OTI2",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=VHBRTHFuUzYwQ0ZwS2w2QW1rbW1KMUdNRmxCellRU2pzbFNYN2lXZUN0bmVqdWpZcWZxZERXTnpZbUVMc0FYU2dzVnJ5bWN5SU9WVng2d0NTSEFuMXc9PTo6YXZW67_8g7qXWIcppNezdQ--&t=cbb6a3b884f4f88b3a8e3d44c636cbd8",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/z05bfd3ko19p",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/D2h3x1G0C4sy",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E24",
+                    "episode_number": 24,
+                    "nombre": "Episodio 24",
+                    "portada": "/8PyL9NGSuUCEZkHbxF9pwTNJDqP.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=bVdNaGFnVGk1b0d1VHFCbGZSMFV4eVRlVTFKc3BLei9CbWJhMUlLVmJvTzYwTGFZMS9GVTVaYU8rdlZabnk1TFVNRVZKY2hlMEY2MzY2TzRoTzY5Z3c9PTo64SOEEKjwGdNGvo7NgKzm0g--&t=1f4477bad7af3616c1f933a02bfabe4e&op=OTI3",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/umv?e=UDAzWTZFZE5Uc1R2NXhnOVdyZGJlQmt5dTZnQjRaTmt4T1dBNjNaUlFCczhxdysyejhRNmFvdlZpZFF4ZHMzc3JPcEg3RThTQitBU0s0UGRkcDBHMHc9PTo6SDmODQutiTVVc0xz6AFY4A--&t=1f4477bad7af3616c1f933a02bfabe4e",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Yourupload",
+                            "url": "https://www.yourupload.com/embed/wQU331B71gV6",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                }
+            ],
+            "nombre": "Temporada 1"
+        }
+    ],
+    "added_date": "2026-11-13 02:14:11",
+    "created_at": "2026-11-13 02:14:11",
+    "updated_at": "2026-11-13 02:14:11",
+    "update_states": "No actualizado"
+}
