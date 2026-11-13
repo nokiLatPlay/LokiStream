@@ -1,5 +1,25 @@
 [
     {
+        "id": "1794552705402",
+        "tmdb_id": "106747",
+        "titulo": "Machete Kills",
+        "imagen": "/uAl0YzUf2NHm7PqjsilmeCDbQNb.jpg",
+        "type": "movie",
+        "year": "2013",
+        "etiquetas": [
+            "Acción",
+            "Crimen",
+            "Suspense"
+        ],
+        "rate": 5.5999999999999996447286321199499070644378662109375,
+        "added_date": "2026-11-13 01:51:45",
+        "created_at": "2026-11-13 01:51:45",
+        "updated_at": "2026-11-13 01:51:47",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1794552675958",
         "tmdb_id": "10222",
         "titulo": "Kickboxer",
