@@ -1,0 +1,147 @@
+{
+    "id": "1794552625460",
+    "tmdb_id": "28510",
+    "titulo": "Soldado universal III. Regeneración",
+    "original_name": "Universal Soldier: Regeneration",
+    "imagen": "/mS6nV0tWZTa8pqCfchomQw3ai42.jpg",
+    "backdrop_path": "/ffRq48IlOKcAMeM7rGpJRPzRsSh.jpg",
+    "type": "movie",
+    "year": "2010",
+    "etiquetas": [
+        "Aventura",
+        "Acción",
+        "Ciencia ficción",
+        "Suspense"
+    ],
+    "calidad": [],
+    "rate": 5.70000000000000017763568394002504646778106689453125,
+    "sinopsis": "Un enloquecido nacionalista Checheno, Basayev, toma control de Chernobyl, lugar de la infame catástrofe nuclear, y amenaza con soltar una nube radiactiva a menos que sus demandas nacionalistas sean cumplidas. Luc Deveraux se une a un equipo estadounidense de UniSols revividos que permanecían guardados en secreto. Su misión: tomar Chernobyl y desactivar los explosivos que desatarían las nubes radiactivas. Luc se sorprende cuando se da cuenta de que uno de los UniSols es un clon de su antiguo Sargento, Andrew Scott. Pero el clonado Andrew no recuerda a Luc. Mientras que el equipo lucha furiosamente en su camino hacia la planta de Chernobyl, son sorprendidos con la guarda bajada. Usando un chip que puede controlar la mente, Basayev vuelve a Andrew contra sus camaradas. Ahora rodeado, herido y en desventaja, Luc debe luchar contra Andrew, y salvar el mundo.",
+    "cast": [
+        {
+            "name": "Jean-Claude Van Damme",
+            "character": "Luc Deveraux",
+            "profile_path": "/7DP3bm3MS0qa0L8tBLHGebbCu6H.jpg"
+        },
+        {
+            "name": "Dolph Lundgren",
+            "character": "Andrew Scott",
+            "profile_path": "/fB1tOws6Gav0xE8LYlELEb82hJt.jpg"
+        },
+        {
+            "name": "Andrei Arlovski",
+            "character": "NGU",
+            "profile_path": "/c0ramfzq8BGpn1IO6zl5HOmjZyE.jpg"
+        },
+        {
+            "name": "Mike Pyle",
+            "character": "Captain Kevin Burke",
+            "profile_path": "/3YQZyI6tocVTwsRuRGprme9tLFZ.jpg"
+        },
+        {
+            "name": "Corey Johnson",
+            "character": "Coby",
+            "profile_path": "/mhNbf4vGzixPL5mTIOBUPguqvpB.jpg"
+        },
+        {
+            "name": "Garry Cooper",
+            "character": "Doctor Porter",
+            "profile_path": "/wCh9z2Gb8ciz4k56h3OvbzKnnhh.jpg"
+        },
+        {
+            "name": "Emily Joyce",
+            "character": "Dr. Sandra Fleming",
+            "profile_path": "/sPpPccNeJlqsAn0dSvgma1rj7U3.jpg"
+        },
+        {
+            "name": "Zahari Baharov",
+            "character": "General Topov",
+            "profile_path": "/50ITqJjim5D2xz74aQnghWHfI2E.jpg"
+        },
+        {
+            "name": "אקי אבני",
+            "character": "General Boris",
+            "profile_path": "/dHH9PEWB72aDnEbYgsqmz23fkDQ.jpg"
+        },
+        {
+            "name": "Kerry Shale",
+            "character": "Dr. Colin",
+            "profile_path": "/7IrOqC44j27MtUGjn3UwB2FRFWK.jpg"
+        },
+        {
+            "name": "Yonko Dimitrov",
+            "character": "Dimitri",
+            "profile_path": ""
+        },
+        {
+            "name": "Violeta Markovska",
+            "character": "Ivana",
+            "profile_path": "/oO6ueXstv5S0cZai9gFSh1w1YcB.jpg"
+        },
+        {
+            "name": "Stanislav Pishtalov",
+            "character": "P.M. Musayev",
+            "profile_path": "/ygZ8aYHyz1LUrvYIVtoKFahzAbx.jpg"
+        },
+        {
+            "name": "Mariana Stansheva",
+            "character": "Olga",
+            "profile_path": "/3fQVzQeRaTbqD777xk5OXtEIOCm.jpg"
+        },
+        {
+            "name": "John Laskowski",
+            "character": "Captain",
+            "profile_path": "/vGPB2hA2d3AXNbYBG18U4pvZg5U.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 97,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/5i0ys4l4ntu4",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/rrnhp7eio0cf",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Callistanise",
+            "url": "https://callistanise.com/v/wd3jd6y98a6j",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Vidara",
+            "url": "https://vidara.to/e/PGFqtOxtsAR93",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/xnd3igmdy6d4",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/7mbgz8ysfsuo",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-13 01:50:25",
+    "created_at": "2026-11-13 01:50:25",
+    "updated_at": "2026-11-13 01:50:25",
+    "update_states": "No actualizado"
+}
