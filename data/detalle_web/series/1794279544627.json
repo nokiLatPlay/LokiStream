@@ -101,7 +101,14 @@
                             "type": "streaming",
                             "language": "Sub",
                             "quality": ""
-                        }
+                        },
+                        {
+                            "nombre": "Vidmoly",
+                            "url": "https://vidmoly.org/embed-65x256tgkjyq.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
                     ],
                     "container_download": []
                 },
