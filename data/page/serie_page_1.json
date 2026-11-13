@@ -1,5 +1,26 @@
 [
     {
+        "id": "1794554515108",
+        "tmdb_id": "288589",
+        "titulo": "Easygoing Territory Defense by the Optimistic Lord",
+        "imagen": "/27sQp8T5zwGICIKmxOn6XkK5UtD.jpg",
+        "type": "anime",
+        "year": "2026",
+        "etiquetas": [
+            "Animación",
+            "Action & Adventure",
+            "Sci-Fi & Fantasy"
+        ],
+        "rate": 7.70000000000000017763568394002504646778106689453125,
+        "added_date": "2026-11-13 02:21:55",
+        "created_at": "2026-11-13 02:21:55",
+        "updated_at": "2026-11-13 02:21:58",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 12,
+        "status": "Ended"
+    },
+    {
         "id": "1794554476893",
         "tmdb_id": "62171",
         "titulo": "Hagure Yuusha no Estetica",
