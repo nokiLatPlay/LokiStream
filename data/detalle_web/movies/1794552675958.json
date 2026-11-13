@@ -1,0 +1,131 @@
+{
+    "id": "1794552675958",
+    "tmdb_id": "10222",
+    "titulo": "Kickboxer",
+    "original_name": "Kickboxer",
+    "imagen": "/tXSD8U5aVdGscQNcyY6C2ANVEuh.jpg",
+    "backdrop_path": "/sl7hpSJR11FlfcewMJ6ihsbbAuJ.jpg",
+    "type": "movie",
+    "year": "1989",
+    "etiquetas": [
+        "Acción",
+        "Suspense"
+    ],
+    "calidad": [],
+    "rate": 6.79999999999999982236431605997495353221893310546875,
+    "sinopsis": "Cuando Tong Po, el sanguinario campeón de Kickboxing, deja paralítico a su hermano, Eric jura vengarse del hombre a quienes todos consideran invencible, aunque le cueste la vida.",
+    "cast": [
+        {
+            "name": "Jean-Claude Van Damme",
+            "character": "Kurt Sloane",
+            "profile_path": "/7DP3bm3MS0qa0L8tBLHGebbCu6H.jpg"
+        },
+        {
+            "name": "Dennis Alexio",
+            "character": "Eric Sloane",
+            "profile_path": ""
+        },
+        {
+            "name": "陳國新",
+            "character": "Xian",
+            "profile_path": "/wW90J7wyACpndFPgwq5TFtyKHaO.jpg"
+        },
+        {
+            "name": "Haskell V. Anderson III",
+            "character": "Winston Taylor",
+            "profile_path": "/eHMkXS54U17AtKmZyth8g6DP2M2.jpg"
+        },
+        {
+            "name": "Rochelle Ashana",
+            "character": "Mylee",
+            "profile_path": "/appwwrNWhcnkUH6E47jHB0Ibgpb.jpg"
+        },
+        {
+            "name": "Michel Qissi",
+            "character": "Tong Po",
+            "profile_path": "/zl64reyhHgnrDFcDWx7lNKaVfmm.jpg"
+        },
+        {
+            "name": "李家鼎",
+            "character": "Freddy Li",
+            "profile_path": "/9YgnU7dd3EOAefdaLOgfc6LIgBn.jpg"
+        },
+        {
+            "name": "金彪",
+            "character": "Tao Liu",
+            "profile_path": "/R19GFiYnN3OIuJEA6kHkcCf5M2.jpg"
+        },
+        {
+            "name": "Ricky Liu",
+            "character": "Big Thai Man",
+            "profile_path": ""
+        },
+        {
+            "name": "冼灝英",
+            "character": "Huge Village Man #1",
+            "profile_path": "/315tjFVzp7pobs2ggepjlXiZH9G.jpg"
+        },
+        {
+            "name": "陳德興",
+            "character": "Huge Village Man #2",
+            "profile_path": ""
+        },
+        {
+            "name": "Brad Kerner",
+            "character": "U.S. Announcer",
+            "profile_path": ""
+        },
+        {
+            "name": "Dean Harrington",
+            "character": "U.S. Announcer",
+            "profile_path": ""
+        },
+        {
+            "name": "Mark DiSalle",
+            "character": "U.S. Reporter",
+            "profile_path": ""
+        },
+        {
+            "name": "Richard Santoro",
+            "character": "U.S. Reporter",
+            "profile_path": ""
+        }
+    ],
+    "status": "Released",
+    "runtime": 103,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/ed1ypue8hbwu",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/nztix6bgg2c1",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/dzixpkquouz3",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/j6qbz7kgrbkf",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-13 01:51:15",
+    "created_at": "2026-11-13 01:51:15",
+    "updated_at": "2026-11-13 01:51:15",
+    "update_states": "No actualizado"
+}
