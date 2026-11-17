@@ -454,6 +454,13 @@
                             "type": "streaming",
                             "language": "Sub",
                             "quality": ""
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https://vidara.to/e/sJyfjVx0nZ4R",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
                         }
                     ]
                 },
@@ -533,7 +540,14 @@
                             "type": "streaming",
                             "language": "Sub",
                             "quality": ""
-                        }
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https://vidara.to/e/wY7Ocd61g0zV",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
                     ]
                 },
                 {
@@ -569,7 +583,14 @@
                             "type": "streaming",
                             "language": "Sub",
                             "quality": ""
-                        }
+                        },
+                        {
+                            "nombre": "Vidara",
+                            "url": "https://vidara.to/e/D2fQU7FFjIyM",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
                     ]
                 }
             ]
