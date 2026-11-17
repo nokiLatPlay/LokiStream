@@ -547,7 +547,7 @@
                             "type": "streaming",
                             "language": "Sub",
                             "quality": ""
-                        },
+                        }
                     ]
                 },
                 {
@@ -590,7 +590,7 @@
                             "type": "streaming",
                             "language": "Sub",
                             "quality": ""
-                        },
+                        }
                     ]
                 }
             ]
