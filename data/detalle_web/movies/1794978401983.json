@@ -1,0 +1,132 @@
+{
+    "id": "1794978401983",
+    "tmdb_id": "254128",
+    "titulo": "San Andrés",
+    "original_name": "San Andreas",
+    "imagen": "/pQaasF8uf1TEeC72KdIP6y1V1xa.jpg",
+    "backdrop_path": "/zcySy6dnSmyqiichtDgO7AEeZoq.jpg",
+    "type": "movie",
+    "year": "2015",
+    "etiquetas": [
+        "Acción",
+        "Drama",
+        "Suspense"
+    ],
+    "calidad": [],
+    "rate": 6.29999999999999982236431605997495353221893310546875,
+    "sinopsis": "La falla de San Andrés acaba cediendo ante las temibles fuerzas telúricas y desencadena un terremoto de magnitud 9 en California. Ante tal catástrofe, el piloto de helicóptero de búsqueda y rescate Ray y su ex esposa Emma viajan juntos desde Los Ángeles hasta San Francisco para salvar a su única hija, Blake. Pero su tortuoso viaje hacia el norte solamente es el comienzo del desomoronamiento de todo lo que creían firme en su vida.",
+    "cast": [
+        {
+            "name": "Dwayne Johnson",
+            "character": "Ray Gaines",
+            "profile_path": "/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg"
+        },
+        {
+            "name": "Alexandra Daddario",
+            "character": "Blake Gaines",
+            "profile_path": "/6qiLUZZYBE4FsrG8irWbb3I7P1n.jpg"
+        },
+        {
+            "name": "Carla Gugino",
+            "character": "Emma Gaines",
+            "profile_path": "/dAqGOsHSzlP6RhaUURX2NrwITaq.jpg"
+        },
+        {
+            "name": "Ioan Gruffudd",
+            "character": "Daniel Riddick",
+            "profile_path": "/h2pg2XwJPcOWotHgiohXjEZUBLa.jpg"
+        },
+        {
+            "name": "Archie Panjabi",
+            "character": "Serena Johnson",
+            "profile_path": "/1kSx9zUPwpTe35TbL7T2BWOp3bp.jpg"
+        },
+        {
+            "name": "Paul Giamatti",
+            "character": "Dr. Lawrence Hayes",
+            "profile_path": "/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg"
+        },
+        {
+            "name": "Hugo Johnstone-Burt",
+            "character": "Ben Taylor",
+            "profile_path": "/gt37OZhM4dwpLaaZ0xpYbWExzef.jpg"
+        },
+        {
+            "name": "Art Parkinson",
+            "character": "Ollie Taylor",
+            "profile_path": "/ejAKOJME1DsvHECLWdQ7dEtXyyc.jpg"
+        },
+        {
+            "name": "Will Yun Lee",
+            "character": "Dr Kim Park",
+            "profile_path": "/zR29E2BHrp6PF7bxD6bVq0nDZXm.jpg"
+        },
+        {
+            "name": "Kylie Minogue",
+            "character": "Susan Riddick",
+            "profile_path": "/sVe6DQ1iFlk4nad0Bd3WVVVj23P.jpg"
+        },
+        {
+            "name": "Colton Haynes",
+            "character": "Joby O'Leary",
+            "profile_path": "/buIJiJHCg84lQD8ZRURXCW5H96I.jpg"
+        },
+        {
+            "name": "Todd Williams",
+            "character": "Marcus",
+            "profile_path": "/uLdgH4w3wT348vdgUE06kSMizlZ.jpg"
+        },
+        {
+            "name": "Matt Gerald",
+            "character": "Harrison",
+            "profile_path": "/six7c3aZpiEomHjj4ZYokq8Vgtx.jpg"
+        },
+        {
+            "name": "Alec Utgoff",
+            "character": "Alexi",
+            "profile_path": "/zYtPKsXbeUg8kR2UqADdgKDfvJ1.jpg"
+        },
+        {
+            "name": "Marissa Neitling",
+            "character": "Phoebe",
+            "profile_path": "/y0Cgv9pvF40j85roTcZ4E6UpYnz.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 114,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/d6cvcho91m24",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/9xcq4mkmjzyi",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/hlq46im2z3z1",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/2crs0n4a24s7",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-18 00:06:41",
+    "created_at": "2026-11-18 00:06:41",
+    "updated_at": "2026-11-18 00:06:41",
+    "update_states": "No actualizado"
+}
