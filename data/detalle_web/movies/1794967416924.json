@@ -1,0 +1,145 @@
+{
+    "id": "1794967416924",
+    "tmdb_id": "268920",
+    "titulo": "¡Pisándonos los tacones!",
+    "original_name": "Hot Pursuit",
+    "imagen": "/uZIzR1bbZcpX23w71RTq72mqNuY.jpg",
+    "backdrop_path": "/iRaWDcGpKCynIXpCewle2YwQffL.jpg",
+    "type": "movie",
+    "year": "2015",
+    "etiquetas": [
+        "Acción",
+        "Comedia"
+    ],
+    "calidad": [],
+    "rate": 5.70000000000000017763568394002504646778106689453125,
+    "sinopsis": "Agente Cooper, una crispada y estricta policía, es tratando de proteger a una sexy y extrovertida viuda, Daniella Riva, de un capo de la droga. A medida que los dos polos opuestos huyen apresuradamente de Texas, se encuentran perseguidas por policías corruptos y sanguinarios pistoleros.",
+    "cast": [
+        {
+            "name": "Reese Witherspoon",
+            "character": "Officer Rose 'Coop' Cooper",
+            "profile_path": "/mfjunuTHrd0wnh8UG1ImMN9FSws.jpg"
+        },
+        {
+            "name": "Sofía Vergara",
+            "character": "Daniella Riva",
+            "profile_path": "/l79eVtn6bSOaiq7R0UGu60foMrK.jpg"
+        },
+        {
+            "name": "John Carroll Lynch",
+            "character": "Captain Emmett",
+            "profile_path": "/cIx1HYFOHmfeAGRDBJwdFK9ZMIM.jpg"
+        },
+        {
+            "name": "Robert Kazinsky",
+            "character": "Randy",
+            "profile_path": "/nYWfalUgOSnc8VLIrFMnBwmI1QG.jpg"
+        },
+        {
+            "name": "Richard T. Jones",
+            "character": "Deputy Marshall Jackson",
+            "profile_path": "/hdko2C45Wr5G03Z8JwGjWMynP84.jpg"
+        },
+        {
+            "name": "Michael Mosley",
+            "character": "Dixon",
+            "profile_path": "/puRHN4OMPBXKiJdW0yyMIN9ju4r.jpg"
+        },
+        {
+            "name": "Matthew Del Negro",
+            "character": "Hauser",
+            "profile_path": "/h3wcgMRunRmeFhFo16BJpKsqQQC.jpg"
+        },
+        {
+            "name": "Benny Nieves",
+            "character": "Jesus",
+            "profile_path": "/iUKMBJaf0nRESwXsWmpYKKzjDwS.jpg"
+        },
+        {
+            "name": "Michael Ray Escamilla",
+            "character": "Angel",
+            "profile_path": "/9txlznp9T8xnwS6701LHVkmAp0c.jpg"
+        },
+        {
+            "name": "Vincent Laresca",
+            "character": "Felipe Riva",
+            "profile_path": "/nO1HrEcjXzot40qDJkTcI4CFqTf.jpg"
+        },
+        {
+            "name": "Joaquín Cosío",
+            "character": "Vicente Cortez",
+            "profile_path": "/ijMo3fMyY4VL1xyIj6ytiJrzaw9.jpg"
+        },
+        {
+            "name": "Jim Gaffigan",
+            "character": "Red",
+            "profile_path": "/dhguhHxIrb26jvPznBt8y25Fb2U.jpg"
+        },
+        {
+            "name": "Mike Birbiglia",
+            "character": "Steve (Running Date)",
+            "profile_path": "/cHMnptX86nuvQfpWox2uhIs0OMl.jpg"
+        },
+        {
+            "name": "David Jensen",
+            "character": "Wayne",
+            "profile_path": "/eMKoRn7Xz7Z7JEfBLkZA5pV2k5t.jpg"
+        },
+        {
+            "name": "Marcus Lyle Brown",
+            "character": "Lou",
+            "profile_path": "/zHsqlROpMRsvtW70bgbkSEqakCd.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 87,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/epjhglhc7kku",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/i5it6svtx895",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/rpazvfg2ki86",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/kf6ps6xd47b1",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/kgom82yzk65q",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/4gi68mf30yi6",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-17 21:03:36",
+    "created_at": "2026-11-17 21:03:36",
+    "updated_at": "2026-11-17 21:03:36",
+    "update_states": "No actualizado"
+}
