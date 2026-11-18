@@ -1,0 +1,132 @@
+{
+    "id": "1794967472660",
+    "tmdb_id": "9425",
+    "titulo": "Soldier",
+    "original_name": "Soldier",
+    "imagen": "/honTRW4mwLRBoq3ZzYtlkpVqIY5.jpg",
+    "backdrop_path": "/rSbzv7n3XWU17wJAILB5NgznUdO.jpg",
+    "type": "movie",
+    "year": "1998",
+    "etiquetas": [
+        "Ciencia ficción",
+        "Acción",
+        "Drama"
+    ],
+    "calidad": [],
+    "rate": 6.4000000000000003552713678800500929355621337890625,
+    "sinopsis": "Todd O-POS 3465 es un soldado del futuro, entrenado para el combate desde que nació. Él y su equipo son los mejores, hasta que el Coronel Mekum decide crear una raza de guerreros perfectos a través de la manipulación genética. Al ser considerado obsoleto, Todd es abandonado en un planeta utilizado como vertedero, en el que habita un grupo de colonos olvidados. Allí, rodeado de gente sencilla, empieza a descubrir los valores de la amistad y el amor. Pero su destino le perseguirá, y tendrá que volver a enfrentarse al Coronel Mekum y sus soldados para defender a esas personas y su estilo de vida.",
+    "cast": [
+        {
+            "name": "Kurt Russell",
+            "character": "Todd 3465",
+            "profile_path": "/6g1d98oH4miG4k0ZiZWmF3Dt0bO.jpg"
+        },
+        {
+            "name": "Jason Scott Lee",
+            "character": "Caine 607",
+            "profile_path": "/7jObZCM3diuPV0WlKkzOd4uE2CJ.jpg"
+        },
+        {
+            "name": "Jason Isaacs",
+            "character": "Colonel Mekum",
+            "profile_path": "/s6XRFjqUsrDJfDQuXPOoExAYPmb.jpg"
+        },
+        {
+            "name": "Connie Nielsen",
+            "character": "Sandra",
+            "profile_path": "/gSQ3O3PJ6ly6nT63joOtfZyscFP.jpg"
+        },
+        {
+            "name": "Sean Pertwee",
+            "character": "Mace",
+            "profile_path": "/j4pAEMhKL5vA61ADrkxxLFtcI4c.jpg"
+        },
+        {
+            "name": "Gary Busey",
+            "character": "Church",
+            "profile_path": "/8H7Hlv6b7ZoK4jZKeLnc2i4pfPL.jpg"
+        },
+        {
+            "name": "Michael Chiklis",
+            "character": "Jimmy Pig",
+            "profile_path": "/pAkKjbzxP6Z6Y5zAGpwmWQo1iji.jpg"
+        },
+        {
+            "name": "Sara Paxton",
+            "character": "Angie",
+            "profile_path": "/DWrjFhjSLY4EFanCMKNPrUmP2p.jpg"
+        },
+        {
+            "name": "K.K. Dodds",
+            "character": "Sloan",
+            "profile_path": "/nGou7wXgXAKr5oJEyUIuX9RCgFl.jpg"
+        },
+        {
+            "name": "James Black",
+            "character": "Riley",
+            "profile_path": "/nC3jHGBYxQTFKZ9tEct7alNeqOz.jpg"
+        },
+        {
+            "name": "Mark De Alessandro",
+            "character": "Goines",
+            "profile_path": "/i8OVPh4axVPhTAso3fPEJ86V0v2.jpg"
+        },
+        {
+            "name": "Владимир Орлов",
+            "character": "Romero",
+            "profile_path": "/nIj93cuhUGMjEZeFgVNVSgaieoo.jpg"
+        },
+        {
+            "name": "Corbin Bleu",
+            "character": "Johnny",
+            "profile_path": "/46szA5sJA9iuWFf4JfO4lECFqeH.jpg"
+        },
+        {
+            "name": "Wyatt Russell",
+            "character": "Todd - Age 11",
+            "profile_path": "/zIldBzXdBWskPZB7x35G2hYEVDo.jpg"
+        },
+        {
+            "name": "Jared Thorne",
+            "character": "Nathan",
+            "profile_path": ""
+        }
+    ],
+    "status": "Released",
+    "runtime": 99,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/ni3u7ls5mthl",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/s8h43exw9dau",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/iw5mn48falme",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/k5guac2axroi",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-17 21:04:32",
+    "created_at": "2026-11-17 21:04:32",
+    "updated_at": "2026-11-17 21:04:32",
+    "update_states": "No actualizado"
+}
