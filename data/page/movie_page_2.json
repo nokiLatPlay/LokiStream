@@ -1,5 +1,25 @@
 [
     {
+        "id": "1794967472660",
+        "tmdb_id": "9425",
+        "titulo": "Soldier",
+        "imagen": "/honTRW4mwLRBoq3ZzYtlkpVqIY5.jpg",
+        "type": "movie",
+        "year": "1998",
+        "etiquetas": [
+            "Ciencia ficción",
+            "Acción",
+            "Drama"
+        ],
+        "rate": 6.4000000000000003552713678800500929355621337890625,
+        "added_date": "2026-11-17 21:04:32",
+        "created_at": "2026-11-17 21:04:32",
+        "updated_at": "2026-11-17 21:04:34",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1794967442116",
         "tmdb_id": "75612",
         "titulo": "Oblivion",
