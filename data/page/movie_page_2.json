@@ -1,5 +1,24 @@
 [
     {
+        "id": "1794967416924",
+        "tmdb_id": "268920",
+        "titulo": "¡Pisándonos los tacones!",
+        "imagen": "/uZIzR1bbZcpX23w71RTq72mqNuY.jpg",
+        "type": "movie",
+        "year": "2015",
+        "etiquetas": [
+            "Acción",
+            "Comedia"
+        ],
+        "rate": 5.70000000000000017763568394002504646778106689453125,
+        "added_date": "2026-11-17 21:03:36",
+        "created_at": "2026-11-17 21:03:36",
+        "updated_at": "2026-11-17 21:03:37",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1794552759415",
         "tmdb_id": "812225",
         "titulo": "Black Clover: La espada del rey mago",
