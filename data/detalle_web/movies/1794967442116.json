@@ -1,0 +1,122 @@
+{
+    "id": "1794967442116",
+    "tmdb_id": "75612",
+    "titulo": "Oblivion",
+    "original_name": "Oblivion",
+    "imagen": "/eO3r38fwnhb58M1YgcjQBd3VNcp.jpg",
+    "backdrop_path": "/2kVt8oj1cSz4GAP0Hi8SESOiH0T.jpg",
+    "type": "movie",
+    "year": "2013",
+    "etiquetas": [
+        "Acción",
+        "Ciencia ficción",
+        "Aventura",
+        "Misterio"
+    ],
+    "calidad": [],
+    "rate": 6.70000000000000017763568394002504646778106689453125,
+    "sinopsis": "Un veterano asignado a extraer los recursos restantes de la Tierra comienza a cuestionar lo que sabe sobre su misión y sobre sí mismo.",
+    "cast": [
+        {
+            "name": "Tom Cruise",
+            "character": "Jack",
+            "profile_path": "/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+        },
+        {
+            "name": "Morgan Freeman",
+            "character": "Beech",
+            "profile_path": "/jPsLqiYGSofU4s6BjrxnefMfabb.jpg"
+        },
+        {
+            "name": "Ольга Куриленко",
+            "character": "Julia",
+            "profile_path": "/ei6eYUhQFw2AaV6U5fyPptBaPF0.jpg"
+        },
+        {
+            "name": "Andrea Riseborough",
+            "character": "Victoria",
+            "profile_path": "/9f975GWIWksWQrSgKaaBQlxBKoh.jpg"
+        },
+        {
+            "name": "Nikolaj Coster-Waldau",
+            "character": "Sykes",
+            "profile_path": "/rpFOERbHkj7GWxkinUNiQ76sSGk.jpg"
+        },
+        {
+            "name": "Melissa Leo",
+            "character": "Sally",
+            "profile_path": "/ueAIX0MH68xCei3N8vFLS0EUEjY.jpg"
+        },
+        {
+            "name": "Zoë Bell",
+            "character": "Kara",
+            "profile_path": "/dax6Sutw8xFGnZCo011eejImdBO.jpg"
+        },
+        {
+            "name": "Abigail Lowe",
+            "character": "Julia's Child",
+            "profile_path": "/7DpHducmiENcLzniKedgsQsucf3.jpg"
+        },
+        {
+            "name": "Isabelle Lowe",
+            "character": "Julia's Child",
+            "profile_path": "/tKrro416EaTzivtU59mx6K7gtZB.jpg"
+        },
+        {
+            "name": "Booch O'Connell",
+            "character": "Tourist (uncredited)",
+            "profile_path": "/umme83YXc3KwnU508aovs5EO716.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 126,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/4qfr9sw4mthv",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/m7bi89i5y22f",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/jc9wp6dq2soh",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/81n8cu0bo9db",
+            "type": "streaming",
+            "language": "Castellano",
+            "quality": ""
+        },
+        {
+            "nombre": "PlayMogo",
+            "url": "https://playmogo.com/e/f81k6hajjnwz",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        },
+        {
+            "nombre": "Hglamioz",
+            "url": "https://hglamioz.com/e/sk0lp1579jcp",
+            "type": "streaming",
+            "language": "Sub",
+            "quality": ""
+        }
+    ],
+    "added_date": "2026-11-17 21:04:02",
+    "created_at": "2026-11-17 21:04:02",
+    "updated_at": "2026-11-17 21:04:02",
+    "update_states": "No actualizado"
+}
