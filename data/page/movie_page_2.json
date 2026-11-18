@@ -1,5 +1,26 @@
 [
     {
+        "id": "1794967442116",
+        "tmdb_id": "75612",
+        "titulo": "Oblivion",
+        "imagen": "/eO3r38fwnhb58M1YgcjQBd3VNcp.jpg",
+        "type": "movie",
+        "year": "2013",
+        "etiquetas": [
+            "Acción",
+            "Ciencia ficción",
+            "Aventura",
+            "Misterio"
+        ],
+        "rate": 6.70000000000000017763568394002504646778106689453125,
+        "added_date": "2026-11-17 21:04:02",
+        "created_at": "2026-11-17 21:04:02",
+        "updated_at": "2026-11-17 21:04:04",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1794967416924",
         "tmdb_id": "268920",
         "titulo": "¡Pisándonos los tacones!",
