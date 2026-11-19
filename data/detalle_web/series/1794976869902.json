@@ -1,535 +1,524 @@
 {
-    "id": "1794976869902",
-    "tmdb_id": "291507",
-    "titulo": "El cuerpo",
-    "original_name": "The Body",
-    "imagen": "/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
-    "backdrop_path": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
-    "type": "serie",
-    "year": "2026",
-    "etiquetas": [
-        "Misterio",
-        "Drama"
-    ],
-    "temporadas_count": 1,
-    "episodios": 8,
-    "status": "Returning Series",
-    "rate": 7.79999999999999982236431605997495353221893310546875,
-    "sinopsis": "La noche de Halloween, un grupo de baile femenino lidia con remordimientos, deseos impuros y visiones fantasmales cuando una novatada sale endemoniadamente mal.",
-    "cast": [
-        {
-            "name": "Kristina Bogic",
-            "character": "Anya Butler",
-            "profile_path": "/j4HZJ6LeGQZOnlgkTMGCdCW4my7.jpg"
-        },
-        {
-            "name": "Geena Meszaros",
-            "character": "Lisbeth Anderson",
-            "profile_path": "/qZXatHV4i91pqG4UIxbscabHZcy.jpg"
-        },
-        {
-            "name": "Sara Boustany",
-            "character": "Elise Zakaria",
-            "profile_path": "/AiWsNgAm1BU5BYiXZrka2dKwDBP.jpg"
-        },
-        {
-            "name": "Nnamdi Asomugha",
-            "character": "Father Franklin",
-            "profile_path": "/2JrUJzVMsHarxr7HcQGlGSgRK0L.jpg"
-        },
-        {
-            "name": "Louisa Krause",
-            "character": "Catherine Anderson",
-            "profile_path": "/47wqiRyAad179Fu4yxmcm9ZGiUf.jpg"
-        },
-        {
-            "name": "Shirley Chen",
-            "character": "Maddie Delaney",
-            "profile_path": "/a3ByGjOWXgPpUHNtwKeS31JUWkF.jpg"
-        },
-        {
-            "name": "Jackson Kelly",
-            "character": "Leo Anderson",
-            "profile_path": "/97Vi3BPbgwesQcmbkp7yiPTZumP.jpg"
-        },
-        {
-            "name": "Sofia Wylie",
-            "character": "Grace Franklin",
-            "profile_path": "/bH7Qo3rRCJ2gLrcYZj9xS50rg5.jpg"
-        }
-    ],
-    "first_air_date": "2026-11-11",
-    "last_air_date": "2026-11-11",
-    "container_download": [],
-    "temporadas": [
-        {
-            "temporada": "Temporada 1",
-            "season_number": 1,
-            "poster_path": "/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
-            "capitulos": [
-                {
-                    "episode_id": "S01E01",
-                    "episode_number": 1,
-                    "nombre": "Dios guarrilla",
-                    "portada": "/ebxSafFMc1YNOWqgOJ9gsFOBbcm.jpg",
-                    "enlaces": [
-                        {
-                            "nombre": "PlayMogo",
-                            "url": "https://playmogo.com/e/mhc95ir1x3z4",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Hglamioz",
-                            "url": "https://hglamioz.com/e/z5i24nfkvhel",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Callistanise",
-                            "url": "https://callistanise.com/v/uu1y2017xhy6",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "PlayMogo",
-                            "url": "https://playmogo.com/e/dviqu233vlii",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Hglamioz",
-                            "url": "https://hglamioz.com/e/ee3ierqvo9cc",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Callistanise",
-                            "url": "https://callistanise.com/v/4u2zhx639ipe",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Vidara",
-                            "url": "https://vidara.to/e/N0nnUAOSa49Bt",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        }
-                    ],
-                    "container_download": []
-                },
-                {
-                    "episode_id": "S01E02",
-                    "episode_number": 2,
-                    "nombre": "Jesús, literalmente",
-                    "portada": "/tVMXmXeWe8Sql7GXBFLGF2oJgOd.jpg",
-                    "enlaces": [
-                        {
-                            "nombre": "PlayMogo",
-                            "url": "https://playmogo.com/e/cfsekr1jihut",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Hglamioz",
-                            "url": "https://hglamioz.com/e/wg7l1h1hwjez",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Callistanise",
-                            "url": "https://callistanise.com/v/rw766a30rm2a",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "PlayMogo",
-                            "url": "https://playmogo.com/e/1usjpu3vo604",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Hglamioz",
-                            "url": "https://hglamioz.com/e/fwmutja8p3bq",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Callistanise",
-                            "url": "https://callistanise.com/v/ntc4nj05fs8e",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        }
-                    ],
-                    "container_download": []
-                },
-                {
-                    "episode_id": "S01E03",
-                    "episode_number": 3,
-                    "nombre": "Pensamientos impíos",
-                    "portada": "/uErwWeelwCAQH8S4Rt9XkWd8yVM.jpg",
-                    "enlaces": [
-                        {
-                            "nombre": "PlayMogo",
-                            "url": "https://playmogo.com/e/ph3l8bcmyiwq",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Hglamioz",
-                            "url": "https://hglamioz.com/e/w0ja0wct7izd",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Callistanise",
-                            "url": "https://callistanise.com/v/l6sp5c2oa845",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "PlayMogo",
-                            "url": "https://playmogo.com/e/wlhr78z6tp1t",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Hglamioz",
-                            "url": "https://hglamioz.com/e/n8jqw6u62vog",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Callistanise",
-                            "url": "https://callistanise.com/v/a2u4d62qpis6",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        }
-                    ],
-                    "container_download": []
-                },
-                {
-                    "episode_id": "S01E04",
-                    "episode_number": 4,
-                    "nombre": "Vi a Grace Franklin con el diablo",
-                    "portada": "/A9nxOOJ8X7fJxMvl7z0x4NLbpkF.jpg",
-                    "enlaces": [
-                        {
-                            "nombre": "PlayMogo",
-                            "url": "https://playmogo.com/e/7v5amwg5ltoh",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Hglamioz",
-                            "url": "https://hglamioz.com/e/m4to87soe73d",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Callistanise",
-                            "url": "https://callistanise.com/v/4271lvyuuw0k",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "PlayMogo",
-                            "url": "https://playmogo.com/e/b3knj38uusb3",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Hglamioz",
-                            "url": "https://hglamioz.com/e/twaj9vk98anz",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Callistanise",
-                            "url": "https://callistanise.com/v/3tfauonsf5xl",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        }
-                    ],
-                    "container_download": []
-                },
-                {
-                    "episode_id": "S01E05",
-                    "episode_number": 5,
-                    "nombre": "Fingimiento",
-                    "portada": "/1Egw4Y75JcnmVu0JOzapnlKbzBq.jpg",
-                    "enlaces": [
-                        {
-                            "nombre": "PlayMogo",
-                            "url": "https://playmogo.com/e/vj9f32sqvomj",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Hglamioz",
-                            "url": "https://hglamioz.com/e/9iashkfjsw8t",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Callistanise",
-                            "url": "https://callistanise.com/v/afokyft3p2lc",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Vidara",
-                            "url": "https://vidara.to/e/DXZszYJMF7ias",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "PlayMogo",
-                            "url": "https://playmogo.com/e/sbz9l6rwy9pu",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Hglamioz",
-                            "url": "https://hglamioz.com/e/u2ug5fka4yip",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Callistanise",
-                            "url": "https://callistanise.com/v/kiim3ndfdxvz",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Vidara",
-                            "url": "https://vidara.to/e/7AwjR90iLe31l",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        }
-                    ],
-                    "container_download": []
-                },
-                {
-                    "episode_id": "S01E06",
-                    "episode_number": 6,
-                    "nombre": "Toda una estrella",
-                    "portada": "/ehujr6CZNWBKNPWpU5XV6o1jaat.jpg",
-                    "enlaces": [
-                        {
-                            "nombre": "PlayMogo",
-                            "url": "https://playmogo.com/e/3wkwit0ojexs",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Hglamioz",
-                            "url": "https://hglamioz.com/e/ckula50969uv",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Callistanise",
-                            "url": "https://callistanise.com/v/ccr1jr7zr288",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Vidara",
-                            "url": "https://vidara.to/e/cvmHGtFWHgTce",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "PlayMogo",
-                            "url": "https://playmogo.com/e/zl5z1cymblax",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Hglamioz",
-                            "url": "https://hglamioz.com/e/fbxpimsxs19h",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Callistanise",
-                            "url": "https://callistanise.com/v/z3bi61ecq7xd",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        }
-                    ],
-                    "container_download": []
-                },
-                {
-                    "episode_id": "S01E07",
-                    "episode_number": 7,
-                    "nombre": "Santísima Trinidad",
-                    "portada": "/5OT2rHZVEZOP0Mqp9nGka27bHv2.jpg",
-                    "enlaces": [
-                        {
-                            "nombre": "PlayMogo",
-                            "url": "https://playmogo.com/e/puvy1ws6zkc3",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Hglamioz",
-                            "url": "https://hglamioz.com/e/fulvfcserith",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Callistanise",
-                            "url": "https://callistanise.com/v/985rwx3ls8s1",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "PlayMogo",
-                            "url": "https://playmogo.com/e/vtpwx9cdr4hc",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Hglamioz",
-                            "url": "https://hglamioz.com/e/y1rtrb0fshgg",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Callistanise",
-                            "url": "https://callistanise.com/v/r39xzondif8e",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Vidara",
-                            "url": "https://vidara.to/e/vcsC465ARhw8J",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        }
-                    ],
-                    "container_download": []
-                },
-                {
-                    "episode_id": "S01E08",
-                    "episode_number": 8,
-                    "nombre": "Revelación",
-                    "portada": "/m3hYU5O0rHuH0vHkxluPPenmeLz.jpg",
-                    "enlaces": [
-                        {
-                            "nombre": "PlayMogo",
-                            "url": "https://playmogo.com/e/gbgic7yyivub",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Hglamioz",
-                            "url": "https://hglamioz.com/e/bxhkuilhdu0w",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Callistanise",
-                            "url": "https://callistanise.com/v/vv9oaalxopxk",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Vidara",
-                            "url": "https://vidara.to/e/Rcfk43zlz05H2",
-                            "type": "streaming",
-                            "language": "Latino",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "PlayMogo",
-                            "url": "https://playmogo.com/e/gob17sr7c9ld",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Hglamioz",
-                            "url": "https://hglamioz.com/e/qes0j1doh4by",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Callistanise",
-                            "url": "https://callistanise.com/v/dkqmjq3ixoud",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        },
-                        {
-                            "nombre": "Vidara",
-                            "url": "https://vidara.to/e/fcsnpDfEsz3Iz",
-                            "type": "streaming",
-                            "language": "Sub",
-                            "quality": ""
-                        }
-                    ],
-                    "container_download": []
-                }
-            ],
-            "nombre": "Temporada 1"
-        }
-    ],
-    "added_date": "2026-11-17 23:41:09",
-    "created_at": "2026-11-17 23:41:09",
-    "updated_at": "2026-11-17 23:41:09",
-    "update_states": "No actualizado"
+  "id": "1794976869902",
+  "tmdb_id": "291507",
+  "titulo": "El cuerpo",
+  "original_name": "The Body",
+  "imagen": "/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
+  "backdrop_path": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
+  "type": "serie",
+  "year": "2026",
+  "etiquetas": [
+    "Misterio",
+    "Drama"
+  ],
+  "temporadas_count": 1,
+  "episodios": 8,
+  "status": "Returning Series",
+  "rate": 7.79999999999999982236431605997495353221893310546875,
+  "sinopsis": "La noche de Halloween, un grupo de baile femenino lidia con remordimientos, deseos impuros y visiones fantasmales cuando una novatada sale endemoniadamente mal.",
+  "cast": [
+  {
+    "name": "Kristina Bogic",
+    "character": "Anya Butler",
+    "profile_path": "/j4HZJ6LeGQZOnlgkTMGCdCW4my7.jpg"
+  },
+  {
+    "name": "Geena Meszaros",
+    "character": "Lisbeth Anderson",
+    "profile_path": "/qZXatHV4i91pqG4UIxbscabHZcy.jpg"
+  },
+  {
+    "name": "Sara Boustany",
+    "character": "Elise Zakaria",
+    "profile_path": "/AiWsNgAm1BU5BYiXZrka2dKwDBP.jpg"
+  },
+  {
+    "name": "Nnamdi Asomugha",
+    "character": "Father Franklin",
+    "profile_path": "/2JrUJzVMsHarxr7HcQGlGSgRK0L.jpg"
+  },
+  {
+    "name": "Louisa Krause",
+    "character": "Catherine Anderson",
+    "profile_path": "/47wqiRyAad179Fu4yxmcm9ZGiUf.jpg"
+  },
+  {
+    "name": "Shirley Chen",
+    "character": "Maddie Delaney",
+    "profile_path": "/a3ByGjOWXgPpUHNtwKeS31JUWkF.jpg"
+  },
+  {
+    "name": "Jackson Kelly",
+    "character": "Leo Anderson",
+    "profile_path": "/97Vi3BPbgwesQcmbkp7yiPTZumP.jpg"
+  },
+  {
+    "name": "Sofia Wylie",
+    "character": "Grace Franklin",
+    "profile_path": "/bH7Qo3rRCJ2gLrcYZj9xS50rg5.jpg"
+  }],
+  "first_air_date": "2026-11-11",
+  "last_air_date": "2026-11-11",
+  "container_download": [],
+  "temporadas": [
+  {
+    "temporada": "Temporada 1",
+    "season_number": 1,
+    "poster_path": "/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
+    "capitulos": [
+    {
+      "episode_id": "S01E01",
+      "episode_number": 1,
+      "nombre": "Dios guarrilla",
+      "portada": "/ebxSafFMc1YNOWqgOJ9gsFOBbcm.jpg",
+      "enlaces": [
+      {
+        "nombre": "PlayMogo",
+        "url": "https://playmogo.com/e/mhc95ir1x3z4",
+        "type": "streaming",
+        "language": "Latino",
+        "quality": ""
+      },
+      {
+        "nombre": "Hglamioz",
+        "url": "https://vsembed.com/xav5b",
+        "type": "streaming",
+        "language": "Latino",
+        "quality": ""
+      },
+      {
+        "nombre": "Callistanise",
+        "url": "https://callistanise.com/v/uu1y2017xhy6",
+        "type": "streaming",
+        "language": "Latino",
+        "quality": ""
+      },
+      {
+        "nombre": "PlayMogo",
+        "url": "https://playmogo.com/e/dviqu233vlii",
+        "type": "streaming",
+        "language": "Sub",
+        "quality": ""
+      },
+      {
+        "nombre": "Vsembed",
+        "url": "https://vsembed.com/jpzvl",
+        "type": "streaming",
+        "language": "Sub",
+        "quality": ""
+      },
+      {
+        "nombre": "Callistanise",
+        "url": "https://callistanise.com/v/4u2zhx639ipe",
+        "type": "streaming",
+        "language": "Sub",
+        "quality": ""
+      },
+      {
+        "nombre": "Vidara",
+        "url": "https://vidara.to/e/N0nnUAOSa49Bt",
+        "type": "streaming",
+        "language": "Sub",
+        "quality": ""
+      }],
+      "container_download": []
+    },
+    {
+      "episode_id": "S01E02",
+      "episode_number": 2,
+      "nombre": "Jesús, literalmente",
+      "portada": "/tVMXmXeWe8Sql7GXBFLGF2oJgOd.jpg",
+      "enlaces": [
+      {
+        "nombre": "PlayMogo",
+        "url": "https://playmogo.com/e/cfsekr1jihut",
+        "type": "streaming",
+        "language": "Latino",
+        "quality": ""
+      },
+      {
+        "nombre": "Hglamioz",
+        "url": "https://vsembed.com/654lv",
+        "type": "streaming",
+        "language": "Latino",
+        "quality": ""
+      },
+      {
+        "nombre": "Callistanise",
+        "url": "https://callistanise.com/v/rw766a30rm2a",
+        "type": "streaming",
+        "language": "Latino",
+        "quality": ""
+      },
+      {
+        "nombre": "PlayMogo",
+        "url": "https://playmogo.com/e/1usjpu3vo604",
+        "type": "streaming",
+        "language": "Sub",
+        "quality": ""
+      },
+      {
+        "nombre": "Hglamioz",
+        "url": "https://vsembed.com/sk9c5",
+        "type": "streaming",
+        "language": "Sub",
+        "quality": ""
+      },
+      {
+        "nombre": "Callistanise",
+        "url": "https://callistanise.com/v/ntc4nj05fs8e",
+        "type": "streaming",
+        "language": "Sub",
+        "quality": ""
+      }],
+      "container_download": []
+    },
+    {
+      "episode_id": "S01E03",
+      "episode_number": 3,
+      "nombre": "Pensamientos impíos",
+      "portada": "/uErwWeelwCAQH8S4Rt9XkWd8yVM.jpg",
+      "enlaces": [
+      {
+        "nombre": "PlayMogo",
+        "url": "https://playmogo.com/e/ph3l8bcmyiwq",
+        "type": "streaming",
+        "language": "Latino",
+        "quality": ""
+      },
+      {
+        "nombre": "Hglamioz",
+        "url": "https://vsembed.com/1eisp",
+        "type": "streaming",
+        "language": "Latino",
+        "quality": ""
+      },
+      {
+        "nombre": "Callistanise",
+        "url": "https://callistanise.com/v/l6sp5c2oa845",
+        "type": "streaming",
+        "language": "Latino",
+        "quality": ""
+      },
+      {
+        "nombre": "PlayMogo",
+        "url": "https://playmogo.com/e/wlhr78z6tp1t",
+        "type": "streaming",
+        "language": "Sub",
+        "quality": ""
+      },
+      {
+        "nombre": "Hglamioz",
+        "url": "https://vsembed.com/eze2f",
+        "type": "streaming",
+        "language": "Sub",
+        "quality": ""
+      },
+      {
+        "nombre": "Callistanise",
+        "url": "https://callistanise.com/v/a2u4d62qpis6",
+        "type": "streaming",
+        "language": "Sub",
+        "quality": ""
+      }],
+      "container_download": []
+    },
+    {
+      "episode_id": "S01E04",
+      "episode_number": 4,
+      "nombre": "Vi a Grace Franklin con el diablo",
+      "portada": "/A9nxOOJ8X7fJxMvl7z0x4NLbpkF.jpg",
+      "enlaces": [
+      {
+        "nombre": "PlayMogo",
+        "url": "https://playmogo.com/e/7v5amwg5ltoh",
+        "type": "streaming",
+        "language": "Latino",
+        "quality": ""
+      },
+      {
+        "nombre": "Hglamioz",
+        "url": "https://vsembed.com/ntniz",
+        "type": "streaming",
+        "language": "Latino",
+        "quality": ""
+      },
+      {
+        "nombre": "Callistanise",
+        "url": "https://callistanise.com/v/4271lvyuuw0k",
+        "type": "streaming",
+        "language": "Latino",
+        "quality": ""
+      },
+      {
+        "nombre": "PlayMogo",
+        "url": "https://playmogo.com/e/b3knj38uusb3",
+        "type": "streaming",
+        "language": "Sub",
+        "quality": ""
+      },
+      {
+        "nombre": "Hglamioz",
+        "url": "https://vsembed.com/a8s99",
+        "type": "streaming",
+        "language": "Sub",
+        "quality": ""
+      },
+      {
+        "nombre": "Callistanise",
+        "url": "https://callistanise.com/v/3tfauonsf5xl",
+        "type": "streaming",
+        "language": "Sub",
+        "quality": ""
+      }],
+      "container_download": []
+    },
+    {
+      "episode_id": "S01E05",
+      "episode_number": 5,
+      "nombre": "Fingimiento",
+      "portada": "/1Egw4Y75JcnmVu0JOzapnlKbzBq.jpg",
+      "enlaces": [
+      {
+        "nombre": "PlayMogo",
+        "url": "https://playmogo.com/e/vj9f32sqvomj",
+        "type": "streaming",
+        "language": "Latino",
+        "quality": ""
+      },
+      {
+        "nombre": "Hglamioz",
+        "url": "https://vsembed.com/wnwzj",
+        "type": "streaming",
+        "language": "Latino",
+        "quality": ""
+      },
+      {
+        "nombre": "Callistanise",
+        "url": "https://callistanise.com/v/afokyft3p2lc",
+        "type": "streaming",
+        "language": "Latino",
+        "quality": ""
+      },
+      {
+        "nombre": "Vidara",
+        "url": "https://vidara.to/e/DXZszYJMF7ias",
+        "type": "streaming",
+        "language": "Latino",
+        "quality": ""
+      },
+      {
+        "nombre": "PlayMogo",
+        "url": "https://playmogo.com/e/sbz9l6rwy9pu",
+        "type": "streaming",
+        "language": "Sub",
+        "quality": ""
+      },
+      {
+        "nombre": "Hglamioz",
+        "url": "https://vsembed.com/j31pt",
+        "type": "streaming",
+        "language": "Sub",
+        "quality": ""
+      },
+      {
+        "nombre": "Callistanise",
+        "url": "https://callistanise.com/v/kiim3ndfdxvz",
+        "type": "streaming",
+        "language": "Sub",
+        "quality": ""
+      },
+      {
+        "nombre": "Vidara",
+        "url": "https://vidara.to/e/7AwjR90iLe31l",
+        "type": "streaming",
+        "language": "Sub",
+        "quality": ""
+      }],
+      "container_download": []
+    },
+    {
+      "episode_id": "S01E06",
+      "episode_number": 6,
+      "nombre": "Toda una estrella",
+      "portada": "/ehujr6CZNWBKNPWpU5XV6o1jaat.jpg",
+      "enlaces": [
+      {
+        "nombre": "PlayMogo",
+        "url": "https://playmogo.com/e/3wkwit0ojexs",
+        "type": "streaming",
+        "language": "Latino",
+        "quality": ""
+      },
+      {
+        "nombre": "Hglamioz",
+        "url": "https://vsembed.com/5i6g3",
+        "type": "streaming",
+        "language": "Latino",
+        "quality": ""
+      },
+      {
+        "nombre": "Callistanise",
+        "url": "https://callistanise.com/v/ccr1jr7zr288",
+        "type": "streaming",
+        "language": "Latino",
+        "quality": ""
+      },
+      {
+        "nombre": "Vidara",
+        "url": "https://vidara.to/e/cvmHGtFWHgTce",
+        "type": "streaming",
+        "language": "Latino",
+        "quality": ""
+      },
+      {
+        "nombre": "PlayMogo",
+        "url": "https://playmogo.com/e/zl5z1cymblax",
+        "type": "streaming",
+        "language": "Sub",
+        "quality": ""
+      },
+      {
+        "nombre": "Hglamioz",
+        "url": "https://vsembed.com/rxb6d",
+        "type": "streaming",
+        "language": "Sub",
+        "quality": ""
+      },
+      {
+        "nombre": "Callistanise",
+        "url": "https://callistanise.com/v/z3bi61ecq7xd",
+        "type": "streaming",
+        "language": "Sub",
+        "quality": ""
+      }],
+      "container_download": []
+    },
+    {
+      "episode_id": "S01E07",
+      "episode_number": 7,
+      "nombre": "Santísima Trinidad",
+      "portada": "/5OT2rHZVEZOP0Mqp9nGka27bHv2.jpg",
+      "enlaces": [
+      {
+        "nombre": "PlayMogo",
+        "url": "https://playmogo.com/e/puvy1ws6zkc3",
+        "type": "streaming",
+        "language": "Latino",
+        "quality": ""
+      },
+      {
+        "nombre": "Hglamioz",
+        "url": "https://vsembed.com/ecfwn",
+        "type": "streaming",
+        "language": "Latino",
+        "quality": ""
+      },
+      {
+        "nombre": "Callistanise",
+        "url": "https://callistanise.com/v/985rwx3ls8s1",
+        "type": "streaming",
+        "language": "Latino",
+        "quality": ""
+      },
+      {
+        "nombre": "PlayMogo",
+        "url": "https://playmogo.com/e/vtpwx9cdr4hc",
+        "type": "streaming",
+        "language": "Sub",
+        "quality": ""
+      },
+      {
+        "nombre": "Hglamioz",
+        "url": "https://vsembed.com/0rkmx",
+        "type": "streaming",
+        "language": "Sub",
+        "quality": ""
+      },
+      {
+        "nombre": "Callistanise",
+        "url": "https://callistanise.com/v/r39xzondif8e",
+        "type": "streaming",
+        "language": "Sub",
+        "quality": ""
+      },
+      {
+        "nombre": "Vidara",
+        "url": "https://vidara.to/e/vcsC465ARhw8J",
+        "type": "streaming",
+        "language": "Sub",
+        "quality": ""
+      }],
+      "container_download": []
+    },
+    {
+      "episode_id": "S01E08",
+      "episode_number": 8,
+      "nombre": "Revelación",
+      "portada": "/m3hYU5O0rHuH0vHkxluPPenmeLz.jpg",
+      "enlaces": [
+      {
+        "nombre": "PlayMogo",
+        "url": "https://playmogo.com/e/gbgic7yyivub",
+        "type": "streaming",
+        "language": "Latino",
+        "quality": ""
+      },
+      {
+        "nombre": "Hglamioz",
+        "url": "https://vsembed.com/n6pd7",
+        "type": "streaming",
+        "language": "Latino",
+        "quality": ""
+      },
+      {
+        "nombre": "Callistanise",
+        "url": "https://callistanise.com/v/vv9oaalxopxk",
+        "type": "streaming",
+        "language": "Latino",
+        "quality": ""
+      },
+      {
+        "nombre": "Vidara",
+        "url": "https://vidara.to/e/Rcfk43zlz05H2",
+        "type": "streaming",
+        "language": "Latino",
+        "quality": ""
+      },
+      {
+        "nombre": "PlayMogo",
+        "url": "https://playmogo.com/e/gob17sr7c9ld",
+        "type": "streaming",
+        "language": "Sub",
+        "quality": ""
+      },
+      {
+        "nombre": "Hglamioz",
+        "url": "https://vsembed.com/9lu3h",
+        "type": "streaming",
+        "language": "Sub",
+        "quality": ""
+      },
+      {
+        "nombre": "Callistanise",
+        "url": "https://callistanise.com/v/dkqmjq3ixoud",
+        "type": "streaming",
+        "language": "Sub",
+        "quality": ""
+      },
+      {
+        "nombre": "Vidara",
+        "url": "https://vidara.to/e/fcsnpDfEsz3Iz",
+        "type": "streaming",
+        "language": "Sub",
+        "quality": ""
+      }],
+      "container_download": []
+    }],
+    "nombre": "Temporada 1"
+  }],
+  "added_date": "2026-11-17 23:41:09",
+  "created_at": "2026-11-17 23:41:09",
+  "updated_at": "2026-11-17 23:41:09",
+  "update_states": "No actualizado"
 }
