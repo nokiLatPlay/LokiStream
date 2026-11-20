@@ -1,0 +1,465 @@
+{
+    "id": "1795137103118",
+    "tmdb_id": "247784",
+    "titulo": "Pulso",
+    "original_name": "PULSE",
+    "imagen": "/eTGKdfL0imf5jNO7MIWCLhaRK5w.jpg",
+    "backdrop_path": "/pfEqosKFlJUvYgrO0XiJAiCzMFy.jpg",
+    "type": "serie",
+    "year": "2025",
+    "etiquetas": [
+        "Drama"
+    ],
+    "temporadas_count": 1,
+    "episodios": 10,
+    "status": "Canceled",
+    "rate": 7.4000000000000003552713678800500929355621337890625,
+    "sinopsis": "Un grupo de residentes de Urgencias lidia con sus problemas laborales y personales en un hospital de Miami sacudido por una polémica acusación.",
+    "cast": [
+        {
+            "name": "Willa Fitzgerald",
+            "character": "Danielle Simms",
+            "profile_path": "/hXvCqRAtmrfjozHtVNrBgXFzzao.jpg"
+        },
+        {
+            "name": "Colin Woodell",
+            "character": "Xander Phillips",
+            "profile_path": "/mh32Sz1K8o7jUNGb4IGO4CRJhkQ.jpg"
+        },
+        {
+            "name": "Jack Bannon",
+            "character": "Tom Cole",
+            "profile_path": "/eGX4dFdQz8bTYQXLasZkILvch8G.jpg"
+        },
+        {
+            "name": "Jessie T. Usher",
+            "character": "Sam Elijah",
+            "profile_path": "/iiu9dkYEkHJPMf7TzbrhhgwRvlt.jpg"
+        },
+        {
+            "name": "Jessy Yates",
+            "character": "Harper Simms",
+            "profile_path": "/cwE9qYmKCcpfRiOgpm91djTKCyH.jpg"
+        },
+        {
+            "name": "Chelsea Muirhead",
+            "character": "Sophie Chan",
+            "profile_path": "/chIRzXrYwkOMmBtyGpqN7JTmJFL.jpg"
+        }
+    ],
+    "first_air_date": "2025-04-03",
+    "last_air_date": "2025-04-03",
+    "container_download": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "/ci8f3EoO8IudftujTMPAKjGTqoe.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Abby",
+                    "portada": "/obtjfXrYY4izoCz3z7cF8mVo7SM.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/0jxvaybasccr",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/xtaeymop4aei",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/b1qfx6vanjqt",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/kjsxmpmibc5h",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/eyy2wp5bf0ci",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-0wi9wxm6p7ni.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Tiempo a solas",
+                    "portada": "/ghmqq3ULXOAKphRdiVV3P3LrKKp.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/tnki5pjtee6z",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/qddz274c45ue",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/zcctwgnigsbk",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-0y1wbiwi5jj5.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Luz",
+                    "portada": "/u1MFzrmF6r3iH7X0wTanFrxxmOM.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/z0usd6rnassf",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/70tofj0f6s5r",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-8ykj333ih3ab.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "Los tratas y a la calle",
+                    "portada": "/lWGKlvGpNxiynVAVCyLM3DECscq.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/l7ay7f95frlh",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/58vmshmbjuvv",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/sa025dh1kmcy",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-yp6ajcfl9mia.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "No es nada personal",
+                    "portada": "/8SnOs6pUnNLZ8SQl94xRSQlQcoz.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/8mem25b5h7uw",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/36u5n4zyydls",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/oipv211obfs3",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-53cab42xfrat.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Homestead",
+                    "portada": "/5xzcxj4zO6OIBuzNamC56eUTTUf.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/snj86lpayw5g",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/ns2dzhg86abd",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/putzn23zei67",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/3ycz7c3fkfyj",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-nptk4qkhpeqc.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "Decisiones",
+                    "portada": "/92sW7O2ss93cvNZooi71G7PI9xm.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/cipeutynu4o2",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/2rvkie57ojpn",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/9eduh6y0x80f",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-mxtnw5yyycfi.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "El retiro",
+                    "portada": "/yPlMqzSVPFYSzpouXw6SsVyf4Rg.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/nat8jijyavij",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/18vwyz3rxxep",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/nek9g84ijswp",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/4vbb15jfl2c0",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-frhvb89ljjoo.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E09",
+                    "episode_number": 9,
+                    "nombre": "El último turno",
+                    "portada": "/uj2Ce7cTxpGt0DMIg5ChlozGwgM.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/yw1exiklbomu",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/jb5ykp25y9t5",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/01xkp2t1hku9",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/xoep1fldddcl",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-5f4hh1sjsv1o.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E10",
+                    "episode_number": 10,
+                    "nombre": "Kennedy",
+                    "portada": "/fqtdvIlnhqwzYr3chlaAh3pG2wT.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/6uzrmp7bdr2t",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/7zcv44ejx737",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/9fjyyqmfyep4",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-l6sqg31l6yc1.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                }
+            ],
+            "nombre": "Temporada 1"
+        }
+    ],
+    "added_date": "2026-11-19 20:11:43",
+    "created_at": "2026-11-19 20:11:43",
+    "updated_at": "2026-11-19 20:11:43",
+    "update_states": "No actualizado"
+}
