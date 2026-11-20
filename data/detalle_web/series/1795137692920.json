@@ -1,0 +1,376 @@
+{
+    "id": "1795137692920",
+    "tmdb_id": "200908",
+    "titulo": "Fuimos los afortunados",
+    "original_name": "We Were the Lucky Ones",
+    "imagen": "/oRuyfNAIfeZ11UYI127YoHfXgAk.jpg",
+    "backdrop_path": "/eKzH2rkPEzPFd8gFH1ds8YzAIx6.jpg",
+    "type": "serie",
+    "year": "2024",
+    "etiquetas": [
+        "Drama"
+    ],
+    "temporadas_count": 1,
+    "episodios": 8,
+    "status": "Ended",
+    "rate": 7.5,
+    "sinopsis": "Una familia judía está decidida a sobrevivir y reunirse después de haber sido separada en la Segunda Guerra Mundial.",
+    "cast": [
+        {
+            "name": "Joey King",
+            "character": "Halina Kurc",
+            "profile_path": "/94c69mPYSK9jFsAEu0OKB7Qs684.jpg"
+        },
+        {
+            "name": "Logan Lerman",
+            "character": "Addy Kurc",
+            "profile_path": "/ckcpgSvSWOhi8mvAfR1Cpsakg3S.jpg"
+        },
+        {
+            "name": "Robin Weigert",
+            "character": "Nechuma Kurc",
+            "profile_path": "/ifGimfhXs7WIyDJMIX8kJtUte88.jpg"
+        },
+        {
+            "name": "ליאור אשכנזי",
+            "character": "Sol Kurc",
+            "profile_path": "/c2IJJuYiqZNHoZVikp6HgCgbGkK.jpg"
+        },
+        {
+            "name": "עמית רהב",
+            "character": "Jakob Kurc",
+            "profile_path": "/uhdyUWg4AQVpxJO96KHewntPhQy.jpg"
+        },
+        {
+            "name": "Eva Feiler",
+            "character": "Bella Tatar",
+            "profile_path": "/d7yCrcp80B2fyMdLuWqvoA9uBlp.jpg"
+        },
+        {
+            "name": "Hadas Yaron",
+            "character": "Mila Kurc",
+            "profile_path": "/wPMNQYidqocqTYZsMHC7FkBQCJj.jpg"
+        },
+        {
+            "name": "Henry Lloyd-Hughes",
+            "character": "Genek Kurc",
+            "profile_path": "/m8zSYF7KmQS0x0o7wnWSuWLc0LW.jpg"
+        },
+        {
+            "name": "Sam Woolf",
+            "character": "Adam Eichenwald",
+            "profile_path": "/k00sXOByDD1X1vmvpNdm997ZhBq.jpg"
+        },
+        {
+            "name": "Moran Rosenblatt",
+            "character": "Herta Seifert",
+            "profile_path": "/14ObIR04YYFcSWHJzbEPvCFptbs.jpg"
+        }
+    ],
+    "first_air_date": "2024-03-28",
+    "last_air_date": "2024-05-02",
+    "container_download": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "/oRuyfNAIfeZ11UYI127YoHfXgAk.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Radom",
+                    "portada": "/A6Mi5KwkaxfDzuShH5WQ44P0PfJ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/onqatesu460a",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/bbin9c3nttnv",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/5yxfj279jos6",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-xbj3i6xpanez.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Leópolis",
+                    "portada": "/u9js0kF2RuyhP1nRI4DCDpMcg6B.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/ullr7tzzftrh",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/p1dzmk07pe2e",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/z4092rvkczvq",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/7z3w3l7apmv2",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-7lvwxwr5quje.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Siberia",
+                    "portada": "/kiCNjFW4BVPazGLUWMFBxQhC5r3.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/0946wfl2rdic",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/nfdn77c3uuzt",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/v/vn9lje2dvlx5",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/zq00c6buwk5m",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-kpta9iohm5gz.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "Casablanca",
+                    "portada": "/ba6aSVRkDVF9572h0f1F7vZNAzl.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/tvg9ll06ykr7",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/d9uih7bnc64i",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-b05xwp9g5a9z.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "Isla de Flores",
+                    "portada": "/vMCW4br2y3lFRQwwTJTOw8y5B9E.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/rtrmr4ivuu5n",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/o6qgfi853s5n",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-zu00jid7ht5o.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Varsovia",
+                    "portada": "/azfKAzzpsLrBC8yBotN2cxg0Kba.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/rdm1creeitk7",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/szl8ijrajvm4",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/bein30dimyxl",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-000l1rhtrj9x.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "Montecassino",
+                    "portada": "/2IVylnLyxHU4HM2BoapQ53fwLZV.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/rjalhu551dvh",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/m8hth79erwz7",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-21rtjbu2g7ul.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "Río",
+                    "portada": "/ciplOjotjCgPtdRLZ0Ugb3wj1dW.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "PlayMogo",
+                            "url": "https://playmogo.com/e/7ki6wvc8guiz",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/hxn1jkxa7ljp",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/4mff2lewrzbl",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-80mri1a7kktq.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                }
+            ],
+            "nombre": "Temporada 1"
+        }
+    ],
+    "added_date": "2026-11-19 20:21:32",
+    "created_at": "2026-11-19 20:21:32",
+    "updated_at": "2026-11-19 20:21:32",
+    "update_states": "No actualizado"
+}
