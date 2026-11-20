@@ -1,5 +1,25 @@
 [
     {
+        "id": "1795148326150",
+        "tmdb_id": "1300968",
+        "titulo": "Los Juegos del Hambre: Amanecer en la cosecha",
+        "imagen": "/nijGyrqQbDhSGss4uugQokvBAsG.jpg",
+        "type": "movie",
+        "year": "2026",
+        "etiquetas": [
+            "Ciencia ficción",
+            "Acción",
+            "Aventura"
+        ],
+        "rate": 7.4000000000000003552713678800500929355621337890625,
+        "added_date": "2026-11-19 23:18:46",
+        "created_at": "2026-11-19 23:18:46",
+        "updated_at": "2026-11-19 23:18:49",
+        "update_states": "No actualizado",
+        "calidad": [],
+        "status": "Released"
+    },
+    {
         "id": "1795062893663",
         "tmdb_id": "14522",
         "titulo": "Belleza negra (Un caballo llamado Furia)",
