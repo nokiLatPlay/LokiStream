@@ -1,0 +1,188 @@
+{
+    "id": "1795140551358",
+    "tmdb_id": "279323",
+    "titulo": "El palacio del este",
+    "original_name": "동궁",
+    "imagen": "/zlKETP9iErKueFfNRuKxivsDLWe.jpg",
+    "backdrop_path": "/8PHBAdPyfIwS5W6cfKLhItEb875.jpg",
+    "type": "dorama",
+    "year": "2026",
+    "etiquetas": [
+        "Misterio",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Drama"
+    ],
+    "temporadas_count": 1,
+    "episodios": 8,
+    "status": "Ended",
+    "rate": 8.0999999999999996447286321199499070644378662109375,
+    "sinopsis": "Un hombre que transita el mundo de los espíritus y una dama de la corte que oye a los muertos entran en el palacio del este por orden del rey. ¿Lograrán desentrañar sus secretos?",
+    "cast": [
+        {
+            "name": "남주혁",
+            "character": "Gu-cheon",
+            "profile_path": "/kuLC8pR24kbEIAjfg3WpKW41Kcl.jpg"
+        },
+        {
+            "name": "노윤서",
+            "character": "Saeng-gang",
+            "profile_path": "/A67wGhTozfav5saZ1Umi5f98Ezb.jpg"
+        },
+        {
+            "name": "조승우",
+            "character": "King",
+            "profile_path": "/agXysHUmaUdHrEQAZ2ZMvMR5oCU.jpg"
+        },
+        {
+            "name": "장영남",
+            "character": "Queen Dowager",
+            "profile_path": "/u0hl8WSswFhKVaKwaMAERU0xUJk.jpg"
+        }
+    ],
+    "first_air_date": "2026-07-17",
+    "last_air_date": "2026-07-17",
+    "container_download": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "/wJoNpRjonE3B5vSWMNuBvaIPZvl.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "/spI7uWPdfrCvJTVebkZZU1IJieq.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-slidanx47nng.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "/gc45nAOxEAtHsAe5Kus5GlkoppH.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-uekqwy3aas7g.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "/gosF5tbLPUC60esXgpcC0ACc0ZO.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-m2b0qrpq3thi.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "/9t6adIrMRdAUiDWI4wlEz72v4z0.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-cix893ihbvki.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "/ni5KEFwhKmu41mF7TO8hfFSjuwM.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-qsxa71ssmye9.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Episodio 6",
+                    "portada": "/2vWnUAnqiYRfin7z7pt3LFa46MO.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-55rw3r9u0lq0.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "Episodio 7",
+                    "portada": "/24Ofu8HmdB5VDRxpvF4hnsohEMx.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-ksohf7s77mlp.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "Episodio 8",
+                    "portada": "/eYVnQymmcplrnK8eg337E7GuCTv.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-pql8fc3f3s7c.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                }
+            ],
+            "nombre": "Temporada 1"
+        }
+    ],
+    "added_date": "2026-11-19 21:09:11",
+    "created_at": "2026-11-19 21:09:11",
+    "updated_at": "2026-11-19 21:09:11",
+    "update_states": "No actualizado"
+}
