@@ -1,5 +1,27 @@
 [
     {
+        "id": "1782859391",
+        "tmdb_id": "652",
+        "titulo": "Troya",
+        "imagen": "/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
+        "type": "movie",
+        "year": "2004",
+        "etiquetas": [
+            "Bélica",
+            "Acción",
+            "Historia"
+        ],
+        "calidad": [
+            "720p"
+        ],
+        "rate": 7.20000000000000017763568394002504646778106689453125,
+        "status": "Released",
+        "added_date": "2026-06-30 18:43:11",
+        "created_at": "2026-06-30 18:43:11",
+        "updated_at": "2026-11-21 01:27:48",
+        "update_states": "No actualizado"
+    },
+    {
         "id": "1790321579966",
         "tmdb_id": "1101412",
         "titulo": "Vértigo 2: Punto muerto",
@@ -3195,28 +3217,6 @@
             "HD"
         ],
         "status": "Released"
-    },
-    {
-        "id": "1782859391",
-        "tmdb_id": "652",
-        "titulo": "Troya",
-        "imagen": "/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
-        "type": "movie",
-        "year": "2004",
-        "etiquetas": [
-            "Bélica",
-            "Acción",
-            "Historia"
-        ],
-        "calidad": [
-            "720p"
-        ],
-        "rate": 7.20000000000000017763568394002504646778106689453125,
-        "status": "Released",
-        "added_date": "2026-06-30 18:43:11",
-        "created_at": "2026-06-30 18:43:11",
-        "updated_at": "2026-08-17 23:11:13",
-        "update_states": "No actualizado"
     },
     {
         "id": "1786814540618",
