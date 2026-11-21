@@ -102,10 +102,17 @@
             "type": "streaming",
             "language": "Latino",
             "quality": "720p"
+        },
+        {
+            "nombre": "callistanise",
+            "url": "https:\/\/callistanise.com\/v\/5ulh4c66agjf",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "720p"
         }
     ],
     "added_date": "2026-11-21 01:23:12",
     "created_at": "2026-11-21 01:23:12",
-    "updated_at": "2026-11-21 01:23:43",
+    "updated_at": "2026-11-21 04:06:24",
     "update_states": "No actualizado"
 }
