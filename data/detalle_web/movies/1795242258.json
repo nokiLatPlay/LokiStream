@@ -1,0 +1,111 @@
+{
+    "id": "1795242258",
+    "tmdb_id": "861",
+    "titulo": "Desafío total",
+    "original_name": "Total Recall",
+    "imagen": "\/v7DoneFNYIrCGeNFiPrqGiQlimN.jpg",
+    "backdrop_path": "\/x2wOlXuK4NzPDQ0OBZiJjNNOp6Y.jpg",
+    "type": "movie",
+    "year": "1990",
+    "etiquetas": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+    ],
+    "calidad": [],
+    "rate": 7.29999999999999982236431605997495353221893310546875,
+    "sinopsis": "Tierra, año 2084. Doug Quaid, un hombre normal con una vida tranquila, está atormentado por una pesadilla que le lleva todas las noches hasta Marte. Decide entonces recurrir al laboratorio Memory-call, una empresa de vacaciones virtuales que le ofrece la oportunidad de materializar su sueño gracias a un fuerte alucinógeno. Sin embargo, su intento resulta en fracaso. La droga resucita de su memoria una estancia verdadera en Marte cuando era el más temido agente del cruel Coohagen.",
+    "cast": [
+        {
+            "name": "Arnold Schwarzenegger",
+            "character": "Quaid",
+            "profile_path": "\/4jM3vsHIEQVeNFifiTAUDVAmiUo.jpg"
+        },
+        {
+            "name": "Rachel Ticotin",
+            "character": "Melina",
+            "profile_path": "\/ihLzHGkgQcpUX26K5AtfG8VuYGB.jpg"
+        },
+        {
+            "name": "Sharon Stone",
+            "character": "Lori",
+            "profile_path": "\/5lYs0HaAvsXPZJpMcndbSeQdPgT.jpg"
+        },
+        {
+            "name": "Michael Ironside",
+            "character": "Richter",
+            "profile_path": "\/mzHmxtKcMJjDqWxKd67mKQJFW1B.jpg"
+        },
+        {
+            "name": "Marshall Bell",
+            "character": "George \/ Kuato",
+            "profile_path": "\/3AdZRUFlmV9KvArzqSVEVZVl0Sa.jpg"
+        },
+        {
+            "name": "Michael Champion",
+            "character": "Helm",
+            "profile_path": "\/fR7mBkINGtp6bnY8t0GAIeMQUPk.jpg"
+        },
+        {
+            "name": "Mel Johnson Jr.",
+            "character": "Benny",
+            "profile_path": "\/aeEEB0aJCC7CQLwg7hJw9CpJvN5.jpg"
+        },
+        {
+            "name": "Roy Brocksmith",
+            "character": "Dr. Edgemar",
+            "profile_path": "\/2GIyB1EMdsgDeIeE20QmqSvxdtT.jpg"
+        },
+        {
+            "name": "Rosemary Dunsmore",
+            "character": "Dr. Lull",
+            "profile_path": "\/jqu948f0Rwu6OZ2NDU72Hk6OklX.jpg"
+        },
+        {
+            "name": "Ronny Cox",
+            "character": "Cohaagen",
+            "profile_path": "\/cKkVkqft2RacSDhsKxO8nMFgeAd.jpg"
+        },
+        {
+            "name": "Ray Baker",
+            "character": "Mc Clane",
+            "profile_path": "\/6DIBcIzCCTMxR1RdMbyItg0J6YW.jpg"
+        },
+        {
+            "name": "David Knell",
+            "character": "Ernie",
+            "profile_path": "\/iRBgaZcPxCKuozeTIkrW7xEei6J.jpg"
+        },
+        {
+            "name": "Alexia Robinson",
+            "character": "Tiffany",
+            "profile_path": "\/7cfCgEzoEuYRZAuhf7RqjuOpFI7.jpg"
+        },
+        {
+            "name": "Dean Norris",
+            "character": "Tony",
+            "profile_path": "\/mKRrEbsxAX3ro700HsViFArRM7l.jpg"
+        },
+        {
+            "name": "Mark Carlton",
+            "character": "Bartender",
+            "profile_path": "\/ne3XiflbAunZ3c3OntTi7hqyLoF.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 113,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "Vimeos",
+            "url": "https:\/\/vimeos.net\/embed-g608etnbu5hx.html",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "720p"
+        }
+    ],
+    "added_date": "2026-11-21 01:24:18",
+    "created_at": "2026-11-21 01:24:18",
+    "updated_at": "2026-11-21 01:24:42",
+    "update_states": "No actualizado"
+}
