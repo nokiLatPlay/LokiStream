@@ -13,7 +13,7 @@
         "Sci-Fi & Fantasy"
     ],
     "temporadas_count": 2,
-    "episodios": 177,
+    "episodios": 178,
     "status": "Returning Series",
     "rate": 8.5,
     "sinopsis": "La historia de Black Clover nos pone en la piel de un joven llamado Asta, el cual quiere convertirse en el mago más grande del reino. Sin embargo, hay un inconveniente: ¡no puede usar magia! Por suerte, Asta recibe el grimorio trébol de cinco hojas, que le otorga el poder de la anti-magia. ¿Puede alguien carente de magia convertirse en el Rey Hechicero? Una cosa está clara, Asta nunca se rendirá.",
@@ -6040,6 +6040,64 @@
                         }
                     ],
                     "container_download": []
+                },
+                {
+                    "episode_id": "S02E08",
+                    "episode_number": 8,
+                    "nombre": "Episodio 8",
+                    "portada": "/cAmUPl9Xf1SoQyMfyoDTkIFJtFm.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Bysesukior",
+                            "url": "https://bysesukior.com/e/kx9248xu674r",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/6mhpbfbc5fdi",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "MixDrop",
+                            "url": "https://mixdrop.ps/e/pjjepqgghg78k4m",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Mp4upload",
+                            "url": "https://mp4upload.com/embed-eutykz215ksg.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Jkanime",
+                            "url": "https://jkanime.net/jkplayer/um?e=ZWYxZlhSNHk3UG5hemQvTlBhYzRFSTZUWlVkRjZ3bWUwSFlDU2toMG9zS1R5bzA2N255ZSt6cUV0cE1Nb3p1amlHNEpvVjBYazMyU1c2RnJYNmRmc0hYU0pqQmNRU0Y5b216T3dxK21MNXc9OjqOGbRI4s02zjQ2RBAAL2cS&t=9bb2bd22a99d0a7ab3a3c61235d67f02&op=Nzk0Nzg=",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Hglamioz",
+                            "url": "https://hglamioz.com/e/8p1197c86zdi",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Callistanise",
+                            "url": "https://callistanise.com/embed/362fh5yxbj3c",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
                 }
             ],
             "nombre": "Temporada 2"
@@ -6047,6 +6105,6 @@
     ],
     "added_date": "2026-08-29 12:15:02",
     "created_at": "2026-08-29 12:15:02",
-    "updated_at": "2026-11-14 14:02:45",
+    "updated_at": "2026-11-21 14:54:11",
     "update_states": "No actualizado"
 }
