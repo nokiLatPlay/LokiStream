@@ -1,0 +1,111 @@
+{
+    "id": "1795242192",
+    "tmdb_id": "9739",
+    "titulo": "Demolition Man",
+    "original_name": "Demolition Man",
+    "imagen": "\/qxn3cddN1nXR6wdeiyEEQYzKf9C.jpg",
+    "backdrop_path": "\/4pl165EUdvveHCr4J4YcHVA1MnD.jpg",
+    "type": "movie",
+    "year": "1993",
+    "etiquetas": [
+        "Crimen",
+        "Acción",
+        "Ciencia ficción"
+    ],
+    "calidad": [],
+    "rate": 6.79999999999999982236431605997495353221893310546875,
+    "sinopsis": "En el año 1996 un edificio estalla con 30 rehenes dentro, tras una brutal lucha entre Simon Phoenix, un criminal psicópata y John Spartan, un policía conocido como Demolition Man. Ambos son condenados a ser congelados hasta 2032, año en el que se vuelven a encontrar.",
+    "cast": [
+        {
+            "name": "Sylvester Stallone",
+            "character": "John Spartan",
+            "profile_path": "\/gn3pDWthJqR0VDYGViGD3048og7.jpg"
+        },
+        {
+            "name": "Wesley Snipes",
+            "character": "Simon Phoenix",
+            "profile_path": "\/oOjRfYKQOBS6XsRyXaZktmSQBph.jpg"
+        },
+        {
+            "name": "Sandra Bullock",
+            "character": "Lt. Lenina Huxley",
+            "profile_path": "\/4rfjISL3Flx16jfiusXoHbpt87X.jpg"
+        },
+        {
+            "name": "Nigel Hawthorne",
+            "character": "Dr. Raymond Cocteau",
+            "profile_path": "\/v8bin2HUa9gayqxmCnlRlh0taxq.jpg"
+        },
+        {
+            "name": "Benjamin Bratt",
+            "character": "Alfredo Garcia",
+            "profile_path": "\/hBenHPT4iJEG2kt5z2TOGnkRZwh.jpg"
+        },
+        {
+            "name": "Bob Gunton",
+            "character": "Chief George Earle",
+            "profile_path": "\/ulbVvuBToBN3aCGcV028hwO0MOP.jpg"
+        },
+        {
+            "name": "Glenn Shadix",
+            "character": "Associate Bob",
+            "profile_path": "\/iWh3R2F3ejiNZxE6tiFcPF5c6G9.jpg"
+        },
+        {
+            "name": "Denis Leary",
+            "character": "Edgar Friendly",
+            "profile_path": "\/tAOziVWQBnrW9eR442M6g9SQkmA.jpg"
+        },
+        {
+            "name": "Bill Cobbs",
+            "character": "Zachary Lamb - Aged",
+            "profile_path": "\/xRBrI4rPkZuMBMDh8GPke20ZgUv.jpg"
+        },
+        {
+            "name": "Grand L. Bush",
+            "character": "Zachary Lamb - Young",
+            "profile_path": "\/s0Ld1HdCrCTpgYuw8D5LTfNuYwC.jpg"
+        },
+        {
+            "name": "Pat Skipper",
+            "character": "Helicopter Pilot",
+            "profile_path": "\/83kKXFGLe1GDXc1lau63gD5W9uF.jpg"
+        },
+        {
+            "name": "Steve Kahan",
+            "character": "Captain Healy",
+            "profile_path": "\/qnarH2PdHTWsG7Hv2DlHSr7rj5h.jpg"
+        },
+        {
+            "name": "Paul Bollen",
+            "character": "T.F.R. Officer",
+            "profile_path": ""
+        },
+        {
+            "name": "Mark Colson",
+            "character": "Warden William Smithers - Young",
+            "profile_path": "\/oQqK6IjqduHWWn8sUvFh2CtQONo.jpg"
+        },
+        {
+            "name": "Andre Gregory",
+            "character": "Warden William Smithers - Aged",
+            "profile_path": "\/4kdtN2Xn7NKj75omLWYzU4n9UkK.jpg"
+        }
+    ],
+    "status": "Released",
+    "runtime": 115,
+    "container_download": [],
+    "enlaces": [
+        {
+            "nombre": "Vimeos",
+            "url": "https:\/\/vimeos.net\/embed-apv9gcoetphp.html",
+            "type": "streaming",
+            "language": "Latino",
+            "quality": "720p"
+        }
+    ],
+    "added_date": "2026-11-21 01:23:12",
+    "created_at": "2026-11-21 01:23:12",
+    "updated_at": "2026-11-21 01:23:43",
+    "update_states": "No actualizado"
+}
