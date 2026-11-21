@@ -1,5 +1,25 @@
 [
     {
+        "id": "1795242258",
+        "tmdb_id": "861",
+        "titulo": "Desafío total",
+        "imagen": "/v7DoneFNYIrCGeNFiPrqGiQlimN.jpg",
+        "type": "movie",
+        "year": "1990",
+        "etiquetas": [
+            "Acción",
+            "Aventura",
+            "Ciencia ficción"
+        ],
+        "calidad": [],
+        "rate": 7.29999999999999982236431605997495353221893310546875,
+        "status": "Released",
+        "added_date": "2026-11-21 01:24:18",
+        "created_at": "2026-11-21 01:24:18",
+        "updated_at": "2026-11-21 01:24:43",
+        "update_states": "No actualizado"
+    },
+    {
         "id": "1795242192",
         "tmdb_id": "9739",
         "titulo": "Demolition Man",
