@@ -1,5 +1,24 @@
 [
     {
+        "id": "1795242305",
+        "tmdb_id": "1825",
+        "titulo": "Yo, el halcón",
+        "imagen": "/gjkXw0MOKgr5WEdFlWDNZFyst9v.jpg",
+        "type": "movie",
+        "year": "1987",
+        "etiquetas": [
+            "Acción",
+            "Drama"
+        ],
+        "calidad": [],
+        "rate": 6.5,
+        "status": "Released",
+        "added_date": "2026-11-21 01:25:05",
+        "created_at": "2026-11-21 01:25:05",
+        "updated_at": "2026-11-21 01:25:28",
+        "update_states": "No actualizado"
+    },
+    {
         "id": "1795242258",
         "tmdb_id": "861",
         "titulo": "Desafío total",
