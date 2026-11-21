@@ -1,5 +1,25 @@
 [
     {
+        "id": "1795242192",
+        "tmdb_id": "9739",
+        "titulo": "Demolition Man",
+        "imagen": "/qxn3cddN1nXR6wdeiyEEQYzKf9C.jpg",
+        "type": "movie",
+        "year": "1993",
+        "etiquetas": [
+            "Crimen",
+            "Acción",
+            "Ciencia ficción"
+        ],
+        "calidad": [],
+        "rate": 6.79999999999999982236431605997495353221893310546875,
+        "status": "Released",
+        "added_date": "2026-11-21 01:23:12",
+        "created_at": "2026-11-21 01:23:12",
+        "updated_at": "2026-11-21 01:23:44",
+        "update_states": "No actualizado"
+    },
+    {
         "id": "1795148326150",
         "tmdb_id": "1300968",
         "titulo": "Los Juegos del Hambre: Amanecer en la cosecha",
