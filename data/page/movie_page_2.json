@@ -1,5 +1,26 @@
 [
     {
+        "id": "1795341805",
+        "tmdb_id": "563",
+        "titulo": "Starship Troopers: Las brigadas del espacio",
+        "imagen": "/rK7LafXBhHKjALYOT3jRUTlFdpk.jpg",
+        "type": "movie",
+        "year": "1997",
+        "etiquetas": [
+            "Aventura",
+            "Acción",
+            "Suspense",
+            "Ciencia ficción"
+        ],
+        "calidad": [],
+        "rate": 7.0999999999999996447286321199499070644378662109375,
+        "status": "Released",
+        "added_date": "2026-11-22 05:03:25",
+        "created_at": "2026-11-22 05:03:25",
+        "updated_at": "2026-11-22 05:05:52",
+        "update_states": "No actualizado"
+    },
+    {
         "id": "1795341590",
         "tmdb_id": "9437",
         "titulo": "El coleccionista de amantes",
