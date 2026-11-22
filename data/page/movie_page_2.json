@@ -1,5 +1,26 @@
 [
     {
+        "id": "1795341999",
+        "tmdb_id": "10357",
+        "titulo": "Volcano",
+        "imagen": "/3YJJ8gXRwYYZi3S3hiZZDBEaj8s.jpg",
+        "type": "movie",
+        "year": "1997",
+        "etiquetas": [
+            "Ciencia ficción",
+            "Acción",
+            "Drama",
+            "Suspense"
+        ],
+        "calidad": [],
+        "rate": 6,
+        "status": "Released",
+        "added_date": "2026-11-22 05:06:39",
+        "created_at": "2026-11-22 05:06:39",
+        "updated_at": "2026-11-22 05:09:57",
+        "update_states": "No actualizado"
+    },
+    {
         "id": "1795341805",
         "tmdb_id": "563",
         "titulo": "Starship Troopers: Las brigadas del espacio",
