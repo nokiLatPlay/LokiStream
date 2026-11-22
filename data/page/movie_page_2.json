@@ -1,5 +1,25 @@
 [
     {
+        "id": "1795341590",
+        "tmdb_id": "9437",
+        "titulo": "El coleccionista de amantes",
+        "imagen": "/i9mQEM8dzl5vklW6VEqlONdbUJk.jpg",
+        "type": "movie",
+        "year": "1997",
+        "etiquetas": [
+            "Suspense",
+            "Crimen",
+            "Misterio"
+        ],
+        "calidad": [],
+        "rate": 6.5,
+        "status": "Released",
+        "added_date": "2026-11-22 04:59:50",
+        "created_at": "2026-11-22 04:59:50",
+        "updated_at": "2026-11-22 05:01:37",
+        "update_states": "No actualizado"
+    },
+    {
         "id": "1795341163",
         "tmdb_id": "8413",
         "titulo": "Horizonte Final",
