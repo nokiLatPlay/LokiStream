@@ -1,5 +1,25 @@
 [
     {
+        "id": "1795341163",
+        "tmdb_id": "8413",
+        "titulo": "Horizonte Final",
+        "imagen": "/p0TgEBfbOgWP6xZgSt2T7Ee78vx.jpg",
+        "type": "movie",
+        "year": "1997",
+        "etiquetas": [
+            "Terror",
+            "Ciencia ficción",
+            "Misterio"
+        ],
+        "calidad": [],
+        "rate": 6.5999999999999996447286321199499070644378662109375,
+        "status": "Released",
+        "added_date": "2026-11-22 04:52:43",
+        "created_at": "2026-11-22 04:52:43",
+        "updated_at": "2026-11-22 04:59:32",
+        "update_states": "No actualizado"
+    },
+    {
         "id": "1795242192",
         "tmdb_id": "9739",
         "titulo": "Demolition Man",
