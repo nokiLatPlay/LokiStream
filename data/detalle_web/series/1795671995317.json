@@ -1,0 +1,140 @@
+{
+    "id": "1795671995317",
+    "tmdb_id": "314271",
+    "titulo": "Bass X Machina",
+    "original_name": "Bass X Machina",
+    "imagen": "/q7eWmFOfdHqm15YrKiYmR8XEVRx.jpg",
+    "backdrop_path": "/ygjcwHWhhCaNPaPP965Du7eR2gO.jpg",
+    "type": "serie",
+    "year": "2026",
+    "etiquetas": [
+        "Animación",
+        "Western",
+        "Sci-Fi & Fantasy"
+    ],
+    "temporadas_count": 1,
+    "episodios": 6,
+    "status": "Ended",
+    "rate": 7.9000000000000003552713678800500929355621337890625,
+    "sinopsis": "En un Oeste ‘steampunk’ invadido por forajidos, máquinas y fuerzas sobrenaturales, un padre se ve obligado a ser juez, jurado y verdugo para proteger a su familia.",
+    "cast": [
+        {
+            "name": "Brian Tyree Henry",
+            "character": "Bass Reeves (voice)",
+            "profile_path": "/2MsJh0bpyzwvOUnXOltHp3j85Pb.jpg"
+        }
+    ],
+    "first_air_date": "2026-11-03",
+    "last_air_date": "2026-11-03",
+    "container_download": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "/q7eWmFOfdHqm15YrKiYmR8XEVRx.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Hasta entonces... seré Bass Reeves",
+                    "portada": "/8kPyhnlguTmV73CdG5M0OTrbLaO.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-517gzfcr1qvm.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Quizá te ganes un balazo",
+                    "portada": "/4dBp8BRCpOhyueSWfCUN2BSlxwt.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-me7e2eoy2qlx.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Dudo que sea cosa de Dios",
+                    "portada": "/2BIfXxi6WsGhKNlNuRGxwTFrZKZ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-cyjby2ooz6ic.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "Este tren pasa a ser mixto",
+                    "portada": "/68ZmFozQburz231ik2Hm50ICtyI.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-rv6ebvo4a1b2.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "Haré lo que sea por sobrevivir",
+                    "portada": "/eDKk8gvOuLcRkSJFrlyjnZVD1vF.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-yfttqr2lghc6.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Quien quiere un país debe matar para conseguirlo",
+                    "portada": "/mmO4mn5hj1yS6FOr1yd6SoLAuSK.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-05n9aj1mlygw.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                }
+            ],
+            "nombre": "Temporada 1"
+        }
+    ],
+    "added_date": "2026-11-26 00:46:35",
+    "created_at": "2026-11-26 00:46:35",
+    "updated_at": "2026-11-26 00:46:35",
+    "update_states": "No actualizado"
+}
