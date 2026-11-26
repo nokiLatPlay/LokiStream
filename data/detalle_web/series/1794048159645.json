@@ -134,6 +134,13 @@
                             "type": "streaming",
                             "language": "Latino",
                             "quality": ""
+                        },
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-ksqy9bzh8fja.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
                         }
                     ],
                     "container_download": []
@@ -168,6 +175,13 @@
                         {
                             "nombre": "Vidara",
                             "url": "https://vidara.to/e/1Vt2rOYdoAR3F",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-if4l45s7hj9f.html",
                             "type": "streaming",
                             "language": "Latino",
                             "quality": ""
@@ -208,6 +222,13 @@
                             "type": "streaming",
                             "language": "Latino",
                             "quality": ""
+                        },
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-tx5xgj7yjjkp.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
                         }
                     ],
                     "container_download": []
@@ -245,6 +266,13 @@
                             "type": "streaming",
                             "language": "Latino",
                             "quality": ""
+                        },
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-281rz1t9294k.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
                         }
                     ],
                     "container_download": []
@@ -272,6 +300,13 @@
                         {
                             "nombre": "Vidara",
                             "url": "https://vidara.to/e/8EsbNgNWE5avR",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        },
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-b790rno66e56.html",
                             "type": "streaming",
                             "language": "Latino",
                             "quality": ""
@@ -305,6 +340,13 @@
                             "type": "streaming",
                             "language": "Latino",
                             "quality": ""
+                        },
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-7x601yo3hbk1.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
                         }
                     ],
                     "container_download": []
@@ -315,6 +357,6 @@
     ],
     "added_date": "2026-11-07 05:42:39",
     "created_at": "2026-11-07 05:42:39",
-    "updated_at": "2026-11-07 05:42:39",
+    "updated_at": "2026-11-26 00:48:29",
     "update_states": "No actualizado"
 }
