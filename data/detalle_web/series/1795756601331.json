@@ -1,0 +1,290 @@
+{
+    "id": "1795756601331",
+    "tmdb_id": "94388",
+    "titulo": "Gibiate",
+    "original_name": "ジビエート",
+    "imagen": "/mfhTKkUfTuHpGcKAflyf25UdSs.jpg",
+    "backdrop_path": "/ykK9VfewaHyzqUSbiSPKFKfPfk.jpg",
+    "type": "anime",
+    "year": "2020",
+    "etiquetas": [
+        "Animación",
+        "Action & Adventure"
+    ],
+    "temporadas_count": 1,
+    "episodios": 12,
+    "status": "Ended",
+    "rate": 7,
+    "sinopsis": "Japón, año 2030. Un virus se ha extendido por el planeta. Una vez infectados, los pacientes se convierten en monstruos y cambian de forma dependiendo de la edad, el sexo y la nacionalidad. El virus se llama “Gibier”. Un samurái y un ninja de la era Edo aparecen en las ruinas post apocalípticas, ayudando a un médico que ha dedicado su carrera a investigar la cura para el virus, y protegiéndolo, ya que las hordas de monstruos buscando comida aparecen por cualquier lado.",
+    "cast": [
+        {
+            "name": "Tetsuya Kakihara",
+            "character": "Sensui Kanzaki (voice)",
+            "profile_path": "/80DeAD6DYh030wsyUygFqDpNkSj.jpg"
+        },
+        {
+            "name": "Yukiyo Fujii",
+            "character": "Kathleen Funada (voice)",
+            "profile_path": "/tLG4K1iix3QNHFexf98mrZ25jT6.jpg"
+        },
+        {
+            "name": "Hiroki Touchi",
+            "character": "Kenroku Sanada (voice)",
+            "profile_path": "/bU2vogWmnTWiQEwUADWlnBqAPhJ.jpg"
+        },
+        {
+            "name": "羽佐間道夫",
+            "character": "Yukinojyo Onikura (voice)",
+            "profile_path": "/vjHAu5T8n04uhJ9CSaEAkXwEABQ.jpg"
+        },
+        {
+            "name": "Shuichi Ikeda",
+            "character": "Dr. Yoshinaga (voice)",
+            "profile_path": "/p7uQYnI8AG1m4GmqnnXP8A2jbW8.jpg"
+        },
+        {
+            "name": "Hiroki Nanami",
+            "character": "Hatonami Ayame (voice)",
+            "profile_path": "/sbFtrQgkAvTMsHfQ2lrVMUJpP94.jpg"
+        },
+        {
+            "name": "崎本大海",
+            "character": "Mikimoto Isao (voice)",
+            "profile_path": "/wqhXZqVlE2ektBu6Y4G6K0kMIu6.jpg"
+        },
+        {
+            "name": "伊藤えみ",
+            "character": "Funada Yurika (voice)",
+            "profile_path": "/zZwecvVLJni1hrZn7C2sHIZFKVG.jpg"
+        },
+        {
+            "name": "Ryohei Kimura",
+            "character": "Katsunori Hamuro (voice)",
+            "profile_path": "/m4GktFKhjrVTewsZtqTusInHZqT.jpg"
+        },
+        {
+            "name": "Koji Ishii",
+            "character": "Renjiro Hatonami (voice)",
+            "profile_path": "/ao882dlS1ERrar6iq0qedBVBAhH.jpg"
+        },
+        {
+            "name": "Hozumi Goda",
+            "character": "Guren Soshigaya (voice)",
+            "profile_path": "/tEJYYjEPiKqQIapgRmLJ66EYOte.jpg"
+        },
+        {
+            "name": "Fukushi Ochiai",
+            "character": "Hidenori Sakuma (voice)",
+            "profile_path": "/xE2FoiUjb9N51J7jg0U8eGmfK19.jpg"
+        }
+    ],
+    "first_air_date": "2020-07-15",
+    "last_air_date": "2020-09-30",
+    "container_download": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "/8COfh2LKXu8vlod8ba6Glb3SuC5.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "/pU2vv9ryinfxm8O1PJkwW8YKGJO.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-fuhlbmd5yqi7.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "/66DQbPlwm5s12LWqWsDJe4j08J0.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-isuhsv8tpr2j.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "/31OyK22UuLnVo6sGMPTFxySv03B.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-8ax1ath3fwos.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "/iD5203jgcg4mdZlFcHwsFb2IDjf.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-75z7kjwwofxr.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "/l5MU51DyL3renCXOgFeOzHsAD3x.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-f9io9por251j.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Episodio 6",
+                    "portada": "/gflqI3lryC6b4bSnMddvkFzFo7Z.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-a46qc0lt2vuu.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "Episodio 7",
+                    "portada": "/7wUeJSQfICY4V9J6DZweXM7qMwz.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-bnnr2v5y8ccm.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "Episodio 8",
+                    "portada": "/shIJ7LEL9a1kBsVwRl8vDRwKvvG.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-pceljta8bh71.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E09",
+                    "episode_number": 9,
+                    "nombre": "Episodio 9",
+                    "portada": "/9mj1OkjCAfBUDtuVy7cZUFfZbrg.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-zayt0eskp0it.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E10",
+                    "episode_number": 10,
+                    "nombre": "Episodio 10",
+                    "portada": "/afFbUKo2LCICnyazswV1lY01tOb.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-vngfs5rblq3f.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E11",
+                    "episode_number": 11,
+                    "nombre": "Episodio 11",
+                    "portada": "/A9eucI3h5f1qD6jNB7RONU7DHaa.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-snmd1ax4nm03.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E12",
+                    "episode_number": 12,
+                    "nombre": "Episodio 12",
+                    "portada": "/qf4kd6xogndM9Zoc1u0pPYYemKi.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-pls2bdger3pj.html",
+                            "type": "streaming",
+                            "language": "Sub",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                }
+            ],
+            "nombre": "Temporada 1"
+        }
+    ],
+    "added_date": "2026-11-27 00:16:41",
+    "created_at": "2026-11-27 00:16:41",
+    "updated_at": "2026-11-27 00:16:41",
+    "update_states": "No actualizado"
+}
