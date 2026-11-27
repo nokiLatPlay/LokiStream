@@ -1,0 +1,668 @@
+{
+    "id": "1795755707845",
+    "tmdb_id": "67075",
+    "titulo": "Mob Psycho 100",
+    "original_name": "モブサイコ100",
+    "imagen": "/aFcv9zeJtSbJHSYUlQCOQYV3Gio.jpg",
+    "backdrop_path": "/kP5duNJEbTfXpBs6CITsaZ88pQi.jpg",
+    "type": "anime",
+    "year": "2016",
+    "etiquetas": [
+        "Animación",
+        "Action & Adventure",
+        "Comedia",
+        "Sci-Fi & Fantasy"
+    ],
+    "temporadas_count": 3,
+    "episodios": 37,
+    "status": "Ended",
+    "rate": 8.5,
+    "sinopsis": "Kageyama Shigeo, más conocido por el apodo \"Mob\", parece un chico tímido con problemas para relacionarse con los demás, pero en realidad. es un poderoso Esper. Mob quiere ser un niño normal y corriente pero, para mantener su poder psíquico bajo control, tiene que reprimir constantemente sus emociones. Sin embargo, los problemas le persiguen, y vive rodeado por falsos Espers, espíritus malignos y misteriosas organizaciones.",
+    "cast": [
+        {
+            "name": "Setsuo Ito",
+            "character": "Shigeo 'Mob' Kageyama (voice)",
+            "profile_path": "/1uU8sVaxzxiFJakNGe7CNwkL2rO.jpg"
+        },
+        {
+            "name": "Takahiro Sakurai",
+            "character": "Arataka Reigen (voice)",
+            "profile_path": "/8s8owcKmpRAuhzEGjSdRpztthUg.jpg"
+        },
+        {
+            "name": "Miyu Irino",
+            "character": "Ritsu Kageyama (voice)",
+            "profile_path": "/8qEEhHUObNvGQr4e6eqLu5z4qTz.jpg"
+        },
+        {
+            "name": "Akio Otsuka",
+            "character": "Dimple (voice)",
+            "profile_path": "/uH9oiqOOgrsz2zNnouVZ1qPzDyb.jpg"
+        }
+    ],
+    "first_air_date": "2016-07-12",
+    "last_air_date": "2022-12-22",
+    "container_download": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "/e0x6Huvp2drrcBvcriLbnxFMEg.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "El psíquico autoproclamado: Reigen Arataka ~Y Mob~",
+                    "portada": "/eWvvcMZFdruG7I4NHKaBD7Lsqku.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-i8ekcnz7abym.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Las dudas de la juventud ~Aparece el club de telepatía~",
+                    "portada": "/2IRcb7QNpL1gnV4UkOfXLbtc0sm.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-20wul3ujl9ji.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Un invitación ~En resumen, quiero ser popular~",
+                    "portada": "/fbr4w6McLDh5Wx7fxWwLGtBa3Hs.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-9yc4svwvxpzh.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "Un evento exclusivo para idiotas ~Kin~",
+                    "portada": "/tgEW5zsvlmglOS5EEk6UmH48kNm.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-w3zfpa0bv8l2.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "Ochimusha ~Los poderes psíquicos y yo~",
+                    "portada": "/h7ts0QOUbragMxy6CacCnGVFETV.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-wnlr0qsln0c5.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Discordancia ~Volverse uno~",
+                    "portada": "/y6cLitqeuAh5R6yQRAlQhlHBHtl.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-o5v0k93e6agn.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "Exaltación ~Solo conseguí pérdidas~",
+                    "portada": "/deNkKthjJd0M6ybS5Tj1EtwXoPk.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-zpaaglqh4pdw.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "El mayor se postra ~Intenciones destructivas~",
+                    "portada": "/l4uYdqcP4uorUUNUGYvCraQzAZL.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-pcbeia1ll2gl.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E09",
+                    "episode_number": 9,
+                    "nombre": "Garra ~La séptima división~",
+                    "portada": "/e7PzPH9webwk0km48CruE5BJaQf.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-ab77h0ssn2p3.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E10",
+                    "episode_number": 10,
+                    "nombre": "Gran aura maléfica ~Mente maestra~",
+                    "portada": "/rtr4rjMORYleRH94m00XlT8P9H1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-wko27nx3ksrq.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E11",
+                    "episode_number": 11,
+                    "nombre": "El maestro ~El líder~",
+                    "portada": "/1wrNpfysf4INQFR58SnvA15Dh6b.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-ka8p6wvr9sgr.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E12",
+                    "episode_number": 12,
+                    "nombre": "Mob y Reigen ~La aparición del tsuchinoko gigante~",
+                    "portada": "/g8JDTJ18lDQvGVyHXs3Yb3l6wwM.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-48l53aj4i1ka.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                }
+            ],
+            "nombre": "Temporada 1"
+        },
+        {
+            "temporada": "Temporada 2",
+            "season_number": 2,
+            "poster_path": "/sP9vLFruToDtyRrKmddge3l9TVg.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S02E01",
+                    "episode_number": 1,
+                    "nombre": "Hecho pedazos ~Hay alguien mirando~",
+                    "portada": "/8avaqhS8U5QDfqBprR6DUPf84xA.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-52202o8p9ar9.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S02E02",
+                    "episode_number": 2,
+                    "nombre": "Leyendas urbanas ~Encontrándose con rumores~",
+                    "portada": "/vhdahzuD9L1wsqrAF8rZiLNNX7D.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-3y73h96k1nlr.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S02E03",
+                    "episode_number": 3,
+                    "nombre": "Un peligro tras otro ~Degeneración~",
+                    "portada": "/c0WoVoQgZ2LUEcF4LWPfSvhJVu8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-00peaxh9lhbr.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S02E04",
+                    "episode_number": 4,
+                    "nombre": "Interior ~Espectro~",
+                    "portada": "/3MWaUPTeVDD5uWQtr5bxtt6vZIU.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-z5hl2yvjwbe8.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S02E05",
+                    "episode_number": 5,
+                    "nombre": "Discordia ~Elección~",
+                    "portada": "/8a92F1fd76UNdNzQeizvPvUWKDf.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-zks3eqcxg899.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S02E06",
+                    "episode_number": 6,
+                    "nombre": "Un día blanco solitario",
+                    "portada": "/afmIffJ0yN3LT2XQyS4bQ59oUcD.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-0juw91vbnq9j.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S02E07",
+                    "episode_number": 7,
+                    "nombre": "Fase final ~Identidad~",
+                    "portada": "/oDybpLwNqwoYEl1IuA59gV93VsI.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-rpsogue9ayfi.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S02E08",
+                    "episode_number": 8,
+                    "nombre": "Aun así ~Avanza~",
+                    "portada": "/dSkHhBA312Prvm30EkvuU2rkhsy.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-wgrcbk1tsdka.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S02E09",
+                    "episode_number": 9,
+                    "nombre": "Muéstralo ~Reunión~",
+                    "portada": "/j2SLkzNg8OiPVwiuiZRhRVx3M4T.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-w9lj7xgs2yo9.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S02E10",
+                    "episode_number": 10,
+                    "nombre": "Colisión ~Potencia~",
+                    "portada": "/lg2cGwfeeVfrhz0koWoBWwV53Q2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-suvl770237hr.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S02E11",
+                    "episode_number": 11,
+                    "nombre": "Guía ~Psíquicos perceptivos~",
+                    "portada": "/sYyxnqWgwaM6xgFDxcGY9Dkvmqo.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-sccoj50kkmio.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S02E12",
+                    "episode_number": 12,
+                    "nombre": "Batalla del retorno de la sociedad ~Amistad~",
+                    "portada": "/mWy9ZkNPO5yfoYQ3X2gzvXDAc91.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-sqwpiehhfuww.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S02E13",
+                    "episode_number": 13,
+                    "nombre": "Batalla contra el jefe ~La última luz~",
+                    "portada": "/bVvWPZNtFpvnJKB5lC7jv6dhFGJ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-y22gzd6sps1l.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                }
+            ],
+            "nombre": "Temporada 2"
+        },
+        {
+            "temporada": "Temporada 3",
+            "season_number": 3,
+            "poster_path": "/hNm64OvvTJ25465N1dbvNYGHdx9.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S03E01",
+                    "episode_number": 1,
+                    "nombre": "El mañana. ~Planes de futuro~",
+                    "portada": "/2fuXXVuNEubip0qSdDxMgDyzo3Z.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-c5afjk0niifi.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S03E02",
+                    "episode_number": 2,
+                    "nombre": "¡Llega el cazador de yokai Haruaki Amakusa! ~¡El ataque de los cien yokai!~",
+                    "portada": "/wHDXIU19U7CavBjkNZEHTIVtoIg.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-3rxza6vzwouo.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S03E03",
+                    "episode_number": 3,
+                    "nombre": "Ser arrogante al ~100 %~",
+                    "portada": "/2zpObzsKGsN7nWqAcBNF3GWhKSX.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-okuf929l34wb.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S03E04",
+                    "episode_number": 4,
+                    "nombre": "Árbol Divino 1 ~Aparece el fundador~",
+                    "portada": "/6RAa5ddwcvhVd8Px77flJkMnr3v.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-irnsckqwuos8.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S03E05",
+                    "episode_number": 5,
+                    "nombre": "Árbol Divino 2 ~Paz~",
+                    "portada": "/jTXMYrvKXVkW7d3LsXQ5Ym7NzAS.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-8m5tynp6ske5.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S03E06",
+                    "episode_number": 6,
+                    "nombre": "Árbol Divino 3 ~Hoyuelo~",
+                    "portada": "/AkgxyfSgesTqjLOGd5exagW7T7Z.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-dmi5mykt8tp2.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S03E07",
+                    "episode_number": 7,
+                    "nombre": "Transmitiendo 1 ~Vacaciones de invierno~",
+                    "portada": "/2A0FI7RhbBr4znsTGJuALHjWGab.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-7m0rtunnn2br.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S03E08",
+                    "episode_number": 8,
+                    "nombre": "Transmitiendo 2 ~Encuentro con lo desconocido~",
+                    "portada": "/hRDnMLOlATDfXM7T0Yp3niyIsoW.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-a1szj8w8gd1k.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S03E09",
+                    "episode_number": 9,
+                    "nombre": "Mob 1 ~Mudanza~",
+                    "portada": "/ybsteucEyKvvxqEZJjvgru0UpI8.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-ybvko89awptt.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S03E10",
+                    "episode_number": 10,
+                    "nombre": "Mob 2 ~Rival~",
+                    "portada": "/27T90sxHL8hvOaYNKlFxj4OXULt.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-af6e9s1ufd1s.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S03E11",
+                    "episode_number": 11,
+                    "nombre": "Mob 3 ~Trauma~",
+                    "portada": "/fG3EHYfATHH5zbdTdoQAaEkwL11.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-vxhppf7iae3l.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S03E12",
+                    "episode_number": 12,
+                    "nombre": "Mob 4 ~Confesión: A partir de ahora~",
+                    "portada": "/17lwErm3WHM0mZU2OKXTd7Ne0ZK.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-dlohehgwg5kk.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                }
+            ],
+            "nombre": "Temporada 3"
+        }
+    ],
+    "added_date": "2026-11-27 00:01:47",
+    "created_at": "2026-11-27 00:01:47",
+    "updated_at": "2026-11-27 00:01:47",
+    "update_states": "No actualizado"
+}
