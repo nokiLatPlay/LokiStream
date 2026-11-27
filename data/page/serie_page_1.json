@@ -1,5 +1,26 @@
 [
     {
+        "id": "1795755573970",
+        "tmdb_id": "64710",
+        "titulo": "Noragami",
+        "imagen": "/8yGBg40I36c98OeKMMjkJkCThkf.jpg",
+        "type": "anime",
+        "year": "2014",
+        "etiquetas": [
+            "Animación",
+            "Action & Adventure",
+            "Sci-Fi & Fantasy"
+        ],
+        "rate": 8.199999999999999289457264239899814128875732421875,
+        "added_date": "2026-11-26 23:59:33",
+        "created_at": "2026-11-26 23:59:33",
+        "updated_at": "2026-11-26 23:59:37",
+        "update_states": "No actualizado",
+        "temporadas": 2,
+        "episodios": 25,
+        "status": "Ended"
+    },
+    {
         "id": "1794048159645",
         "tmdb_id": "303044",
         "titulo": "Campus Drivers",
