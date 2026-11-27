@@ -1,5 +1,27 @@
 [
     {
+        "id": "1795755707845",
+        "tmdb_id": "67075",
+        "titulo": "Mob Psycho 100",
+        "imagen": "/aFcv9zeJtSbJHSYUlQCOQYV3Gio.jpg",
+        "type": "anime",
+        "year": "2016",
+        "etiquetas": [
+            "Animación",
+            "Action & Adventure",
+            "Comedia",
+            "Sci-Fi & Fantasy"
+        ],
+        "rate": 8.5,
+        "added_date": "2026-11-27 00:01:47",
+        "created_at": "2026-11-27 00:01:47",
+        "updated_at": "2026-11-27 00:01:49",
+        "update_states": "No actualizado",
+        "temporadas": 3,
+        "episodios": 37,
+        "status": "Ended"
+    },
+    {
         "id": "1795755573970",
         "tmdb_id": "64710",
         "titulo": "Noragami",
