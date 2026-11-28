@@ -1,0 +1,235 @@
+{
+    "id": "1795883143912",
+    "tmdb_id": "224263",
+    "titulo": "Stranger Things: Relatos del 85",
+    "original_name": "Stranger Things: Tales from '85",
+    "imagen": "/ssls8OpHHXtHcvIy7AiXipBddQX.jpg",
+    "backdrop_path": "/ulBGaxq9GmJexyEOi4Xci74g6Vt.jpg",
+    "type": "serie",
+    "year": "2026",
+    "etiquetas": [
+        "Animación",
+        "Sci-Fi & Fantasy",
+        "Misterio",
+        "Action & Adventure"
+    ],
+    "temporadas_count": 1,
+    "episodios": 10,
+    "status": "Returning Series",
+    "rate": 7.5,
+    "sinopsis": "Hawkins. Invierno de 1985. En un pueblo lleno de secretos, unos héroes se enfrentan a nuevos misterios... y a una nueva y extraña amenaza.",
+    "cast": [
+        {
+            "name": "Brooklyn Davey Norstedt",
+            "character": "Eleven (voice)",
+            "profile_path": "/14WC82gvwj7MI3C2ptGybOqvwEh.jpg"
+        },
+        {
+            "name": "Jolie Hoang-Rappaport",
+            "character": "Max (voice)",
+            "profile_path": "/eV1xQFvXg9FnMwRgTEwImDSLK58.jpg"
+        },
+        {
+            "name": "Luca Diaz",
+            "character": "Mike (voice)",
+            "profile_path": "/aycLbBk6XXkhdJsLLVRn142hHP9.jpg"
+        },
+        {
+            "name": "Elisha Williams",
+            "character": "Lucas (voice)",
+            "profile_path": "/7ltCBzbbS9uEMA1DQBN1XhZwFSK.jpg"
+        },
+        {
+            "name": "Braxton Quinney",
+            "character": "Dustin (voice)",
+            "profile_path": "/rbCpMPzbPKZLJrO2Cm1RiSnz5U3.jpg"
+        },
+        {
+            "name": "Benjamin Plessala",
+            "character": "Will (voice)",
+            "profile_path": "/z0MzRPtYwviecYYx8zVIoXrxDII.jpg"
+        },
+        {
+            "name": "Odessa A'zion",
+            "character": "Nikki (voice)",
+            "profile_path": "/5Q0Z5O3nkZH5JvueTyc2q0anw2B.jpg"
+        }
+    ],
+    "first_air_date": "2026-04-23",
+    "last_air_date": "2026-09-17",
+    "container_download": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "/r4kVBLOXEWoJEWJBmAepCGpE4eP.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Capítulo uno: Bienvenida a Hawkins",
+                    "portada": "/mPhWhuyQ6ri001Rm7sbwCRXDPp1.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-brft45bwtocz.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Capítulo dos: Mala cosecha",
+                    "portada": "/yr6lUeMUyfeEY11pNyYCI4oXuuu.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-fmr6sdgj1cqh.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Capítulo tres: Evolución",
+                    "portada": "/za2tysMuA6sXL9A4XxSe3ZYlqCr.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-jnho9ua8frgv.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "Capítulo cuatro: La confesión",
+                    "portada": "/8XpHc2QJZbIEXeZNjYFH8qynSI.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-gmkhzcpaiu9x.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "Capítulo cinco: El Weekly Watcher",
+                    "portada": "/w784CqRgjdT4yaNPEn1iSvKvmzl.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-sqvsr8esv88y.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Capítulo seis: Se avecina una tormenta",
+                    "portada": "/fu1Hylyo0G1TOIXB2HlXQklLy40.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-yqf6rbsfhdyp.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "Capítulo siete: Atrapados por la nieve",
+                    "portada": "/1SMLCJpvNt29JvshWfKNexZnlaw.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-0x8csy8jj8ql.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "Capítulo ocho: La fiesta",
+                    "portada": "/jseeZyacfmdOhihOYOJRK7xXpI4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-0fe3big5p67i.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E09",
+                    "episode_number": 9,
+                    "nombre": "Capítulo nueve: Sospechas",
+                    "portada": "/cFPesk4OybE3zDAF3lv76lY2nfd.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-v221zymkcv5q.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E10",
+                    "episode_number": 10,
+                    "nombre": "Capítulo diez: La cuenta atrás",
+                    "portada": "/ls5Ctm2zIjMlEVpItcv3JU5GLRA.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-dikw077v5350.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                }
+            ],
+            "nombre": "Temporada 1"
+        }
+    ],
+    "added_date": "2026-11-28 11:25:43",
+    "created_at": "2026-11-28 11:25:43",
+    "updated_at": "2026-11-28 11:25:43",
+    "update_states": "No actualizado"
+}
