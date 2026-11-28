@@ -1,0 +1,369 @@
+{
+    "id": "1795883490828",
+    "tmdb_id": "128883",
+    "titulo": "El amor es como el chachachá",
+    "original_name": "갯마을 차차차",
+    "imagen": "/arj9P7Sy1xNO4RmRCz7RsBmKSS7.jpg",
+    "backdrop_path": "/2avhn5tACIdOp9F5EhNytbChJib.jpg",
+    "type": "dorama",
+    "year": "2021",
+    "etiquetas": [
+        "Comedia",
+        "Drama"
+    ],
+    "temporadas_count": 1,
+    "episodios": 16,
+    "status": "Ended",
+    "rate": 8.199999999999999289457264239899814128875732421875,
+    "sinopsis": "Una dentista deja la gran ciudad para abrir un consultorio en un pequeño pueblo costero donde conoce a un hombre encantador que es, en todo sentido, lo opuesto a ella.",
+    "cast": [
+        {
+            "name": "Shin Min-a",
+            "character": "Yoon Hye-jin",
+            "profile_path": "/6CjxjYvZBuvbAQTcuoPb8EeVrUI.jpg"
+        },
+        {
+            "name": "김선호",
+            "character": "Hong Du-sik",
+            "profile_path": "/alng9fwgzTN1roULyQPKEtKSmk3.jpg"
+        },
+        {
+            "name": "Lee Sang-yi",
+            "character": "Ji Sung-hyun",
+            "profile_path": "/4OSOux7D8ZIbNsA7eINSwmHM9nb.jpg"
+        },
+        {
+            "name": "Gong Min-jeung",
+            "character": "Pyo Mi-seon",
+            "profile_path": "/wkUiwCHq2Z2h4A7JDlhjrVGQiCk.jpg"
+        },
+        {
+            "name": "김영옥",
+            "character": "Kim Gam-ri",
+            "profile_path": "/vBk5QGcAFl8rlbkOoV898pa5GAi.jpg"
+        },
+        {
+            "name": "조한철",
+            "character": "Oh Chae-jun",
+            "profile_path": "/58DGEXFyWfaFdqL7yKKW0VdEg3R.jpg"
+        },
+        {
+            "name": "인교진",
+            "character": "Chang Yeong-guk",
+            "profile_path": "/hCReg69JybyoV0A9WolIqVeJRDe.jpg"
+        },
+        {
+            "name": "Lee Bong-ryun",
+            "character": "Yeo Hwa-jeong",
+            "profile_path": "/AkpzrUGpT0JvRY9Zk6qceKm937l.jpg"
+        },
+        {
+            "name": "차청화",
+            "character": "Jo Nam-sook",
+            "profile_path": "/glTQksczMwEHUYFaKkLnwMRuVr3.jpg"
+        },
+        {
+            "name": "강형석",
+            "character": "Choi Eun-cheol",
+            "profile_path": "/xclHffQgjyMTCO0KWTopkkDHvX5.jpg"
+        },
+        {
+            "name": "이석형",
+            "character": "Kang Do-ha",
+            "profile_path": "/al1SK0ElN8zmK0KddFIvVwdeNTy.jpg"
+        },
+        {
+            "name": "이용이",
+            "character": "Lee Mat-i",
+            "profile_path": "/5A5gD6gqTes8w1sFCOLrxtxiIOf.jpg"
+        },
+        {
+            "name": "신신애",
+            "character": "Park Suk-ja",
+            "profile_path": "/u09dXQ8rysgqD4wBqpWZa0FlM7d.jpg"
+        },
+        {
+            "name": "윤석현",
+            "character": "Choi Geum-cheol",
+            "profile_path": "/37LTqj7X5HctBhdPloGeXEtLc8F.jpg"
+        },
+        {
+            "name": "김민서",
+            "character": "Oh Ju-ri",
+            "profile_path": "/vI2TYCAPRktDH5VIi9N2IGn8v2M.jpg"
+        }
+    ],
+    "first_air_date": "2021-08-28",
+    "last_air_date": "2021-10-17",
+    "container_download": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "/yEe2HPfDX1HUkUbsTz3mWP29DeL.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "Episodio 1",
+                    "portada": "/btvuH9SsoTQbKddlv5JvkFmyHhO.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-ul40oc3ab787.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "Episodio 2",
+                    "portada": "/8cfgDvovEY3HlU5Njc0VRZRnkv2.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-qlw9vp9fy4hp.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Episodio 3",
+                    "portada": "/1aWY6Wr59z4llVbuCcQqGhRcoj0.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-o6j6ofo5p5vz.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "Episodio 4",
+                    "portada": "/9US6dRZjhsNqS2n8uu2uH9DuQFO.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-bz3rato3mi4g.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "Episodio 5",
+                    "portada": "/iQTUvhMosMpCSrwDMoqz9nQxctl.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-fmfbfxnle27e.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Episodio 6",
+                    "portada": "/bfgYZbOKx2B9kv4CGK5PFRM7bDX.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-kuzv27x2q86e.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "Episodio 7",
+                    "portada": "/63klONX3Ixja6hmD3HtL0iBjnmd.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-zpd4o21bia10.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "Episodio 8",
+                    "portada": "/wzcRAKXf2X2FCFnV8Zp1tY0mLE0.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-c5z6zb12wxtv.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E09",
+                    "episode_number": 9,
+                    "nombre": "Episodio 9",
+                    "portada": "/bGcawlFdmRUFUQab0RdnI5aN0kB.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-tlafh2py8scb.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E10",
+                    "episode_number": 10,
+                    "nombre": "Episodio 10",
+                    "portada": "/w6xD6CB04VZPUNC7R4H7qivlpCq.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-4j6c2jmv0wxg.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E11",
+                    "episode_number": 11,
+                    "nombre": "Episodio 11",
+                    "portada": "/1aXyGKeuAElOBdJuO0Y6PdyBva4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-d9frcvnka5ud.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E12",
+                    "episode_number": 12,
+                    "nombre": "Episodio 12",
+                    "portada": "/1IOtHdDghC4NpDhgJXyRBHyylDf.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-shjrcf8zs8i5.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E13",
+                    "episode_number": 13,
+                    "nombre": "Episodio 13",
+                    "portada": "/h1hZlecrXuS8ZpoTyiRg59ozdca.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-2o4bdfbaz8d2.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E14",
+                    "episode_number": 14,
+                    "nombre": "Episodio 14",
+                    "portada": "/uM4dtbsnteA40w3saOYQHZDg8bC.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-gyvz6auqkyxa.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E15",
+                    "episode_number": 15,
+                    "nombre": "Episodio 15",
+                    "portada": "/kQWy9mBcvubw0JWpD7BAAV4Cb6X.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-dhrsijqnn2ob.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E16",
+                    "episode_number": 16,
+                    "nombre": "Episodio 16",
+                    "portada": "/we4XCoVs1exfnyUswkLQ0CMMOvj.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-dhqme0sypa4m.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                }
+            ],
+            "nombre": "Temporada 1"
+        }
+    ],
+    "added_date": "2026-11-28 11:31:30",
+    "created_at": "2026-11-28 11:31:30",
+    "updated_at": "2026-11-28 11:31:30",
+    "update_states": "No actualizado"
+}
