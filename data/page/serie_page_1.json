@@ -1,5 +1,26 @@
 [
     {
+        "id": "1795883338621",
+        "tmdb_id": "138503",
+        "titulo": "Tu amigo y vecino Spider-Man",
+        "imagen": "/aSe4aB8tiPQMoQt9B4SKFgIymwL.jpg",
+        "type": "serie",
+        "year": "2025",
+        "etiquetas": [
+            "Animación",
+            "Action & Adventure",
+            "Sci-Fi & Fantasy"
+        ],
+        "rate": 7.79999999999999982236431605997495353221893310546875,
+        "added_date": "2026-11-28 11:28:58",
+        "created_at": "2026-11-28 11:28:58",
+        "updated_at": "2026-11-28 11:29:01",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 10,
+        "status": "Returning Series"
+    },
+    {
         "id": "1795883211702",
         "tmdb_id": "97333",
         "titulo": "El ocaso de los dioses",
