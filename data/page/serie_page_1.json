@@ -1,5 +1,26 @@
 [
     {
+        "id": "1795883211702",
+        "tmdb_id": "97333",
+        "titulo": "El ocaso de los dioses",
+        "imagen": "/m8kRULSibaOT7ganTCkd7NeDgAm.jpg",
+        "type": "serie",
+        "year": "2024",
+        "etiquetas": [
+            "Animación",
+            "Sci-Fi & Fantasy",
+            "Action & Adventure"
+        ],
+        "rate": 7.70000000000000017763568394002504646778106689453125,
+        "added_date": "2026-11-28 11:26:51",
+        "created_at": "2026-11-28 11:26:51",
+        "updated_at": "2026-11-28 11:26:54",
+        "update_states": "No actualizado",
+        "temporadas": 1,
+        "episodios": 8,
+        "status": "Canceled"
+    },
+    {
         "id": "1795883143912",
         "tmdb_id": "224263",
         "titulo": "Stranger Things: Relatos del 85",
