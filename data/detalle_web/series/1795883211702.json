@@ -1,0 +1,217 @@
+{
+    "id": "1795883211702",
+    "tmdb_id": "97333",
+    "titulo": "El ocaso de los dioses",
+    "original_name": "Twilight of the Gods",
+    "imagen": "/m8kRULSibaOT7ganTCkd7NeDgAm.jpg",
+    "backdrop_path": "/ogUGWvP2mcvEWeb5J8PTnlNukXG.jpg",
+    "type": "serie",
+    "year": "2024",
+    "etiquetas": [
+        "Animación",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+    ],
+    "temporadas_count": 1,
+    "episodios": 8,
+    "status": "Canceled",
+    "rate": 7.70000000000000017763568394002504646778106689453125,
+    "sinopsis": "Zack Snyder propone una audaz y cruenta visión de la mitología nórdica en esta serie de animación para adultos con una heroína alzada en pie de guerra contra los dioses.",
+    "cast": [
+        {
+            "name": "Sylvia Hoeks",
+            "character": "Sigrid (voice)",
+            "profile_path": "/wKC9LgqgJRCXuzs1kUKaK7Uicv.jpg"
+        },
+        {
+            "name": "Stuart Martin",
+            "character": "Leif (voice)",
+            "profile_path": "/qSM4nGc1FyxygdG9YyU4uritqn2.jpg"
+        },
+        {
+            "name": "Pilou Asbæk",
+            "character": "Thor (voice)",
+            "profile_path": "/hUJAtjbYG7rqm54aoWtNWeeKjTY.jpg"
+        },
+        {
+            "name": "Peter Stormare",
+            "character": "Ulfr (voice)",
+            "profile_path": "/1rtpuUqBV29jDc1huUhtjGDbEwn.jpg"
+        },
+        {
+            "name": "Kristofer Hivju",
+            "character": "Andvari (voice)",
+            "profile_path": "/bACL39GihNmBnFRay78rS3PUHsH.jpg"
+        },
+        {
+            "name": "Paterson Joseph",
+            "character": "Loki (voice)",
+            "profile_path": "/7CIVAl4HiuWrmp4r8Jk09sqxTBy.jpg"
+        },
+        {
+            "name": "Rahul Kohli",
+            "character": "Egill (voice)",
+            "profile_path": "/9wTBpyPhyDRUfgR1MGSmsILuZ8d.jpg"
+        },
+        {
+            "name": "Jamie Clayton",
+            "character": "Seid-Kona (voice)",
+            "profile_path": "/5b5p7qq1Qy0emhEmKK7xJ7kfllj.jpg"
+        },
+        {
+            "name": "Birgitte Hjort Sørensen",
+            "character": "Hervor (voice)",
+            "profile_path": "/nFWcco0Z1Ic50g7YfZlaUrjBiEp.jpg"
+        },
+        {
+            "name": "Thea Sofie Loch Næss",
+            "character": "Thyra (voice)",
+            "profile_path": "/k0aq1OjmVp9psvNx4JAXQovbHqc.jpg"
+        }
+    ],
+    "first_air_date": "2024-09-19",
+    "last_air_date": "2024-09-19",
+    "container_download": [],
+    "temporadas": [
+        {
+            "temporada": "Temporada 1",
+            "season_number": 1,
+            "poster_path": "/saXZfP0xqkp6nWrs8N6WuXo4SF5.jpg",
+            "capitulos": [
+                {
+                    "episode_id": "S01E01",
+                    "episode_number": 1,
+                    "nombre": "La dote de la novia",
+                    "portada": "/3V4oGABJvHEjMh49QRXRHEpJ5Xm.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-a0ldljzhcuzx.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E02",
+                    "episode_number": 2,
+                    "nombre": "La lanza hereje",
+                    "portada": "/tWgl2NmRUJk2D7XN0RRHr5ZF6CQ.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-403aqgc3h4zp.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E03",
+                    "episode_number": 3,
+                    "nombre": "Alegrarás a sus cuervos",
+                    "portada": "/zUeqzDwgxiIlHBaKj8tEzvl9nci.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-9f3iheepld5m.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E04",
+                    "episode_number": 4,
+                    "nombre": "El gusano",
+                    "portada": "/nfUXAEltR7wwuOlaLS9b1jnsPCu.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-c5f6y393uo08.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E05",
+                    "episode_number": 5,
+                    "nombre": "El dios expiatorio",
+                    "portada": "/taPAcml5aiUQLy3dzFbi675QmDx.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-393iwgsgql60.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E06",
+                    "episode_number": 6,
+                    "nombre": "Esta es la historia de...",
+                    "portada": "/NQiVBHUJoui5MtuKp5OrdtS9e4.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-i04m7m92lt7m.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E07",
+                    "episode_number": 7,
+                    "nombre": "Si tuviera un martillo",
+                    "portada": "/hn7fZxmCIE5pY4e8Mji59FOdXUI.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-jbtdm20w9lhn.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                },
+                {
+                    "episode_id": "S01E08",
+                    "episode_number": 8,
+                    "nombre": "La canción de Sigrid",
+                    "portada": "/Q04n54nElkbaaBQoPhPO9xYuaE.jpg",
+                    "enlaces": [
+                        {
+                            "nombre": "Vimeo",
+                            "url": "https://vimeos.net/embed-tiu03dylwvwm.html",
+                            "type": "streaming",
+                            "language": "Latino",
+                            "quality": ""
+                        }
+                    ],
+                    "container_download": []
+                }
+            ],
+            "nombre": "Temporada 1"
+        }
+    ],
+    "added_date": "2026-11-28 11:26:51",
+    "created_at": "2026-11-28 11:26:51",
+    "updated_at": "2026-11-28 11:26:51",
+    "update_states": "No actualizado"
+}
